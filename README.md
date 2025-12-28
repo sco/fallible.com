@@ -14,3 +14,4 @@ This project manages an archived version of the weblog fallible.com (2000-2012).
 - [] handle all old URLs (permanent redirect or nice 404)
 - [] modernize markup and metadata
 - [] responsive design
+- [] CI to deploy to s3
