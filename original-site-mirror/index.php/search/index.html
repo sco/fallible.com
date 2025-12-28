@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Search</title>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<link rel='stylesheet' type='text/css' media='all' href='http://www.fallible.com/index.php?css=search/search_css.v.1195507381' />
+<style type='text/css' media='screen'>@import "http://www.fallible.com/index.php?css=search/search_css.v.1195507381";</style>
+
+</head>
+<body>
+
+<div id='pageheader'>
+<div class="heading">Search Engine</div>
+</div>
+
+<div id="content">
+
+<div class='breadcrumb'>
+<span class="defaultBold">&nbsp; <a href="http://www.fallible.com/index.php">fallible</a>&nbsp;&#8250;&nbsp;&nbsp;Search</span></td>
+</div>
+
+<div class='outerBorder'>
+<div class='tablePad'>
+
+<form id='searchform' method="post" action="http://www.fallible.com/index.php"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="17" />
+<input type="hidden" name="XID" value="f14e7417cf424e08680eebcf137097bb294931e7" />
+<input type="hidden" name="RP" value="search&amp;#47;results" />
+<input type="hidden" name="NRP" value="" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="" />
+<input type="hidden" name="search_in" value="" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+var firstcategory = 1;
+var firststatus = 1;
+
+function changemenu(index)
+{ 
+
+	var categories = new Array();
+	
+	var i = firstcategory;
+	var j = firststatus;
+	
+	var theSearchForm = false
+	
+	if (document.searchform)
+	{
+		theSearchForm = document.searchform;
+	}
+	else if (document.getElementById('searchform'))
+	{
+		theSearchForm = document.getElementById('searchform');
+	}
+	
+	if (theSearchForm.elements['weblog_id'])
+	{
+		var weblog_obj = theSearchForm.elements['weblog_id'];
+	}
+	else
+	{
+		var weblog_obj = theSearchForm.elements['weblog_id[]'];
+	}
+	
+	var blogs = weblog_obj.options[index].value;
+	
+	var reset = 0;
+
+	for (var g = 0; g < weblog_obj.options.length; g++)
+	{
+		if (weblog_obj.options[g].value != 'null' && 
+			weblog_obj.options[g].selected == true)
+		{
+			reset++;
+		}
+	} 
+  
+	with (theSearchForm.elements['cat_id[]'])
+	{			
+		if (blogs == "1")
+		{	
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Blogging", "1"); i++; 
+            categories[i] = new Option("fallible attitude", "54"); i++; 
+            categories[i] = new Option("Fiction", "6"); i++; 
+            categories[i] = new Option("Mamas", "2"); i++; 
+            categories[i] = new Option("memoir", "55"); i++; 
+            categories[i] = new Option("Most Fallible", "5"); i++; 
+            categories[i] = new Option("Personal", "3"); i++; 
+            categories[i] = new Option("Writing", "4"); i++; 
+
+		} // END if blogs
+			
+				
+		if (blogs == "4")
+		{	
+
+		} // END if blogs
+			
+				
+		if (blogs == "9")
+		{	
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Careers", "33"); i++; 
+            categories[i] = new Option("Dreams", "24"); i++; 
+            categories[i] = new Option("Faith", "26"); i++; 
+            categories[i] = new Option("Family", "22"); i++; 
+            categories[i] = new Option("Health", "20"); i++; 
+            categories[i] = new Option("Lifestyle", "23"); i++; 
+            categories[i] = new Option("Our Children", "29"); i++; 
+            categories[i] = new Option("Our Grandchildren", "30"); i++; 
+            categories[i] = new Option("Our Parents", "28"); i++; 
+            categories[i] = new Option("Personal Finance", "19"); i++; 
+            categories[i] = new Option("Product Complaints", "31"); i++; 
+            categories[i] = new Option("Product Recommendations", "32"); i++; 
+            categories[i] = new Option("Retirement", "16"); i++; 
+            categories[i] = new Option("Savings", "18"); i++; 
+            categories[i] = new Option("Shopping", "17"); i++; 
+            categories[i] = new Option("Simplicity", "27"); i++; 
+            categories[i] = new Option("Travel", "21"); i++; 
+            categories[i] = new Option("Volunteerism", "25"); i++; 
+
+		} // END if blogs
+			
+				
+		if (blogs == "10")
+		{	
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("Careers", "33"); i++; 
+            categories[i] = new Option("Dreams", "24"); i++; 
+            categories[i] = new Option("Faith", "26"); i++; 
+            categories[i] = new Option("Family", "22"); i++; 
+            categories[i] = new Option("Health", "20"); i++; 
+            categories[i] = new Option("Lifestyle", "23"); i++; 
+            categories[i] = new Option("Our Children", "29"); i++; 
+            categories[i] = new Option("Our Grandchildren", "30"); i++; 
+            categories[i] = new Option("Our Parents", "28"); i++; 
+            categories[i] = new Option("Personal Finance", "19"); i++; 
+            categories[i] = new Option("Product Complaints", "31"); i++; 
+            categories[i] = new Option("Product Recommendations", "32"); i++; 
+            categories[i] = new Option("Retirement", "16"); i++; 
+            categories[i] = new Option("Savings", "18"); i++; 
+            categories[i] = new Option("Shopping", "17"); i++; 
+            categories[i] = new Option("Simplicity", "27"); i++; 
+            categories[i] = new Option("Travel", "21"); i++; 
+            categories[i] = new Option("Volunteerism", "25"); i++; 
+
+		} // END if blogs
+			
+				
+		if (blogs == "5")
+		{	
+            categories[i] = new Option("-------", ""); i++; 
+            categories[i] = new Option("About", "12"); i++; 
+            categories[i] = new Option("Contact", "15"); i++; 
+            categories[i] = new Option("Packages", "14"); i++; 
+            categories[i] = new Option("Portfolio", "13"); i++; 
+
+		} // END if blogs
+			
+				
+		if (blogs == "6")
+		{	
+
+		} // END if blogs
+			
+				
+		if (blogs == "2")
+		{	
+
+		} // END if blogs
+			
+		 
+								
+		if (reset > 1)
+		{
+			 categories = new Array();
+		}
+
+		spaceString = eval("/!-!/g");
+		
+		with (theSearchForm.elements['cat_id[]'])
+		{
+			for (i = length-1; i >= firstcategory; i--)
+				options[i] = null;
+			
+			for (i = firstcategory; i < categories.length; i++)
+			{
+				options[i] = categories[i];
+				options[i].text = options[i].text.replace(spaceString, String.fromCharCode(160));
+			}
+			
+			options[0].selected = true;
+		}
+		
+	}
+}
+
+//]]>
+</script>
+	
+		
+
+<table cellpadding='4' cellspacing='6' border='0' width='100%'>
+<tr>
+<td width="50%">
+
+<fieldset class="fieldset">
+<legend>Search by Keyword</legend>
+
+<input type="text" class="input" maxlength="100" size="40" name="keywords" style="width:100%;" />
+
+<div class="default">
+<select name="search_in">
+<option value="titles" selected="selected">Search in Titles</option>
+<option value="entries" selected="selected">Search in Titles and Entries</option>
+<option value="everywhere" >Search in Titles, Entries and Comments</option>
+</select>
+
+</div>
+
+<div class="default">
+<select name="where">
+<option value="exact" selected="selected">Exact Phrase Match</option>
+<option value="any">Search for Any Word</option>
+<option value="all" >Search for All Words</option>
+<option value="word" >Search for Exact Word</option>
+</select>
+</div>
+
+</fieldset>
+
+<div class="default"><br /></div>
+
+<table cellpadding='0' cellspacing='0' border='0'>
+<tr>
+<td valign="top">
+
+<div class="defaultBold">Weblogs</div>
+
+<select id="weblog_id[]" name='weblog_id[]' class='multiselect' size='12' multiple='multiple' onchange='changemenu(this.selectedIndex);'>
+<option value="null" selected="selected">Any Weblog</option>
+<option value="1">fallible</option>
+<option value="4">fallible links</option>
+<option value="9">Late Boomer</option>
+<option value="10">Late Boomer Pages</option>
+<option value="5">LifeLightPhoto</option>
+<option value="6">LifeLightPhoto Blog</option>
+<option value="2">Marginal Comments</option>
+
+</select>
+
+</td>
+<td valign="top" width="16">&nbsp;</td>
+<td valign="top">
+
+<div class="defaultBold">Categories</div>
+
+<select name='cat_id[]' size='12'  class='multiselect' multiple='multiple'>
+<option value='all' selected="selected">Any Category</option>
+</select>
+
+</td>
+</tr>
+</table>
+
+
+
+</td><td width="50%" valign="top">
+
+
+<fieldset class="fieldset">
+<legend>Search by Member Name</legend>
+
+<input type="text" class="input" maxlength="100" size="40" name="member_name" style="width:100%;" />
+<div class="default"><input type="checkbox" class="checkbox" name="exact_match" value="y"  /> Exact Name Match</div>
+
+</fieldset>
+
+<div class="default"><br /></div>
+
+
+<fieldset class="fieldset">
+<legend>Search Entries From</legend>
+
+<select name="date" style="width:150px">
+<option value="0" selected="selected">Any date</option>
+<option value="1" >Today and...</option>
+<option value="7" >This Week and...</option>
+<option value="30" >1 Month Ago and...</option>
+<option value="90" >3 Months Ago and...</option>
+<option value="180" >6 Months Ago and...</option>
+<option value="365" >1 Year Ago and...</option>
+</select>
+
+<div class="default">
+<input type='radio' name='date_order' value='newer' class='radio' checked="checked" />&nbsp;Newer
+<input type='radio' name='date_order' value='older' class='radio' />&nbsp;Older
+</div>
+
+</fieldset>
+
+<div class="default"><br /></div>
+
+<fieldset class="fieldset">
+<legend>Sort Results By</legend>
+
+<select name="order_by">
+<option value="date" >Date</option>
+<option value="title" >Title</option>
+<option value="most_comments" >Most Comments</option>
+<option value="recent_comment" >Most Recent Comment</option>
+</select>
+
+<div class="default">
+<input type='radio' name='sort_order' class="radio" value='desc' checked="checked" /> Descending
+<input type='radio' name='sort_order' class="radio" value='asc' /> Ascending
+</div>
+</fieldset>
+
+</td>
+</tr>
+</table>
+
+
+<div class='searchSubmit'>
+
+<input type='submit' value='Search' class='submit' />
+
+</div>
+
+</form>
+
+<div class='copyright'><a href="http://www.pmachine.com/">Powered by ExpressionEngine</a></div>
+
+
+</div>
+</div>
+</div>
+
+</body>
+</html>

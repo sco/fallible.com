@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Forgotten password | ExpressionEngine</title>
+
+<meta http-equiv='content-type' content='text/html; charset=utf-8' >
+<meta http-equiv='expires' content='-1' >
+<meta http-equiv='expires' content='Mon, 01 Jan 1970 23:59:59 GMT' >
+<meta http-equiv='pragma' content='no-cache' >
+<style type='text/css'>
+
+
+</style>
+
+			<script type="text/javascript"> 
+			<!--
+			var menu = new Array();
+			function dropdownmenu(el)
+			{
+				if (document.getElementById(el).style.visibility == 'visible')
+				{
+					document.getElementById(el).style.display = 'none';
+					document.getElementById(el).style.visibility = 'hidden';		
+				}
+				else
+				{
+					document.getElementById(el).style.display = 'block';
+					document.getElementById(el).style.visibility = 'visible';
+				}
+			}
+			
+			function delayhidemenu(){
+				return false;
+			}
+			
+			//-->
+			</script>
+			
+					<script type="text/javascript"> 
+			<!--
+			
+			var browser = "Unknown";
+			var version = "Unknown";
+			var OS 		= "Unknown";
+		
+			var info = navigator.userAgent.toLowerCase();
+							
+			var browsers = new Array();
+				browsers['safari']		= "Safari";
+				browsers['omniweb']		= "OmniWeb";
+				browsers['opera']		= "Opera"; 
+				browsers['webtv']		= "WebTV"; 
+				browsers['icab']		= "iCab";
+				browsers['konqueror']	= "Konqueror";
+				browsers['msie']		= "IE";
+				browsers['mozilla']		= "Mozilla";
+				
+			for (b in browsers)
+			{
+				pos = info.indexOf(b) + 1;
+				if (pos != false)
+				{
+					browser = browsers[b];
+					version = info.charAt(pos + b.length);
+					break;
+				}	
+			}
+			
+			var systems = new Array();
+				systems['linux']	= "Linux";
+				systems['x11'] 		= "Unix";
+				systems['mac'] 		= "Mac";
+				systems['win'] 		= "Win";
+
+		
+			for (s in systems)
+			{
+				pos = info.indexOf(s) + 1;
+				if (pos != false)
+				{
+					OS = systems[s];
+					break;
+				}	
+			}
+			
+			
+			function navCrumbOn()
+			{
+				if (document.getElementById('rcrumb').className == 'crumblinksR')
+				{
+					document.getElementById('rcrumb').className = 'crumblinksRHover';
+				}
+			}
+			
+			function navCrumbOff()
+			{
+				if (document.getElementById('rcrumb').className == 'crumblinksRHover')
+				{
+					document.getElementById('rcrumb').className = 'crumblinksR';
+				}
+			}
+	
+			function navTabOn(link, idoff, idhover)
+			{
+				if ( ! idoff)
+					idoff = 'cpNavOff';
+					
+				if ( ! idhover)
+					idhover = 'cpNavHover';
+			
+				if (document.getElementById(link))
+				{
+					if (document.getElementById(link).className == idoff)
+					{
+						document.getElementById(link).className = idhover;
+					}
+				}
+			}
+		
+			function navTabOff(link, idoff, idhover)
+			{  
+				if ( ! idoff)
+					idoff = 'cpNavOff';
+					
+				if ( ! idhover)
+					idhover = 'cpNavHover';		
+			
+				if (document.getElementById(link).className == idhover)
+				{
+					document.getElementById(link).className = idoff;
+				}
+			}
+			
+			function navjump(where, pop)
+			{			
+				if (browser != 'IE')
+					return false;
+			
+				if (pop == 'true')
+				{
+					window.open(where, '_blank');
+				}
+				else
+				{
+					window.location=where;
+				}
+			}			
+			//-->
+			</script>
+			
+			<!--[if lt IE 7]>
+			<script language="JavaScript">
+			/*
+			/* Fix for PNG alpha transparency for Internet Explorer
+			/* Solution courtesy Bob Osola
+			/* http://homepage.ntlworld.com/bobosola/index.htm
+			*/
+			function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+			{
+			   var arVersion = navigator.appVersion.split("MSIE")
+			   var version = parseFloat(arVersion[1])
+			   if ((version >= 5.5) && (document.body.filters)) 
+			   {
+			      for(var i=0; i<document.images.length; i++)
+			      {
+			         var img = document.images[i]
+			         var imgName = img.src.toUpperCase()
+			         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+			         {
+			            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+			            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+			            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+			            var imgStyle = "display:inline-block;" + img.style.cssText 
+			            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+			            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+			            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+			            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+			            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+			            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+			            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+			            img.outerHTML = strNewHTML
+			            i = i-1
+			         }
+			      }
+			   }    
+			}
+			window.attachEvent("onload", correctPNG);
+			</script>
+			<![endif]-->
+		</head>
+
+<body>
+
+<div id='topBar'>
+
+<table border='0'  cellspacing='0' cellpadding='0' style='width:100%;' >
+<tr><td class='helpLinks' >
+<div class='loginLogo' >&nbsp;&nbsp;ExpressionEngine&nbsp;&nbsp;v 1.6.9</div>
+</td>
+</tr>
+</table>
+
+
+</div>
+<div id='simpleHeader'></div>
+
+<div class='loginBox' >
+<form action='index.php?S=0&amp;C=login&amp;M=send_forgot' method='post'>
+<div class='hidden'><input type='hidden' name='XID' value='edae8715f6c5073659181ce5ef165ad2b30b0b39' /></div>
+
+
+<div class='default' >
+<br /><br /><br /><br />
+<div class='default' >Submit your email address</div>
+
+<div class='default' ><input  dir='ltr'  style='width:250px' type='text' name='email' id='email' value='' size='20' maxlength='80' class='input'  />
+</div>
+
+<div class='default' ><br />
+<input  type='submit' class='submit' value='Submit'  />
+</div>
+
+<div class='default' ><br /><br /><a href='index.php?S=0' >Return to login</a><br /><br /></div>
+</form>
+
+</div>
+</div>
+<div class='copyright'><img src="http://www.fallible.com/themes/cp_global_images/ee_logo_sm.gif" border="0"  width="20" height="12" alt="ExpressionEngine" />
+
+<br />
+
+<a href='http://www.fallible.com/index.php?URL=http://expressionengine.com/' >ExpressionEngine 1.6.9</a> - &#169; Copyright 2003 - 2010 - EllisLab, Inc.<br />
+Script executed in 0.0242 seconds&nbsp;&nbsp;&nbsp;5 SQL queries used<br />
+Build:&nbsp;&nbsp;20100430
+
+</div>
+
+</body>
+</html>

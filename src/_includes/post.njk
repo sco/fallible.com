@@ -1,0 +1,21 @@
+---
+layout: base2.njk
+---
+
+<article>
+  <h2 class="title">{{ title }}</h2>
+  {{ content | safe }}
+</article>
+
+{% if comments and comments.length > 0 %}
+<section class="comments">
+  <h3>Comments</h3>
+  {% for comment in comments %}
+  <div class="comment">
+    <p class="comment-text">{{ comment.text | safe }}</p>
+    <p>&mdash;{{ comment.author}} at {{ comment.date }}</p>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
