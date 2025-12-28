@@ -47,3 +47,10 @@ jobs:
             --delete \
             --exact-timestamps
 
+      - name: Trigger Amplify deployment
+        run: |
+          aws amplify start-job \
+            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+            --job-type RELEASE
+
