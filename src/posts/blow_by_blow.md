@@ -49,5 +49,3 @@ The reviewer says that reading the book feels like being locked in a tiny room w
 That's the problem with my life, too, and the reason why, apart from blogging, I think I'll stick to writing fiction.  
   
 And, just in case, not in any particular order.
-
-Commenting is not available in this weblog entry.

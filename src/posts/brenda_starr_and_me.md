@@ -90,7 +90,4 @@ I must have had Brenda and Halloween on my mind in my sleep last night. Toward m
   
 I awakened with a huge smile and ran to the mirror to see if my hair would turn red and grow big before my very eyes, but no such luck.  
   
-Still no cleavage, either.  
-  
-
-Commenting is not available in this weblog entry.
+Still no cleavage, either.

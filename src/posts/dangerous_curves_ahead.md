@@ -60,7 +60,4 @@ I may not find the time to haul my sorry you-know-what back to Curves anytime so
   
 Somewhere in Texas, there just might be a little kid who will someday sound like the Judith of last night's dreams.  
   
-"If it weren't for Curves, I wouldn't be here today."  
-  
-
-Commenting is not available in this weblog entry.
+"If it weren't for Curves, I wouldn't be here today."

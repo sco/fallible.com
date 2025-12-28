@@ -23,7 +23,7 @@ My grandpa, just like Basil St. John, wouldn’t be coming home anytime soon.
 
 The doctor made a house call, and an ambulance took Grandma and Grandpa into the city, where Grandpa lived in Intensive Care for the next five weeks. I was hustled to the next-door neighbors, people I did not know, but who had an enormous white Family Bible on the coffee table.
 
-I took great comfort in the physical presence of the Bible—although I had never opened one and didn’t that day, either—but I instinctively reached for the Sunday funnies.
+I took great comfort in the physical presence of the Bible--although I had never opened one and didn’t that day, either--but I instinctively reached for the Sunday funnies.
 
 What I found there disturbed me almost as much as witnessing my first heart attack.
 
@@ -33,7 +33,7 @@ Evidently, Brenda Starr had been drugged by very bad people who, as the ultimate
 
 Okay, I admit it. That morning, I played Brenda Starr’s shrink, her counselor, her pastor. And in helping her, I pulled my terrified little self through a very scary time.
 
-Brenda’s hair grew back so fast, I couldn’t believe it. Within a few short weeks—before my grandpa was even in a private room—her auburn tresses were as long and voluptuous as ever.
+Brenda’s hair grew back so fast, I couldn’t believe it. Within a few short weeks--before my grandpa was even in a private room--her auburn tresses were as long and voluptuous as ever.
 
 Boy, did I ever want to be Brenda Starr.
 
@@ -44,5 +44,3 @@ I must have had Brenda and Halloween on my mind in my sleep last night. Toward m
 I awakened with a huge smile and ran to the mirror to see if my hair would turn redder and grow big before my very eyes, but no such luck.
 
 Still no cleavage, either.
-
-Commenting is not available in this weblog entry.

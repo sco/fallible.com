@@ -57,5 +57,3 @@ The mug I will not use under any circumstances, even if it means I must remain c
 I've thought about throwing the perfectly good, handle-intensive but dicey mug into the trash, and no one in the house would give me a bit of trouble if I did. But I would feel guilty about the waste, I'm thinking.  
   
 And then I really would have a moral dilemma.
-
-Commenting is not available in this weblog entry.

@@ -24,5 +24,3 @@ Since then, certain things have been, let's just say, building up. I must be fee
 "I liked it when we had cleaners come."  
   
 Listen, buddy: Cleaner scum will cost you extra!
-
-Commenting is not available in this weblog entry.

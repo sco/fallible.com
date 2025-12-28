@@ -9,6 +9,4 @@ I scratched out the number when I heard the final lines.
   
 "Although no one knows when a bull market will begin, historically a bull market follows a bear market."  
   
-So *that's* how it works.  
-
-Commenting is not available in this weblog entry.
+So *that's* how it works.

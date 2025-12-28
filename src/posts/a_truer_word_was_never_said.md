@@ -37,5 +37,3 @@ If a truer cliche was ever said, I'd like to hear it. What's the one cliche *you
 Or do you know of one that doesn't even deserve the moniker "cliche," because it doesn't hold any water at all? (How about, "A watched pot never boils." Um, yeah. It *does*.)  
   
 I'd like to know.
-
-Commenting is not available in this weblog entry.

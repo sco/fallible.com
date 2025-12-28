@@ -21,5 +21,3 @@ Not long ago, vats of fresh, creamery butter made for a slippery commute. Passen
 This morning takes the prize, though. A truck full of 25 million bees burst open on contact with concrete, causing one whole strip of road to fade to black. All but one brave news reporter finally left the buzz behind, claiming they'd forgotten to take their Benedryl.  
   
 Just thinking about it gives me hives.
-
-Commenting is not available in this weblog entry.

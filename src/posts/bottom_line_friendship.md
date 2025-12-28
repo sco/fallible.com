@@ -135,5 +135,3 @@ The next thing I knew, I was pulling those glorious elastic-waisted jogging pant
 We left my car there in the parking lot and Terri drove me home. I don't remember the ride, just the feeling of the friendship. Just the wonderful feeling you have when you know that there's someone in the world who would do pretty much anything for you, and even refrain from laughing her head off at your weirdness. Someone who will give you the clothes off her rear end if you ask for them, who will pray you through your most embarassing moments in public places, proving to you once again that Jesus is truly Lord of everything.  
   
 He's even Lord of the Pants.
-
-Commenting is not available in this weblog entry.

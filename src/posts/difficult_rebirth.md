@@ -34,7 +34,4 @@ He snored in response, and I flailed around in the bed until I disentangled myse
   
 I've spoken to you of earthly things, and maybe you, like Nic at night, don't believe. But I'm thinking, as night edged toward dawn, he just couldn't forget how "God so loved the world, He gave his only Son, that whosoever believes in Him shall not perish, but shall have eternal life."  
   
-Around two in the morning, being born again is the best idea in the whole world.  
-  
-
-Commenting is not available in this weblog entry.
+Around two in the morning, being born again is the best idea in the whole world.

@@ -32,5 +32,3 @@ A waif-like, fragile form,
 So mothers do what they have done:  
 Maintain maternal charm,  
 By making sure this tale’s forever told.
-
-Commenting is not available in this weblog entry.

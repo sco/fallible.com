@@ -25,5 +25,3 @@ A few old rusted leaves mourn in the afternoon gray, ashamed to have overstayed 
 It is not Autumn, though our very bones are chilled. It is Spring.  
   
 The past still hangs heavy in the air, and yet what's to come is already upon us.
-
-Commenting is not available in this weblog entry.

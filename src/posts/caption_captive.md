@@ -47,5 +47,3 @@ On this morning's Today Show, the president was quoted from last night's speech 
 The caption read, "Trusting in the sanity of Saddam Hussein is not a tragedy."  
   
 We're the targets of closed-caption terrorism, and we can't even hear it coming.
-
-Commenting is not available in this weblog entry.

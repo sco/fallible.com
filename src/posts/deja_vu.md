@@ -38,7 +38,4 @@ And then it hit me. The day Grandma died, when I was eighteen, I didn't immediat
   
 "Are you in the shower?" Mom asked.  
   
-No, Mom. I'm right here.  
-  
-
-Commenting is not available in this weblog entry.
+No, Mom. I'm right here.

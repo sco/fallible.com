@@ -45,5 +45,3 @@ All I can say for sure is that when I pull the fuzzy manicotti out of the fridge
 No more soccer macaroni, no more band concert pizza, no more graduation manicotti.  
   
 Leftovers will never be the same.
-
-Commenting is not available in this weblog entry.

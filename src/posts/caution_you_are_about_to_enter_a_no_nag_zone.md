@@ -153,7 +153,4 @@ It's two in the afternoon now. We've been home from church for a while, and Doug
   
 But what if my commitment to stop nagging should extend itself into the morrow? Can our marriage survive such a dramatic change in dynamics? Or will Doug Raymond shuffle off into the sunset without his wallet, keys, and cell phone?  
   
-Any guesses?  
-  
-
-Commenting is not available in this weblog entry.
+Any guesses?

@@ -20,5 +20,3 @@ We've eaten an inordinate amount of Italian food in the past five days--first in
 Still, even I was surprised that when Doug used the word "miscellaneous," I managed to hear "Mussolini-ish."  
   
 I'm sorry, but that's just scary.
-
-Commenting is not available in this weblog entry.

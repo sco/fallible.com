@@ -44,7 +44,7 @@ Oh, and maybe my writing wasn’t all that? Nah, that couldn’t be it. Forget I
 
 The truth is, though, that I sold the first article I submitted, and basically all the articles I wrote subsequently. Sometimes, I did have to send them to more than one magazine or newspaper to find the right fit, but they did sell. There’s a possibility, looking back, that I didn’t fully appreciate how easily I managed to get in print. Yes, there is that distinct possibility.
 
-Then one day, I decided to take a fiction writing class at college, taught my a well-published friend of mine, Nancy Moser. She invited each student to submit a scene from a work-in-progress, so that she could critique it. Well, I just knew Nancy would think I was brilliant. Ha! Nancy red-inked me into the next county. Basically, she said that I had not written a “scene” at all, but rather an essay. Yes, I had “told” instead of “shown”—-the kiss of death in novel writing.
+Then one day, I decided to take a fiction writing class at college, taught my a well-published friend of mine, Nancy Moser. She invited each student to submit a scene from a work-in-progress, so that she could critique it. Well, I just knew Nancy would think I was brilliant. Ha! Nancy red-inked me into the next county. Basically, she said that I had not written a “scene” at all, but rather an essay. Yes, I had “told” instead of “shown”---the kiss of death in novel writing.
 
 I did my best to write what she asked for, and resubmitted. This time, she wrote, “YES. This is a SCENE.” Finally! I almost understood a concept!
 
@@ -52,14 +52,12 @@ It wasn’t long before I really wanted to find a national conference where I co
 
 Through a friendship I developed there, I was referred to my terrific agent, Rachelle Gardner of WordServe Literary. If you are at the point in your own writing where you’re seeking an agent, let me just say that it doesn’t hurt one little bit to have made wonderful friends first. I did send my work to several agents without a referral from a published writer, and the rejections came rather quickly. And let me say that I never ASKED a published friend to refer me to an agent. Or to introduce me to one in person. But several friends offered to refer me, and I did NOT turn down the gift of this offer!
 
-The relationships made and fostered through attending a good conference may be the best gift you can give yourself as a writer—-whether you’re struggling to get started or multi-published. I now count writers, editors, and agents among my closest and dearest friends.
+The relationships made and fostered through attending a good conference may be the best gift you can give yourself as a writer---whether you’re struggling to get started or multi-published. I now count writers, editors, and agents among my closest and dearest friends.
 
 This year, I concentrated both on renewing friendships with those I’ve met before and on making appointments with editors I’d never met, pitching my next novel. All the editors at the conference know and are in solid communication with my agent, and so I was encouraged to make sure she sends my book on to them when it’s finished. A couple of them had seen my first novel and turned it down for whatever reason, but they continue to be open to seeing my next book, so I feel good about that.
 
 The publishing industry is not an easy one to break into, especially at the book level. We ate lunch with one editor who actually expressed her opinion that there are far too many books being pubbed, and that her company is acquiring too many titles and not doing them all justice. I have to say I do agree with her.
 
-But that doesn’t keep me from hoping that one day one of my books will rise to the top and make it onto the bookstore shelf (or Kindle or whatever…). I truly hope I can continue to become a more solid writer, that more and more I can put into practice all I’ve learned from the tremendous conferences I’ve been privileged to attend.
+But that doesn’t keep me from hoping that one day one of my books will rise to the top and make it onto the bookstore shelf (or Kindle or whatever...). I truly hope I can continue to become a more solid writer, that more and more I can put into practice all I’ve learned from the tremendous conferences I’ve been privileged to attend.
 
 In the meantime, I’m grateful for my generous friends in the world of books. Without them, we Wannabe Published Authors wouldn’t have nearly so much fun.
-
-Commenting is not available in this weblog entry.

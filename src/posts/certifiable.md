@@ -36,5 +36,3 @@ Just now, as I was coming to the end of a three-minute long stretch of procrasti
 (In an even snottier voice) "I don't know. Are you?"  
   
 So, it's official.
-
-Commenting is not available in this weblog entry.

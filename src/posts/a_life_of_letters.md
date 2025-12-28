@@ -25,5 +25,3 @@ I slowly died for want of words, but I learned my lesson, and it is this: Hang o
 If it is words you love, pursue them, for you will never be truly happy living a life of numbers.  
   
 Besides, with online banking, does anyone really balance his checkbook anymore?
-
-Commenting is not available in this weblog entry.

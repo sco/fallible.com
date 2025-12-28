@@ -1,5 +1,5 @@
 ---
-title: "Call It What You Will…"
+title: "Call It What You Will..."
 date: "2005-01-26T15:06:00"
 comments:
   - author: "Michael"
@@ -72,8 +72,4 @@ He had me there, but still, I think the poor man misunderstood my intentions.
   
 "Oh, honey," I cooed, "that wasn't an ultimatum. That was a bribe."  
   
-It worked, too.  
-  
-  
-
-Commenting is not available in this weblog entry.
+It worked, too.

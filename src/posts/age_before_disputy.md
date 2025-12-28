@@ -28,5 +28,3 @@ We had a meeting of the eyes, if not the minds. I stared into her face, and saw 
 "You, Doug, and the kids."  
   
 Alrighty, then.
-
-Commenting is not available in this weblog entry.

@@ -54,7 +54,7 @@ comments:
     text: "fixed-point photography. The diversity of the vegetation should also be monitored. This includes both terrestrial and aquatic plants. The botanist who has been appointed by the POA and the Blouvlei Environmental Committee (BEC) is tasked with ensuring that this task is completed successfully"
   - author: "firma"
     date: "2010-03-25T10:16:00"
-    text: "I want to say that the spirit is willing,but the flesh is weakâ€”except for that some days, not even the spirit is willing."
+    text: "I want to say that the spirit is willing,but the flesh is weak\"”except for that some days, not even the spirit is willing."
   - author: "Green"
     date: "2010-04-21T19:45:00"
     text: "Seeing as cripples are not able to move like normal human beings isn't is dangerous to allow them to drive on the road"
@@ -98,5 +98,3 @@ Mom will stand upright behind her walker today, pouting, and give it an unwillin
 "But I don't want to look like a cripple..."  
   
 Me, neither, Mom. But I'm learning to want it more.
-
-Commenting is not available in this weblog entry.

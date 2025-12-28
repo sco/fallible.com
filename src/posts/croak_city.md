@@ -78,5 +78,3 @@ Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/20
   
   
 (Thanks to [Michael O'Connnor](http://gpblogs.typepad.com) for suggesting this quote. Feel free to send your favorites our way.)
-
-Commenting is not available in this weblog entry.

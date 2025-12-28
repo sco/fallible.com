@@ -53,6 +53,4 @@ Forty million people tuned in that night, and many of them--like my dad--never q
   
 But from the first moment we saw them, my sisters and I believed with all our hearts.  
   
-February 9, 1964. Forty years, and yet it seems like *Yesterday*.  
-
-Commenting is not available in this weblog entry.
+February 9, 1964. Forty years, and yet it seems like *Yesterday*.

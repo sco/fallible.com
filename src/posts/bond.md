@@ -72,6 +72,4 @@ But there's our relationship to consider. We've established a closeness you just
   
 A couple of tender moments passed before we said our abrupt good-byes.  
   
-Neither of us wanted to miss the opening of "Romy and Michelle's High School Reunion."  
-
-Commenting is not available in this weblog entry.
+Neither of us wanted to miss the opening of "Romy and Michelle's High School Reunion."

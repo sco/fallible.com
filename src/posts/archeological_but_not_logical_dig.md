@@ -1,5 +1,5 @@
 ---
-title: "Archeological—But Not Logical—Dig"
+title: "Archeological--But Not Logical--Dig"
 date: "2004-02-26T21:15:00"
 comments:
   - author: "Carrie"
@@ -84,5 +84,3 @@ For Doug's mother, whose house we are currently clean sweeping, it's ziploc bags
 What about you? When your descendents dig you out, what will they think of the civilization you've built?  
   
 I won't tell you mine just yet, but I have a feeling my kids might chime in here.
-
-Commenting is not available in this weblog entry.

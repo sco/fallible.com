@@ -13,6 +13,4 @@ Benjamin Franklin said it best. There's little point in me trying to improve upo
   
 "Either write something worth reading or do something worth writing."  
   
-And, hey, if you can *do* and *write* at the same time, more power...  
-
-Commenting is not available in this weblog entry.
+And, hey, if you can *do* and *write* at the same time, more power...

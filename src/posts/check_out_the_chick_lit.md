@@ -10,5 +10,3 @@ I belong to this really great writers group called [American Christian Fiction W
 So, for a good time, watch Kristin. She's talented, kindhearted, and an excellent role model for the chicks of America.  
   
 Oh, and don't just watch Kristin. Read her, too!
-
-Commenting is not available in this weblog entry.

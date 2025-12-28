@@ -81,5 +81,3 @@ We all laughed our heads off, not because we'd never heard this story before, bu
 Mom hasn't been telling these stories, the stories of her life, too often in recent years. She put a halt to it, it seems, when she was only almost dying, but now the story of who she is must be told in no uncertain terms. Suddenly these stories contain for us--and, I think, for her--an eternal significance.  
   
 "Everybody has to die of something," Mom said. And then she started living, once again and out loud, the story of her life.
-
-Commenting is not available in this weblog entry.

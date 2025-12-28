@@ -11,7 +11,4 @@ From now on, though, I'm going to stick a wet finger into the wind before I get 
   
 What just happened inside my head felt something like a sudden-onset insanity with a cranial explosion on the side, just to make it colorful.  
   
-That'll teach me to go against the rain.  
-  
-
-Commenting is not available in this weblog entry.
+That'll teach me to go against the rain.

@@ -42,5 +42,3 @@ Just before he walks away, he speaks to his faraway wife on the other end of the
 "Hi, honey."  
   
 I don't even breathe.
-
-Commenting is not available in this weblog entry.

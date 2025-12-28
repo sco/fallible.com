@@ -62,5 +62,3 @@ My house was never too clean when they worked for me. So now it's dusty, and the
 That's right. They tried to extort $1200.00 bail money from my good-hearted hubby, and nobody's even in jail.  
   
 I'll tell you, with some people, the Skye's the limit.
-
-Commenting is not available in this weblog entry.

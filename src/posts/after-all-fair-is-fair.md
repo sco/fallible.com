@@ -8,5 +8,3 @@ comments:
 ---
 
 ![image](http://www.fallible.com/images/uploads/fallible.com-weight-bearing_.jpg)
-
-Commenting is not available in this weblog entry.

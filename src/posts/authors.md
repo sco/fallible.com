@@ -79,5 +79,3 @@ Actually, you're correct in that co-authors need to have compatible styles and a
 There you have it, you fiction lovers, you! Many thanks to all the lovely authors who took part in today's book-signing and live-blogging event. It's a pleasure to make your acquaintance!  
   
 [View pics >](http://www.fallible.com/writers-photos.html)
-
-Commenting is not available in this weblog entry.

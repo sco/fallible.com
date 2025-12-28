@@ -19,6 +19,4 @@ comments:
   
 "Hmmm," I say, "sounds like something I'm writing, only mine doesn't have action, either."  
   
-But the dialog is fantastic.  
-
-Commenting is not available in this weblog entry.
+But the dialog is fantastic.

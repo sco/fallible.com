@@ -19,9 +19,9 @@ I’ve even had the onerous experience of using my body as a shield against hero
 
 “Then I suggest,” she said, “that you physically block the doorway. Because if anything happens before you produce the paperwork or the doctor signs a new form, we WILL use the crash cart.”
 
-I have learned the hard way, over the course of ten years, to never leave home without copies of DNR papers. Sure as anything, if I head to Walmart for a gallon of milk, I’ll get the call to meet the ambulance—-carrying one or the other of The Moms—-at the hospital. And the FIRST thing I’ll be asked as durable medical power-of-attorney is to produce documents related to end-of-life wishes.
+I have learned the hard way, over the course of ten years, to never leave home without copies of DNR papers. Sure as anything, if I head to Walmart for a gallon of milk, I’ll get the call to meet the ambulance---carrying one or the other of The Moms---at the hospital. And the FIRST thing I’ll be asked as durable medical power-of-attorney is to produce documents related to end-of-life wishes.
 
-It was bad enough (and, I guess, a little creepy, but there you go….) when I just kept grab-and-go copies in plastic sheet protectors on the fridge, next to random pictures of the kids, the dog, and the grocery list. Now I keep DNR papers in the glove boxes of both cars, along with proof of insurance and evidence of timely oil changes, because a daughter just cannot be too vigilant.
+It was bad enough (and, I guess, a little creepy, but there you go....) when I just kept grab-and-go copies in plastic sheet protectors on the fridge, next to random pictures of the kids, the dog, and the grocery list. Now I keep DNR papers in the glove boxes of both cars, along with proof of insurance and evidence of timely oil changes, because a daughter just cannot be too vigilant.
 
 But I’ve got to say, there’s a LOT of wiggle room between a rock and a DNR, and that’s the spot I’ve found myself in too many times now to count.
 
@@ -31,11 +31,11 @@ Say, for instance, your parent lived in an assisted living facility or nursing h
 
 There’s a reasonable chance your elder could die after such an event, unless you intervene and insist she be evaluated at the hospital and treated for any injuries incurred. So what do you, a person with a reasonably refined conscience, do? If you act to “save” her and succeed, you may be inadvertently prolonging her suffering, should her head injuries be the type to result in long-term mental disability.
 
-Most nursing homes, once your parent becomes a resident there, will present you with the option of signing papers indicating your decision to not “send her out” when she becomes more critically ill. In other words, even in the absence of your parent needing or wanting hospice care, you will have pre-determined that should she become so acutely sick that you would have formerly taken her to the ER, you will now simply let her die (or live, if God so chooses….) in place.
+Most nursing homes, once your parent becomes a resident there, will present you with the option of signing papers indicating your decision to not “send her out” when she becomes more critically ill. In other words, even in the absence of your parent needing or wanting hospice care, you will have pre-determined that should she become so acutely sick that you would have formerly taken her to the ER, you will now simply let her die (or live, if God so chooses....) in place.
 
 I struggle with this. How do I, a mere mortal, know in advance whether a particular onset of illness is something easily curable with judicious and prompt medical treatment, or whether seeking that treatment will cause more ultimate harm than good to my loved one? How do I decide ahead of time that Mom will no longer be going to the hospital, ever, under any circumstances?
 
-Two years ago, when Mom’s blood calcium rose to precipitous levels and caused her to behave as if insane, I overruled the nurse on duty at the nursing home (who had chosen to ignore my mother’s worsening condition for 12 hours….) and called for an ambulance. It did not take long for the ER docs to find the problem and begin the appropriate treatment, which completely reversed the condition. However, during the days Mom spent gaining strength as an inpatient, the hospitalist assigned to her delivered a speech to Mom (in the presence of her children) which confused Mom all to heck.
+Two years ago, when Mom’s blood calcium rose to precipitous levels and caused her to behave as if insane, I overruled the nurse on duty at the nursing home (who had chosen to ignore my mother’s worsening condition for 12 hours....) and called for an ambulance. It did not take long for the ER docs to find the problem and begin the appropriate treatment, which completely reversed the condition. However, during the days Mom spent gaining strength as an inpatient, the hospitalist assigned to her delivered a speech to Mom (in the presence of her children) which confused Mom all to heck.
 
 “Mrs. McKenna,” said the doctor, “you really need to decide that you will stop coming to the hospital. You are receiving good care at the nursing home. Just stay there.”
 
@@ -46,5 +46,3 @@ The doctor said, “Well, perhaps in this case, she should have been brought to 
 The moral of my story is this: If your loved one wants to sign a DNR, you will have one piece of a very complicated puzzle in place. But understand the DNR’s a piece that may be free-floating on the card table for many years, while you try to fit 999 other pieces around it, one-by-one.
 
 You may end up saving your parent’s life more than once, and perhaps even once more than she would have liked.
-
-Commenting is not available in this weblog entry.

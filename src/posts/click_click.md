@@ -39,5 +39,3 @@ It's the fear talking, really it is.
 "I could be Shania."  
   
 So what if I'm two clicks short of mastering a new technique? Just think how far I've come.
-
-Commenting is not available in this weblog entry.

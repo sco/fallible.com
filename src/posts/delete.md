@@ -8,5 +8,3 @@ I'm editing a third novel is as many months, and I've adopted a new motto for no
 The author Elmore Leonard said it first.  
   
 "I try to leave out the parts that people skip."
-
-Commenting is not available in this weblog entry.

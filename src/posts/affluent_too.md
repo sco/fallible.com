@@ -15,5 +15,3 @@ comments:
 The dear girl mentioned below has contacted me again to clarify that while she battles a frightful cold, she isn't coughing *much*.  
   
 After checking my Webster's, though, I stand by my earlier description of her. Dry cough or productive cough, it matters not. She is effluent.
-
-Commenting is not available in this weblog entry.

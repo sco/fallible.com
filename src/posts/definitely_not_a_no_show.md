@@ -29,5 +29,3 @@ When I had finally exhausted my laughter, she took her bows and then said three 
 "You missed me."  
   
 Oh, yes, baby woman. We missed you.
-
-Commenting is not available in this weblog entry.

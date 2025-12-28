@@ -70,6 +70,4 @@ Yeah. You read it right. Dinly!!!
   
 I've been staring at this random accumulation of consonants and vowel for the better part of an hour, struggling to imagine what kind of money dinly is, where I've misplaced it, how much I've lost, and how on earth I'll ever capture it in this lifetime. Not to mention how much more of it is being flushed down the proverbial financial toilet with every passing moment.  
   
-If you can help me out here, I'd appreciate it. The sooner I capture my lost dinly money, the closer I'll come to actually "Getting Things Done."  
-
-Commenting is not available in this weblog entry.
+If you can help me out here, I'd appreciate it. The sooner I capture my lost dinly money, the closer I'll come to actually "Getting Things Done."

@@ -18,7 +18,7 @@ comments:
       Adam from Chicago**
   - author: "Extenze"
     date: "2009-06-25T18:10:00"
-    text: "My sweet man saved us from being TAKEN for $1000! The mechanic finished the work yesterday and the car runs great. I do not plan on ever using this guy again, for obvious reasons. He lies, cheats, is sexist, and thinks weâ€™re google incompetents."
+    text: "My sweet man saved us from being TAKEN for $1000! The mechanic finished the work yesterday and the car runs great. I do not plan on ever using this guy again, for obvious reasons. He lies, cheats, is sexist, and thinks we\"re google incompetents."
   - author: "Wound"
     date: "2009-07-16T07:02:00"
     text: "In the spirit of good sarcasm (very nicely used) this is by far the best answer. I crack up each time I read it. A lot of people thumbed it down because they couldn't see the parody. For shame! Well, justice prevails!!<a href=\"http://www.woundhoney.com/\">Wound First Aid</a>"

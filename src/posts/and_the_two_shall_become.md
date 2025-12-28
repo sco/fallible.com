@@ -1,5 +1,5 @@
 ---
-title: "And the Two Shall Become…"
+title: "And the Two Shall Become..."
 date: "2004-11-29T19:30:00"
 comments:
   - author: "Carrie"
@@ -61,5 +61,3 @@ We're not going to talk about the quote before we write, and we'll only see each
 It should be a fun look at how even two people who think alike on almost nothing can enjoy a happy long-term marriage.  
   
 The two shall become one, yes indeed. *Which* one is the question.
-
-Commenting is not available in this weblog entry.

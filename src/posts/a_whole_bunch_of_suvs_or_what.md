@@ -150,5 +150,3 @@ Linda Vester reported that John Kerry and his entourage were filing into their S
 As the cars pulled away and Vester referred to the "motorcade," the closed caption read, "They'll morality-cade over..."  
   
 Americans are an impressionable bunch, aren't we?
-
-Commenting is not available in this weblog entry.

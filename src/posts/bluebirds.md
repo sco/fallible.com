@@ -43,5 +43,3 @@ On the path from one woman to the next, I grew up enough to realize that everyon
 Standardized tests or not, graded or ungraded, we stumble, we fumble to find the words, to read and write our stories.  
   
 When I opened my book to read aloud with those sad little Bluebirds a few days later, the circle of desks felt more like a nest than I remembered.
-
-Commenting is not available in this weblog entry.

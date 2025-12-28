@@ -33,19 +33,19 @@ comments:
 
 I think it’s safe to say that since February 24, when Doug and I flew out of Kansas City to see our kids and grandkids, I’ve had toothbrush issues.
 
-It was supposed to be a six-day trip—-very simple, very easy. Doug’s toothbrush is green and mine is purple. Knowing how things can get twisted and mixed in hotel rooms and even in the guest bathrooms of your own children, I tried to tell myself (and oh, how sexist this is of me!) that purple is a slightly more feminine color than green and so yes, my toothbrush was definitely the purple one.
+It was supposed to be a six-day trip---very simple, very easy. Doug’s toothbrush is green and mine is purple. Knowing how things can get twisted and mixed in hotel rooms and even in the guest bathrooms of your own children, I tried to tell myself (and oh, how sexist this is of me!) that purple is a slightly more feminine color than green and so yes, my toothbrush was definitely the purple one.
 
-*God grand me the serenity….*
+*God grand me the serenity....*
 
 But then I started, in the middle of vacation and my mother’s overlapping hospitalization and even while mind-wandering during her funeral (dreaming fondly of Spring and St. Patrick’s Day) lapsing into wondering if perhaps my toothbrush wasn’t the green one, after all. I am the more Irish of the two of us, and wouldn’t it make perfect sense for me to have risen up in the Toothbrush Wars for once and declared myself the possessor of the brush most representative of my proud ancestry?
 
 I also noted that while Doug has never worn purple, it was darned possible that for his initial foray into the world of lilac and lavender and periwinkle, he actually picked the violet toothbrush of his own volition.
 
-The last thing I remember, as far as my teeth go, is that yesterday morning I got up from pretending to sleep on a horrible couch in my mother-in-law’s hospital room (she entered the hospital with pneumonia on Monday after we buried my mother on Saturday….) and slouched down the hall to a public bathroom for a spit bath. I used the soap that is supposed to squirt out automatically when you hold your hand under the dispenser. and the paper towel that is supposed to emerge automatically when you wave your hand in front of the light, to automatically scrub the sticking points.
+The last thing I remember, as far as my teeth go, is that yesterday morning I got up from pretending to sleep on a horrible couch in my mother-in-law’s hospital room (she entered the hospital with pneumonia on Monday after we buried my mother on Saturday....) and slouched down the hall to a public bathroom for a spit bath. I used the soap that is supposed to squirt out automatically when you hold your hand under the dispenser. and the paper towel that is supposed to emerge automatically when you wave your hand in front of the light, to automatically scrub the sticking points.
 
 Then I pulled a comb through my scary hair, which *did* look good at Mom’s funeral but has not recovered its senses since, and applied deoderant with the name Speed Stick slapped on the front. It did occur to me that this is Doug’s deoderant, and that he was sleeping down the hall even then smelling sweetly of some concoction with the word “Soft” in it. Did I care? I did not.
 
-*To accept the things I cannot change…*
+*To accept the things I cannot change...*
 
 What I cared about was my toothbrush. All I asked was to locate it in my go-bag, the bag I’ve been using for many weeks now to cart around the remaining scrappy vestiges of my life, and that when I located it, it would be *dry*.
 
@@ -63,22 +63,20 @@ He gave me an innocent look, the type of look a man gives when he’s just had t
 
 “Yeah, about that,” he said. “I found my green one in your bag after I used the purple one.”
 
-My blood boiled right about then. You should know, for future reference, that Toothbrush Angst is one of the least often mentioned but most often experienced Stages of Grief. When you are suffering a great loss, you want something—-anything, really—-you can call your own. Something you can fall back on, depend upon, rely on. For me, the comfort of my own toothbrush can get me through almost anything, and that small comfort was being torn from me with a force I could not comprehend.
+My blood boiled right about then. You should know, for future reference, that Toothbrush Angst is one of the least often mentioned but most often experienced Stages of Grief. When you are suffering a great loss, you want something---anything, really---you can call your own. Something you can fall back on, depend upon, rely on. For me, the comfort of my own toothbrush can get me through almost anything, and that small comfort was being torn from me with a force I could not comprehend.
 
 “But that purple one doesn’t even look like my brush. The wet one you just used looks squashed and ancient and all used up, like I *feel*.”
 
 “It’s brand new,” he said. “I just found it in the linen closet, still in its wrapper. It’s only been used once.”
 
-OK, this I can at least wrap my brain around. I buy tons of cheapie toothbrushes because often, when my kids spend the night, they claim to have forgotten theirs. I hand them one of these disposables that I pick up for 20 cents and expect them to do just that when they’re done—-dispose of it.
+OK, this I can at least wrap my brain around. I buy tons of cheapie toothbrushes because often, when my kids spend the night, they claim to have forgotten theirs. I hand them one of these disposables that I pick up for 20 cents and expect them to do just that when they’re done---dispose of it.
 
 “But where’s MY purple toothbrush?” I ask. And then it hits me that I must have left it, wrapped in its white paper-towel shroud, in yesterday’s public bathroom. Along with the Speed Stick man’s deoderent.
 
-*Courage to change the things I can…*
+*Courage to change the things I can...*
 
-Today is a new day, with new mercies and—-of all things—-a brand new toothbrush. This time, for safety’s sake, I’ve chosen a pink one. Purple is just too risky, too potentially uni-sexy, and I’ve got to control something in my life. At this point, anything would be fine.
+Today is a new day, with new mercies and---of all things---a brand new toothbrush. This time, for safety’s sake, I’ve chosen a pink one. Purple is just too risky, too potentially uni-sexy, and I’ve got to control something in my life. At this point, anything would be fine.
 
 Besides, Doug wouldn’t be caught dead in pink, not even a stripe’s worth in a necktie. Sure, he smells like a girl, but If it was the last toothbrush on earth, I don’t think he’d ever use my pink one.
 
 I don’t ask for too much these days, but when it comes to toothbrushes, I still beg God, with every iota of serenity within me, for the wisdom to know the difference.
-
-Commenting is not available in this weblog entry.

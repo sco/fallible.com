@@ -36,5 +36,3 @@ And, no, my first novel hasn’t been picked up by a publisher yet. The only cur
 I’ll probably be sneaking over here when I get a chance, but for the next few weeks I’ve got to focus on getting some strong material ready to take with me to Denver. We’ll be privileged to sit in on the teaching of Donald Maass, a great agent who wrote Writing the Breakout Novel and The Career Novelist. I’ve only ever heard five-star reviews of his workshops, so we’re really looking forward to that.
 
 Will check in again as time and novel-writing permit. I love each and every one of you loyal fallible ones, and don’t you forget it!
-
-Commenting is not available in this weblog entry.

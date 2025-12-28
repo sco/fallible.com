@@ -40,5 +40,3 @@ I start to pack up my laptop and say to Doug, "I think I'm gonna' go sit somewhe
 "Nope. The Pan of the Era."  
   
 We're having a good day.
-
-Commenting is not available in this weblog entry.

@@ -65,5 +65,3 @@ If you've already seen [this](http://www.milkandcookies.com/links/25512/), you h
 If you're just now seeing it, I hope you get as big a kick out of it as I do.  
   
 I'm ditching my wimpy Bible on CD after that, baby!
-
-Commenting is not available in this weblog entry.

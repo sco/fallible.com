@@ -26,5 +26,3 @@ Or had we come to hear a humble Christian sing a simple gospel of faith in Jesus
 "Give your brother a helping hand and a prayer. Do your best to help him along. Learn to live together in peace and harmony, and then we'll all be singing the same song."  
   
 Good Friday was good, indeed. We didn't go to church, or then again, maybe we did. It felt more like a piece of heaven to me.
-
-Commenting is not available in this weblog entry.

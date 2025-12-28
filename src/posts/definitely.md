@@ -24,5 +24,3 @@ comments:
 Can anyone tell me why, in this day and age in which so few people apparently still believe in *absolutes*, everyone's favorite adverb is *absolutely*?  
   
 Just thought I'd ask.
-
-Commenting is not available in this weblog entry.

@@ -61,5 +61,3 @@ He bristled slightly at the word "liturgical," and since I enjoy it when he bris
 "Oh, *liturgical's* OK," he agreed smoothly, his voice losing all its apprehension. "Just not *lethargical*."  
   
 I'd follow him anywhere.
-
-Commenting is not available in this weblog entry.

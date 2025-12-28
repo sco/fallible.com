@@ -75,7 +75,7 @@ You know the kind of angel I’m talking about: one who masquerades as a ragamuf
 
 Yesterday, when I had only slept four hours after a 24-hour bout of wakefulness, I had to go out in public. But the public I had to go out into was an iffy public, a borderline seedy public, so I figured it didn’t matter that I wore my almost-a-bag-lady barn coat, with two major zits plainly uncovered by concealer of any kind.
 
-It didn’t matter that my sweater was purple and my socks were brown and my shoes were white. It didn’t matter—or at least I didn’t care—that I sported a case of bed-head that was anything but, uh, sporty.
+It didn’t matter that my sweater was purple and my socks were brown and my shoes were white. It didn’t matter--or at least I didn’t care--that I sported a case of bed-head that was anything but, uh, sporty.
 
 All I had to do was run down to a crummy gas station near the interstate and get my car inspected, like Missouri law says I have to do every couple of years. It would take ten minutes, I’d fork over twelve bucks before heading home for a long winter’s nap, and I sure wouldn’t see anybody I knew.
 
@@ -95,11 +95,11 @@ The subject came back around to her soldier-husband.
 
 “Has he called home since he’s been there?” I asked.
 
-“No. He called from Kuwait to say he was on his way to Iraq, but I haven’t heard anything since he’s been there. I don’t even know where in Iraq he is. Besides, it’s so expensive to call…”
+“No. He called from Kuwait to say he was on his way to Iraq, but I haven’t heard anything since he’s been there. I don’t even know where in Iraq he is. Besides, it’s so expensive to call...”
 
-Do you ever look for angels in day-to-day life? I don’t very often, I have to admit, but the Bible gives every indication I may have been in the presence of them—and even seen them without realizing their identity—on any number of occasions.
+Do you ever look for angels in day-to-day life? I don’t very often, I have to admit, but the Bible gives every indication I may have been in the presence of them--and even seen them without realizing their identity--on any number of occasions.
 
-Somehow, though, this girl—with the clear-nail-polish-stopped runs in her black stockings and her fresh-scrubbed face—looked just like an angel to me.
+Somehow, though, this girl--with the clear-nail-polish-stopped runs in her black stockings and her fresh-scrubbed face--looked just like an angel to me.
 
 They called her name after only ten minutes, and I watched as she carefully drew twelve dollars from her purse and laid them individually on the counter, as if the drawn-out process would somehow make them last longer. She thanked the attendant and turned to leave.
 
@@ -115,8 +115,6 @@ She took the money and embraced me,  promising to send him the card. I’m sure
 
 She left the station and as she walked toward her car, she turned around and flashed me another big grin. But this time, there was something like a flicker of recognition in her eyes.
 
-Yesterday, I looked—and felt—like a human being in desperate need of her own personal angel.
+Yesterday, I looked--and felt--like a human being in desperate need of her own personal angel.
 
 Today, there’s a lonely girl in Kansas City who thinks a bag lady named Katy just might have been one.
-
-Commenting is not available in this weblog entry.

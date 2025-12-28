@@ -58,5 +58,3 @@ The Proper Care and Feeding of Husbands by Dr. Laura Schlessinger
 Damn! Why Didn't I Write That? by Marc McCutcheon  
   
 No separate beds for us, but separate bookshelves? A dream come true.
-
-Commenting is not available in this weblog entry.

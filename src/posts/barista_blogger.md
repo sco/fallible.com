@@ -37,5 +37,3 @@ Adding cold milk on top of hot froth, that's where.
 And so, instead, I sweet-talk her, encourage her to relax and take her time, hoping she's not worried about the line of customers accumulating behind me, wanting theirs.  
   
 I might wait a bit longer, but I'm rarely disappointed.
-
-Commenting is not available in this weblog entry.

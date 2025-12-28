@@ -22,5 +22,3 @@ They kiss each falling part,
 Then escape each crashing branch.  
 Letting go to save their lives,  
 Taking flight to higher sky.
-
-Commenting is not available in this weblog entry.

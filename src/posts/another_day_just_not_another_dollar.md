@@ -82,5 +82,3 @@ I can't worry about what she thinks of me. I've got the time, but that's not how
 Still, I plan to keep asking God what He thinks. If He thinks I'm something--or, better yet, someone--it's all good.  
   
 And I'm pretty sure He does.
-
-Commenting is not available in this weblog entry.

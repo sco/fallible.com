@@ -32,9 +32,9 @@ comments:
       I just found your blob after a google search for Vanishing Bone disease. My daughter has a lymphangiomatosis (another name for the condition when it is found in bone and soft tissue). I would be very suprised if this is the dx with your mom as it usually shows up in childhood / young adults. Any one intrested in learning more about the disease can go to www.LGDalliance.org. Great blob - Ill continue to read!
 ---
 
-I used to write funny stories about my mother in this space. Even though she’s had—-steadily these past eight years—-more health problems than fifty mamas put together, I was somehow always able to pull out the goofy stuff and make it fallible fodder. I haven’t been so good at the pulling-out part recently. Maybe I’m just pooped. I hope to recover my sense of humor soon!
+I used to write funny stories about my mother in this space. Even though she’s had---steadily these past eight years---more health problems than fifty mamas put together, I was somehow always able to pull out the goofy stuff and make it fallible fodder. I haven’t been so good at the pulling-out part recently. Maybe I’m just pooped. I hope to recover my sense of humor soon!
 
-Mom’s been through a phase of breaking lots of bones these past few months. She’ll be walking just the few steps from her bathroom back to bed and two bones in her foot will snap. She doesn’t have to fall or crash into anything for this to happen—-it’s spontaneous, and not in a good way.
+Mom’s been through a phase of breaking lots of bones these past few months. She’ll be walking just the few steps from her bathroom back to bed and two bones in her foot will snap. She doesn’t have to fall or crash into anything for this to happen---it’s spontaneous, and not in a good way.
 
 No sooner did her foot feel better (I say feel better rather than “heal,” because her bones don’t typically heal), than she fell and tore the meniscus in her right knee. At first, I typed “left” because five years ago she did tear her left knee and had surgery to repair it. But that was then.
 
@@ -64,13 +64,13 @@ A bit of fear shot through me, as Mom has a permanently broken left humerus. She
 
 My sister and I got down there right away and took Mom to the ER for xrays. Because she’s got this large bone with the clean break, it’s possible that those broken pieces could get badly rearranged in a fall and try to poke themselves through her skin or something. A lovely thought, eh? Oh, the pictures in my mind!
 
-Instead, Mom took a chip out of the top of her shoulder, plus fractured it from that point down. So, technically, the very top of her humerus is broken—-the same bone on the same arm. She diagnosed herself correctly. What a gal!
+Instead, Mom took a chip out of the top of her shoulder, plus fractured it from that point down. So, technically, the very top of her humerus is broken---the same bone on the same arm. She diagnosed herself correctly. What a gal!
 
 The surgery, needless to say, is off. Mom’s in a sling, and therefore in a wheelchair. It’s too hard to use a walker with a sling, and she must use a walker because of her multiple issues.
 
-The most fascinating—-but still not funny—-thing is the amazement the ER doc expressed over Mom’s xray. She called my sister and me in to look at it and pointed to the broken humerus, a five-year-old injury.
+The most fascinating---but still not funny---thing is the amazement the ER doc expressed over Mom’s xray. She called my sister and me in to look at it and pointed to the broken humerus, a five-year-old injury.
 
-“The bone is…disappearing.”
+“The bone is...disappearing.”
 
 Sure enough, there was a four-inch gap where the pieces of bone used to meet, back in the old days, when Mom was one together chick.
 
@@ -85,5 +85,3 @@ Yesterday, we took Mom to her ortho doc, who was as shocked as the ER doc by Mom
 The funniest thing Mom’s said recently happened Monday, after hours in the ER. We were getting ready to roll out of there and the morphine had kicked in. She matter-of-factly said, “Well, I hope the rest of the day goes better than this morning.”
 
 OK, maybe it’s not ha-ha funny, but sometimes a girl has to go with what she’s got.
-
-Commenting is not available in this weblog entry.

@@ -74,5 +74,3 @@ I must have looked truly pitiful, especially when I used the words "safe spot," 
 "Just remember," he said, and even now I'm not sure if it was a promise or a threat, "You won't always have me around."  
   
 Hey, that's not fair! He's twenty, and I haven't even used that line on HIM yet!
-
-Commenting is not available in this weblog entry.

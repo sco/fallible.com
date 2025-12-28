@@ -38,5 +38,3 @@ It's not a walnut bowl at all. It's my grandmother's voice. She died when I was 
 "Pat!" she'd exclaim with delight to my grandfather. "Walnut bowls, just another 1/2 mile up the road. Slow down, fast, or you'll miss it!"  
   
 To anyone else, it's a crummy old walnut bowl. To me, it's a voice in the wilderness crying, Slow down, fast, or you'll miss it.
-
-Commenting is not available in this weblog entry.

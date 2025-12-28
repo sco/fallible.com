@@ -25,6 +25,4 @@ She proceeds to fill my order for a decaf of the day in a china mug, rather than
   
 "Don't worry, Lindsay," I say, reaching out to touch her arm. "All the important stuff will stay the same. You'll see."  
   
-And then I realize, we were never really talking about coffee at all.  
-
-Commenting is not available in this weblog entry.
+And then I realize, we were never really talking about coffee at all.

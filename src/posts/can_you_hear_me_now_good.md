@@ -34,5 +34,3 @@ The poor woman. First deaf, now completely blind.
 "I wish you luck, dear!"  
   
 Supportive, though, isn't she?
-
-Commenting is not available in this weblog entry.

@@ -19,5 +19,3 @@ comments:
 ---
 
 I'm thinking if those graves weren't so shallow, 400,000 Iraqui citizens would be dancing in them right about now.
-
-Commenting is not available in this weblog entry.

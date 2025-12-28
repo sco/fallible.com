@@ -102,8 +102,4 @@ She trotted off to the next geezer and I looked at my husband and said, "Did she
   
 I took a good look around and saw a dozen smiling geezers pulling out their wallets and plunking down hefty tips.  
   
-I gotta get me one of those name tags.  
-  
-  
-
-Commenting is not available in this weblog entry.
+I gotta get me one of those name tags.

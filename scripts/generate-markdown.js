@@ -5,7 +5,7 @@ const path = require("path");
 const { JSDOM } = require("jsdom");
 const TurndownService = require("turndown");
 
-const INPUT_ROOT = "./www.fallible.com/fallible/comments";
+const INPUT_ROOT = "./original-site-mirror/fallible/comments";
 const OUTPUT_ROOT = "./src/posts";
 
 fs.mkdirSync(OUTPUT_ROOT, { recursive: true });
@@ -24,6 +24,48 @@ turndown.addRule("links", {
     return href ? `[${content}](${href})` : content;
   }
 });
+
+// Normalize special characters (curly quotes, apostrophes, etc.)
+function normalizeSpecialChars(str) {
+  if (!str) return str;
+  
+  // Remove non-printable characters (control characters except newlines, tabs, carriage returns)
+  let normalized = str.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F]/g, '');
+  
+  // Handle mis-encoded characters first (common Windows-1252 to UTF-8 issues)
+  // Replace directly to final normalized form
+  normalized = normalized
+    .replace(/â€œ/g, '"')   // Left double quote (mis-encoded) → straight quote
+    .replace(/â€/g, '"')    // Right double quote (mis-encoded) → straight quote
+    .replace(/â€™/g, "'")   // Apostrophe/right single quote (mis-encoded) → straight apostrophe
+    .replace(/â€"/g, '"')   // Left double quote (alternative encoding) → straight quote
+    .replace(/â€"/g, '"')   // Right double quote (alternative encoding) → straight quote
+    .replace(/â€"/g, "'")   // Apostrophe (alternative encoding) → straight apostrophe
+    .replace(/â€"/g, '--')  // Em dash (mis-encoded) → double hyphen
+    .replace(/â€"/g, '-')   // En dash (mis-encoded) → hyphen
+    .replace(/â„¢/g, '')    // Trademark symbol (mis-encoded) → remove
+    .replace(/â€"/g, '')    // Various mis-encoded characters → remove
+    .replace(/â€"/g, '');   // Various mis-encoded characters → remove
+  
+  // Normalize properly encoded Unicode characters
+  normalized = normalized
+    .replace(/[""]/g, '"')  // Left/right double quotes → straight quote
+    .replace(/['']/g, "'")  // Left/right single quotes → straight apostrophe
+    .replace(/['']/g, "'")  // Typographic apostrophes → straight apostrophe
+    .replace(/—/g, '--')    // Em dash → double hyphen
+    .replace(/–/g, '-')     // En dash → hyphen
+    .replace(/…/g, '...')   // Ellipsis → three dots
+    .replace(/«/g, '<<')    // Left guillemet
+    .replace(/»/g, '>>')    // Right guillemet
+    .replace(/„/g, '"')     // Low double quote
+    .replace(/‚/g, "'")     // Low single quote
+    .replace(/™/g, '')      // Trademark symbol → remove
+    .replace(/®/g, '')      // Registered symbol → remove
+    .replace(/©/g, '(c)')   // Copyright symbol → (c)
+    .replace(/[\u200B-\u200D\uFEFF]/g, ''); // Zero-width spaces and other invisible characters
+  
+  return normalized;
+}
 
 // Escape string for YAML double-quoted strings
 // In YAML, backslashes must be escaped unless part of valid escape sequences
@@ -102,7 +144,7 @@ function processFile(filePath) {
 
   // Extract title
   const titleEl = blog.querySelector("h2.title");
-  const title = titleEl ? titleEl.textContent.trim() : slug;
+  const title = titleEl ? normalizeSpecialChars(titleEl.textContent.trim()) : slug;
 
   // Remove title from body so it doesn't duplicate
   if (titleEl) titleEl.remove();
@@ -155,7 +197,7 @@ function processFile(filePath) {
         const commentPostedText = commentPosted.textContent.trim();
         const authorMatch = commentPostedText.match(/Posted by\s+([^\s]+)/i);
         if (authorMatch) {
-          commentAuthor = authorMatch[1].trim();
+          commentAuthor = normalizeSpecialChars(authorMatch[1].trim());
         }
         const dateMatch = commentPostedText.match(/on\s+(\d{1,2})\/(\d{1,2})\/(\d{2,4})\s+at\s+(\d{1,2}):(\d{2})\s+(AM|PM)/i);
         if (dateMatch) {
@@ -181,8 +223,9 @@ function processFile(filePath) {
         // Remove the posted div before converting to markdown
         commentPosted.remove();
       }
-      const commentText = turndown.turndown(li.innerHTML).trim();
+      let commentText = turndown.turndown(li.innerHTML).trim();
       if (commentText) {
+        commentText = normalizeSpecialChars(commentText);
         comments.push({
           author: commentAuthor,
           date: commentDate,
@@ -226,14 +269,43 @@ function processFile(filePath) {
   });
 
   // Remove "Commenting is not available..." text
+  // First, try to find and remove elements that contain only this text
   blog.querySelectorAll("*").forEach(el => {
     const text = el.textContent.trim();
     if (text === "Commenting is not available in this weblog entry.") {
       el.remove();
     }
   });
+  // Also remove any text nodes that contain this phrase
+  const walker = doc.createTreeWalker(blog, dom.window.NodeFilter.SHOW_TEXT, null);
+  const textNodes = [];
+  let node;
+  while (node = walker.nextNode()) {
+    if (node.textContent.includes("Commenting is not available in this weblog entry.")) {
+      textNodes.push(node);
+    }
+  }
+  textNodes.forEach(textNode => {
+    // Remove the entire parent if it only contains this text, or just remove the text node
+    const parent = textNode.parentNode;
+    if (parent && parent.textContent.trim() === "Commenting is not available in this weblog entry.") {
+      parent.remove();
+    } else {
+      textNode.remove();
+    }
+  });
 
-  const markdownBody = turndown.turndown(blog.innerHTML).trim();
+  let markdownBody = turndown.turndown(blog.innerHTML).trim();
+  
+  // Remove any remaining instances of the commenting message from markdown
+  markdownBody = markdownBody
+    .split('\n')
+    .filter(line => !line.trim().includes("Commenting is not available in this weblog entry."))
+    .join('\n')
+    .trim();
+  
+  // Normalize special characters in markdown body
+  markdownBody = normalizeSpecialChars(markdownBody);
 
   // Build frontmatter
   const frontmatterLines = [`title: "${escapeYamlString(title)}"`];
@@ -256,7 +328,9 @@ function processFile(filePath) {
       } else {
         frontmatterLines.push(`    text: |`);
         textLines.forEach(line => {
-          frontmatterLines.push(`      ${line}`);
+          // Normalize each line to remove any non-printable characters
+          const normalizedLine = normalizeSpecialChars(line);
+          frontmatterLines.push(`      ${normalizedLine}`);
         });
       }
     });

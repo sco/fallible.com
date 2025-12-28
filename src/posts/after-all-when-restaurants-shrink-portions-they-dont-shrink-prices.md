@@ -8,5 +8,3 @@ comments:
 ---
 
 ![image](http://www.fallible.com/images/uploads/fallible.com-restaurants_.jpg)
-
-Commenting is not available in this weblog entry.

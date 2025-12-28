@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const https = require("https");
 
-const WEBLOG_DIR = "./www.fallible.com/index.php/weblog";
+const WEBLOG_DIR = "./original-site-mirror/index.php/weblog";
 const THROTTLE_MESSAGE = "You have exceeded the allowed page load frequency.";
 
 function sleep(ms) {
@@ -16,7 +16,7 @@ function isThrottleError(content) {
 }
 
 function isAlreadyFetched(slug) {
-  const outputPath = path.join("./www.fallible.com/fallible/comments", slug, "index.html");
+  const outputPath = path.join("./original-site-mirror/fallible/comments", slug, "index.html");
   if (!fs.existsSync(outputPath)) {
     return false;
   }
@@ -25,7 +25,7 @@ function isAlreadyFetched(slug) {
 }
 
 function deleteThrottleErrors() {
-  const commentsDir = "./www.fallible.com/fallible/comments";
+  const commentsDir = "./original-site-mirror/fallible/comments";
   if (!fs.existsSync(commentsDir)) {
     return;
   }
@@ -59,7 +59,7 @@ function deleteThrottleErrors() {
 function fetchSlug(slug) {
   return new Promise((resolve, reject) => {
     const url = `https://www.fallible.com/fallible/comments/${slug}/`;
-    const outputDir = path.join("./www.fallible.com/fallible/comments", slug);
+    const outputDir = path.join("./original-site-mirror/fallible/comments", slug);
     const outputPath = path.join(outputDir, "index.html");
 
     // Create output directory if it doesn't exist

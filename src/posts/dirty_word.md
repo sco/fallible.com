@@ -46,13 +46,13 @@ John 3:18 NLT
 
 When you're a nice, Irish Catholic schoolgirl, and it's 1969, you don't just go around dating random Baptist boys.  
   
-Not that I hadn't seen it happen before—I had. My own Uncle Francis—still fresh off the boat!—hooked up with a seemingly wholesome Baptist girl who'd been raised on a farm, no less. The second he said "I do," she started shouting "Oh, no, you don't!"  
+Not that I hadn't seen it happen before--I had. My own Uncle Francis--still fresh off the boat!--hooked up with a seemingly wholesome Baptist girl who'd been raised on a farm, no less. The second he said "I do," she started shouting "Oh, no, you don't!"  
   
 It turned out my aunt had unreasonably high behavioral expectations for her new husband, things like "No Smoking!" and "No Gambling!" and "No Dancing!" Francis tried to clean up his act to suit her finely-tuned Protestant sensibilities, but it pained him no end.  
   
 He felt the very essence of his inborn Catholicity draining out of him each time he snuffed out a Lucky Strike at her insistance or passed up the chance for a whisky with Father McInerny.  
   
-The clincher was when the family—Francis's siblings and their progeny—found out that my aunt had been systematically destroying, before poor Francis could open his mail, all invitations to weddings and other occasions where frivolity would certainly take place.  
+The clincher was when the family--Francis's siblings and their progeny--found out that my aunt had been systematically destroying, before poor Francis could open his mail, all invitations to weddings and other occasions where frivolity would certainly take place.  
   
 "How could she keep him away from his own family like that?" we asked among ourselves. "Oh, well...that's what he gets for marrying a Baptist."  
   
@@ -66,23 +66,23 @@ Shouldn't even the idea of peas unnaturally mixed up with cubed carrots make a C
   
 But Beth was the very definition of compassion, and she considered it her religious duty to nurse Larry back into a suitable-for-dating condition. Her ministry would not be considered complete until she had witnessed with her own eyes that Larry had been restored to his previous status as a hunka-hunka-burnin-love.  
   
-That's where I came in. Beth wasn't allow to car-date, unless she doubled, and neither was I. Russ—Larry's best Baptist friend—happened to be visiting Larry one evening when Beth and I made the rounds with spaghetti and meatballs, Wonder bread, and fruit cocktail.  
+That's where I came in. Beth wasn't allow to car-date, unless she doubled, and neither was I. Russ--Larry's best Baptist friend--happened to be visiting Larry one evening when Beth and I made the rounds with spaghetti and meatballs, Wonder bread, and fruit cocktail.  
   
 Before Beth could pull the tabbed lid from Larry's tiny cup of vanilla ice cream, a sufficient number of sparks had flown across the bed between Russ and me to melt the stuff.  
   
 And so the ecumenical double-dating began.  
   
-I'm going to have to go ahead and admit at this point in my story that one night, we nearly went too far. We'd been dating several months by then, and the four of us—who all enjoyed the advantages of homes with an abundance of adult supervision, thank you very much—chose deliberately to drive Russ's sedan into the empty parking lot of a Jewish synagogue for purposes which can only be described as non-religious in nature.  
+I'm going to have to go ahead and admit at this point in my story that one night, we nearly went too far. We'd been dating several months by then, and the four of us--who all enjoyed the advantages of homes with an abundance of adult supervision, thank you very much--chose deliberately to drive Russ's sedan into the empty parking lot of a Jewish synagogue for purposes which can only be described as non-religious in nature.  
   
 At first, Russ and I talked in the front seat and Beth and Larry in the back, but you know how these things go. The talking died down and things got pretty quiet in the car for several minutes. Russ had drawn me closer to him on the bench seat and we'd exchanged as many kisses as it takes for the windows to become opaque.  
   
-Suddenly, I got the "oh-oh" feeling, only it wasn't from wandering hands, since Russ's weren't. No, it wasn't something he did—it was something he said.  
+Suddenly, I got the "oh-oh" feeling, only it wasn't from wandering hands, since Russ's weren't. No, it wasn't something he did--it was something he said.  
   
 Right in the middle of the most wonderful Catholic/Baptist kiss you can imagine, he blurted out, "So, do you tithe?"  
   
 "Do I WHAT?" I pulled away from him in revulsion. I had heard about guys like him, only he'd had me fooled. Russ had pretended to be such a gentleman until...this. "What kind of girl do you think I AM?"  
   
-Beth had heard the whole thing from the back seat and she whacked Larry several times for being best friends with someone as sick-o as Russ. "Take us home," she said, and Russ—knowing we meant business—started the engine.  
+Beth had heard the whole thing from the back seat and she whacked Larry several times for being best friends with someone as sick-o as Russ. "Take us home," she said, and Russ--knowing we meant business--started the engine.  
   
 I pulled out my Webster's in the privacy of my room, expecting the word "tithe" to mean something so disgusting that neither Daniel nor any of his successors would have dared to define it in print.  
   
@@ -95,5 +95,3 @@ And to think I thought it was an act of charity to date a Baptist.
   
 [![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
 Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/2004/12/charity_begins_.html)
-
-Commenting is not available in this weblog entry.

@@ -18,5 +18,3 @@ A very caring or prolific young man might call out, "What do you want?" When you
 Kevin *does* hate spiders, but he was running to my side before he even knew what I needed. He didn't waste precious time asking "What?" when he knew the only question that would help me was "Where?"  
   
 My youngest child graduates from high school on Saturday. He's still my baby, but now I know for certain that he's the world's grown man.
-
-Commenting is not available in this weblog entry.

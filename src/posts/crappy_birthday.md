@@ -28,5 +28,3 @@ I read Scott the text of the card, and I could discern his inward groaning throu
 "Whoa," Scott said, and with that, I knew he understood everything I'm going through.  
   
 And, I must say, so does Doug.
-
-Commenting is not available in this weblog entry.

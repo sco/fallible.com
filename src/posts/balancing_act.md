@@ -70,5 +70,3 @@ This process made me feel oddly invisible, a feeling I hesitate to reproduce by 
 I really hate invisible, but it's got to hurt less than unpublished, so that's my choice.  
   
 How about you? How would you fill in the blanks after the words *permanently* and *temporarily*?
-
-Commenting is not available in this weblog entry.

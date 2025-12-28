@@ -14,5 +14,3 @@ Doug had turned pensive, and had expressed privately to me that vast numbers of 
 "He said I need to target my biscuits."  
   
 All right, then.
-
-Commenting is not available in this weblog entry.

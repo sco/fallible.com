@@ -10,5 +10,3 @@ Doug had a chance to play golf in a church tournament today, and it sounded like
 "Honey, you should go and have fun," I responded, sounding pretty convincing, if I do say so myself. "Don't worry about me. I'm used to being missed."  
   
 Where do I come up with this stuff?
-
-Commenting is not available in this weblog entry.

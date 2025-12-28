@@ -44,7 +44,4 @@ It's estimated that approximately 250,000 Jews were crucified under the Romans, 
   
 But I believe His experience was terribly, horribly, wonderfully different, that the extent of His suffering was indeed beyond what any man has ever suffered. I believe God's Son has a capacity for suffering that is as far beyond ours as is His capacity for love, because both the suffering and the love are completely selfless.  
   
-I am ready now, almost ready, to see The Passion of the Christ. Soon. Really.  
-  
-
-Commenting is not available in this weblog entry.
+I am ready now, almost ready, to see The Passion of the Christ. Soon. Really.

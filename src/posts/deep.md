@@ -17,5 +17,3 @@ comments:
 You know how people say they love a certain piece of art because it speaks to them "on so many levels"?  
   
 Doug and I just got back from the Plaza Art Fair, where we actually began to question whether or not we have levels.
-
-Commenting is not available in this weblog entry.

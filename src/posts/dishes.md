@@ -85,5 +85,3 @@ I'm sitting at my desk, intently working. Eighteen-year-old Kevin enters.
 Within seconds, the water is running in the kitchen sink, proving once again that the experts are wrong.  
   
 Threats definitely work.
-
-Commenting is not available in this weblog entry.

@@ -76,8 +76,4 @@ Katy: "The blank screen?"
   
 Doug: "The blank screen."  
   
-So I'm a new-media widow. As long as I never have to face a blank screen, I can handle it.  
-  
-  
-
-Commenting is not available in this weblog entry.
+So I'm a new-media widow. As long as I never have to face a blank screen, I can handle it.

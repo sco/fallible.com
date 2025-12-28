@@ -74,7 +74,4 @@ Slowly, I opened one hand to reveal our baby, our little boy, who had fallen fro
   
 We cried together then, and held our own private vigil. We prayed aloud and gave our baby back to God.  
   
-It's been twenty-five years, and sometimes, even now, I swear I feel his breath upon my hand.  
-  
-
-Commenting is not available in this weblog entry.
+It's been twenty-five years, and sometimes, even now, I swear I feel his breath upon my hand.

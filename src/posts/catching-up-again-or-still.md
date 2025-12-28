@@ -5,15 +5,15 @@ date: "2009-09-14T12:47:00"
 
 I’ll tell you what: If things could be any nuttier over here, I don’t know how.
 
-Since May, when the hail storm from hades wrecked the outside of our house, Doug and I have practically hosted Construction Guys around the clock. I am happy to report that the repairs are almost done—-only tiny details remain. But MAN did this remind me of how I did not love the process of building our home, which we moved into fifteen years ago. I actually don’t mind the myriad of minuscule decisions (or the big ones, either). I think what gets to me is the noise level and the mistakes.
+Since May, when the hail storm from hades wrecked the outside of our house, Doug and I have practically hosted Construction Guys around the clock. I am happy to report that the repairs are almost done---only tiny details remain. But MAN did this remind me of how I did not love the process of building our home, which we moved into fifteen years ago. I actually don’t mind the myriad of minuscule decisions (or the big ones, either). I think what gets to me is the noise level and the mistakes.
 
 If a company tries to tell you that they’ll act as the general contractor for the job so that you can go about the business of your regular daily lives, DON’T believe them. I can’t tell you how many days the supervisor showed up for his minutes-long visit only to have to inform the crew that they’d need to tear out half a day’s work. We ended up being on-site gen contractors for this job, and probably saved the company thousands of dollars in labor and materials by catching the mistakes as they BEGAN to occur, instead of many hours into the job.
 
-The insurance company agreed to pay the contractors a set amount, so I don’t know why I had to be so darned co-dependent about it. Maybe if the contractors realized how much time and money they were losing by having to tear stuff out and start over, they’d change their methods. But, NO….I have to point out problems, inform them they are installing materials we did not order, point out that the gorgeous Amish-made front door is WARPED (my vision is 20/400, and I had no difficulty spotting this from across the room, but they argued with me until the super arrived and measured and eyeballed and measured again and said I was right….), question them about what constitutes a mitered edge and what does NOT, etc.
+The insurance company agreed to pay the contractors a set amount, so I don’t know why I had to be so darned co-dependent about it. Maybe if the contractors realized how much time and money they were losing by having to tear stuff out and start over, they’d change their methods. But, NO....I have to point out problems, inform them they are installing materials we did not order, point out that the gorgeous Amish-made front door is WARPED (my vision is 20/400, and I had no difficulty spotting this from across the room, but they argued with me until the super arrived and measured and eyeballed and measured again and said I was right....), question them about what constitutes a mitered edge and what does NOT, etc.
 
 Anyway, we didn’t save ourselves a cent by acting as gens, but you know? Somebody has to do it!
 
-These past couple of weeks, we’ve had a hundred family events, too, culminating on Friday, when my wonderful son Scott and his beautiful wife Brooke moved from Kansas City to Austin, Texas. Can I get a major Boo-Hoo here? Seriously, O fallible ones! Two out of my three kids have moved away in the past six weeks. I’m sorry, but no matter how old the kids and how old the parents, it’s still hard. That’s not to say I don’t believe these moves will be good for my children—-I fully realize they will. It just stings, that’s all. But we deal, right? And we trust.
+These past couple of weeks, we’ve had a hundred family events, too, culminating on Friday, when my wonderful son Scott and his beautiful wife Brooke moved from Kansas City to Austin, Texas. Can I get a major Boo-Hoo here? Seriously, O fallible ones! Two out of my three kids have moved away in the past six weeks. I’m sorry, but no matter how old the kids and how old the parents, it’s still hard. That’s not to say I don’t believe these moves will be good for my children---I fully realize they will. It just stings, that’s all. But we deal, right? And we trust.
 
 Now I’m getting ready to go to the annual conference of American Christian Fiction Writers in Denver. I’ll get to see my agent Rachelle Gardner there, plus SO MANY of my wonderful writer friends. Donald Maass, an acclaimed New York agent and author of “Writing the Break-out Novel” will be teaching an all day class in which the attendees get a chance to apply his methods to our works-in-progress. I can’t wait!
 
@@ -29,6 +29,4 @@ Once the conference is behind me, I’ll be full steam ahead on this new novel. 
 
 All prayers appreciated, as always. I ain’t gettin’ any younger over here!!
 
-Drop me a comment and let me know what you’re doing! I promise to be a more frequent blogger after the conference…..
-
-Commenting is not available in this weblog entry.
+Drop me a comment and let me know what you’re doing! I promise to be a more frequent blogger after the conference.....

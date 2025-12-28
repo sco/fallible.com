@@ -38,5 +38,3 @@ Then today, while Doug was at a training seminar, I read an entire Lisa Samson n
 But Doug knows me well. He gave me the two minutes it took to finish the book, and the five minutes it took to recover from having finished the book, and then we went to dinner and I told him all about it. But I'm not telling you! You need to read the book and become a Lisa Samson devotee in your own right. I know I'm one!  
   
 Thanks, Will and Lisa. We love you guys.
-
-Commenting is not available in this weblog entry.

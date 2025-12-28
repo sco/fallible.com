@@ -154,5 +154,3 @@ If Kerry is elected, their ability to provide good jobs in the community (to mem
 I'll bet you anything there was a member of the 1% in that St. Louis audience, a person who has chosen to blend in with his neighbors and friends and just be a regular guy. Too bad Kerry doesn't understand that looks are deceiving.  
   
 Somebody, please give him a copy of The Millionaire Next Door!
-
-Commenting is not available in this weblog entry.

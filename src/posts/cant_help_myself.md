@@ -57,8 +57,8 @@ comments:
   - author: "ericyaya"
     date: "2011-09-24T02:45:00"
     text: |
-      Take my hand. Take my whole life, too.  
-      For I canâ€™t help falling in love with you.  
+      "Take my hand. Take my whole life, too.  
+      For I can"t help falling in love with you."  
         
       I like the song very much.  
         
@@ -72,7 +72,7 @@ comments:
 
 It was less than one week after September 11, 2001, and Keillor was in Kansas City for a book signing and excerpt-reading event at the Uptown Theater. Many of the hundreds of people gathered to hear him had likely not ventured far from home in the past few days, but for Garrison Keillor, exceptions were made.
 
-There was a sadness hovering over the crowd, though. A reticence. We wanted to laugh at his Wobegon tales, forget the present and reminisce over an innocent past, but we couldn’t remember how. There was even, I felt, a mild distrust of each other in that theater, as if we feared the stranger right next to us—yes, the mild-mannered Lutheran woman in the jean jumper—might be a likely threat.
+There was a sadness hovering over the crowd, though. A reticence. We wanted to laugh at his Wobegon tales, forget the present and reminisce over an innocent past, but we couldn’t remember how. There was even, I felt, a mild distrust of each other in that theater, as if we feared the stranger right next to us--yes, the mild-mannered Lutheran woman in the jean jumper--might be a likely threat.
 
 “We need to sing,” he said, and led us to stand to our feet and hold our neighbors’ hands.
 
@@ -85,18 +85,16 @@ It was romantic.
 “Wise men say, only fools rush in.  
 But I can’t help falling in love with you.”
 
-*Utter fools have rushed in, killing people we can’t help being in love with…*
+*Utter fools have rushed in, killing people we can’t help being in love with...*
 
 “Shall I stay? Would it be a sin?  
 If I can’t help falling in love with you.”
 
-*But we’re still here. Not going anywhere. Can’t help it that we’re in this thing together…*
+*But we’re still here. Not going anywhere. Can’t help it that we’re in this thing together...*
 
 “Take my hand. Take my whole life, too.  
 For I can’t help falling in love with you.”
 
-We—each of us, all of us—looked into strangers’ faces in that theater, scanned eyes for signs of love, and found them. And we couldn’t help ourselves.
+We--each of us, all of us--looked into strangers’ faces in that theater, scanned eyes for signs of love, and found them. And we couldn’t help ourselves.
 
 Never mind what we were facing, we just couldn’t help falling in love.
-
-Commenting is not available in this weblog entry.
