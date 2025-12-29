@@ -49,6 +49,27 @@ jobs:
 
       - name: Trigger Amplify deployment
         run: |
+          # Check for in-progress deployments and stop them
+          IN_PROGRESS_JOBS=$(aws amplify list-jobs \
+            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+            --max-results 1 \
+            --query 'jobSummaries[?status==`PENDING` || status==`RUNNING`].jobId' \
+            --output text)
+          
+          if [ ! -z "$IN_PROGRESS_JOBS" ]; then
+            echo "Stopping in-progress deployment(s): $IN_PROGRESS_JOBS"
+            for JOB_ID in $IN_PROGRESS_JOBS; do
+              aws amplify stop-job \
+                --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                --job-id $JOB_ID || true
+            done
+            # Wait a moment for the job to stop
+            sleep 2
+          fi
+          
+          # Create and start new deployment
           JOB_ID=$(aws amplify create-deployment \
             --app-id ${{ secrets.AMPLIFY_APP_ID }} \
             --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
