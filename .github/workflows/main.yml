@@ -88,7 +88,8 @@ jobs:
                     --app-id ${{ secrets.AMPLIFY_APP_ID }} \
                     --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
                     --job-id $JOB_ID || true
-                  sleep 3
+                  echo "Waiting for job cancellation to complete..."
+                  sleep 5
                 else
                   echo "Job is in terminal state ($JOB_STATUS), waiting a moment for Amplify to update..."
                   sleep 5
@@ -128,22 +129,56 @@ jobs:
                 fi
               fi
               
-              # Retry creating deployment
+              # Retry creating deployment (wait a bit more to ensure previous job is fully cancelled)
+              echo "Waiting additional time for cancellation to complete..."
+              sleep 2
               echo "Retrying deployment creation..."
-              JOB_ID=$(aws amplify create-deployment \
+              
+              set +e
+              RETRY_OUTPUT=$(aws amplify create-deployment \
                 --app-id ${{ secrets.AMPLIFY_APP_ID }} \
                 --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
                 --query 'jobSummary.jobId' \
-                --output text)
+                --output text 2>&1)
+              RETRY_EXIT=$?
+              set -e
+              
+              if [ $RETRY_EXIT -ne 0 ]; then
+                echo "Failed to create deployment after retry: $RETRY_OUTPUT"
+                exit 1
+              fi
+              
+              # Trim whitespace and validate
+              JOB_ID=$(echo "$RETRY_OUTPUT" | xargs)
+              
+              if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ] || [ "$JOB_ID" = "" ]; then
+                echo "Failed to get valid job ID from create-deployment. Raw output: '$RETRY_OUTPUT'"
+                exit 1
+              fi
+              
+              echo "Created deployment with job ID: $JOB_ID"
             else
               echo "Error creating deployment: $CREATE_OUTPUT"
               exit 1
             fi
           else
-            JOB_ID=$CREATE_OUTPUT
+            # Trim whitespace and validate
+            JOB_ID=$(echo "$CREATE_OUTPUT" | xargs)
+            if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ]; then
+              echo "Error: Invalid job ID from create-deployment: '$CREATE_OUTPUT'"
+              exit 1
+            fi
+            echo "Created deployment with job ID: $JOB_ID"
+          fi
+          
+          # Final validation before starting
+          if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ]; then
+            echo "Error: Invalid job ID before starting deployment: '$JOB_ID'"
+            exit 1
           fi
           
           # Start the deployment
+          echo "Starting deployment: $JOB_ID"
           aws amplify start-deployment \
             --app-id ${{ secrets.AMPLIFY_APP_ID }} \
             --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
