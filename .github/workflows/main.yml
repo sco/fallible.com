@@ -49,8 +49,13 @@ jobs:
 
       - name: Trigger Amplify deployment
         run: |
-          aws amplify start-job \
+          JOB_ID=$(aws amplify create-deployment \
             --app-id ${{ secrets.AMPLIFY_APP_ID }} \
             --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-            --job-type RELEASE
+            --query 'jobSummary.jobId' \
+            --output text)
+          aws amplify start-deployment \
+            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+            --job-id $JOB_ID
 
