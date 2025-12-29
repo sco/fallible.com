@@ -62,21 +62,69 @@ jobs:
           if [ $CREATE_EXIT -ne 0 ]; then
             # Check if error is due to in-progress deployment
             if echo "$CREATE_OUTPUT" | grep -q "not finished"; then
-              echo "In-progress deployment detected, stopping it..."
-              # Get the active job ID from the branch
-              ACTIVE_JOB_ID=$(aws amplify get-branch \
+              echo "In-progress deployment detected, finding and stopping it..."
+              
+              # Find in-progress deployments
+              IN_PROGRESS_DEPLOYMENT=$(aws amplify list-deployments \
                 --app-id ${{ secrets.AMPLIFY_APP_ID }} \
                 --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                --query 'branch.activeJobId' \
-                --output text)
+                --max-results 10 \
+                --query 'deployments[?status==`PENDING` || status==`IN_PROGRESS`].jobId' \
+                --output text | head -n1)
               
-              if [ ! -z "$ACTIVE_JOB_ID" ] && [ "$ACTIVE_JOB_ID" != "None" ]; then
-                echo "Stopping job: $ACTIVE_JOB_ID"
-                aws amplify stop-job \
+              if [ ! -z "$IN_PROGRESS_DEPLOYMENT" ] && [ "$IN_PROGRESS_DEPLOYMENT" != "None" ]; then
+                echo "Found in-progress deployment: $IN_PROGRESS_DEPLOYMENT"
+                # Check job status before stopping
+                JOB_STATUS=$(aws amplify get-job \
                   --app-id ${{ secrets.AMPLIFY_APP_ID }} \
                   --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                  --job-id $ACTIVE_JOB_ID || true
-                sleep 3
+                  --job-id $IN_PROGRESS_DEPLOYMENT \
+                  --query 'job.summary.status' \
+                  --output text 2>/dev/null || echo "UNKNOWN")
+                
+                if [ "$JOB_STATUS" = "PENDING" ] || [ "$JOB_STATUS" = "RUNNING" ]; then
+                  echo "Stopping job: $IN_PROGRESS_DEPLOYMENT (status: $JOB_STATUS)"
+                  aws amplify stop-job \
+                    --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                    --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                    --job-id $IN_PROGRESS_DEPLOYMENT || true
+                  sleep 3
+                else
+                  echo "Job $IN_PROGRESS_DEPLOYMENT is in terminal state ($JOB_STATUS), waiting a moment..."
+                  sleep 5
+                fi
+              else
+                # Fallback: try to get active job from branch
+                ACTIVE_JOB_ID=$(aws amplify get-branch \
+                  --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                  --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                  --query 'branch.activeJobId' \
+                  --output text)
+                
+                if [ ! -z "$ACTIVE_JOB_ID" ] && [ "$ACTIVE_JOB_ID" != "None" ]; then
+                  echo "Checking active job: $ACTIVE_JOB_ID"
+                  JOB_STATUS=$(aws amplify get-job \
+                    --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                    --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                    --job-id $ACTIVE_JOB_ID \
+                    --query 'job.summary.status' \
+                    --output text 2>/dev/null || echo "UNKNOWN")
+                  
+                  if [ "$JOB_STATUS" = "PENDING" ] || [ "$JOB_STATUS" = "RUNNING" ]; then
+                    echo "Stopping active job: $ACTIVE_JOB_ID"
+                    aws amplify stop-job \
+                      --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                      --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                      --job-id $ACTIVE_JOB_ID || true
+                    sleep 3
+                  else
+                    echo "Active job is in terminal state, waiting..."
+                    sleep 5
+                  fi
+                else
+                  echo "No active job found, waiting before retry..."
+                  sleep 5
+                fi
               fi
               
               # Retry creating deployment
