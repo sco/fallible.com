@@ -49,32 +49,51 @@ jobs:
 
       - name: Trigger Amplify deployment
         run: |
-          # Check for in-progress deployments and stop them
-          IN_PROGRESS_JOBS=$(aws amplify list-jobs \
-            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-            --max-results 1 \
-            --query 'jobSummaries[?status==`PENDING` || status==`RUNNING`].jobId' \
-            --output text)
-          
-          if [ ! -z "$IN_PROGRESS_JOBS" ]; then
-            echo "Stopping in-progress deployment(s): $IN_PROGRESS_JOBS"
-            for JOB_ID in $IN_PROGRESS_JOBS; do
-              aws amplify stop-job \
-                --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                --job-id $JOB_ID || true
-            done
-            # Wait a moment for the job to stop
-            sleep 2
-          fi
-          
-          # Create and start new deployment
-          JOB_ID=$(aws amplify create-deployment \
+          # Try to create deployment, handle in-progress jobs if needed
+          set +e
+          CREATE_OUTPUT=$(aws amplify create-deployment \
             --app-id ${{ secrets.AMPLIFY_APP_ID }} \
             --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
             --query 'jobSummary.jobId' \
-            --output text)
+            --output text 2>&1)
+          CREATE_EXIT=$?
+          set -e
+          
+          if [ $CREATE_EXIT -ne 0 ]; then
+            # Check if error is due to in-progress deployment
+            if echo "$CREATE_OUTPUT" | grep -q "not finished"; then
+              echo "In-progress deployment detected, stopping it..."
+              # Get the active job ID from the branch
+              ACTIVE_JOB_ID=$(aws amplify get-branch \
+                --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                --query 'branch.activeJobId' \
+                --output text)
+              
+              if [ ! -z "$ACTIVE_JOB_ID" ] && [ "$ACTIVE_JOB_ID" != "None" ]; then
+                echo "Stopping job: $ACTIVE_JOB_ID"
+                aws amplify stop-job \
+                  --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                  --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                  --job-id $ACTIVE_JOB_ID || true
+                sleep 3
+              fi
+              
+              # Retry creating deployment
+              JOB_ID=$(aws amplify create-deployment \
+                --app-id ${{ secrets.AMPLIFY_APP_ID }} \
+                --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
+                --query 'jobSummary.jobId' \
+                --output text)
+            else
+              echo "Error creating deployment: $CREATE_OUTPUT"
+              exit 1
+            fi
+          else
+            JOB_ID=$CREATE_OUTPUT
+          fi
+          
+          # Start the deployment
           aws amplify start-deployment \
             --app-id ${{ secrets.AMPLIFY_APP_ID }} \
             --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
