@@ -168,10 +168,10 @@ async function main() {
         }
       }
 
-      // Pause 3 seconds between requests (except after the last one)
+      // Pause  between requests (except after the last one)
       if (i < slugs.length - 1) {
-        console.log("Waiting 3 seconds before next request...");
-        await sleep(3000);
+        console.log("Waiting before next request...");
+        await sleep(8000);
       }
     }
 
