@@ -1,12 +1,18 @@
 ---
 layout: base2.njk
 title: Fallible
+pagination:
+  data: collections.posts
+  size: 10
 ---
 
-<ul>
-  {% for post in collections.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.data.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in pagination.items %}
+  <article style="margin-bottom: 4em">
+    <h2 class="title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+    {{ post.content | safe }}
+    <p><em>Posted {{post.data.date | postDate}}</em> &mdash; <a href="{{ post.url }}">Permalink</a></p>
+  </article>
+{% endfor %}
+
+
+<a href="/archive">All Posts</>

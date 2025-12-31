@@ -1,0 +1,42 @@
+---
+title: "(No Title)"
+date: "2002-11-20T13:47:00"
+comments:
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "good for you - i know you'll enjoy it."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Lisa, What career were you pursuing? The thing about this girl is she LOVES what she's doing!"
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "actually, katy...it isn't one specific career that i started - i went to college for theatre back in the day, and i don't think i'd go back to that again(fun as it was:). more like the whole idea of going back to school and figuring out which new career to persue is very appealing these days..."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Lisa, You know me, I'm ALL about the school thing! I love it so much, I would do it more than one semester every 13 years (my average...) if I weren't so flippin' old. It will not help me write any better than if I just, well, write, so I've decided to invest the time and energy in writing. But school definitely helps you find what you love! Theatre would be wonderful--I would love that, too. Psychology is where I shine academically. Big fun, also. Especially for us neurotics!"
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "i really rthink that in spite of my many nerousis, if i studied psychology at any length i'd go nuts from thinking so hard about it all...overly anylitical mind that i posess. as for old, i'm 30, and in talking about going back to school with some random person (random in my sphere of folks, not random in general) recently, they sized me up and stated that it wasn't too late yet :). i've also given serious though to just writing and seeing what happens, if only to get out all that's in there patiently knocking on the door of my keyboard, pen, what have you. i'm very inspired these days after watching the anne lamott documentary half a dozen times through..."
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "typo central! guess i'd better go start that stew i've been putting off instead of lounging here at fallible..."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Lisa, Anne Lamott doc? Where? When? I'll just bet I've gotta' have cable..."
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "nah...we don't have cable. you can find it here...best 25 bucks i've spent in quite some time."
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: "oooh...no html allowed. well, here's the link - http://www.barclayagency.com/lamottvid.html - cut and paste away!"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Thanks, Lisa! I am asking for the documentary from a kid for Christmas. I'm excited!"
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: |
+      hmmm...i work in a coffeeshop (when i'm not raising three kids), and i'm strongly thinking about picking up where i left off on persuing that career. the backwards trend that is my thought life, i guess :)  
+      \-----
+---
+
+"My husband keeps asking me when I'm going to get a career," says 25-year-old Hannah, who works at both Starbuck's and at a Hallmark store. She loves her jobs, gets great discounts at both of them, has made terrific friends with her co-workers and her customers, and is happy. "Careers are overrated," I say, as if I know. Not only have I never had a career, I rarely hold a job. "I can't tell you how many people I know who resent their careers, or who end up trading them in for a plain old job they love." It's the truth. My RN friend, Nancy, chucked it all and now creates custom stained-glass windows for word-of-mouth clientele. It had never occurred to her in her youth that her temperament is so well suited for creative pursuits. Another friend and I met in the early 1970s, when we worked as data entry recorders for a pharmaceutical firm. Helen recently walked away from her own insurance agency, which she had built from the ground up, gave away her possessions and the considerable proceeds of her retirement accounts, and moved to Phoenix, where she gives her time to a local ministry. She doesn't know where her next dollar is coming from, only that it is coming, because of God. Her happiness is astonishing. "Tell your hubby you're considering your options," I say. "Tell him you've had some great conversations with fascinating people, and that there are indeed a number of wonderful opportunities out there." "And then what?" she asks. "Then have yourself another venti latte breve with sugar-free vanilla syrup," I say, "and give it some thought."

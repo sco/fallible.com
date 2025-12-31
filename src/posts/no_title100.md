@@ -1,0 +1,48 @@
+---
+title: "(No Title)"
+date: "2002-04-17T16:59:00"
+comments:
+  - author: "sara"
+    date: "1969-12-31T18:00:00"
+    text: "I do check in here on a semi-regular basis, much like I get to access the internet on a semi-regular basis. :)"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Cro--Yeah. That way he won't miss you so much."
+  - author: "sco"
+    date: "1969-12-31T18:00:00"
+    text: "okay you two, that's quite enough of that."
+  - author: "Bethany"
+    date: "1969-12-31T18:00:00"
+    text: "i am forlorn, for alas, i am here and not there. i hope you all had a lovely time in michigan. i'll want to hear all impressions when you return."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Bet--Here, but for your senior prom, go thou. Have a great evening! I am getting to know Rachel here, and what a great girl she is! We have had a wonderful, productive time, but we've missed you."
+  - author: "sara"
+    date: "1969-12-31T18:00:00"
+    text: "where in michigan? it's a lovely state, isn't it?"
+  - author: "rachel"
+    date: "1969-12-31T18:00:00"
+    text: "what a fun time it was. thanks for the great discussions and the many many laughs. i hope scott recovers. poor little lamb. at least we didnt paint each other's nails and talk about lip gloss. we aren't without mercy. i hope this finds you both home snug and safe. against all odds, there was a place for me on the first flight out of chicago back to nashville. i wanted the theme to chariots of fire to play as i boarded the plane. i'm so glad to be home. i will look forward to seeing you again!! thank you again, so much, for the tote bag. <br>grinding: don't play that game."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Sara--Do you still check in here, you Foolish girl? I see you've been in Michigan, too! We were at the Calvin Festival of Faith and Writing in Grand Rapids. Didn't see much besides the campus--airport, hotel and campus in close proximity. But all was blooming and beautiful!"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Rachel--As my mom would say, \"cussin' and discussin'\"--only, of course, we didn't cuss, as that is not acceptable within the CBA! Rachel, you are a keeper--too bad the laughs had to come to a \"grinding\" halt. Hope to meet you again soon!"
+  - author: "bethany"
+    date: "1969-12-31T18:00:00"
+    text: "i have a feeling that if i had neglected my highschool responsibilities and gone to calvin, this would all make a lot more sense to me... :)"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Bet--Of the many lively discussions Scott, Rachel and I enjoyed on topics about culture, one that came up was kids your age going to dance clubs where some of the dancers are \"grinding.\" I am of the opinion that some \"dance moves\" are meant to be done in the privacy of one's home, with a marriage partner!! Call me old-fashioned. We talked of many other equally fascinating things. Tee, hee."
+  - author: "rachel"
+    date: "1969-12-31T18:00:00"
+    text: "hearing the word \"grinding\" come from katy's mouth: utterly hilarious."
+  - author: "Cro"
+    date: "1969-12-31T18:00:00"
+    text: |
+      No Mrs. Raymond; You really should ask him.  
+      \-----
+---
+
+My son Scott invited me to go to Michigan with him to a writer's conference! We're leaving today for a five-day trip. Spending time alone with an adult child is just like when I spend time with my mother, only in reverse. For example, I must allow Scott to snicker when I obsess over silly travelling details, and realize that, of course, he's right--I need to chill. I would be snickering at my mom, too. And while I've taken to asking my mother if she needs to use the bathroom before we leave the house, I must resist asking Scott if he needs to go potty. Please, dear God, don't let him ask me!

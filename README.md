@@ -1,8 +1,9 @@
 # fallible.com
 
-This is the personal weblog of Katy Raymond, fallible.com (active 2000-2012). The original site was managed with Expression Engine. The new version is published with Eleventy.
+This is fallible.com, the personal weblog of Katy Raymond (active 2000-2012). The site will automatically update when changes are pushed to the main branch on Github.
 
-When the main branch is pushed to Github, the deploy action will automatically build the static site and sync it to S3.
+The original site was managed with Expression Engine. In 2026,
+it was migrated to this codebase, managed with Eleventy.
 
 
 ## Usage
@@ -30,18 +31,24 @@ The simplest way to update the content of the site is to use the Github UI to br
 - [x] render comments, post date, etc
 - [x] re-implement design
 - [x] CI to deploy to s3
-- [] update Amplify app on deploy
+- [x] posts on home page
+- [x] formatted dates everywhere
+- [x] archive page
+- [x] restore images
+- [] auto deployment
+  - Amplify? GH pages? cloudflare pages?
 - [] fix special characters
   - eg https://main.d13xg7pv9e0jn3.amplifyapp.com/posts/because-im-so-fallible-you-might-win-a-free-book/
-- [] modernize markup and metadata
-- [] responsive design
-- [] script to actually get all slugs
-- [] restore images
-- [] favicon
-- [] social posting tags
 - [] handle all old URLs (permanent redirect or nice 404)
   - [x] /fallible/comments/SLUG
+- [] migrate fallible.com domain
+
+
+## Nice to have
+- [] modernize markup and metadata
+- [] responsive design
+- [] favicon
+- [] social posting tags
 - [] search
 - [] dad's posts
-- [] migrate fallible.com domain
 - [] test handling/redirects, including http/https, www or not, various permalink formats, etc

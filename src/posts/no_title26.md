@@ -1,0 +1,48 @@
+---
+title: "(No Title)"
+date: "2002-10-17T23:06:00"
+comments:
+  - author: "Steph"
+    date: "1969-12-31T18:00:00"
+    text: "she laughs. :)"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Adorable. And they get even cuter with age. Tee, hee."
+  - author: "bethany"
+    date: "1969-12-31T18:00:00"
+    text: "hehe...i had to have my friend lindsey explain to me what a girdle was, so i am not as savvy as one might expect, but i at least can tell the difference between bras and panties. :)<br><br>cute story, katy. glad to hear from you again...i missed your words"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Hey, Bethany! You should ask your friend Lindsey to explain what a \"garter belt\" is. When going through my mom's house to empty it, I found my garter belt from when I first wore nylon stockings (not pantyhose) in the seventh grade. It's a bonafide relic. Doug thinks it's a wild pair of panties! ;)"
+  - author: "pastordave"
+    date: "1969-12-31T18:00:00"
+    text: "um, the whole panty thing.... <br>uh, no comment. :-) <br><br>however i did want to say hello<br>and ask how i might pray for you...<br>but if there's suppositories involved,<br>well, maybe i don't want specifics <br>after all... but i WILL pray for you!<br>;)<br>so are you still in the hospital?<br><br><br>"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Pastor Dave, They kicked me out of the hospital after five days. My mom needed the bed for ten right after that! Your offer to pray means a lot to me, so much that I sent you a LONG list via email! Thanks."
+  - author: "Steph"
+    date: "1969-12-31T18:00:00"
+    text: "Thanks to my mother, I can perfectly identify all four undergarments on that list. I'm a bit concerned. I shouldn't know about girdles. Or garter belts."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Steph--Your dear mother has provided you with a classical education in articles of female containment. Thank her!"
+  - author: "Steph"
+    date: "1969-12-31T18:00:00"
+    text: "I suppose this isn't the best time to point out that my grandfather wore a girdle to my parents' wedding...."
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Is your Mom OK?"
+  - author: "Steph"
+    date: "1969-12-31T18:00:00"
+    text: "I'm convinced that one of these days her 80s-ish passion for hairspray will result in her asphyxiation, but otherwise she's fine. Why do you ask?"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Steph, I meant has she recovered from her father wearing a girdle to her wedding...but now I'm concerned about the hairspray, too. (Just kidding.)"
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: |
+      aren't men cute? ;)  
+      \-----
+---
+
+The way this year's gone, I finally decided to keep a packed overnight bag in the car, just in case. And I'm not talking in case we decide to stop off at a quaint B&B for the night. The bag has served me well and often, including when the doc at the ER decided to admit me a couple of Sundays ago. I knew I had the basics with me, the most basic of basics being underwear. I'd gotten my hair cut a few days earlier, which was good since I went combless and brushless for the ensuing five days. I'd forgotten to pop a brush into the bag. I'm thinking God gave us five fingers on each hand for a reason. The underwear situation was OK for a couple of days, which gave Doug some time to get his bearings before I came begging for a supply from home. The laundry was all caught up, with properly folded piles and everything. Furthermore, as I'm the only woman currently residing in the home, I couldn't imagine he would find this assignment difficult. "Bring me three pairs, just in case I'm here a while," I said. The next day, when he visited, I inquired after my underwear, already knowing in my heart of hearts that he'd forgotten. For that very reason, I'd kept one pair in reserve. "I knew I was forgetting something!" he said. Technically, of course, he was forgetting everything, since underwear was the only thing I'd requested. He made up for it the next day. "I brought four pairs," he announced, proud that he'd overcompensated by a full pair. I pulled them out of the plastic bag. One pair of panties, two bras and a girdle. He claims he mistook them all for panties. I'm not that kind of girl.
