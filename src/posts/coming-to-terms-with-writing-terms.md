@@ -20,5 +20,5 @@ Today, my husband Doug and I are both writing our takes on some novel-writing te
 
 So, dear fallible ones, tell me: Which one of us, [Doug](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html) or me, got the most out of the writing conference? Think we got our money’s worth?
 
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html)  
+  
 [Check out the Doug’s “Marginal’ take on these terms.](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html)

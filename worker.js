@@ -17,8 +17,12 @@ export default {
     }
 
     const response = await env.ASSETS.fetch(request);
-    const res = new Response(response.body, response);
-    res.headers.set('Content-Security-Policy', 'upgrade-insecure-requests');
-    return res;
+    const headers = new Headers(response.headers);
+    headers.set('Content-Security-Policy', 'upgrade-insecure-requests');
+    return new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers,
+    });
   },
 };
