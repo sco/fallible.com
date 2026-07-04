@@ -1,186 +1,28 @@
-#- name: Configure AWS credentials
-#  uses: aws-actions/configure-aws-credentials@v4
-#  with:
-#    role-to-assume: arn:aws:iam::<ACCOUNT_ID>:role/<ROLE_NAME>
-#    aws-region: us-east-1
-
-
-name: Build & Deploy Eleventy to S3
+name: Build & Deploy to Cloudflare Workers
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 permissions:
   contents: read
-  id-token: write   # required for OIDC
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
 
-      - name: Install dependencies
-        run: npm ci
+      - run: npm ci
 
-      - name: Build site
-        run: npx eleventy
+      - run: npm run build
 
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
+      - uses: cloudflare/wrangler-action@v3
         with:
-          role-to-assume: arn:aws:iam::422813524699:role/fallible-deploy
-          aws-region: us-west-1
-
-      - name: Deploy to S3
-        run: |
-          aws s3 sync _site s3://fallible.com \
-            --delete \
-            --exact-timestamps
-
-      - name: Trigger Amplify deployment
-        run: |
-          # Try to create deployment, handle in-progress jobs if needed
-          set +e
-          CREATE_OUTPUT=$(aws amplify create-deployment \
-            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-            --query 'jobSummary.jobId' \
-            --output text 2>&1)
-          CREATE_EXIT=$?
-          set -e
-          
-          if [ $CREATE_EXIT -ne 0 ]; then
-            # Check if error is due to in-progress deployment
-            if echo "$CREATE_OUTPUT" | grep -q "not finished"; then
-              echo "In-progress deployment detected, extracting job ID from error..."
-              
-              # Extract job number from error message (e.g., "The last job(deployment) 9 was not finished")
-              JOB_NUM=$(echo "$CREATE_OUTPUT" | grep -o 'job(deployment) [0-9]*' | grep -o '[0-9]*' | head -n1 || echo "")
-              
-              if [ ! -z "$JOB_NUM" ]; then
-                # Zero-pad to 10 digits (Amplify job IDs are 10 digits)
-                JOB_ID=$(printf "%010d" $JOB_NUM)
-                echo "Extracted job ID: $JOB_ID"
-                
-                # Check job status before stopping
-                JOB_STATUS=$(aws amplify get-job \
-                  --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                  --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                  --job-id $JOB_ID \
-                  --query 'job.summary.status' \
-                  --output text 2>/dev/null || echo "UNKNOWN")
-                
-                echo "Job $JOB_ID status: $JOB_STATUS"
-                
-                if [ "$JOB_STATUS" = "PENDING" ] || [ "$JOB_STATUS" = "RUNNING" ]; then
-                  echo "Stopping job: $JOB_ID"
-                  aws amplify stop-job \
-                    --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                    --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                    --job-id $JOB_ID || true
-                  echo "Waiting for job cancellation to complete..."
-                  sleep 5
-                else
-                  echo "Job is in terminal state ($JOB_STATUS), waiting a moment for Amplify to update..."
-                  sleep 5
-                fi
-              else
-                # Fallback: try to get active job from branch
-                echo "Could not extract job ID from error, checking active job from branch..."
-                ACTIVE_JOB_ID=$(aws amplify get-branch \
-                  --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                  --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                  --query 'branch.activeJobId' \
-                  --output text)
-                
-                if [ ! -z "$ACTIVE_JOB_ID" ] && [ "$ACTIVE_JOB_ID" != "None" ]; then
-                  echo "Checking active job: $ACTIVE_JOB_ID"
-                  JOB_STATUS=$(aws amplify get-job \
-                    --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                    --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                    --job-id $ACTIVE_JOB_ID \
-                    --query 'job.summary.status' \
-                    --output text 2>/dev/null || echo "UNKNOWN")
-                  
-                  if [ "$JOB_STATUS" = "PENDING" ] || [ "$JOB_STATUS" = "RUNNING" ]; then
-                    echo "Stopping active job: $ACTIVE_JOB_ID"
-                    aws amplify stop-job \
-                      --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                      --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                      --job-id $ACTIVE_JOB_ID || true
-                    sleep 3
-                  else
-                    echo "Active job is in terminal state, waiting..."
-                    sleep 5
-                  fi
-                else
-                  echo "No active job found, waiting before retry..."
-                  sleep 5
-                fi
-              fi
-              
-              # Retry creating deployment (wait a bit more to ensure previous job is fully cancelled)
-              echo "Waiting additional time for cancellation to complete..."
-              sleep 2
-              echo "Retrying deployment creation..."
-              
-              set +e
-              RETRY_OUTPUT=$(aws amplify create-deployment \
-                --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-                --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-                --query 'jobSummary.jobId' \
-                --output text 2>&1)
-              RETRY_EXIT=$?
-              set -e
-              
-              if [ $RETRY_EXIT -ne 0 ]; then
-                echo "Failed to create deployment after retry: $RETRY_OUTPUT"
-                exit 1
-              fi
-              
-              # Trim whitespace and validate
-              JOB_ID=$(echo "$RETRY_OUTPUT" | xargs)
-              
-              if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ] || [ "$JOB_ID" = "" ]; then
-                echo "Failed to get valid job ID from create-deployment. Raw output: '$RETRY_OUTPUT'"
-                exit 1
-              fi
-              
-              echo "Created deployment with job ID: $JOB_ID"
-            else
-              echo "Error creating deployment: $CREATE_OUTPUT"
-              exit 1
-            fi
-          else
-            # Trim whitespace and validate
-            JOB_ID=$(echo "$CREATE_OUTPUT" | xargs)
-            if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ]; then
-              echo "Error: Invalid job ID from create-deployment: '$CREATE_OUTPUT'"
-              exit 1
-            fi
-            echo "Created deployment with job ID: $JOB_ID"
-          fi
-          
-          # Final validation before starting
-          if [ -z "$JOB_ID" ] || [ "$JOB_ID" = "None" ] || [ "$JOB_ID" = "null" ]; then
-            echo "Error: Invalid job ID before starting deployment: '$JOB_ID'"
-            exit 1
-          fi
-          
-          # Start the deployment
-          echo "Starting deployment: $JOB_ID"
-          aws amplify start-deployment \
-            --app-id ${{ secrets.AMPLIFY_APP_ID }} \
-            --branch-name ${{ secrets.AMPLIFY_BRANCH_NAME }} \
-            --job-id $JOB_ID
-
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

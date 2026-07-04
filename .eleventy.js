@@ -9,7 +9,10 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
   eleventyConfig.addFilter("postDate", (dateObj) => {
-    return DateTime.fromISO(dateObj, { zone: "utc" }).toLocaleString(DateTime.DATE_FULL);
+    const dt = dateObj instanceof Date
+      ? DateTime.fromJSDate(dateObj, { zone: "utc" })
+      : DateTime.fromISO(dateObj, { zone: "utc" });
+    return dt.toLocaleString(DateTime.DATE_FULL);
   });
   return {
     dir: {

@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "fallible-com",
+  "main": "worker.js",
+  "compatibility_date": "2025-07-04",
+  "assets": {
+    "directory": "./_site",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page"
+  }
+}

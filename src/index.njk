@@ -15,4 +15,6 @@ pagination:
 {% endfor %}
 
 
-<a href="/archive">All Posts</>
+{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Newer</a> &nbsp; {% endif %}
+<a href="/archive">All Posts</a>
+{% if pagination.href.next %} &nbsp; <a href="{{ pagination.href.next }}">Older &rarr;</a>{% endif %}
