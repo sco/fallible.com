@@ -68,7 +68,7 @@ Dang! And, technically, ding, too!
 
 But our homeowners insurance company has cut us the first (but not the last) check, and the outfit who will be replacing the roof and siding on our entire house is working up their bid as we speak. I’ve seen more measuring tapes whipped out and more blueprints mulled over this past week than at any time since we built this house fifteen years ago. Whew!
 
-Our two neighbors to the south (the only ones we’ve spoken to so far) also will be making claims, so I’m glad to find out it wasn’t just us. I’d talked to everyone in my family to see if their properties were OK, and they all replied with some variation of “What hail?”
+Our two neighbors to the south (the only ones we’ve spoken to so far) also will be making claims, so I’m glad to find out it wasn’t just us. I’d talked to everyone in my family to see if their properties were OK, and they all replied with some variation of “What hail?’
 
 Sometimes in life, you kind of feel like a target for crazy stuff to happen to you, and well, the stigma is more than I need right now. :) So yeah, I’m grateful we’re not completely alone!
 

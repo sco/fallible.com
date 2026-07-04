@@ -102,7 +102,7 @@ comments:
       ...and it is all my fault.
   - author: "callgirls"
     date: "2011-01-06T05:10:00"
-    text: "Most sexually reproducing animals spend their lives as diploid organisms, with the haploid stage reduced to single cell gametes.The gametes of animals have male and female forms\"”spermatozoa and egg cells. These gametes combine to form embryos which develop into a new organism."
+    text: "Most sexually reproducing animals spend their lives as diploid organisms, with the haploid stage reduced to single cell gametes.The gametes of animals have male and female forms\"’spermatozoa and egg cells. These gametes combine to form embryos which develop into a new organism."
 ---
 
 I am such a sucker for a good catalog filled to the brim with stuff which I could, technically, afford but which I wouldn't dream of dropping the big bucks on.  

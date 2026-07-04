@@ -34,7 +34,7 @@ Because for those of us who are first-generation Americans, there’s always the
 
 At one time, here in Kansas City, I had my dad and his siblings---Aunt Cathy, Aunt Mary, Uncle Bernard, Uncle Eddy, and Uncle Francis---all thick with Scottish brogues that infused me with an identity I’ve never shaken off. Nor have I ever wanted to.
 
-The first song I ever learned besides, I guess, “Happy Birthday to You,” was a song Bing Crosby recorded called “Dear Old Donegal.” My father taught it to me like this:
+The first song I ever learned besides, I guess, “Happy Birthday to You,’ was a song Bing Crosby recorded called “Dear Old Donegal.’ My father taught it to me like this:
 
 Some years ago this very day  
 I left the Port of Cork  
@@ -49,7 +49,7 @@ I could sing this song in its entirety by the time I was four. In fact, my littl
 
 When Dad and his siblings had a gathering of the clan for a wedding or a funeral (my father insisted wryly that these were essentially the same event), you can bet the booze flowed freely. And when they’d each had a few drinks, their brogues thickened to the point that singing was the only thing left to do.
 
-My dad and his siblings, on these occasions, would pull Scottish and Irish songs out of their repertoires and we kids couldn’t understand a single word they sang. It was fantastic and mysterious, the way the six of them could become one unit as they crooned “My Heart Belongs To Glasgow.” I didn’t drink, but they could make me cry like a baby with the heartfelt way they belted out, “There’s something the matter with Glasgow, ‘cause it’s spinning roond and roond....” I’m such an easy mark.
+My dad and his siblings, on these occasions, would pull Scottish and Irish songs out of their repertoires and we kids couldn’t understand a single word they sang. It was fantastic and mysterious, the way the six of them could become one unit as they crooned “My Heart Belongs To Glasgow.’ I didn’t drink, but they could make me cry like a baby with the heartfelt way they belted out, “There’s something the matter with Glasgow, ‘cause it’s spinning roond and roond....’ I’m such an easy mark.
 
 And then there was this McKenna family favorite:
 
@@ -60,15 +60,15 @@ Before you gang awa
 There’s a wee wifey waitin  
 In a wee But ‘n Ben  
 If you can say  
-“It’s a braw bricht moonlicht nicht”  
+“It’s a braw bricht moonlicht nicht’  
 Then you’re a richt ye ken.
 
-My father sang his way into and through my life, and today I hear him singing yet again. Besides drinking songs and nostalgic songs fondly recalling the Auld Sod, Dad loved American show tunes, and the way he infused even these with a beautiful brogue improved them in a way most kids never experienced. Dad had come from such a disadvantaged background that I found it inspiring the way he took to lyrics like “To Dream the Impossible Dream” and managed to convince the listener, at least for a moment, that any circumstances could be overcome.
+My father sang his way into and through my life, and today I hear him singing yet again. Besides drinking songs and nostalgic songs fondly recalling the Auld Sod, Dad loved American show tunes, and the way he infused even these with a beautiful brogue improved them in a way most kids never experienced. Dad had come from such a disadvantaged background that I found it inspiring the way he took to lyrics like “To Dream the Impossible Dream’ and managed to convince the listener, at least for a moment, that any circumstances could be overcome.
 
-He’d get in a Sound of Music mood and stroll through the house exhorting us to “Climb Every Mountain” until we believed we actually could. If he thought one of us might be feeling a bit left out of the action, he’d launch into a stirring version of “You’ll Never Walk Alone.” I always got a huge kick out of him singing “What Kind of Fool Am I?” The next lines are “who never fell in love, It seems that I’m the only one that I have been thinking of....” This cracked me up because he and my mother were married for 33 years, and as far as I could tell, never had eyes for anyone else.
+He’d get in a Sound of Music mood and stroll through the house exhorting us to “Climb Every Mountain’ until we believed we actually could. If he thought one of us might be feeling a bit left out of the action, he’d launch into a stirring version of “You’ll Never Walk Alone.’ I always got a huge kick out of him singing “What Kind of Fool Am I?’ The next lines are “who never fell in love, It seems that I’m the only one that I have been thinking of....’ This cracked me up because he and my mother were married for 33 years, and as far as I could tell, never had eyes for anyone else.
 
-This one made me tear up a bit, because it seems he sang it more toward the end of his life, perhaps as he realized his own personal party was winding down. “The party’s over. It’s time to call it a day. They’ve burst your pretty balloon, and taken the moon away....”
+This one made me tear up a bit, because it seems he sang it more toward the end of his life, perhaps as he realized his own personal party was winding down. “The party’s over. It’s time to call it a day. They’ve burst your pretty balloon, and taken the moon away....’
 
-The hymns my father loved to sing in church, when I would stand next to him and sing melody to his harmony, mean the most to me these days. I cannot sing “Crown Him With Many Crowns” without hearing a brogue supplying the harmony, even when I sing alone. I am left here with only memories of his music and of his life. I am glad I stood near him for all those years, though, our voices blending and our faith building as we worshipped our God side by side.
+The hymns my father loved to sing in church, when I would stand next to him and sing melody to his harmony, mean the most to me these days. I cannot sing “Crown Him With Many Crowns’ without hearing a brogue supplying the harmony, even when I sing alone. I am left here with only memories of his music and of his life. I am glad I stood near him for all those years, though, our voices blending and our faith building as we worshipped our God side by side.
 
 My father died twenty-five years ago today. I miss him so much, and his beautiful singing, and all the brogues that are now forever gone from my life.

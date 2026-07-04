@@ -11,7 +11,7 @@ Both of our mothers became young widows. In fact, neither my mom nor my mother-i
 
 For one thing, the houses---purchased to shelter multiple children, as ours is meant to do---were just too large. Our mothers ended up sequestering themselves into one or two favored rooms and using the rest of the house like a paid storage unit---not good. There were closed bedroom doors that could not be opened (if you valued your safety!) unless it was to fling the latest trashbag filled with junk mail on top of the heap.
 
-There were basements and attics and garages so stuffed with stuff that our mothers finally took to using their existence as an unveiled threat: “You just wait. Someday, you’ll have to sort all this out. I don’t intend to do one thing except add to it, so there.” Yikes!!
+There were basements and attics and garages so stuffed with stuff that our mothers finally took to using their existence as an unveiled threat: “You just wait. Someday, you’ll have to sort all this out. I don’t intend to do one thing except add to it, so there.’ Yikes!!
 
 These family homes were shut down many years ago now, when we had no choice but to move our mothers into care facilities. I still remember the months spent sorting and purging and dividing the valuables and giving away, selling, and trashing the rest. A truly exhausting (and yes, I’ll go ahead and say it, thankless) job. Our mothers never understood what we went through, and that’s fine.
 

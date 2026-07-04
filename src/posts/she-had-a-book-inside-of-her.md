@@ -16,7 +16,7 @@ comments:
     text: "I am inspired. I am learning the lesson that it's wonderfully fantastic for me to be me. And you know what? I am excited about the possibilities!"
 ---
 
-My beloved grandmother died when I was 19, and now I’ve just turned 57. It’s been 38 years (longer, really...) since I heard her say those words so many utter at some point in their lives. “I’ve got a book inside of me.”
+My beloved grandmother died when I was 19, and now I’ve just turned 57. It’s been 38 years (longer, really...) since I heard her say those words so many utter at some point in their lives. “I’ve got a book inside of me.’
 
 I was young and naive and honestly didn’t know what she meant. But the only time I ever saw her with a pencil in her hand was when she was scribbling out a recipe for homemade cream puffs, or making a grocery list, or perhaps jotting a note of thanks or condolence to a dear friend.
 
@@ -30,7 +30,7 @@ I miss her wisdom, her teaching of homemaking skills, her cooking (best pan-frie
 
 Most of all, though, I miss the book she didn’t write. I never even knew how to ask her what it would have been about, had she gathered the momentum to begin it. My father was a frustrated poet (and a frustrated banker because of it....) and I didn’t know how to broach a subject with her that might have caused her (as it did him) angst I couldn’t soften.
 
-“I’ve got a book inside of me.”
+“I’ve got a book inside of me.’
 
 I inherited so many belongings of my grandmother’s, but the items that have disturbed me most over these 38 years since her death are her unfinished projects. Since she taught me to sew and knit and crochet and embroider and quilt, it was assumed by my mother and non-crafty sisters that I would complete what Grandma started---that I somehow owed it to the family to do so.
 

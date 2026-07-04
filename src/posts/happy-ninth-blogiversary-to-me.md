@@ -39,9 +39,9 @@ comments:
     text: "This are been the thanking Moments for the people as they celebrate the Happy Ninth Blogiversary to her.People here came to wish her the best complements."
 ---
 
-Nine years ago today, I began my fallible exploits in earnest with my shortest blog post ever: “I find these truths to be self-evident...but, then again, I could be wrong.”
+Nine years ago today, I began my fallible exploits in earnest with my shortest blog post ever: “I find these truths to be self-evident...but, then again, I could be wrong.’
 
-I started the whole thing on a dare, really. My oldest son Scott said he thought I might be able to make a go of blogging, and that maybe I’d even be able to “monetize some dynamic eyeballs.”
+I started the whole thing on a dare, really. My oldest son Scott said he thought I might be able to make a go of blogging, and that maybe I’d even be able to “monetize some dynamic eyeballs.’
 
 You probably know I’ve never monetized an eyeball or any other body part, but MAN have I had fun!
 

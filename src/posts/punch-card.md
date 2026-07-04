@@ -24,9 +24,9 @@ I am not a casual visitor. If I counted all the sleepless nights I’ve spent on
 
 It doesn’t take long in this setting, though---maybe only three days---before the nice guy who checks out your morning eggs in the cafeteria asks if you are entitled to the employee discount. You look down at your disheveled self, unshampooed for half a week, wrinkled, and in houseslippers, and wonder what he’s been smoking. But he’s serious, because you are now a regular. He’s seen you wandering the halls on his breaks, going in and out of various business offices on the premises, and you don’t even carry your purse anymore. You pull dollars out of your pocket like a worker who’s just left her post for a few seconds---which is exactly the truth.
 
-“Not an employee,” you say, “though the discount would come in handy. I am here a lot.” You try not to spill over into the morose, try not to give this sweet kid more information than he asked for. Your mother is not his problem. He only wants to know whether he should upcharge you or not---that is all.
+“Not an employee,’ you say, “though the discount would come in handy. I am here a lot.’ You try not to spill over into the morose, try not to give this sweet kid more information than he asked for. Your mother is not his problem. He only wants to know whether he should upcharge you or not---that is all.
 
-“Well, you should be an employee,” he says, with a sincerity and enthusiasm that shocks your ragged self. “You have a great personality!”
+“Well, you should be an employee,’ he says, with a sincerity and enthusiasm that shocks your ragged self. “You have a great personality!’
 
 You do? This is news to you, like if you heard there was a massive earthquake and tsunami in Japan, only you found out way after the fact, after the heavy lifting equipment had been brought into the country and the debris removed and the bodies recovered and the nation rebuilt. A great personality? You file this piece of trivia away in your psyche---or maybe in your soul---for future reference. It might come in handy one day.
 

@@ -121,15 +121,15 @@ Now, just for fun and (at our ages, it must be said) for posterity, I’m going 
 
 12\. There were no camcorders then, and no one in attendance had a movie camera. Somewhere in this house, though, we have an honest-to-goodness reel-to-reel audio recording of the ceremony. We haven’t listened to it once in 32 years, because we couldn’t figure out a way to play it in our 8-track. Ha.
 
-13\. I walked down the aisle to “Fairest Lord Jesus,” played by a classical guitarist friend of ours. The traditional bridal march was out of the question, because for my whole life my father had sung, “Here comes the bride, fair, fat and wide....” to that tune. Kind of ruined it for me!
+13\. I walked down the aisle to “Fairest Lord Jesus,’ played by a classical guitarist friend of ours. The traditional bridal march was out of the question, because for my whole life my father had sung, “Here comes the bride, fair, fat and wide....’ to that tune. Kind of ruined it for me!
 
-14\. I wanted Doug to sing to me during the ceremony, but he said he wouldn’t be able to get through it. He’d written a beautiful song with words straight out of Hosea, “I will betroth thee unto me forever.....” A friend of ours sang it, and did a great job, but all these years later, when Doug sings it, I still weep.
+14\. I wanted Doug to sing to me during the ceremony, but he said he wouldn’t be able to get through it. He’d written a beautiful song with words straight out of Hosea, “I will betroth thee unto me forever.....’ A friend of ours sang it, and did a great job, but all these years later, when Doug sings it, I still weep.
 
 15\. I also expressed a strong desire, during our wedding planning, for bagpipes. I am sorry, but my family has pipes at every wedding and funeral, and sometimes in between. Evidently, the French do not share this tradition. Doug flatly turned me down, though in the past ten years he’s become a huge fan of Celtic music and now can PLAY the bagpipes. Ah, well. There’s still my funeral to look forward to!
 
 16\. I had five bridesmaids---my sisters Liz and Mary, and my friends JoAnn, Dorothy, and Annie, plus my darling baby sister Bridget, who was ten and acted as my junior bridesmaid.I am close to all these women to this day! Doug is very good friends with all but one of his groomsmen, also. We have a randomly shot photo of that guy stashing a present from the gift table under his tuxedo jacket, and we don’t know what became of him after that.....
 
-17\. As much as we adored our pastor “charging” us to obey every Scripture in Ephesians, Corinthians, and several other books of the Bible, both of us were looking ahead to the part about “kissing the bride.” Someday, though, we WILL get that tape out and go over the instructions again, in case we overlooked something. Needless to say, we did not overlook kissing.
+17\. As much as we adored our pastor “charging’ us to obey every Scripture in Ephesians, Corinthians, and several other books of the Bible, both of us were looking ahead to the part about “kissing the bride.’ Someday, though, we WILL get that tape out and go over the instructions again, in case we overlooked something. Needless to say, we did not overlook kissing.
 
 18\. We received tons of groovy gifts, including several cards with $5 enclosed---a typical amount one might expect from peers in those days. My parents gave us two dining chairs to go with the table and four chairs I’d purchased earlier. Doug’s mom and dad gave us a stand mixer. We also received, from a dignified older couple, a green ceramic hanging frog ash tray. And---from a girl who had a crush on Doug and did not care for me one wee little bit---a squirrel cookie jar.
 
@@ -137,7 +137,7 @@ Now, just for fun and (at our ages, it must be said) for posterity, I’m going 
 
 20\. By the time we were getting on the plane to head for Jamaica, Doug’s father was having a heart attack. His mother contacted my mother and they debated whether or not they should call us. Doug’s father was in the advanced stages of malignant melanoma and had barely been able to attend the wedding. In fact, he was too sick to stay for the reception. But a heart attack?
 
-21\. They decided not to call us. We went to Jamaica, blissfully unaware of what was happening on the home front. When we arrived back at the KC airport one week later, I called my mother to let her know we were on terra firma. “Go straight to the hospital,” she said. “Your father-in-law is not doing well....” Jack made it home from the hospital, but died two months later.
+21\. They decided not to call us. We went to Jamaica, blissfully unaware of what was happening on the home front. When we arrived back at the KC airport one week later, I called my mother to let her know we were on terra firma. “Go straight to the hospital,’ she said. “Your father-in-law is not doing well....’ Jack made it home from the hospital, but died two months later.
 
 22\. I’ve always asked myself what we would have done if his mom had called us before we got on that plane. Would we have skipped our honeymoon? It’s haunted me enough over the course of our marriage that the story actually makes its way into the novel I wrote. In the novel, they skip their honeymoon.
 
@@ -145,7 +145,7 @@ Now, just for fun and (at our ages, it must be said) for posterity, I’m going 
 
 24\. I had a couple of showers, but don’t remember any of my friends giving me lingerie. There was no Victoria’s Secret back then, although I suppose for the gutsy, there was Frederick’s of Hollywood. I wasn’t that brave! The store now known as Dillards used to be Stix, Baer, and Fuller, and they had a beautiful lingerie department. For our wedding night, I purchased a traditional white peignoir set---a long gown with a matching robe. I still have it, and when I pull it out to take a look, I try to imagine it fitting successfully over a broomstick. It’s that skinny. Sigh.
 
-25\. At the all-inclusive resort where we stayed called “Tower Island” (it’s now a Sandals), we were served three fantastic meals each day, typically from a buffet. This is when I learned that Doug is extremely picky and won’t eat anything he doesn’t recognize. For some meals, they dished out only native foods, and Doug sulked while I ate him under the table. This still sometimes happens today.
+25\. At the all-inclusive resort where we stayed called “Tower Island’ (it’s now a Sandals), we were served three fantastic meals each day, typically from a buffet. This is when I learned that Doug is extremely picky and won’t eat anything he doesn’t recognize. For some meals, they dished out only native foods, and Doug sulked while I ate him under the table. This still sometimes happens today.
 
 26\. One night in Jamaica, we decided to spring for a meal in a restaurant in the town. We made reservations at Moxie’s, the place with the best reputation. We knew it would cost us ($38!), but we thought it would be fun. We sat at a table on the multi-terraced grounds and enjoyed several moments of peace before THE HUGEST ROACH I’VE EVER SEEN scampered across our candlelit table!!! I totally freaked out and demanded a table inside the restaurant, where the manager actually came to our table and told us that all Americans are WIMPS.
 

@@ -21,13 +21,13 @@ comments:
     text: "Congratulations for your success. I also like gardening and I regularly visit my farm house where I have planted many plants, twice in a month. I like to plant fruits and flowers in my farm."
 ---
 
-Honestly, people! I think I was pretty darned good at raising kids, but that’s where my “growth potential” came to a grinding halt.
+Honestly, people! I think I was pretty darned good at raising kids, but that’s where my “growth potential’ came to a grinding halt.
 
 I used to cry openly from intimidation when given a common houseplant as a gift, knowing I would kill the thing in three days flat. But now I simply whimper to myself and make the giver promise not to think less of me if he never sees the thing alive again.
 
 My darling son Kevin gave me a beautiful white orchid plant for Mother’s Day last year and scared the bejeebers out of me. The bloom did finally die, but new leaves continue to emerge on an occasional basis, so I am not parting with it! Who knows but what I’ll be enchanted one of these years with another exotic bloom?
 
-This Mother’s Day, Kev gave me a different variety of orchid (just in case I’d mastered the care of the first one and needed another challenge, I’m thinking....), this time a pink one with multiple small blooms. As always, I begged his forgiveness in advance for what will most likely become another Fallible Houseplant Demise. He’s so sweet. He said, “But in between now and then, you’ll enjoy looking at it, right?”
+This Mother’s Day, Kev gave me a different variety of orchid (just in case I’d mastered the care of the first one and needed another challenge, I’m thinking....), this time a pink one with multiple small blooms. As always, I begged his forgiveness in advance for what will most likely become another Fallible Houseplant Demise. He’s so sweet. He said, “But in between now and then, you’ll enjoy looking at it, right?’
 
 ![image](http://www.fallible.com/images/uploads/garden092_thumb.jpg)Yes, I will! And even more so this year, since I am now an official gardener! While a number of my experiments with food growing have proven failures, like the three out of four broccoli plants that bolted, most everything is thriving. In fact, tonight we popped a couple of ribeyes on the grill and had salad made WITH LETTUCE THAT WE GREW!
 
@@ -41,12 +41,12 @@ And, yes, I know that hanging clothes on a line in the sunshine is not exactly a
 
 ![image](http://www.fallible.com/images/uploads/garden094_thumb.jpg)It’s fascinating when you start caring less about what the stock market’s doing and more about the weather forecast.
 
-“Do you think this load will dry before the rain comes in?”
+“Do you think this load will dry before the rain comes in?’
 
-“Should we water this morning or count on storms to do the job later on?”
+“Should we water this morning or count on storms to do the job later on?’
 
-![image](http://www.fallible.com/images/uploads/garden093_thumb.jpg)“How much water do you suppose is in the rain barrels? Enough to do the whole garden?”
+![image](http://www.fallible.com/images/uploads/garden093_thumb.jpg)“How much water do you suppose is in the rain barrels? Enough to do the whole garden?’
 
-“Hey, the temperature is perfect. Let’s walk around the property and see what’s growing....”
+“Hey, the temperature is perfect. Let’s walk around the property and see what’s growing....’
 
 It’s refreshing to realize that even when the whole world seems like it’s going to heck in a handbasket, there’s always something to look forward to, something to savor. And what a wonderful surprise to find that in a very down-to-earth sense, we really do reap what we sow.

@@ -68,32 +68,32 @@ comments:
     text: "So lovely!"
 ---
 
-“We need to sing,” said Garrison Keillor, and no one in the audience could argue with his logic.
+“We need to sing,’ said Garrison Keillor, and no one in the audience could argue with his logic.
 
 It was less than one week after September 11, 2001, and Keillor was in Kansas City for a book signing and excerpt-reading event at the Uptown Theater. Many of the hundreds of people gathered to hear him had likely not ventured far from home in the past few days, but for Garrison Keillor, exceptions were made.
 
 There was a sadness hovering over the crowd, though. A reticence. We wanted to laugh at his Wobegon tales, forget the present and reminisce over an innocent past, but we couldn’t remember how. There was even, I felt, a mild distrust of each other in that theater, as if we feared the stranger right next to us--yes, the mild-mannered Lutheran woman in the jean jumper--might be a likely threat.
 
-“We need to sing,” he said, and led us to stand to our feet and hold our neighbors’ hands.
+“We need to sing,’ he said, and led us to stand to our feet and hold our neighbors’ hands.
 
-“Oh beautiful, for spacious skies,” he began, in a singing voice as rich and mellow and believable as the one he used to speak. One by one, members of the audience joined in, until the room was filled with a unity of heart and sound. There were no power-point slides to cue the more obscure verses, and as we moved past the second verse, soon only Keillor was left singing once again. He knew every word, and sang every verse strong and unencumbered.
+“Oh beautiful, for spacious skies,’ he began, in a singing voice as rich and mellow and believable as the one he used to speak. One by one, members of the audience joined in, until the room was filled with a unity of heart and sound. There were no power-point slides to cue the more obscure verses, and as we moved past the second verse, soon only Keillor was left singing once again. He knew every word, and sang every verse strong and unencumbered.
 
 It was the second song that surprised us, since it was neither patriotic nor religious.
 
 It was romantic.
 
 “Wise men say, only fools rush in.  
-But I can’t help falling in love with you.”
+But I can’t help falling in love with you.’
 
 *Utter fools have rushed in, killing people we can’t help being in love with...*
 
 “Shall I stay? Would it be a sin?  
-If I can’t help falling in love with you.”
+If I can’t help falling in love with you.’
 
 *But we’re still here. Not going anywhere. Can’t help it that we’re in this thing together...*
 
 “Take my hand. Take my whole life, too.  
-For I can’t help falling in love with you.”
+For I can’t help falling in love with you.’
 
 We--each of us, all of us--looked into strangers’ faces in that theater, scanned eyes for signs of love, and found them. And we couldn’t help ourselves.
 

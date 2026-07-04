@@ -62,7 +62,7 @@ comments:
     text: "It is a sweet thing, and it was incredible, and the nature of the words with all the lively and feels like reading the entire presentation in one day.The ironic words and words make the story lively."
 ---
 
-“Does your mother like to cook?” the Activities Director at the nursing home asks me. I’m in the hall outside Mom’s room, where she’s occupied at the moment on the bedpan. “The residents are making homemade soup today!”
+“Does your mother like to cook?’ the Activities Director at the nursing home asks me. I’m in the hall outside Mom’s room, where she’s occupied at the moment on the bedpan. “The residents are making homemade soup today!’
 
 If Debbie knew my mom, she would not have ended that last sentence so enthusiastically. Sure, Mom did make a mean Irish stew in her day, but this isn’t...her day.
 
@@ -70,7 +70,7 @@ In fact, since Mom fell and broke a rib and three bones in her foot on December 
 
 To add insult to literal injury, Mom’s had to permanently move from her assisted living apartment, where she’d lived for nearly eight years, because they just couldn’t care for her properly anymore.
 
-“Cook?” I say, thinking of the memoir The Glass Castle, in which the author as a three-year-old stands in front of the stove and boils the living daylights out of a hotdog. “She likes to *eat*, but as for actual cooking, I think she’s more of a spectator now.”
+“Cook?’ I say, thinking of the memoir The Glass Castle, in which the author as a three-year-old stands in front of the stove and boils the living daylights out of a hotdog. “She likes to *eat*, but as for actual cooking, I think she’s more of a spectator now.’
 
 I say this with a hint of humor but cautiously, because we’re new here, and Mom will likely be living out the rest of her days in this facility. Everyone has been so kind to her, and I don’t want to tip any scales against her while she’s still in the mode of (hopefully) making a good first impression. I hear myself say the word *spectator* with a snap where the c meets the t, making spectating sound somehow more active than it is.
 
@@ -78,36 +78,36 @@ The truth is that I had to remove the manicure scissors from Mom’s room at the
 
 Should she be trusted with a chef’s knife?
 
-Debbie smiles wanly and ticks off a box on her clipboard. “How about crocheting? Knitting? Sewing?” Her pencil is poised, eager. But I can only think of hooks and needles, pointy and painful things.
+Debbie smiles wanly and ticks off a box on her clipboard. “How about crocheting? Knitting? Sewing?’ Her pencil is poised, eager. But I can only think of hooks and needles, pointy and painful things.
 
-“Her vision’s not what it used to be, I’m afraid. Diabetic retinopathy. She made a lot of cross-stitched samplers in her time, though.”
+“Her vision’s not what it used to be, I’m afraid. Diabetic retinopathy. She made a lot of cross-stitched samplers in her time, though.’
 
 Again, ticking a box.
 
-“Cards, then? Board games? Puzzles?”
+“Cards, then? Board games? Puzzles?’
 
-“That would be no, no, and no.”
+“That would be no, no, and no.’
 
 I’m edging toward blunt and brutal honesty, as I always do eventually. I feel guilty, revealing the extent of Mom’s decline and lack of zest for life as I am. I scramble through memories, trying to grasp an elusive thread of any hobby substantial enough to weave through Mom’s current condition and pull her together for this personality profile. For the sake of, if nothing else, the Activity Director’s clipboard. I know how much Debbie wants to tick a Yes, or at the very least a Maybe.
 
 I suddenly feel responsible for her job security.
 
-“She may present a bit of a challenge,” I say, “but I’m sure you’re up to the task!” Oh, dear. Now I, too, have shown enthusiasm where none is warranted. “Maybe books on tape? She used to love to read Danielle Steel...”
+“She may present a bit of a challenge,’ I say, “but I’m sure you’re up to the task!’ Oh, dear. Now I, too, have shown enthusiasm where none is warranted. “Maybe books on tape? She used to love to read Danielle Steel...’
 
 I’ve finally given Debbie something she can put in the Yes column. I hear myself exhale. Mom has passed some kind of test. Evidently, she’s not dead yet.
 
-“Books on tape, it is,” she says. Mom has no concept of how to use a cassette player, but I don’t need to go there now. It’s enough that Debbie will have definitely earned her next paycheck, when it comes.
+“Books on tape, it is,’ she says. Mom has no concept of how to use a cassette player, but I don’t need to go there now. It’s enough that Debbie will have definitely earned her next paycheck, when it comes.
 
 She heads down the hall to get to know another new resident, and I take the opportunity, while Mom’s still busy, to run across the street to Starbucks. When I return, Mom’s not in her room. And the bed’s made. I get that mildly freaked out feeling, the way a character on a medical TV show acts when her loved one’s room is empty and she just knows the body’s already in the morgue.
 
 I make the rounds of the wing, down to the physical therapy room and then the dining room, peeking into corners, searching for Mom. On my way back to her room, I stop at the nurse’s station to enquire.
 
-She points to a narrow room, an after-the-fact offshoot of the hallway. “Your mom’s doing an activity,” she says casually, as if she thinks I hear those words every day. I try not to look incredulous.
+She points to a narrow room, an after-the-fact offshoot of the hallway. “Your mom’s doing an activity,’ she says casually, as if she thinks I hear those words every day. I try not to look incredulous.
 
-“Oh, great,” I say. “It’s wonderful she’s getting involved!”
+“Oh, great,’ I say. “It’s wonderful she’s getting involved!’
 
 This time, though, I really mean the exclamation point. Sure enough, when I poke my head into the tiny room, Mom’s sitting comfortably in her wheelchair, with six or seven other ladies, listening to Debbie read a novel aloud.
 
-Right then and there, looking at Mom’s back and hoping for her future, I tick a Yes box in my heart. The box next to the question, “Do you believe miracles happen in this day and age?”
+Right then and there, looking at Mom’s back and hoping for her future, I tick a Yes box in my heart. The box next to the question, “Do you believe miracles happen in this day and age?’
 
 Yes, I do. At the end of everything and everyone, I still believe in miracles.

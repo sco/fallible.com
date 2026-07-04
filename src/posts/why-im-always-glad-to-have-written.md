@@ -46,11 +46,11 @@ comments:
 
 Recently, I’ve received two completely unexpected notes from fallible readers. They didn’t arrive via the comments section (Um....it’s mostly spam, I’m afraid. Feel free to change that!), but rather in personal correspondence.
 
-One letter started out with these words: “Two years ago, you sent me a letter of comfort over the loss of my parent....” Do you know how it feels when you don’t QUITE remember doing something, but suddenly feel awfully glad to know you did? That’s the emotion that came over me when I read this lovely note.
+One letter started out with these words: “Two years ago, you sent me a letter of comfort over the loss of my parent....’ Do you know how it feels when you don’t QUITE remember doing something, but suddenly feel awfully glad to know you did? That’s the emotion that came over me when I read this lovely note.
 
 The writer went on to say she was sorry it had taken her so long to respond, but that my words had touched her and helped in in a time of need. I cried when I read this, because for me to be counted among those who even occasionally bless someone else with encouragement, comfort, joy, or empathy makes all my feeble attempts worthwhile.
 
-The second letter came through a private facebook message. The writer described herself as a “long-time fallible reader,” but upon seeing her signature and her own blog address, I knew exactly who she was. How could I forget her? We have commiserated together over more than one of our shared life experiences---but admittedly, it had been a while.
+The second letter came through a private facebook message. The writer described herself as a “long-time fallible reader,’ but upon seeing her signature and her own blog address, I knew exactly who she was. How could I forget her? We have commiserated together over more than one of our shared life experiences---but admittedly, it had been a while.
 
 She wrote to ask my advice on how to proceed with issues related to the care of an elderly parent. Of course, I am no expert, having only The Moms in my personal arsenal when it comes to acting as an advocate for the aged. But then she went on to say that even if I didn’t know the answer to her question, she wanted me to know how much my stories about our ladies had meant to her.
 

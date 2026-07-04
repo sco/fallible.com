@@ -36,7 +36,7 @@ I used to write funny stories about my mother in this space. Even though she’s
 
 Mom’s been through a phase of breaking lots of bones these past few months. She’ll be walking just the few steps from her bathroom back to bed and two bones in her foot will snap. She doesn’t have to fall or crash into anything for this to happen---it’s spontaneous, and not in a good way.
 
-No sooner did her foot feel better (I say feel better rather than “heal,” because her bones don’t typically heal), than she fell and tore the meniscus in her right knee. At first, I typed “left” because five years ago she did tear her left knee and had surgery to repair it. But that was then.
+No sooner did her foot feel better (I say feel better rather than “heal,’ because her bones don’t typically heal), than she fell and tore the meniscus in her right knee. At first, I typed “left’ because five years ago she did tear her left knee and had surgery to repair it. But that was then.
 
 We waited a while to have it MRId, because hope springs eternal and maybe the pain would stop. But after hobbling on it for a month (hobbling being its own fall risk), she found out it was indeed torn. Her wonderful orthopedic doc put a shot of cortisone in it, but Mom didn’t think it helped at all.
 
@@ -46,21 +46,21 @@ Mom has congestive heart failure and COPD, but even a relatively simple procedur
 
 At the end of an hour’s discussion, we’d all decided that surgery was not a good idea for her. I would call the surgeon and the hospital first thing this past Monday and cancel the whole thing, at least for the time being.
 
-So Monday morning, I placed the call to the doctor’s office and left a voice mail for his nurse to call me back. The second I finished leaving the message, our phone rang and I said to Doug, “Wow. That was fast.”
+So Monday morning, I placed the call to the doctor’s office and left a voice mail for his nurse to call me back. The second I finished leaving the message, our phone rang and I said to Doug, “Wow. That was fast.’
 
 Well, it WAS fast, but it wasn’t the doctor’s office calling back. It was the facility where Mom lives.
 
-“Your mom fell a few minutes ago. She says she broke her arm.”
+“Your mom fell a few minutes ago. She says she broke her arm.’
 
 A bit of fear shot through me, as Mom has a permanently broken left humerus. She only had one available arm to break, from where I sat.
 
-“Which arm?” I asked.
+“Which arm?’ I asked.
 
-“The broken one.”
+“The broken one.’
 
-“Do you mean her wrist, or what?”
+“Do you mean her wrist, or what?’
 
-“No. The same spot it’s already broken.”
+“No. The same spot it’s already broken.’
 
 My sister and I got down there right away and took Mom to the ER for xrays. Because she’s got this large bone with the clean break, it’s possible that those broken pieces could get badly rearranged in a fall and try to poke themselves through her skin or something. A lovely thought, eh? Oh, the pictures in my mind!
 
@@ -70,18 +70,18 @@ The surgery, needless to say, is off. Mom’s in a sling, and therefore in a whe
 
 The most fascinating---but still not funny---thing is the amazement the ER doc expressed over Mom’s xray. She called my sister and me in to look at it and pointed to the broken humerus, a five-year-old injury.
 
-“The bone is...disappearing.”
+“The bone is...disappearing.’
 
 Sure enough, there was a four-inch gap where the pieces of bone used to meet, back in the old days, when Mom was one together chick.
 
-I googled “disappearing bone” later and there is actually an extremely rare disorder called “Vanishing Bone Disease.” Maybe 200 cases have been reported EVER.
+I googled “disappearing bone’ later and there is actually an extremely rare disorder called “Vanishing Bone Disease.’ Maybe 200 cases have been reported EVER.
 
 Yesterday, we took Mom to her ortho doc, who was as shocked as the ER doc by Mom’s xray.
 
-“Do you think she has Vanishing Bone Disease?” I asked.
+“Do you think she has Vanishing Bone Disease?’ I asked.
 
-“I’ve never even heard of it,” he said. “But yes, I’d say she has it.”
+“I’ve never even heard of it,’ he said. “But yes, I’d say she has it.’
 
-The funniest thing Mom’s said recently happened Monday, after hours in the ER. We were getting ready to roll out of there and the morphine had kicked in. She matter-of-factly said, “Well, I hope the rest of the day goes better than this morning.”
+The funniest thing Mom’s said recently happened Monday, after hours in the ER. We were getting ready to roll out of there and the morphine had kicked in. She matter-of-factly said, “Well, I hope the rest of the day goes better than this morning.’
 
 OK, maybe it’s not ha-ha funny, but sometimes a girl has to go with what she’s got.

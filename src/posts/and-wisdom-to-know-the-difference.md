@@ -43,7 +43,7 @@ I also noted that while Doug has never worn purple, it was darned possible that 
 
 The last thing I remember, as far as my teeth go, is that yesterday morning I got up from pretending to sleep on a horrible couch in my mother-in-law’s hospital room (she entered the hospital with pneumonia on Monday after we buried my mother on Saturday....) and slouched down the hall to a public bathroom for a spit bath. I used the soap that is supposed to squirt out automatically when you hold your hand under the dispenser. and the paper towel that is supposed to emerge automatically when you wave your hand in front of the light, to automatically scrub the sticking points.
 
-Then I pulled a comb through my scary hair, which *did* look good at Mom’s funeral but has not recovered its senses since, and applied deoderant with the name Speed Stick slapped on the front. It did occur to me that this is Doug’s deoderant, and that he was sleeping down the hall even then smelling sweetly of some concoction with the word “Soft” in it. Did I care? I did not.
+Then I pulled a comb through my scary hair, which *did* look good at Mom’s funeral but has not recovered its senses since, and applied deoderant with the name Speed Stick slapped on the front. It did occur to me that this is Doug’s deoderant, and that he was sleeping down the hall even then smelling sweetly of some concoction with the word “Soft’ in it. Did I care? I did not.
 
 *To accept the things I cannot change...*
 
@@ -55,23 +55,23 @@ This morning, preparing to leave for my mother-in-law’s hospital to interview 
 
 Staring back at me was Doug’s green toothbrush, in its correct slot, and in my spot a purple toothbrush that looked like it had been through hell and back. I reached out and touched it and bristled. It was WET!
 
-“Did you use my toothbrush?” I asked, in a rare conversation that didn’t include the words “power-of-attorney,” “funeral arrangements,” or “end-stage dementia.”
+“Did you use my toothbrush?’ I asked, in a rare conversation that didn’t include the words “power-of-attorney,’ “funeral arrangements,’ or “end-stage dementia.’
 
-He gave me an innocent look, the type of look a man gives when he’s just had the luxury of using a toothbrush that started out dry. “I couldn’t remember if mine was purple or green.”
+He gave me an innocent look, the type of look a man gives when he’s just had the luxury of using a toothbrush that started out dry. “I couldn’t remember if mine was purple or green.’
 
-“Yours is green,” I said, with more confidence than I felt, since St. Patrick’s Day is tomorrow and my Irish is definitely up. “And it’s sitting right there in its correct slot, *dry*.”
+“Yours is green,’ I said, with more confidence than I felt, since St. Patrick’s Day is tomorrow and my Irish is definitely up. “And it’s sitting right there in its correct slot, *dry*.’
 
-“Yeah, about that,” he said. “I found my green one in your bag after I used the purple one.”
+“Yeah, about that,’ he said. “I found my green one in your bag after I used the purple one.’
 
 My blood boiled right about then. You should know, for future reference, that Toothbrush Angst is one of the least often mentioned but most often experienced Stages of Grief. When you are suffering a great loss, you want something---anything, really---you can call your own. Something you can fall back on, depend upon, rely on. For me, the comfort of my own toothbrush can get me through almost anything, and that small comfort was being torn from me with a force I could not comprehend.
 
-“But that purple one doesn’t even look like my brush. The wet one you just used looks squashed and ancient and all used up, like I *feel*.”
+“But that purple one doesn’t even look like my brush. The wet one you just used looks squashed and ancient and all used up, like I *feel*.’
 
-“It’s brand new,” he said. “I just found it in the linen closet, still in its wrapper. It’s only been used once.”
+“It’s brand new,’ he said. “I just found it in the linen closet, still in its wrapper. It’s only been used once.’
 
 OK, this I can at least wrap my brain around. I buy tons of cheapie toothbrushes because often, when my kids spend the night, they claim to have forgotten theirs. I hand them one of these disposables that I pick up for 20 cents and expect them to do just that when they’re done---dispose of it.
 
-“But where’s MY purple toothbrush?” I ask. And then it hits me that I must have left it, wrapped in its white paper-towel shroud, in yesterday’s public bathroom. Along with the Speed Stick man’s deoderent.
+“But where’s MY purple toothbrush?’ I ask. And then it hits me that I must have left it, wrapped in its white paper-towel shroud, in yesterday’s public bathroom. Along with the Speed Stick man’s deoderent.
 
 *Courage to change the things I can...*
 

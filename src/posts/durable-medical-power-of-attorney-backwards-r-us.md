@@ -26,7 +26,7 @@ I just participated in a quick elder care chat on Twitter. The question came up 
 
 I’ve gotta tell you, if I’d waited for an outsider to tell me what I already knew---which was that Mom needed someone to make decisions for her NOW---she would have been in a deadly situation with no one to speak for her on occasions too numerous to count.
 
-Isn’t the whole point of the document to appoint someone who will make decisions regarding your care (often on an emergent basis), when you are unable to speak for yourself? How is that interest served if the timing of the “transfer of power” is left up to yet another party?
+Isn’t the whole point of the document to appoint someone who will make decisions regarding your care (often on an emergent basis), when you are unable to speak for yourself? How is that interest served if the timing of the “transfer of power’ is left up to yet another party?
 
 For a number of years, I went in-and-out of acting as Mom’s power-of-attorney. Typically, when she would overmedicate with Xanax and codeine and other cognition-altering drugs, she would end up falling and breaking bones. Or having a grand mal seizure. Or descending into anxiety attacks so serious that she had to be admitted to a geri-psych unit to get her drug situation better managed.
 

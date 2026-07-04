@@ -87,15 +87,15 @@ Toward the end of my wait, a young girl came in to get her car inspected. She ca
 
 We talked about college, and how her new husband had quit after two years and joined the military. 
 
-“He left for Iraq the week before Thanksgiving,” she said. “I can’t even turn on the news, I’m so upset. I just have to go to work, and try not to think about it.”
+“He left for Iraq the week before Thanksgiving,’ she said. “I can’t even turn on the news, I’m so upset. I just have to go to work, and try not to think about it.’
 
 Then she told me about her job teaching second graders at a small Christian school in an even seedier part of town. I noticed the green magic marker streak on her sweater and the specks of silver glitter on her shoe.
 
 The subject came back around to her soldier-husband.
 
-“Has he called home since he’s been there?” I asked.
+“Has he called home since he’s been there?’ I asked.
 
-“No. He called from Kuwait to say he was on his way to Iraq, but I haven’t heard anything since he’s been there. I don’t even know where in Iraq he is. Besides, it’s so expensive to call...”
+“No. He called from Kuwait to say he was on his way to Iraq, but I haven’t heard anything since he’s been there. I don’t even know where in Iraq he is. Besides, it’s so expensive to call...’
 
 Do you ever look for angels in day-to-day life? I don’t very often, I have to admit, but the Bible gives every indication I may have been in the presence of them--and even seen them without realizing their identity--on any number of occasions.
 
@@ -105,11 +105,11 @@ They called her name after only ten minutes, and I watched as she carefully drew
 
 She beamed a radiant smile in my direction.
 
-“Merry Christmas,” she said, reaching for my hand.
+“Merry Christmas,’ she said, reaching for my hand.
 
 Are pretty young angels really surprised when mere mortals press a wad of cash into their open palms?
 
-“Buy your husband a calling card,” I said. “Tell him it’s from a weird chick you met at the gas station. That’ll keep him guessing.”
+“Buy your husband a calling card,’ I said. “Tell him it’s from a weird chick you met at the gas station. That’ll keep him guessing.’
 
 She took the money and embraced me,  promising to send him the card. I’m sure he’ll call home soon. Who wouldn’t call if he knew an angel waited on the other end?
 

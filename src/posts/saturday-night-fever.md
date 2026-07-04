@@ -48,7 +48,7 @@ But it wasn’t the food that killed me.
 
 My dumb chronic headache, which started off at only a low roar but built toward the end of the evening, finally prompted me to begin signaling Doug that it was time to go home.
 
-You know the kind of non-verbal sign language I’m talking about, right? I mean, I didn’t want to walk up to him while he was deep in conversation with another fellow and blurt out, “Doug, I’m sick. Let’s blow this pop stand.” THAT’S not how you make friends and influence people!
+You know the kind of non-verbal sign language I’m talking about, right? I mean, I didn’t want to walk up to him while he was deep in conversation with another fellow and blurt out, “Doug, I’m sick. Let’s blow this pop stand.’ THAT’S not how you make friends and influence people!
 
 The first time I walked past him (on my way to the trash can with a pile of paper plates), I coughed in a rather exaggerated manner as if I just might require the Heimlich, caught his gaze, and raised the eyebrow directly over the eye that always has the stabbing pain. OK, not overly subtle, I know. But Doug can’t interpret subtleties very well and I figured the other guy probably couldn’t, either.
 
@@ -70,9 +70,9 @@ Without even quite intending to, I actually patted his behind.
 
 And then, as if on cue, the crowded room fell silent, though somewhere in the recesses of my pitiful consciousness, I recall hearing the smallest of gasps. With my hand still THERE, he slowly turned around and said one word, with a solemnity I will never forget.
 
-“Katy.”
+“Katy.’
 
-“AAaaacccckkkk!” I screamed, at the sight of...*Steve*. “I thought you were my HUSBAND!”
+“AAaaacccckkkk!’ I screamed, at the sight of...*Steve*. “I thought you were my HUSBAND!’
 
 We fled within seconds, to reverberating peals of hilarious laughter. Heck, I only opened the door to one kitchen closet before finding the door to the garage. Most Embarrassing Moment EVER? Oh, yeah.
 

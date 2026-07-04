@@ -29,7 +29,7 @@ What I found there disturbed me almost as much as witnessing my first heart atta
 
 Evidently, Brenda Starr had been drugged by very bad people who, as the ultimate insult, had shorn her hair. Really shorn. Brenda Starr with a pixie cut.
 
-“You can get through this, Brenda. Things aren’t as horrible as they seem right now. It will be all right, you’ll see. Hair grows back, really it does. Basil will still love you, no matter what. You are not alone.”
+“You can get through this, Brenda. Things aren’t as horrible as they seem right now. It will be all right, you’ll see. Hair grows back, really it does. Basil will still love you, no matter what. You are not alone.’
 
 Okay, I admit it. That morning, I played Brenda Starr’s shrink, her counselor, her pastor. And in helping her, I pulled my terrified little self through a very scary time.
 

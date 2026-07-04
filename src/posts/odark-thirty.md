@@ -16,6 +16,6 @@ We were both so terribly groggy from getting essentially no sleep that we were s
 
 But something wasn’t right, and it only took me an instant to figure it out.
 
-As Doug drove, I pointed way past him to the other side of the road and said, “Wait. Don’t all those pretty colors usually happen over THERE?”
+As Doug drove, I pointed way past him to the other side of the road and said, “Wait. Don’t all those pretty colors usually happen over THERE?’
 
 To think that otherwise mature adults have actually asked us to be their Durable Powers of Attorney.

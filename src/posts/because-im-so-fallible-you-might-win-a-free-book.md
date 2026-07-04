@@ -45,7 +45,7 @@ Suffice it to say that a LOT’S been going on, and sometimes a girl just gets o
 
 But just to show you how much I love you and to let you know that there are good things still to come from Old Reliable Fallible, I am giving away not one but three hardback books to three fortunate commenters.
 
-Leave a comment---maybe telling me that you’ve missed me!---and you’ll be entered in a random drawing to win either Kathy Ireland’s “Real Solutions for Busy Moms,” or Dave Ramsey’s “Financial Peace Revisited,” or Leanna Ellis’s fun novel “Lookin’ Back, Texas.”
+Leave a comment---maybe telling me that you’ve missed me!---and you’ll be entered in a random drawing to win either Kathy Ireland’s “Real Solutions for Busy Moms,’ or Dave Ramsey’s “Financial Peace Revisited,’ or Leanna Ellis’s fun novel “Lookin’ Back, Texas.’
 
 The first name drawn will get first choice, the second name second choice, and the third name will get the final book. Sound like a good time? I’ll give it a day or two, and then my impartial drawer of names, aka Doug, will do the deed.
 

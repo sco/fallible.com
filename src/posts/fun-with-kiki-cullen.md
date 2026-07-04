@@ -40,7 +40,7 @@ I shoved the car door open, snapped the umbrella up like a parachute, and splatt
 
 No mistake.
 
-The seams of my umbrella nearly split with pride and I allowed myself a moment"s sopping satisfaction, but I couldn"t very well stand there and gloat. I sprinted for the building, regretting my choice of stilettos more with every triangle-toed slosh. When I finally threw open the station"s side door, my show"s call screener greeted me"”a girl I must say seemed a tad testy even though she was perfectly dry.
+The seams of my umbrella nearly split with pride and I allowed myself a moment"s sopping satisfaction, but I couldn"t very well stand there and gloat. I sprinted for the building, regretting my choice of stilettos more with every triangle-toed slosh. When I finally threw open the station"s side door, my show"s call screener greeted me"’a girl I must say seemed a tad testy even though she was perfectly dry.
 
 She bit her lip and glanced down to observe her old-fashioned watch"s sweep second hand do its sweeping thing. "Four minutes, thirty-seven seconds."
 
@@ -48,8 +48,8 @@ She bit her lip and glanced down to observe her old-fashioned watch"s sweep seco
 
 We set off walking.
 
-I gulped stale smoke in the narrow hallway leading to the studio, struggling to keep up with her. A long line of former bigwigs crowded the walls, framed and hung, suspended on black velvet cords"”almost by their necks, if you asked me. They alternately scowled and glared, and I could have sworn one winked as I skittered through the mostly-dead-executive gauntlet.  
-We stopped in the coatroom just long enough for me to ditch my umbrella and the raincoat I made a habit of toting"”but never wearing"”in October. Autumn"s melancholy outbursts of precipitation mirrored my mood in a soothing way.
+I gulped stale smoke in the narrow hallway leading to the studio, struggling to keep up with her. A long line of former bigwigs crowded the walls, framed and hung, suspended on black velvet cords"’almost by their necks, if you asked me. They alternately scowled and glared, and I could have sworn one winked as I skittered through the mostly-dead-executive gauntlet.  
+We stopped in the coatroom just long enough for me to ditch my umbrella and the raincoat I made a habit of toting"’but never wearing"’in October. Autumn"s melancholy outbursts of precipitation mirrored my mood in a soothing way.
 
 Like a friend who empathizes with your blue funk by sharing her own tale of woe.  
 "You weren"t at the meeting." She looked me up and down with a stricter appraisal than usual, and a hint of disappointment. "What happened?"

@@ -16,6 +16,9 @@ export default {
       }
     }
 
-    return env.ASSETS.fetch(request);
+    const response = await env.ASSETS.fetch(request);
+    const res = new Response(response.body, response);
+    res.headers.set('Content-Security-Policy', 'upgrade-insecure-requests');
+    return res;
   },
 };

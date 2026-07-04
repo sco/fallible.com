@@ -30,7 +30,7 @@ I haven’t written 20,000 words, but I think I may have shed that many tears. A
 
 Right this minute, I am looking over the November page of my huge wall calendar, the one with a different designer shoe photo on each day’s date. I’m trying to recreate exactly what’s gone wrong, trying to give an account---even to myself---of how my life has deteriorated so badly.
 
-I love the Scripture that says, “Sufficient for the day is the trouble thereof.” I truly try to take one day at a time, even if my mind starts churning at 4 am and doesn’t stop until I believe I’ve handled all the details I must before I fall asleep again. But, O fallible ones, you should see this mess of a calendar.
+I love the Scripture that says, “Sufficient for the day is the trouble thereof.’ I truly try to take one day at a time, even if my mind starts churning at 4 am and doesn’t stop until I believe I’ve handled all the details I must before I fall asleep again. But, O fallible ones, you should see this mess of a calendar.
 
 If the sign of an out of control life is a messy purse, wouldn’t you think that gal could at least have a calendar where a single day’s events can be jotted within one enormous square?
 
@@ -64,7 +64,7 @@ Nov 18. 1-day follow-up for Doug’s eye surgery.
 
 Nov 19. Michelle’s phone number. (Who in the world is Michelle?) Four BMs in night.
 
-Nov 20. (Crossed out: Mom admitted to Menorah.) Mom’s C.diff is back. “Yesterday morning, man and woman. Rolling from side to side. They were staring.”
+Nov 20. (Crossed out: Mom admitted to Menorah.) Mom’s C.diff is back. “Yesterday morning, man and woman. Rolling from side to side. They were staring.’
 
 Nov 21. Mom admitted after midnight.
 
@@ -80,7 +80,7 @@ And now, from October, just so you’ll see what led up to this:
 
 Oct 15. broken shoulder 1:15--Mom to Dr. Bruce. 10:00 Doug to Discover Vision
 
-Oct 17. Marcia. Physical therapist. 20” wheelchair. 27” total width. footplates. Invacare. 20” firm cushion waterproof. standard. $390. 75. 50. 5.
+Oct 17. Marcia. Physical therapist. 20’ wheelchair. 27’ total width. footplates. Invacare. 20’ firm cushion waterproof. standard. $390. 75. 50. 5.
 
 Oct 18. Med history and medicines. Ask Nicole how long surgery and gen or local.
 

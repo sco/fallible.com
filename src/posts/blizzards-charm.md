@@ -25,9 +25,9 @@ We brave the winds though they be fierce:
 Face brute threats of harm,  
 To serve the helpless sheep within our fold.
 
-“Make cinnamon rolls!” a small one cries:  
+“Make cinnamon rolls!’ a small one cries:  
 A waif-like, fragile form,  
-“And popcorn balls!” Her voice becomes more bold.
+“And popcorn balls!’ Her voice becomes more bold.
 
 So mothers do what they have done:  
 Maintain maternal charm,  

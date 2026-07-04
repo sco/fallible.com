@@ -17,7 +17,7 @@ comments:
     text: "Yes Susan, a precious treasure. You have a very very beautiful writing style."
   - author: "run"
     date: "2011-11-06T16:22:00"
-    text: "YOU are a treasure! A tiny little thing\"”cute as a button, smiling, funny,an absolute delight, and very wise."
+    text: "YOU are a treasure! A tiny little thing\"’cute as a button, smiling, funny,an absolute delight, and very wise."
   - author: "get"
     date: "2011-11-22T12:44:00"
     text: "he secret of life is knows how to live it well. First, It is important to like yourself. Second, be sensitive to the good karma that surrounds you and share. Last, just always remember, you do have a choice in life."

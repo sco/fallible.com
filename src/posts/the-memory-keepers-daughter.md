@@ -46,7 +46,7 @@ comments:
 [![](/images/patrick-katy-liz-sm.jpg)](/images/patrick-katy-liz.jpg)  
 Patrick, Katy, Liz McKenna
 
-I wrote this essay when my mother was still alive, when she’d already verbally passed the “Matriarch of the Family” torch to me, when I’d begun to feel the full weight--and privilege--of preserving the memory of her losses. My brother, Patrick Joseph McKenna, would be sixty years old today, if only he’d somehow lived past the age of four. It’s in his honor I wrote this, and in my mother’s and father’s and grandparents’, too. For the longer I live, the more I think that remembrance may itself be the greater part of honor.
+I wrote this essay when my mother was still alive, when she’d already verbally passed the “Matriarch of the Family’ torch to me, when I’d begun to feel the full weight--and privilege--of preserving the memory of her losses. My brother, Patrick Joseph McKenna, would be sixty years old today, if only he’d somehow lived past the age of four. It’s in his honor I wrote this, and in my mother’s and father’s and grandparents’, too. For the longer I live, the more I think that remembrance may itself be the greater part of honor.
 
 ----------------------------------------------------------------  
 I worry sometimes that when I"m dead, no one will remember my brother.
@@ -74,7 +74,7 @@ Because, you see, my mother now remembers less about her little boy than I do. I
 
 It didn"t used to be like this. In one way, my mother"s whole life has revolved around the loss of this one dear son. But now, so much has faded in focus for her, and so I have become, of my own volition, The Memory Keeper"s Daughter.
 
-I know that Patrick"s name will someday"”perhaps with the passage of only one more generation"”be little more than a brief line in a family tree. A line with no branches descending beneath it. Someday, perhaps one of my own grandchildren will take up an interest in family history and ask about the little boy without a story.
+I know that Patrick"s name will someday"’perhaps with the passage of only one more generation"’be little more than a brief line in a family tree. A line with no branches descending beneath it. Someday, perhaps one of my own grandchildren will take up an interest in family history and ask about the little boy without a story.
 
 [![](/images/patrick-katy-sm.jpg)](/images/patrick-katy.jpg)  
 Patrick, Katy

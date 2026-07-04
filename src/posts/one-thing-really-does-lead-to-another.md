@@ -9,7 +9,7 @@ It’s the only New Year’s Resolution I made, and even it wasn’t intended to
 
 Now I’ve decided to extend my no-spending trend into February, because honestly, why NOT? Is there anything I desperately need out there in the land of big screens and iPhones and appliances and purses and cars? Sometimes, I do have a genuine need, but this is not one of those times. So what’s with the chronic shopping in the absence of need?
 
-If I’m bored or in it for the thrill of the hunt, well, I need to get over myself. I’ve decided that I do not want to get to the end of my life and be reduced to bragging to the Lord how I got my last pair of jeans on the 80% off clearance rack at Kohl’s and then had a 30% off coupon to make them even cheaper. It would be especially egregious, I imagine, if I also felt compelled to say to Him, “You could have waited to call me home until I got the chance to use my ‘$10 for Every $50 You Spend!’ coupons, since you and I both know it’s like getting paid to shop!”
+If I’m bored or in it for the thrill of the hunt, well, I need to get over myself. I’ve decided that I do not want to get to the end of my life and be reduced to bragging to the Lord how I got my last pair of jeans on the 80% off clearance rack at Kohl’s and then had a 30% off coupon to make them even cheaper. It would be especially egregious, I imagine, if I also felt compelled to say to Him, “You could have waited to call me home until I got the chance to use my ‘$10 for Every $50 You Spend!’ coupons, since you and I both know it’s like getting paid to shop!’
 
 The Lord has better plans for me, and I intend to pursue them. The first step is to ditch a bunch of stuff that currently occupies my thoughts, emotions, strength, and time. Unimportant stuff. Frivolous nonsense. Drama, dare I say it? There, I said it.
 
@@ -17,7 +17,7 @@ I’ve already decided that this year, I’m not watching American Idol. I have 
 
 I’ve also decided to give online news sites and talk radio a break. I only listen to the radio when I’m in the car, which isn’t that much, but you know what? I need to either find a music station that really makes me happy, or listen to French instruction CDs, or listen to books on tape. Or---and here’s a concept I manage to avoid whenever possible---drive in SILENCE.
 
-Kind of scary for me, the whole “being alone with my own thoughts” thing. But, who knows? It could happen.
+Kind of scary for me, the whole “being alone with my own thoughts’ thing. But, who knows? It could happen.
 
 Finally (and remember, these are just February’s challenges I’m talking about.....), I am celebrating FINALLY getting my thyroid and hormone situation turned around by committing to a grain-free diet. I’ve been sugar-free since Feb, 2000 (Happy 11-Year Atkinsversary to Me!), and losing the sugar was the single best health decision I’ve ever managed to stick to.
 

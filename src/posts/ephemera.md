@@ -23,7 +23,7 @@ Here is the poem (or, I think I can more accurately say, drinking song....) my f
 
 Finding this puts the capstone on how it is to be a first-generation American, the daughter of a Scot. I hope you get a kick out it, too.
 
-        “John Ericsson Sailing Song”  
+        “John Ericsson Sailing Song’  
 (Sung to the tune of Glory, Glory Halleluya)
 
 The bunch of us are sailing on the Johnny Ericsson  
@@ -80,4 +80,4 @@ Cause we’re sailing on the Johnny Ericsson
 
 REPEAT LAST CHORUS
 
-Words by the John Ericsson passengers Glee Club. Song first introduced at M.S. “John Ericsson” Christmas party at Sea Dec 25, 1946
+Words by the John Ericsson passengers Glee Club. Song first introduced at M.S. “John Ericsson’ Christmas party at Sea Dec 25, 1946

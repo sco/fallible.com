@@ -41,19 +41,19 @@ I warned Doug not to get on the highway until we had it checked out, but he forg
 
 To their credit, the transmission shop said it checked out fine from their perspective and they drove it back over to the general mechanic. The next day, that guy called with the diagnosis. Doug was away at a meeting and when I saw his name on caller ID, I picked up.
 
-“Yeah. Can I speak to Doug?”
+“Yeah. Can I speak to Doug?’
 
-“He’s not here at the moment. I see this is about our car. May I take a message?”
+“He’s not here at the moment. I see this is about our car. May I take a message?’
 
-“Well, if you DO, am I just going to have to explain the whole thing over again to HIM?”
+“Well, if you DO, am I just going to have to explain the whole thing over again to HIM?’
 
-OK, see. Right then, I was so tempted to say, “Only if you do a really terrible job of explaining it the first time.” But I didn’t. I bit my tongue, and then I lied and pretended to be the stupid little wife he took me for. (Doug and I are both mechanically disinclined. We are NOT stupid.)
+OK, see. Right then, I was so tempted to say, “Only if you do a really terrible job of explaining it the first time.’ But I didn’t. I bit my tongue, and then I lied and pretended to be the stupid little wife he took me for. (Doug and I are both mechanically disinclined. We are NOT stupid.)
 
-“Oh, you’re right,” I said. “I wouldn’t be able to take this message and convey it to my husband correctly.” Never mind that I take copious notes during Other People’s Doctor Visits, in a stalwart and successful attempt to apprehend for them the healthcare for which they’re so dearly paying. “I will have him call you the minute he gets home.”
+“Oh, you’re right,’ I said. “I wouldn’t be able to take this message and convey it to my husband correctly.’ Never mind that I take copious notes during Other People’s Doctor Visits, in a stalwart and successful attempt to apprehend for them the healthcare for which they’re so dearly paying. “I will have him call you the minute he gets home.’
 
-I was hoppin’ mad by the time Doug returned the mechanic’s call thirty minutes later. When Doug hung up the phone, he turned to me and said, “It’s the catalytic converter. Unfortunately, the part is only made by GM. The labor is cheap, but because we have to use the authorized GM part, the whole thing’s gonna cost us over $1300.”
+I was hoppin’ mad by the time Doug returned the mechanic’s call thirty minutes later. When Doug hung up the phone, he turned to me and said, “It’s the catalytic converter. Unfortunately, the part is only made by GM. The labor is cheap, but because we have to use the authorized GM part, the whole thing’s gonna cost us over $1300.’
 
-“Except for, you know what?” I said. “It’s not.”
+“Except for, you know what?’ I said. “It’s not.’
 
 Poor Doug. He knows when my Irish is up, there’s gonna be heck to pay. But the way I look at it, heck is still a lot cheaper than $1300. And the fact that the mechanic had soundly insulted me, when he doesn’t even know me well enough to know that I DESERVE to be insulted on this subject, made Doug instantly decide that THIS was exactly why God invented the Internet.
 
@@ -65,6 +65,6 @@ But I will say this about him: He pushed me just far enough to guarantee that he
 
 Not so great for him, but my ever-growing Passbook Savings account couldn’t be happier.
 
-One of my best money saving strategies is to, as Ronald Reagan used to say, “trust but verify.” To save even more money, you might also try skipping over the trust step completely.
+One of my best money saving strategies is to, as Ronald Reagan used to say, “trust but verify.’ To save even more money, you might also try skipping over the trust step completely.
 
 Whatever you do, enjoy the $1000!

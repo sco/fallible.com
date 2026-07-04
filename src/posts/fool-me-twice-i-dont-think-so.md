@@ -99,7 +99,7 @@ comments:
     text: "proper investigation should be conducted to find the reason why in the future as such tragedies could be avoided. thanks for sharing. nominal."
 ---
 
-Seven weeks or so ago, the catalytic converter went out on our 2002 Saturn wagon. You might remember the story of how the mechanic insulted me and all “little women” everywhere when I asked if I could take a diagnostic message for my soon-to-be-home husband and he said, “Well, if you DO, will I just have to say it all over again when he calls me back?”
+Seven weeks or so ago, the catalytic converter went out on our 2002 Saturn wagon. You might remember the story of how the mechanic insulted me and all “little women’ everywhere when I asked if I could take a diagnostic message for my soon-to-be-home husband and he said, “Well, if you DO, will I just have to say it all over again when he calls me back?’
 
 Insults are not a deal breaker for me, though. I am WAY too mature not to be ultimately swayed by competent work at a fair price. So I attempted to buck up and take it like a....girl.
 
@@ -113,11 +113,11 @@ Plus, we were fully 30 minutes from our home AND my back was COMPLETELY out to t
 
 Monday morning, Doug checked in with the mechanic, who said he’d check the car out and let us know. Took him till Tuesday to call back with the news. It’s the timing belt (or is it the timing chain?), a problem that TONS of Saturns have been recalled for. The happy owners of Saturns ranging in birth years from 1998 to 2001 had their repairs done for FREE, since the part is defective. But not so with the 2002 owners! That’s what we get for driving a new car! Ha.
 
-Said mechanic quoted us a price of $2060. DOLLARS! Doug actually felt desperate enough over that amount of moolah to ask the guy if he might want to purchase the car as-is. “Sure. I’ll give you $600 for it.”
+Said mechanic quoted us a price of $2060. DOLLARS! Doug actually felt desperate enough over that amount of moolah to ask the guy if he might want to purchase the car as-is. “Sure. I’ll give you $600 for it.’
 
 The car only has 100,000 miles on it! I planned to drive it several more years, or longer. It’s one thing to be insulted because I’m a girl, but quite another to insult the value of my perfectly-fine-till-last-Saturday car! Once again, I’d had it.
 
-“Get the name of another mechanic,” I told Doug. “Maybe Fred knows somebody....”
+“Get the name of another mechanic,’ I told Doug. “Maybe Fred knows somebody....’
 
 Fred is a good friend from church, and why didn’t we think of him sooner? Fred doesn’t just know somebody. Fred knows everybody!
 

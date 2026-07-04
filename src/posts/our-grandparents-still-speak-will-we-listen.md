@@ -42,11 +42,11 @@ comments:
     text: "We are paying are mortgage off as quick as we can not the base rte has dropped."
 ---
 
-One of my favorite things about listening to Dave Ramsey on the radio is when he says his tag line. “We give you the same advice your grandmother would, only we keep our teeth in.”
+One of my favorite things about listening to Dave Ramsey on the radio is when he says his tag line. “We give you the same advice your grandmother would, only we keep our teeth in.’
 
 No matter how many times he says this, I smile. Because I am distinctly remembering things my grandparents taught me, and mottos they spoke and lived by. I’m talking about my mom’s parents here, by the way, since my father was an immigrant from Scotland and his parents were dead by the time he came to this country in 1946.
 
-Baga (my father taunted my two-year-old self into attempting to call my grandmother “Old Bag,” and Baga is what I came up with. It stuck!) and Papoo (no, we weren’t Greek, but my older brother Patrick---God rest his soul---christened Grandpa, and his chosen name stuck, too) were two of the best role models a kid in the 50s and 60s could have possibly had.
+Baga (my father taunted my two-year-old self into attempting to call my grandmother “Old Bag,’ and Baga is what I came up with. It stuck!) and Papoo (no, we weren’t Greek, but my older brother Patrick---God rest his soul---christened Grandpa, and his chosen name stuck, too) were two of the best role models a kid in the 50s and 60s could have possibly had.
 
 Papoo was a college graduate, who worked 40 years as a CPA for the A&P grocery chain---The Great Atlantic & Pacific Tea Company. He and Baga (whose given names were actually Carl and Bernice) married in 1925 and in 1930---after the Great Depression had begun---their only child, my mother, was born. A point of interest for me has always been that of the couples my grandparents were friends with over the years, many of them had only one offspring.
 
@@ -64,11 +64,11 @@ Papoo even wrote a book about how to raise chickens, self-published it, and sold
 
 In 1947, they moved into a beautiful house they had build on 160 acres. Maybe they should not have moved in as soon as they did, since the first winter in the house they had no central heat. In fact, much was unfinished when they took up residence, but they weren’t deterred. And they stubbornly refused to borrow money to build the house. It was cash on the line, baby, or no house for them! I believe they miscalculated that they would have the cash to put in the heater before the snow flew, and paid for it all winter with the shivers.
 
-But a miscalculation was not an excuse to go into debt. One of the things Papoo told me solemnly in a moment we shared driving down the road when I was 12 or so was this, “Whatever you do, Kate, NEVER take out a mortgage!” Trust me on this, he was NOT talking about a home equity line of credit. He meant a FIRST mortgage. He must have been mortified that my parents took out a 20-year mortgage on the house I grew up in, even though they DID pay it off in 11 years.
+But a miscalculation was not an excuse to go into debt. One of the things Papoo told me solemnly in a moment we shared driving down the road when I was 12 or so was this, “Whatever you do, Kate, NEVER take out a mortgage!’ Trust me on this, he was NOT talking about a home equity line of credit. He meant a FIRST mortgage. He must have been mortified that my parents took out a 20-year mortgage on the house I grew up in, even though they DID pay it off in 11 years.
 
 When I graduated from high school, Papoo bought me a brand spankin’ new car. A 1972 purple Gremlin. I named her Kiki. I will never forget the shock on the car salesman’s face when my grandfather counted out twenty-five $100 bills to pay for that purchase. It went without saying that I should NEVER take out a loan to purchase a car!
 
-Baga once felt the need to give me this salient piece of wisdom: “There’s never a reason for you or your clothing or your home to be dirty. A bar of soap still costs a nickel, and anyone can afford a nickel.” That lady scrubbed us, herself, the laundry (can we say “wringer washer”?) and her white tile and grout to within an inch of our lives.
+Baga once felt the need to give me this salient piece of wisdom: “There’s never a reason for you or your clothing or your home to be dirty. A bar of soap still costs a nickel, and anyone can afford a nickel.’ That lady scrubbed us, herself, the laundry (can we say “wringer washer’?) and her white tile and grout to within an inch of our lives.
 
 Papoo, before a massive heart attack forced him to retire at age 59 and he began sub-dividing his property into 1/3 acre homebuilding sites, raised Black Angus cattle for the family’s consumption. I felt bad when I realized I was being served Debbie, Mary Jo, or Claudia, but the homegrown corn-on-the-cob we picked and cooked right before dinner and the ice cream made with peaches from Baga’s trees softened the news considerably.
 

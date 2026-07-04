@@ -175,13 +175,13 @@ But let’s suppose for a moment that Senator Kennedy has health coverage provid
 
 Senator Tom Daschle, before his pesky tax-evasion problems goosed his backside out the Crummy Healthcare Clinic door, contributed his last efforts toward a collection of wrong-headed ideas found buried in this behemoth of a stimulus:
 
-“Daschle says health-care reform ‘will not be pain free.’ Seniors should be more accepting of the conditions that come with age instead of treating them. That means the elderly will bear the brunt. Medicare now pays for treatments deemed safe and effective. The stimulus bill would change that and apply a cost- effectiveness standard set by the Federal Council (page 464).”
+“Daschle says health-care reform ‘will not be pain free.’ Seniors should be more accepting of the conditions that come with age instead of treating them. That means the elderly will bear the brunt. Medicare now pays for treatments deemed safe and effective. The stimulus bill would change that and apply a cost- effectiveness standard set by the Federal Council (page 464).’
 
 Now, don’t get me wrong. I really don’t mind rationing my own health care. In a very real sense, I do that already. Doug and I, as the only two employees of our corporation, have high-deductible health insurance, with high premiums, and a health savings account on the side. We each have an individual policy, and in a bad year when we both require medical care, we are each out-of-pocket $3000 before the insurance kicks in. And that’s with spending $800 per month in premiums for the privilege.
 
-We think once, twice, and then a bunch more times before going to the doctor. But you know what? That’s OUR decision, based on our own unique set of circumstances and how we’ve chosen to allocate our limited resources. Our doctors, of course, are consulted in matters in which we know we need their professional opinions about how to proceed. But it’s never crossed our minds ONCE to seek the advice of the GOVERNMENT when attempting to determine whether or not we “deserve” to be treated.
+We think once, twice, and then a bunch more times before going to the doctor. But you know what? That’s OUR decision, based on our own unique set of circumstances and how we’ve chosen to allocate our limited resources. Our doctors, of course, are consulted in matters in which we know we need their professional opinions about how to proceed. But it’s never crossed our minds ONCE to seek the advice of the GOVERNMENT when attempting to determine whether or not we “deserve’ to be treated.
 
-Read this article, O fallible ones, and tell me what YOU think. Do you want your healthcare determined by a board of government officials, who intend to go so far as to impose penalties on doctors who fail to withhold care according to federally-regulated “cost-effective” standards?
+Read this article, O fallible ones, and tell me what YOU think. Do you want your healthcare determined by a board of government officials, who intend to go so far as to impose penalties on doctors who fail to withhold care according to federally-regulated “cost-effective’ standards?
 
 I’m getting a strong sense that a bunch of old folks are about to get offed, courtesy of the Unread Stimulus Bill of 2009.
 

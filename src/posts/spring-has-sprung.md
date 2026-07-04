@@ -24,6 +24,6 @@ comments:
 
 My husband, an incurable romantic, couldn’t stop himself this morning from telling me how gorgeous I am. I know, I know. Get him a new prescription for eyeglasses, right? In the meantime, I decided to enjoy the moment and compliment him right back.
 
-“Oh, yeah?” I said. “Well, you’ve got a physique like a Greek god.”
+“Oh, yeah?’ I said. “Well, you’ve got a physique like a Greek god.’
 
-In true fallible style, he hesitated for only a second. “You mean....broken off in parts?”
+In true fallible style, he hesitated for only a second. “You mean....broken off in parts?’

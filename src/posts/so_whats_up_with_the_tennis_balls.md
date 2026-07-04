@@ -39,7 +39,7 @@ comments:
       <a href="http://www.healthwatchcenter.com/2007/10/how-hyperactive-behavior-in-adhd-child-can-be-controlled/">Hyperactive Behavior</a>
   - author: "used"
     date: "2009-12-30T20:10:00"
-    text: "will prompt you with a reminder. Or, your phone\"”due to the accelerometers\"”may also notice that your stride is beginning to wobble and will send an alert to your doctor that you may be experiencing the early stages of a stroke."
+    text: "will prompt you with a reminder. Or, your phone\"’due to the accelerometers\"’may also notice that your stride is beginning to wobble and will send an alert to your doctor that you may be experiencing the early stages of a stroke."
   - author: "Money"
     date: "2010-02-25T11:46:00"
     text: "usually we walk along the path and my mom throws the frisbee for a while and then puts it away so I can meet other pups - she says I tend to obsess but... whatever. When she puts the frisbee away she says \"stay with me\" and I usually listen. Usually. This time, things got a little more dramatic. This time, as we got closer to the creek, I just couldn't help myself and I jumped down into the creek."

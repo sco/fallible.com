@@ -59,9 +59,9 @@ OK, just for the record: I make the singular worst April Fool’s joker in the U
 
 Next foolish item: I have decided to try my hand at veggie and fruit gardening for the first time ever, except for that one year when Scotty was a toddler and he’d pick the tomatoes and eat them whole before I could catch him. We only attempted tomatoes and green peppers and succeeded at both, but our next-door neighbor was a gardening guru and made us feel inadequate with our pitiful offerings, just over the chain-link fence from his bounty.
 
-But now, 28 years hence, I’m feeling braver. I also am not as deathly frightened of bees and wasps as I used to be, perhaps because I’m deaf in one ear and therefore buzzing is automatically reduced by 50%, tricking my brain into believing the threat has diminished. Also, I forced myself finally to first read and then view “The Secret Life of Bees.” I’d resisted the book for YEARS because I knew darned good and well that it would end up having SOMEthing to do with bees, and I just couldn’t handle that.
+But now, 28 years hence, I’m feeling braver. I also am not as deathly frightened of bees and wasps as I used to be, perhaps because I’m deaf in one ear and therefore buzzing is automatically reduced by 50%, tricking my brain into believing the threat has diminished. Also, I forced myself finally to first read and then view “The Secret Life of Bees.’ I’d resisted the book for YEARS because I knew darned good and well that it would end up having SOMEthing to do with bees, and I just couldn’t handle that.
 
-Reading the novel first eased me into the whole bee-keeping story, and I asked myself, “How bad could the movie be, really? Those bees don’t want to sting you!” (Yeah, right, that’s what they all say....) The movie was as amazing as the book, and helped me overcome another layer of fear.
+Reading the novel first eased me into the whole bee-keeping story, and I asked myself, “How bad could the movie be, really? Those bees don’t want to sting you!’ (Yeah, right, that’s what they all say....) The movie was as amazing as the book, and helped me overcome another layer of fear.
 
 So....I’m planning on trying to grow tomatoes, peppers, zucchini, lettuces, carrots, strawberries, green beans, and peas. I’ve already sown some seed in tiny paper cups, pushed my large breakfast table under the big bay window in the kitchen, and added cookie sheets of seedling-hopefuls to the sunny spot.
 
@@ -75,7 +75,7 @@ Maybe I’m more of a fool than I know, but I read a Money Makeover online this 
 
 They purchased the home five years ago for $325,000, requiring two mortgages just to make the deal happen. Since then, they’ve opened a HELOC and borrowed extensively. They now owe $400,000 on their home, and the article did not say what the current value of the home is. I can only imagine that it’s less than $325,000.
 
-Here’s the kicker: They are budgeting a TOTAL of $100 for savings per month. They have NO retirement accounts at all, and only a few $100 bills have actually accumulated in this savings account. Now, they used to have credit card debt which they managed to clear up, so turning that around and beginning to save of course is a positive. But then the article revealed how much cash they each receive per month to spend “on anything we want that’s not in the budget.”
+Here’s the kicker: They are budgeting a TOTAL of $100 for savings per month. They have NO retirement accounts at all, and only a few $100 bills have actually accumulated in this savings account. Now, they used to have credit card debt which they managed to clear up, so turning that around and beginning to save of course is a positive. But then the article revealed how much cash they each receive per month to spend “on anything we want that’s not in the budget.’
 
 People! The husband and wife EACH get $560 per month to blow! Doug and I each get $50 per month, and we feel rich at that! Ha.
 

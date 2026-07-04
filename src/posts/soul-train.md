@@ -25,11 +25,11 @@ One hundred years ago tonight, King Pattengale sat down at his makeshift desk an
 
 Carl had a collection of these postcards from his daddy, who worked on the railroad and had to be away from home more than Carl liked. He kept them in a wooden box, tied together with a piece of twine, and took them out whenever he missed his pa. But the one that was written on this date was his favorite for his whole life long.
 
-“Do you see the date on this card?” read the cursive script. “11/11/11. Carl, that date won’t happen again for one hundred years! Imagine that...”
+“Do you see the date on this card?’ read the cursive script. “11/11/11. Carl, that date won’t happen again for one hundred years! Imagine that...’
 
 Carl did imagine. And he showed me the postcard only once, more than forty years ago. He was no young man by then, and his father, of course, was long dead. He read the card aloud to me and his eyes twinkled like they must have when he was a lad, mesmerized again by the magical thought of the one hundred years--slow moving in his youth but speeding by in old age--between 1911 and 2011.
 
-“I won’t be alive when that date comes around the next time,” he said. “But you will.”
+“I won’t be alive when that date comes around the next time,’ he said. “But you will.’
 
 Years still moved slowly for me back then, but now I know, from personal experience, that it couldn’t have been true for him. What seemed like an eternity to me seemed to him like nothing more than the blink of an eye--and yet he knew he wouldn’t see the day that was so quickly approaching.
 

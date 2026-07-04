@@ -47,17 +47,17 @@ comments:
     text: "The Meadows Aromatherapy brand is trusted worldwide and we pride ourselves on not only the exceptional quality, vibration and freshness of our 100% pure essential oils."
 ---
 
-“Are we there yet?”
+“Are we there yet?’
 
 How many mile markers pass in our children’s lives, and how many times do we tap the brake to hold back the clock for even a few more moments? Invariably, one of them utters those words.
 
 How is it that a child can smell hesitation? When a mother seems to falter--even if she only means to slow down enough to round the next bend--a little girl in the back seat startles herself awake and imagines she’s all grown up and ready to *be there*.
 
-“It’s not about the destination,” I tell her. “Remember, life’s all about the journey.”
+“It’s not about the destination,’ I tell her. “Remember, life’s all about the journey.’
 
-“I know, I know,” she says, with the impatience of a toddler. “But are we there yet?”
+“I know, I know,’ she says, with the impatience of a toddler. “But are we there yet?’
 
-“Go back to sleep,” I say. “You’ll be there soon enough. Sweet dreams.”
+“Go back to sleep,’ I say. “You’ll be there soon enough. Sweet dreams.’
 
 And I drive on into the night, seeing only as far ahead as the scantily lit road allows, and no farther. How will I ever be able to take her where she wants to go? Can I see into her heart and know the plans God has planted there? Do I love the things she loves enough to guide her on the path He’s laying out before her?
 
@@ -67,11 +67,11 @@ Will I be counted worthy of her trust?
 
 I stay the course. I don’t even blink for what feels in one way like years on end, but can’t possibly be. Somehow, though, I realize that when I peek over my shoulder to gaze at her in only a few moments, she’ll be older, not such a little girl anymore. I am scared to look.
 
-“Are we there yet?”
+“Are we there yet?’
 
-I glance in the mirror at the sound of a young woman’s voice and see her stretch from her slumber, taller and strong. “Almost,” I say. “I hope I don’t miss the turn.”
+I glance in the mirror at the sound of a young woman’s voice and see her stretch from her slumber, taller and strong. “Almost,’ I say. “I hope I don’t miss the turn.’
 
-“I can’t wait,” she says.
+“I can’t wait,’ she says.
 
 And she sits up straight and watches the road with me, as if she knows that I’m faltering here at the end. As if she knows that I’m weakening, and need her reassurance to continue following the map as it’s been written since before the foundation of time.
 
@@ -79,16 +79,16 @@ Everything looks so unfamiliar, though I swear I’ve been here once before, onc
 
 I’ve grown so sleepy that I swerve from my lane, lose my place in the grand scheme of our travels. She taps me on the shoulder.
 
-“It’s my turn now, Mom. Why don’t you let me drive for a while?”
+“It’s my turn now, Mom. Why don’t you let me drive for a while?’
 
 She takes the wheel and I fall asleep, but only for a moment. I dream of her childhood, and then of her grown-up beauty, of her wedding to a wonderful man. I dream of them choosing a path and following where He leads.
 
 And then suddenly I’m awake once more, tears making riverbeds of my cheeks. And I hear her voice again, from far away, where I can’t look over my shoulder as I used to and smile down at her darling face.
 
-“Mom, it’s me. We made it, we’re safe...”
+“Mom, it’s me. We made it, we’re safe...’
 
-“Oh, honey,” I say. “I’m so glad.” And then I laugh. “See, that didn’t take so long, did it?”
+“Oh, honey,’ I say. “I’m so glad.’ And then I laugh. “See, that didn’t take so long, did it?’
 
-“I love you,” she says, and then I hear pure wonder in her words. “And I can’t believe we’re finally here.”
+“I love you,’ she says, and then I hear pure wonder in her words. “And I can’t believe we’re finally here.’
 
 (Update: Here’s [Carrie’s new blog](http://myijourney.blogspot.com/) from her new city.)

@@ -88,19 +88,19 @@ comments:
 
 Two days before Christmas, when Mom fell and broke a rib and three bones in her foot, I knew.
 
-I knew when the ambulance arrived at her assisted living apartment and I gathered her purse and medical papers and the few items she’d need at the hospital, that when the gurney wheeled her out of those small rooms, her world would become even smaller. I almost said, “Mom, take a good look around. You’ve lived here eight years. This has been your home, and these people your friends, but you’ll never see this place again.”
+I knew when the ambulance arrived at her assisted living apartment and I gathered her purse and medical papers and the few items she’d need at the hospital, that when the gurney wheeled her out of those small rooms, her world would become even smaller. I almost said, “Mom, take a good look around. You’ve lived here eight years. This has been your home, and these people your friends, but you’ll never see this place again.’
 
 But I didn’t. Some things you must know and not say. A prophet is most likely to go without honor if she opens her mouth.
 
-“We’ll be back,” I lie to the nurse on duty, smiling reassuringly as we approached Mom’s dear friend, Annie, a 100-year-old darling who stood crying in the hallway, as was her steadfast habit when the paramedics came for Mom.
+“We’ll be back,’ I lie to the nurse on duty, smiling reassuringly as we approached Mom’s dear friend, Annie, a 100-year-old darling who stood crying in the hallway, as was her steadfast habit when the paramedics came for Mom.
 
 The paramedics have never once come for Annie in all these years. Annie will be one of those ladies who’s put to bed one splendid evening, sleepy and content to slumber to the lullaby of the cicadas, and who wakes up in the morning to find herself, as they say, dead. Annie plays bridge three times a week with other hallwardly mobile ladies, down in the so-called activity room, where she also takes exercises every morning promptly at nine and prays the rosary in a circle of the devoted twice weekly at three.
 
 For a regretted second, I am jealous of Annie’s daughter, a woman who lives in Phoenix and comes to see her mom four times a year, so they can go shopping for a few new stylish outfits and enough boxes of Cheese Nips to hold Annie’s junk-food cravings at bay till the season changes again.
 
-“Will she be okay?” Annie whispers between tiny sobs.
+“Will she be okay?’ Annie whispers between tiny sobs.
 
-“She’ll be f*ine*, Annie,” I say. “I will call you as soon as we know what the damages are. Don’t worry, sweetheart. I’ll take care of her.”
+“She’ll be f*ine*, Annie,’ I say. “I will call you as soon as we know what the damages are. Don’t worry, sweetheart. I’ll take care of her.’
 
 She strokes Mom’s face as the paramedics strap her onto the gurney and cover her with several warm blankets. An irrational fear comes over me that they will shoo Annie’s hand away and draw the blankets all the way up, over Mom’s head, finishing her off.
 
@@ -108,7 +108,7 @@ They stop just short of her chin and I exhale, and I realize we’ve been meetin
 
 Only then, they are pallbearers and the gurney is a casket and the ambulance is a hearse.
 
-“I’ll see you soon,” Mom says to Annie, but she won’t, not this side of heaven, and I know this. Do Mom and Annie know it, too?
+“I’ll see you soon,’ Mom says to Annie, but she won’t, not this side of heaven, and I know this. Do Mom and Annie know it, too?
 
 By this time next week, I think, I’ll be packing up this apartment with my baby sister and trying to avoid sweet weeping Annie’s questions and letting myself be jealous of Annie’s daughter in Phoenix for more than just a few seconds.
 
@@ -116,7 +116,7 @@ We celebrated Christmas in the hospital, Mom and me. The storms have never been 
 
 The clouds unleashed snow like a roaring avalanche without a mountain all day long. By noon, we broke up our party and my married kids got on the slow road to their in-laws. My youngest son made his way to work and I left my husband alone to greet the arrival of the Christ child snowed-in on our bridal-quilt-covered acreage.
 
-“Merry Christmas, my love,” I said, as I kissed him good-bye. And he smiled and held me a nice long time, but not as long as I wished. I knew I wouldn’t get home that day, or night, and possibly not the next day, either. I’d be sleeping on a narrow cot, not much wider than a manger, awaiting the birth of hope and joy and peace on earth.
+“Merry Christmas, my love,’ I said, as I kissed him good-bye. And he smiled and held me a nice long time, but not as long as I wished. I knew I wouldn’t get home that day, or night, and possibly not the next day, either. I’d be sleeping on a narrow cot, not much wider than a manger, awaiting the birth of hope and joy and peace on earth.
 
 What I didn’t know was that before I pulled the cord on the dim hospital room light that evening and kissed my mother’s cheek, I’d pull the socks off my own feet and hang them by the TV with care. What I didn’t know was that I’d find two Russell Stover’s sugar-free granola bars in my overnight bag and place them---my only sustenance for this stay of undeterminable length---one each in those two sad stockings.
 
@@ -124,9 +124,9 @@ What I didn’t know was that Mom would smile once before drifting off to a drug
 
 At midnight, another voice arose in song, as if a female Magi patient from the room next door had seen the call light over the door to the East and could contain her praises no more.
 
-“Someone’s singing,” Mom muttered between screams.
+“Someone’s singing,’ Mom muttered between screams.
 
-“Yes,” I said. “The lady in the next room. She’s singing every verse of Silent Night...”
+“Yes,’ I said. “The lady in the next room. She’s singing every verse of Silent Night...’
 
 And so she did. The woman never hit a single accurate note, but it didn’t matter. A child was born, one who was bound to change everything, even for those who know too much and hide behind lies to soften life’s blows.
 
@@ -134,13 +134,13 @@ Mom fell back to sleep and the screams resumed, one with each labored breath, th
 
 And then the wailing began.
 
-“She crying now,” Mom said in her stupor, and then screamed herself to sleep again.
+“She crying now,’ Mom said in her stupor, and then screamed herself to sleep again.
 
-No more calmness from the next room. No more ‘round yon virgin. No more silent night. The woman screeched and moaned her mental anguish throughout the wee hours of that Christmas morn. “Why, God, whyyyyyyyyy? Jesus, I don’t understand. Why, O my God, why?”
+No more calmness from the next room. No more ‘round yon virgin. No more silent night. The woman screeched and moaned her mental anguish throughout the wee hours of that Christmas morn. “Why, God, whyyyyyyyyy? Jesus, I don’t understand. Why, O my God, why?’
 
-After an hour or so, I wandered down to the nurse’s station. “Can you hear the patient in the corner room? She’s in so much distress...”
+After an hour or so, I wandered down to the nurse’s station. “Can you hear the patient in the corner room? She’s in so much distress...’
 
-The nurse’s eyes met mine, and we understood each other even before she spoke. “She’s lost something, and none of us can find it for her.”
+The nurse’s eyes met mine, and we understood each other even before she spoke. “She’s lost something, and none of us can find it for her.’
 
 I knew then the story of this Christmas, perhaps the story of every Christmas that has ever been from the beginning and will be until the end. We’ve all lost something, lost everything, really. And as hard as we might try, as loudly as we might sing, as often as we might cry out in pain, we can’t find it for ourselves or for each other, either. Not on our own. Not without Him.
 
@@ -150,16 +150,16 @@ There was no deep and dreamless sleep that night, but Jesus came to dwell with u
 
 Near first light, Mom awakened. The lady’s wails had softened until they’d finally subsided and Mom seemed to remember nothing that had happened while I lay with eyes wide open that entire night.
 
-“Merry Christmas, Mom,” I said.
+“Merry Christmas, Mom,’ I said.
 
-“Today?” she said, incredulous. “This is Christmas?”
+“Today?’ she said, incredulous. “This is Christmas?’
 
-I pointed to the TV, where my stretched-out socks were bulging with small treats. “Shall we see what’s in our stockings?”
+I pointed to the TV, where my stretched-out socks were bulging with small treats. “Shall we see what’s in our stockings?’
 
 She smiled and nodded. We ate our granola bars like grateful children.
 
-Then she turned to me and asked, “Did you hear a lady singing Christmas carols and crying in the night? Or did I dream it?”
+Then she turned to me and asked, “Did you hear a lady singing Christmas carols and crying in the night? Or did I dream it?’
 
-“It was real, Mom,” I said, bending down to smooth her hair and kiss her lips. “And in a way, I guess, kind of a dream, too.”
+“It was real, Mom,’ I said, bending down to smooth her hair and kiss her lips. “And in a way, I guess, kind of a dream, too.’
 
 Some things, after all, we just know.

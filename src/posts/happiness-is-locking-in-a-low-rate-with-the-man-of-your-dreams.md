@@ -67,7 +67,7 @@ We built this house nearly 15 years ago, and at the time we took out a 30-year l
 
 In fact, I remember my father, gone lo these 25 years, talking about a friend of the family who, at age 65, took out a 30-year mortgage.
 
-“He’s retiring next year!” Dad said. “You’re supposed to have burned your mortgage *years* before you retire.”
+“He’s retiring next year!’ Dad said. “You’re supposed to have burned your mortgage *years* before you retire.’
 
 My dad wasn’t just blowing smoke. He and Mom purchased their third and final home when I was six years old. By the time I, their oldest child, graduated from high school, they had paid off the house. They’d taken out a 20-year loan, and in 11 years, that puppy was history.
 

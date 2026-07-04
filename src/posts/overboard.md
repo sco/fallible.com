@@ -22,9 +22,9 @@ In order to get something---ANYthing---accomplished, it seems I have to put myse
 
 For instance, and this may not sound like much of a resolution to you, but I am firmly resolved to SKIP the entire season of American Idol this year. It sounds more like something a person might give up for Lent, but then catch in re-runs later. But there’s a method to my madness, at least I think there is.
 
-It’s the same method I try to use when I say, “I saved 75% on those jeans I found in the clearance aisle.” In fact, on December 31, before my January moratorium on shopping and spending went into effect, I found a $48 retail price pair of jeans at Kohl’s on clearance for $11. Then I used my 20% discount to get them down to $8.80. Yay for me, eh?
+It’s the same method I try to use when I say, “I saved 75% on those jeans I found in the clearance aisle.’ In fact, on December 31, before my January moratorium on shopping and spending went into effect, I found a $48 retail price pair of jeans at Kohl’s on clearance for $11. Then I used my 20% discount to get them down to $8.80. Yay for me, eh?
 
-Except that I can’t truly say I saved any money unless I put money into my savings account. So, in my mind, this excellent shopping outcome is not complete until I send the $40 I “saved” to a very safe place---far, far away from my capacity to grab it and spend it away. And it’s even better if that account is earmarked for a specific goal, so that I can tie my saving to a future achievement.
+Except that I can’t truly say I saved any money unless I put money into my savings account. So, in my mind, this excellent shopping outcome is not complete until I send the $40 I “saved’ to a very safe place---far, far away from my capacity to grab it and spend it away. And it’s even better if that account is earmarked for a specific goal, so that I can tie my saving to a future achievement.
 
 I’m trying to apply that same logic to the New Year. I am giving up some time-squandering stuff not because I’m the type of chick who likes less stuff, haha. But because I have unmet life goals that are worth pursuing and in need of LOTS of undivided attention if I’m ever going to accomplish them.
 

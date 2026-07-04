@@ -31,10 +31,10 @@ And then I spotted it, there on the shelf behind my questionable purses: The swe
 
 Instead, a single sheet of torn and yellowed newsprint and beyond that, only emptiness. No other treasures to compete for my attention. I unfolded the sheet and gasped when I read the title, for I now remembered stashing it here, a younger me hoping a future me would still cherish the message. This article originally appeared in the Kansas City Star on February 27, 1986. Here are Erma’s words to me all that time ago, and yes, again today:
 
-“Live Out Your Dream And Discard The Box”  
+“Live Out Your Dream And Discard The Box’  
 by Erma Bombeck
 
-When I slit open the envelope, a photocopy of a check for $5 fell out. The note with it was simple and direct: “I made this from my poem titled ‘Youth.’ Thanks for encouraging me.”
+When I slit open the envelope, a photocopy of a check for $5 fell out. The note with it was simple and direct: “I made this from my poem titled ‘Youth.’ Thanks for encouraging me.’
 
 Five bucks! What can you buy with $5 these days? A pint of designer ice cream? One rose? A home-furnishings magazine? A pair of pantyhose? Four gallons of gas? If you’re Sarah, who lives in Louisiana, it can buy euphoria, with side orders of pride, hope, self-esteem and the discovery that someone was willing to put a price on your talent.
 
@@ -42,7 +42,7 @@ There are a lot of Sarahs out there--women who keep their dreams in a private li
 
 It takes a lot of courage to show your dream to others. They might laugh. They might not understand. Worse, they might take it out of the box and drop it, and where would you get another one? Dreams are fragile.
 
-Some people, in desperation, give up on dreams. The clean house one day and decide: “This is ridiculous! I’m acting like a small child who refuses to give up a favorite toy.” So they toss out the contents of the box--the short story, the idea for a business, the college degree, the job they would love to have, the child they want, the trip they would like to take.
+Some people, in desperation, give up on dreams. The clean house one day and decide: “This is ridiculous! I’m acting like a small child who refuses to give up a favorite toy.’ So they toss out the contents of the box--the short story, the idea for a business, the college degree, the job they would love to have, the child they want, the trip they would like to take.
 
 Then there are a few, such as Sarah, who are willing to take a risk. They take the dream out of the box, put it on and start living it. They lay bare their ego to discover whether they are equal to the dream.
 

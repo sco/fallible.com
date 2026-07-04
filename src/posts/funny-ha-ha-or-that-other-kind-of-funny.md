@@ -12,9 +12,9 @@ comments:
 
 You know how your credit card company might do you the favor of freezing your account temporarily and notifying you if some untoward charges suddenly accrue to your name?
 
-I’ve never faced serious fraudulent transactions personally, but in a way being able to say in a tone full of righteous indignation, “I beg your pardon! I did NOT order the Hope diamond to be shipped to a slimy thief in Madagascar by FedEx! Reverse those charges immediately!” would make me feel good about my finances right about now.
+I’ve never faced serious fraudulent transactions personally, but in a way being able to say in a tone full of righteous indignation, “I beg your pardon! I did NOT order the Hope diamond to be shipped to a slimy thief in Madagascar by FedEx! Reverse those charges immediately!’ would make me feel good about my finances right about now.
 
-And what if you actually SPENT what the credit card company believes no one but a common criminal *could* have spent, and that by virtue of your excellent FICO score? I can only *imagine* how I’d feel if I had to say, “Um....no, the charter of that Lear jet to take my friends to see the total eclipse of the sun in Nova Scotia didn’t just happen to whomever Carly Simon wrote ‘You’re So Vain’ about. It happened to me, too....” Doh!
+And what if you actually SPENT what the credit card company believes no one but a common criminal *could* have spent, and that by virtue of your excellent FICO score? I can only *imagine* how I’d feel if I had to say, “Um....no, the charter of that Lear jet to take my friends to see the total eclipse of the sun in Nova Scotia didn’t just happen to whomever Carly Simon wrote ‘You’re So Vain’ about. It happened to me, too....’ Doh!
 
 Lucky for me, I don’t have either of these problems, which represent two sides of the same coin. Technically, I don’t even have very many same coins, but I digress.
 

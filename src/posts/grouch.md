@@ -28,7 +28,7 @@ In the past year or so, we’ve found collecting on the monies owed us to be a a
 
 What feels more wrong, though, is my lack of thankfulness for everything we have. And when I get like this, I have to go back to certain behaviors that have never failed to fill me with a humble gratitude, an attitude that I need to practice every single day, no matter what.
 
-And so I iron. Ironing convinces me, quicker than any other discipline, that we have more nice clothes than any couple has a right to. There’s nothing “designer” in the whole mix, mind you, but we have outfits for any occasion that might come up, and who has a right to ask for more than that?
+And so I iron. Ironing convinces me, quicker than any other discipline, that we have more nice clothes than any couple has a right to. There’s nothing “designer’ in the whole mix, mind you, but we have outfits for any occasion that might come up, and who has a right to ask for more than that?
 
 And then I cook. And when I cook, I use ingredients I find in my own pantry, refrigerator, and freezer. I challenge myself to make the most nutritious and tasty meals imaginable with items I already have in the house. I thank God, as I cook, for the abundance he’s given us, even if the abundance did not arrive this month. We then make it a point to tell each other how delicious our meals are, and how affordable, and how much less expensive than if we ate out.
 

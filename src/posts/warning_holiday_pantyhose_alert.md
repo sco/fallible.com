@@ -55,13 +55,13 @@ Consider this a public service announcement.
 
 Ladies, if you have purchased or intend to purchase a pair of No Nonsense Great Shapes Tights, beware! In the process of applying them, you will likely incur more aerobic benefit than you have in every Curves session of 2004. Either that, or you’ll suffer a heart attack and when the paramedics arrive, they’ll find you in, let’s just say, a compromising position.
 
-Here’s the fine print on the package: “ALL OVER SHAPER with a vertical rib pattern for a slimming effect. Slims your tummy, hips and thighs.”
+Here’s the fine print on the package: “ALL OVER SHAPER with a vertical rib pattern for a slimming effect. Slims your tummy, hips and thighs.’
 
 I’m no fool, at least not where undergarments are concerned. You don’t survive to reach your 51st birthday without gaining some wisdom about how the world works. Trust me when I say that when the world DOES work, it’s largely because of underwear.
 
 I’ve known since I was a teenager and first gave up my garter belt and seamed stockings for new-fangled pantyhose that the weight charts on the back of the package are a bunch of hooey. You always, ALWAYS need to purchase at least one size bigger than the chart indicates for your size, unless you want to end up hoseless for the prom or something.
 
-So, since I’m actually a size A, I bought my tights in a size B. For a 5’2” chick, a size B is meant to cover the legs and rear end of anyone who weighs between 135 and 175. I weigh less than 135. Trust me when I tell you that when I weighed 175, these tights wouldn’t have fit onto my ARM.
+So, since I’m actually a size A, I bought my tights in a size B. For a 5’2’ chick, a size B is meant to cover the legs and rear end of anyone who weighs between 135 and 175. I weigh less than 135. Trust me when I tell you that when I weighed 175, these tights wouldn’t have fit onto my ARM.
 
 I wasn’t too surprised when I opened the package and the tights looked long and, well, slim. That’s the way they always look. I’ve never approached a new, unstretched pair of pantyhose without a huge surge of faith in the supernatural. If I can worm my way into THOSE, I think, I’ll never doubt God again.
 
@@ -77,9 +77,9 @@ Just then, my beleaguered right toes began cramping, and immediately the cramp s
 
 I yanked my right foot from the tights, jumped up and pounded out the cramps which, I found, was difficult to do with no circulation in my left leg.
 
-“You haven’t heard the last of me,” I heard myself say as I hobbled back to my perch on the tub. “One of us will emerge the victor today, and it won’t be you.”
+“You haven’t heard the last of me,’ I heard myself say as I hobbled back to my perch on the tub. “One of us will emerge the victor today, and it won’t be you.’
 
-Before making another stab at the right leg of the tights, I massaged my toes for reinforcement. “Hold on for just another minute,” I reassured them. “Don’t fail me now.”
+Before making another stab at the right leg of the tights, I massaged my toes for reinforcement. “Hold on for just another minute,’ I reassured them. “Don’t fail me now.’
 
 I managed to finish the job. It wasn’t pretty. In the process of inching the tights true north, I condensed many angry body parts, which much prefer to occupy more space. I witnessed with my own eyes configurations of flesh which no one should have to see, the images burning themselves upon my sensibilities.
 

@@ -23,11 +23,11 @@ comments:
 
 There are things you can block out and things you can"t.
 
-There are times when God allows you, at least for a season, the grace of forgetfulness, the mercy of somnolence, the peace of oblivion"”and times when He withholds these gifts. You may have no choice in this matter.
+There are times when God allows you, at least for a season, the grace of forgetfulness, the mercy of somnolence, the peace of oblivion"’and times when He withholds these gifts. You may have no choice in this matter.
 
 Sometimes, you don"t notice the nursing home smells (if you walk quickly by the room in question), the sounds of anguish (unless they are originating in the throat of your own mother), and the cries for help---unless they arise from your very soul.
 
-Sometimes, you overlook the way caregivers can manage (through some great feat of either ignorance or over-training in the fine art of selective seeing) to state over and over again, when you ask about your loved one’s obvious-to-you declining status: "No change.”
+Sometimes, you overlook the way caregivers can manage (through some great feat of either ignorance or over-training in the fine art of selective seeing) to state over and over again, when you ask about your loved one’s obvious-to-you declining status: "No change.’
 
 But then there are days---those days when the long walk through the valley of the shadow of death seems even darker and deeper than before---when you no longer have the luxury of numbness. Your senses are hyper-alert, if only because no one else"s are.
 
@@ -43,22 +43,22 @@ And you can’t help but applaud, because you"re there and alive and there is mu
 
 You are seeing people now you never saw in the fourteen months your mother lived here. You are witnessing some vibrant old people, who still try their best to pick up on lyrics and rock themselves into a soothed lull while the music plays on, hearts steadfastly refusing to stop their arhythmic beating.
 
-The piano player educates his few interested listeners by telling them the little story behind the writing of “Love Is A Many Splendored Thing.” He cannot sing well but it doesn"t matter, as they cannot hear well. But it"s a kind of music appreciation class and they pay rapt attention.
+The piano player educates his few interested listeners by telling them the little story behind the writing of “Love Is A Many Splendored Thing.’ He cannot sing well but it doesn"t matter, as they cannot hear well. But it"s a kind of music appreciation class and they pay rapt attention.
 
 There is a community here, one your mother refused to join, and one your mother-in-law will not be able to appreciate now that her end, too, seems near.
 
-You remember the sampler you cross-stitched for your mother-in-law the year you were married. “To Love And Be Loved Is The Greatest Joy On Earth.” How can it be that she’s now forgotten her own husband, dead these thirty-four years? And imagines that your husband---her only son---is “her guy”? The years have disappeared into a murky mist and cognition has grown wings, but she is still loved. And she still loves. It is indeed a many splendored thing.
+You remember the sampler you cross-stitched for your mother-in-law the year you were married. “To Love And Be Loved Is The Greatest Joy On Earth.’ How can it be that she’s now forgotten her own husband, dead these thirty-four years? And imagines that your husband---her only son---is “her guy’? The years have disappeared into a murky mist and cognition has grown wings, but she is still loved. And she still loves. It is indeed a many splendored thing.
 
 "Isn"t there something else they could do for me to make me better?" she asks, during her only salient moment of the day. How do you answer that question, you who just watched your own mother die and could not stop or even slow the end of her unraveling life?
 
-“They’re giving you good medicine,” you say, but you have lost your faith in medicine. You hope she doesn’t see the doubt that must be clouding your eyes.
+“They’re giving you good medicine,’ you say, but you have lost your faith in medicine. You hope she doesn’t see the doubt that must be clouding your eyes.
 
 Finally comes Danny Boy on the ivories, bringing with it the remembrance of every Irish wake you’ve ever attended, and by this time and at your age, they are legion.
 
 “And if you come, when all the flowers are dying  
 And I am dead, as dead I well may be  
 You’ll come and find the place where I am lying  
-And kneel and say an Ave there for me.”  
+And kneel and say an Ave there for me.’  
 .  
 You’ll leave here soon, stop by the cemetery where your mother now lies with your father and brother, and kneel upon the freshly turned earth. You’ll say an Ave there, and cross yourself with the holy water of your own falling tears. You’ll sing a verse of Danny Boy before turning away.
 

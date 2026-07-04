@@ -44,9 +44,9 @@ Oh, and maybe my writing wasn’t all that? Nah, that couldn’t be it. Forget I
 
 The truth is, though, that I sold the first article I submitted, and basically all the articles I wrote subsequently. Sometimes, I did have to send them to more than one magazine or newspaper to find the right fit, but they did sell. There’s a possibility, looking back, that I didn’t fully appreciate how easily I managed to get in print. Yes, there is that distinct possibility.
 
-Then one day, I decided to take a fiction writing class at college, taught my a well-published friend of mine, Nancy Moser. She invited each student to submit a scene from a work-in-progress, so that she could critique it. Well, I just knew Nancy would think I was brilliant. Ha! Nancy red-inked me into the next county. Basically, she said that I had not written a “scene” at all, but rather an essay. Yes, I had “told” instead of “shown”---the kiss of death in novel writing.
+Then one day, I decided to take a fiction writing class at college, taught my a well-published friend of mine, Nancy Moser. She invited each student to submit a scene from a work-in-progress, so that she could critique it. Well, I just knew Nancy would think I was brilliant. Ha! Nancy red-inked me into the next county. Basically, she said that I had not written a “scene’ at all, but rather an essay. Yes, I had “told’ instead of “shown’---the kiss of death in novel writing.
 
-I did my best to write what she asked for, and resubmitted. This time, she wrote, “YES. This is a SCENE.” Finally! I almost understood a concept!
+I did my best to write what she asked for, and resubmitted. This time, she wrote, “YES. This is a SCENE.’ Finally! I almost understood a concept!
 
 It wasn’t long before I really wanted to find a national conference where I could meet published fiction authors, wannabe authors, editors, and agents. And so my annual trek to the American Christian Fiction Writers conference began. What a great association of wonderful, talented folks!
 

@@ -1,5 +1,5 @@
 ---
-title: "“Lose Two Hundred Pounds This Weekend!”"
+title: "“Lose Two Hundred Pounds This Weekend!’"
 date: "2004-09-17T16:05:00"
 comments:
   - author: "Anne"

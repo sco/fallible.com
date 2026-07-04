@@ -32,7 +32,7 @@ In those ways, our lives are predictable. But in so many hundreds of other ways,
 
 I don’t think it’s an exaggeration to say that I had no idea when Doug and I got married that our lives would take the path they have. When we got engaged, Doug was mowing lawns for another man’s company, destined to break many otherwise serviceable lawn mowers because, well, he wasn’t cut out to be a lawn guy. He was a brilliant guitarist and songwriter, and soon to be an up-and-coming graphic designer. He just didn’t know it yet.
 
-At the same time, I was a highly-compensated data recorder at a major pharmaceutical company, scribbling poetry on the side and getting in trouble for my distractibility. What “word” chick WOULDN’T be distracted by nothing but numbers, numbers, and more numbers all day long for five grueling years? Still, it never crossed my mind that someday I’d write even *one* novel, much less attract an agent and have the opportunity to pursue publication professionally.
+At the same time, I was a highly-compensated data recorder at a major pharmaceutical company, scribbling poetry on the side and getting in trouble for my distractibility. What “word’ chick WOULDN’T be distracted by nothing but numbers, numbers, and more numbers all day long for five grueling years? Still, it never crossed my mind that someday I’d write even *one* novel, much less attract an agent and have the opportunity to pursue publication professionally.
 
 I’ve grown to believe we do our children a great disservice when we urge them to structure their lives around the probability that events will occur precisely as they plan. We lead them to believe that if they go to college, get good grades, graduate with a degree in a high-paying field, and find a compatible mate, everything else in life will play out accordingly.
 
@@ -42,7 +42,7 @@ Real life is anything but predictable.
 
 I’m glad Doug and I didn’t compose five, ten, fifteen, and twenty year plans, even though I guess by most people’s standards we’d be considered slackers. Honestly, sometimes next week is farther ahead than I want to look. Besides, I’ve always liked surprises, and life has turned out to have plenty of them.
 
-I saw this in an essay by David Calderwood and thought it brilliant: “This lifelong illusion of predictability leaves us woefully unprepared for the abyss of reality.”
+I saw this in an essay by David Calderwood and thought it brilliant: “This lifelong illusion of predictability leaves us woefully unprepared for the abyss of reality.’
 
 Is your life turning out as you thought it would, as you planned (if you planned)? Or has it taken directions you couldn’t anticipate in your younger years?
 

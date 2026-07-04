@@ -77,7 +77,7 @@ First of all, I don’t think American citizens are as stupid as American politi
 
 Even in spite of the fact that tour buses have now taken crowds of envious folks to view the homes of the AIG employees in question, and to insist that those rich people ought to be paying the overdue rent of the touring masses who could have paid their rent if they hadn’t bought the bus ticket, I still believe most of us would side with Chevy.
 
-One of the reasons we would side with Chevy is that it’s becoming really difficult at this point not to be suspicious when we’re told by our leaders that the citizenry is “enraged,” especially when we’re told that our fellow Americans are only enraged by one specific minor-in-the-grand-scheme-of-a-meltdown item of interest. It’s hard not to be reminded of Bill Clinton bombing, what? a baby-formula factory, or was it an aspirin factory? back when he seemed to be attempting to divert attention from his shenanigans with Monica Lewinsky.
+One of the reasons we would side with Chevy is that it’s becoming really difficult at this point not to be suspicious when we’re told by our leaders that the citizenry is “enraged,’ especially when we’re told that our fellow Americans are only enraged by one specific minor-in-the-grand-scheme-of-a-meltdown item of interest. It’s hard not to be reminded of Bill Clinton bombing, what? a baby-formula factory, or was it an aspirin factory? back when he seemed to be attempting to divert attention from his shenanigans with Monica Lewinsky.
 
 If you’d like to read a resignation letter from an AIG employee whose bonus was retracted, [take a look at this](http://www.nytimes.com/2009/03/25/opinion/25desantis.html).
 

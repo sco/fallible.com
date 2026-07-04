@@ -16,7 +16,7 @@ For any of you who don’t know about National Novel Writing Month, it’s a rec
 
 I’ll tell you what: I wrote the World’s Crummiest Novel that month, but I kept my BIC (Butt In Chair) and got the words down, even managing to come up for air long enough to do a turkey and all the trimmings for the fam. Plus I was going to school full time. And my mother’s health was beginning its precipitous decline, demanding a ton of my attention.
 
-But I did it. The next year, I did it again. And then I began to write a “real” novel, and at some point along the way, abandoned it. THEN I wrote the first full-length novel that I actually finished, the one that landed me a great agent, Rachelle Gardner of WordServe Literary.
+But I did it. The next year, I did it again. And then I began to write a “real’ novel, and at some point along the way, abandoned it. THEN I wrote the first full-length novel that I actually finished, the one that landed me a great agent, Rachelle Gardner of WordServe Literary.
 
 But still no publishing deal, boo-hoo. Oh, wait. That itsy-bitsy crying jag was not nearly demonstrative enough to show my true feelings. BOO-HOOOOOO and WAAAAAA! That’s more like it. You might as well know how I really feel, right?
 

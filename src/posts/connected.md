@@ -46,11 +46,11 @@ comments:
       <a >roofing south London</a>
 ---
 
-“Tug on anything at all and you’ll find it connected to everything else in the universe.”
+“Tug on anything at all and you’ll find it connected to everything else in the universe.’
 
 John Muir
 
-“You could have been electrocuted.”
+“You could have been electrocuted.’
 
 Our lifelong friend and on-an-as-needed-basis heating/cooling professional, Neal, sat in our living room with a somber look on his face, a cup of coffee in one shivering hand, and a pencil in the frozen clutches of the other.
 
@@ -60,7 +60,7 @@ Still, even using a common kitchen butter knife to pry a frayed toaster cord fro
 
 No, not me. I am a virtual paragon of caution. In our home, it’s only Doug who could have been electrocuted.
 
-You probably don’t know this, but my husband’s father was an electrical engineer. Not only that, but the degree program our son Scott first chose upon beginning his studies at the University of Kansas was “Engineering Physics,” whatever that is.
+You probably don’t know this, but my husband’s father was an electrical engineer. Not only that, but the degree program our son Scott first chose upon beginning his studies at the University of Kansas was “Engineering Physics,’ whatever that is.
 
 But Doug? Doug is the kind of man for whom a loving wife prays every time she hears his feet plodding down to the basement, even if his only ostensible reason for descending into the miry depths is the annual hauling up of the thankfully-pre-lit Christmas tree. 
 
@@ -68,11 +68,11 @@ Why then, on such occasions, do I beseech the God of all mercy on my husband’s
 
 And also because I just don’t get home systems.
 
-“Home systems,” I’m guessing, is a term that can be used to describe the plumbing system, the electrical system, the heating/cooling system, and many others. Including but not limited to the home entertainment system, the network system, the sprinkler system, and the filing system.
+“Home systems,’ I’m guessing, is a term that can be used to describe the plumbing system, the electrical system, the heating/cooling system, and many others. Including but not limited to the home entertainment system, the network system, the sprinkler system, and the filing system.
 
 Did I mention the roofing system? Because right now, it’s the system that worries me the most.
 
-Pursuant to a spreading and darkening spot on my kitchen ceiling, I am increasingly aware that a “roofing system” includes not only a roof but everything that might be in contact with anything else that has ever contacted a roof.
+Pursuant to a spreading and darkening spot on my kitchen ceiling, I am increasingly aware that a “roofing system’ includes not only a roof but everything that might be in contact with anything else that has ever contacted a roof.
 
 In other words, to repair the incorrectly installed flashing on the chimney--which appeared to the roofing-systems specialist to be the ONLY problem--and then to have to subsequently tear out the molded back wall of the house, replacing the insulation, wall board, and wallpaper at significant personal expense, is NOT to guarantee that all systems are go.
 
@@ -80,21 +80,21 @@ Not by a long shot.
 
 The nature of a roofing system is that as soon as the ONLY thing causing the problem is fixed, and as soon as all the resultant disasters are mitigated, another even more insidious element of the conniving system will rear its ugly shingle.
 
-“We stand behind our work with Our Exclusive 100% Satisfaction-Guaranteed Lifetime Transferable Warranty,” the roofing-system specialist will say with an extremely straight face, except for the part of his right cheek which contains the tobacco. And then he’ll spit once into your rose bush before adding, “If ANYthing goes wrong, we’ll make it right. You have our word on it.”
+“We stand behind our work with Our Exclusive 100% Satisfaction-Guaranteed Lifetime Transferable Warranty,’ the roofing-system specialist will say with an extremely straight face, except for the part of his right cheek which contains the tobacco. And then he’ll spit once into your rose bush before adding, “If ANYthing goes wrong, we’ll make it right. You have our word on it.’
 
 Well, Mr. Roofing-Systems Specialist, something has gone wrong. Very wrong. So wrong, we had to call our Heating/Cooling-Systems Specialist.
 
-“You could have been electrocuted, really,” Neal repeated. “Your furnace can’t go on like this. It’s actually collapsing in on itself. It--and the air-conditioning system, of course--are caput.”
+“You could have been electrocuted, really,’ Neal repeated. “Your furnace can’t go on like this. It’s actually collapsing in on itself. It--and the air-conditioning system, of course--are caput.’
 
 He went on to explain, in language that could only make sense to a Systems Analyst, that the reason it’s approximately 14 degrees fahrenheit in our home is that the furnace has somehow been barely surviving a barrage of repeated and unbelievably strong electrical surges, the likes of which have finally caused the ten-year-old major appliance to heave its final hot breath.
 
-“And, Neal, another thing...the spot on the ceiling is back,” I mumbled. “Every day, as I stand at the sink washing the dishes, I watch it grow. It’s bigger and darker than yesterday. The blue spot of mold on the wallpaper is spreading, too...”
+“And, Neal, another thing...the spot on the ceiling is back,’ I mumbled. “Every day, as I stand at the sink washing the dishes, I watch it grow. It’s bigger and darker than yesterday. The blue spot of mold on the wallpaper is spreading, too...’
 
-“Now, Katy,” Neal said, and I couldn’t help noticing he’d pulled his cell phone from its holster and his thumbs were hovering over the nine and two ones,  “You know the roof and furnace are not related, don’t you? Besides, I only do heating and cooling...”
+“Now, Katy,’ Neal said, and I couldn’t help noticing he’d pulled his cell phone from its holster and his thumbs were hovering over the nine and two ones,  “You know the roof and furnace are not related, don’t you? Besides, I only do heating and cooling...’
 
 I know. And if ANYthing goes wrong, he’ll make it right.
 
-“Oh, yeah...you’re the heating/cooling systems specialist. How much will this set us back?” I asked, right before I started whimpering.
+“Oh, yeah...you’re the heating/cooling systems specialist. How much will this set us back?’ I asked, right before I started whimpering.
 
 I may not know much about home systems. But I’ve lived long enough to know that while everything may not be CLOSELY related, everything IS related.
 

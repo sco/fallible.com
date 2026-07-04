@@ -26,6 +26,6 @@ Each a priceless cultured pearl on that elusive string of fate.
 Where has all our trust gone, from the housetops you can shout  
 My trust has grown still greater, of that there is no doubt.  
 For some the past is all but forgotten but love’s a wonderful thing,  
-It makes those years fond memories, and for us the angels sing.”
+It makes those years fond memories, and for us the angels sing.’
 
 I know, Mom and Dad, that the songs of the angels must sound even sweeter when you’re in God’s eternal presence. All my love to both of you, forever.
