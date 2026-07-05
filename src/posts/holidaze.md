@@ -68,7 +68,7 @@ comments:
   - author: "Macromoments"
     date: "2006-12-30T22:53:24"
     text: |
-      "Sometimes, Iâ€™ve found, our elders are just BEGGING for one of us to bail them out of an obviously untenable situation, without them actually having to say, â€œI am not able to make this work.â€"
+      "Sometimes, I’ve found, our elders are just BEGGING for one of us to bail them out of an obviously untenable situation, without them actually having to say, “I am not able to make this work.”"
       
       Katy,this is so true. Both my parents are gone now, but oh, how I remember...
       

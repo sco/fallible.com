@@ -30,7 +30,8 @@ comments:
         
       Hope this helps puts things into perspective. Again, I really liked your take on the subject.  
         
-      Dina---
+      Dina
+---
 
 I’ve been a follower of Jesus for a good long time, but I’ve gotta be honest with you: There are some Bible stories that bug the heck out of me.
 

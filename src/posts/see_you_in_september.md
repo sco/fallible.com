@@ -55,7 +55,7 @@ comments:
   - author: "www"
     date: "2007-11-05T03:32:39"
     text: |
-      <a href="http://www.todesign.com.cn">å·¥ä¸šè®¾è®¡</a> <a href="http://www.todesign.com.cn">äº§å“è®¾è®¡</a> <a href="http://www.hzgames.com/news.asp">runescape money</a> <a href="http://www.hzgames.com/news.asp">runescape gold</a> <a href="http://www.hzgames.com">runescape gold</a> <a href="http://www.hzgames.com">runescape money</a> <a href="http://www.game-win.com">wow power leveling</a> <a href="http://www.topowerleveling.com">wow power leveling</a> <a href="http://www.clickra86.com">search engine optimization</a> <a href="http://www.gowowpowerleveling.com">wow power leveling</a> <a href="http://www.rajingwei.com/SEO_YOU.htm">googleå·¦ä¾§æŽ’å</a> <a href="http://www.rajingwei.com/NewsList_2.htm">googleæŽ’å</a>
+      <a href="http://www.todesign.com.cn">工业设计</a> <a href="http://www.todesign.com.cn">产品设计</a> <a href="http://www.hzgames.com/news.asp">runescape money</a> <a href="http://www.hzgames.com/news.asp">runescape gold</a> <a href="http://www.hzgames.com">runescape gold</a> <a href="http://www.hzgames.com">runescape money</a> <a href="http://www.game-win.com">wow power leveling</a> <a href="http://www.topowerleveling.com">wow power leveling</a> <a href="http://www.clickra86.com">search engine optimization</a> <a href="http://www.gowowpowerleveling.com">wow power leveling</a> <a href="http://www.rajingwei.com/SEO_YOU.htm">google左侧排名</a> <a href="http://www.rajingwei.com/NewsList_2.htm">google排名</a>
   - author: "bydifcsg"
     date: "2008-11-22T13:17:09"
     text: |

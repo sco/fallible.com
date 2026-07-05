@@ -37,7 +37,8 @@ comments:
   - author: "jdigdlgg"
     date: "2007-05-21T23:59:18"
     text: |
-      qcwzklek http://gvuxrndt.com gbzqjqqr pwpwmmzb  [URL=http://kebucfch.com]prhcpsyh[/URL]  <a href="http://psdfotop.com">uinoqrmf</a>---
+      qcwzklek http://gvuxrndt.com gbzqjqqr pwpwmmzb  [URL=http://kebucfch.com]prhcpsyh[/URL]  <a href="http://psdfotop.com">uinoqrmf</a>
+---
 
 There are a few things I must have resolved somewhere along the way that have actually stuck. They weren't New Year's resolutions, just things I determined to do or not to do, and succeeded.
 

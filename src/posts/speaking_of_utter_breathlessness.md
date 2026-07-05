@@ -38,7 +38,7 @@ comments:
     text: |
       Hi Katy
       
-      Not very long ago, older meant â€œover 50.â€ But many people need life insurance at 50, 55, 60, or 65. Age is not always a reason to abandon life insurance. Even so-called â€œolderâ€ people may need income protection for their survivors if these heads of household or primary caregivers die prematurely. 
+      Not very long ago, older meant “over 50.” But many people need life insurance at 50, 55, 60, or 65. Age is not always a reason to abandon life insurance. Even so-called “older” people may need income protection for their survivors if these heads of household or primary caregivers die prematurely. 
       
       People in their 50s and 60s (and sometimes into their 70s) are in their peak earnings years and have family responsibilities.
   - author: "Insurance"
@@ -53,7 +53,7 @@ comments:
   - author: "life cover"
     date: "2009-09-09T05:17:30"
     text: |
-      One can read details about â€œglycolysisâ€ in the wkipedia in the following link.
+      One can read details about “glycolysis” in the wkipedia in the following link.
       http://en.wikipedia.org/wiki/Glycolysis
       
       But one funny thing about diagnos is that there is always a possibility of false report or mistake. In this case it is better to check it up for the second time.

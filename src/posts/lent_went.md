@@ -59,7 +59,8 @@ comments:
       
       Karen--Hey, girlfriend! Looking forward to seeing you soon, I hope! Happy Easter to your family, too. Love you!
       
-      Tina--Thanks for popping in here, and for the encouraging email you sent me. I will keep pressing onward with my novel, and think of you!---
+      Tina--Thanks for popping in here, and for the encouraging email you sent me. I will keep pressing onward with my novel, and think of you!
+---
 
 Well, Lent is nearly over, and this "giving up the Internet" thing was every bit as hard as I imagined it would be. It's been fruitful in many ways, but I don't think I'll be committing to repeating it anytime soon!  :)
 

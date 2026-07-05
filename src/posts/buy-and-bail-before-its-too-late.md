@@ -83,23 +83,23 @@ comments:
     text: |
       Hi
       Move your furnishings into said home and immediately after you close on the new place, let your previous home slide into foreclosure. Thanks
-  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ð¾Ð´ÐµÑÑÑ‹"
+  - author: "индивидуалки одессы"
     date: "2010-08-17T06:35:03"
-    text: "Ð—ÐÐ¼ÐµÑ‡Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚.ÐœÐ°Ð»Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹,ÑƒÐ²Ð°Ð¶Ð°ÑŽ Ñ‚Ð°ÐºÐ¸Ñ… Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð²."
+    text: "ЗАмечательный сайт.Мало рекламы,уважаю таких администраторов."
   - author: "villash"
     date: "2010-08-19T05:52:33"
     text: |
-      I guess it depends on how you look at life. Anyway, two years later your house-formerly-known-as-â€œdreamâ€ is now your constant nightmare...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
-  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ð»ÑŒÐ²Ð¾Ð²Ð°"
+      I guess it depends on how you look at life. Anyway, two years later your house-formerly-known-as-“dream” is now your constant nightmare...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
+  - author: "индивидуалки львова"
     date: "2010-08-21T13:26:27"
-    text: "Ð¥Ð¾Ñ€Ð¾ÑˆÐ¾ Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ.ÐœÐ¾Ð¶Ð½Ð¾ ÑƒÐ·Ð½Ð°Ñ‚ÑŒ Ð²Ð°ÑˆÐ¸ Ñ€ÐµÐºÐ²ÐµÐ·Ð¸Ñ‚Ñ‹? Ð¥Ð¾Ñ‡Ñƒ Ð¿Ñ€Ð¸Ð¾Ð±Ñ€ÐµÑÑ‚Ð¸ Ñƒ Ð²Ð°Ñ Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÐºÐ¸ Ð´Ð»Ñ Ð±Ð°Ð½Ð½ÐµÑ€Ð¾Ð²."
+    text: "Хорошо пишите.Можно узнать ваши реквезиты? Хочу приобрести у вас площадки для баннеров."
   - author: "Stack Exchange Updates"
     date: "2010-09-09T16:06:34"
     text: "Above discussed tips are some of the things you have to consider when you buy investment properties. Having a good knowledge and understanding on all of these important matters will lead you to a successful investment property venture although there might be various options for novice investors."
   - author: "laran"
     date: "2010-09-10T12:03:34"
     text: |
-      Iâ€™ll probably be sneaking over here when I get a chance, but for the next few weeks Iâ€™ve got to focus on getting some strong material ready to take with me to Denver. Weâ€™ll be privileged to sit in on the teaching of Donald Maass, a great agent who wrote Writing the Breakout Novel and The Career Novelist. Iâ€™ve only ever heard five-star reviews of his workshops, so weâ€™re really looking forward to that...
+      I’ll probably be sneaking over here when I get a chance, but for the next few weeks I’ve got to focus on getting some strong material ready to take with me to Denver. We’ll be privileged to sit in on the teaching of Donald Maass, a great agent who wrote Writing the Breakout Novel and The Career Novelist. I’ve only ever heard five-star reviews of his workshops, so we’re really looking forward to that...
       
       <a href="http://www.11plustrainer.co.uk/">Eleven Plus </a>
   - author: "Insurance reviews"
@@ -110,9 +110,9 @@ comments:
     text: |
       Hi,
       Is not the present credit crunch actually caused by greedy bankers in the first place?Lending money to people who did,not have a chance of paying it back.Or are they just plain stupid and can,t do their math?Or is it caused by us/we who have to bail the banks out with our hard earned cash?
-  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ñ‚Ð°Ð³Ð°Ð½Ñ€Ð¾Ð³Ð°"
+  - author: "индивидуалки таганрога"
     date: "2010-10-01T16:19:01"
-    text: "Ñ Ð¿Ð»Ð¾Ñ…Ð¾ Ð·Ð½Ð°ÑŽ Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶Ð½Ñ–Ð¹ ÑÐ·Ñ–Ðº Ð½Ð¾ Ð¿Ñ€Ð¾Ð±ÐµÐ¶Ð°Ð»ÑÑ Ð³Ð»Ð°Ð·Ð°Ð¼Ð¸ Ð¿Ð¾ Ð²Ð°ÑˆÐ¸Ñ‚ ÑÑ‚Ð°Ñ‚ÑŒÑÐ¼, Ð²Ð¿ÐµÑ‡Ð°Ñ‚Ð»Ð¸Ð»Ð¾ Ð½Ð° ÑÐ°Ð¼Ð¾Ð¼ Ð´ÐµÐ»Ðµ! Ð£ Ð²Ð°Ñ ÐµÑÑ‚ÑŒ Ñ‚Ð°Ð»Ð°Ð½ÑŒ, Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»ÑÑ Ð² Ñ€ÑÑ"
+    text: "я плохо знаю зарубежній язік но пробежался глазами по вашит статьям, впечатлило на самом деле! У вас есть талань, я добавился в рсс"
   - author: "Office space for rent in chennai"
     date: "2010-10-11T07:44:20"
     text: "You have all inspired me to focus on providing more informative and resource type link building posts in the future,so stay tuned for more soon."

@@ -25,7 +25,7 @@ comments:
       Then I shuddered and had to check YouTube...
       
       The result: 
-      â€œexploding eggsâ€ video results 1 - 20 of about 381.
+      “exploding eggs” video results 1 - 20 of about 381.
       
       I kid you not.
       
@@ -82,7 +82,7 @@ comments:
       
       
        <a href="http://www.facebookprofilelayouts.com">facebook backgrounds</a>
-  - author: "Ø´Ø§Øª Ù…Ø§Ø´Ù‰"
+  - author: "شات ماشى"
     date: "2010-07-22T08:54:12"
     text: "Good article .. Thank you"
   - author: "Pc Tv Programs"
@@ -92,7 +92,7 @@ comments:
   - author: "moniga"
     date: "2010-08-23T06:49:11"
     text: |
-      Give him wisdom beyond his years, inspire him with President Lincolnâ€™s reconciling leadership style, President Kennedyâ€™s ability to enlist our best efforts, and Dr. Kingâ€™s dream of a nation for all people...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
+      Give him wisdom beyond his years, inspire him with President Lincoln’s reconciling leadership style, President Kennedy’s ability to enlist our best efforts, and Dr. King’s dream of a nation for all people...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
   - author: "Real estate chennai"
     date: "2010-09-29T11:37:27"
     text: "I thought for sure someone had broken in and started shooting even before they located me down the hall.It only took several seconds for this illogical idea to cause me to move on down the line thought-wise."

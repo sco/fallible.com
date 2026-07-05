@@ -19,7 +19,7 @@ comments:
   - author: "Daniel"
     date: "2006-03-15T22:39:54"
     text: |
-      I met the Dali Lama at a hotel in Las Angeles.  Technically, by â€œmet,â€ I mean that I saw him from a very close distance.  An associate of my fathers' actually shook his hand (upon this exchange, I shook the associate's hand â€“ mind you, just before he washed them).  I touched someone who touched someone!
+      I met the Dali Lama at a hotel in Las Angeles.  Technically, by “met,” I mean that I saw him from a very close distance.  An associate of my fathers' actually shook his hand (upon this exchange, I shook the associate's hand – mind you, just before he washed them).  I touched someone who touched someone!
   - author: "Carrie K."
     date: "2006-03-16T01:57:13"
     text: "I love David McCallum on NCIS! What a great actor."

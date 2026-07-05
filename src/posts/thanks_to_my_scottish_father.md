@@ -43,7 +43,7 @@ comments:
   - author: "Kim"
     date: "2009-02-12T18:22:56"
     text: |
-      â€œBecoming a British citizen makes it so you can live and work anywhere in the European Union without visas or work permits.â€ 
+      “Becoming a British citizen makes it so you can live and work anywhere in the European Union without visas or work permits.” 
       
       Really?? How does one get dual citizenship? How long does the process usually take?
       

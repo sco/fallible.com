@@ -104,15 +104,15 @@ comments:
 
 Mary: I have a chapter in the book about that. So go read it. No, seriously...
 
-Katy: I AM reading it, you silly jeune fille! But please tempt my readers a little bit with a nugget so theyâ€™ll go out and buy it, too.
+Katy: I AM reading it, you silly jeune fille! But please tempt my readers a little bit with a nugget so they’ll go out and buy it, too.
 
 Mary: I will tell my kids stuff as God leads. A typical rule of thumb is to tell your kids things you did when they are the same age you were when you did it. But, with some sensitive things, you may need to refrain.
 
 Katy: Only if they ask, or if their situation warrants it?
 
-Mary: Usually situational. And keeping in mind the nature of each child, you may end up telling one child one thing at one age, and another child at a different age. I call it telling cautionary tales. Learn from my stupidity...that sort of thing. That way Iâ€™m not coming across as the perfect Pollyanna Parent and Iâ€™m trusting my children with my honesty.
+Mary: Usually situational. And keeping in mind the nature of each child, you may end up telling one child one thing at one age, and another child at a different age. I call it telling cautionary tales. Learn from my stupidity...that sort of thing. That way I’m not coming across as the perfect Pollyanna Parent and I’m trusting my children with my honesty.
 
-Katy: I agree. Cautionary tales. I recently told my daughter something and she said how much closer she felt to me because Iâ€™d done something so dumb!
+Katy: I agree. Cautionary tales. I recently told my daughter something and she said how much closer she felt to me because I’d done something so dumb!
 
 Mary: That's what I'm talking about.
 
@@ -122,7 +122,7 @@ Mary: That shows that our relationships with our kids go beyond age 18.
 
 Katy: Relationships with kids should continue to get stronger and more real.
 
-Mary: Yeah. And I guess Iâ€™m trying to avoid the secret thing. I grew up in a home with secrets, secrets that are still around. It is crazy-making.
+Mary: Yeah. And I guess I’m trying to avoid the secret thing. I grew up in a home with secrets, secrets that are still around. It is crazy-making.
 
 Katy: I did, too. I suppose I'll carry some of my father's secrets forever, or maybe not. It's bad when they tell you things and say, "Don't tell your mother." Yikes!
 
@@ -140,7 +140,7 @@ Katy: Looking back, I think I probably asked my kids too many questions that cou
 
 Mary: Me too. But I'm learning.
 
-Katy: Questions like "Did you have a good day?" â€œDo you have homework?â€ â€œAre your gym socks smelly?â€
+Katy: Questions like "Did you have a good day?" “Do you have homework?” “Are your gym socks smelly?”
 
 Mary: Yes, Mom.
 
@@ -160,17 +160,17 @@ Katy: I know!
 
 Mary: Well, first, realize that emotional healing takes time and is a bit scary. I liken it to walking into a dark tunnel with Jesus. Most Christians, if I can be so bold, don't walk into that tunnel.
 
-Katy: I'm scared already. Iâ€™m not sure Iâ€™ve gone there yet. Iâ€™m still afraid of MRI machines.
+Katy: I'm scared already. I’m not sure I’ve gone there yet. I’m still afraid of MRI machines.
 
 Mary: Once in there, Jesus shows the movie of our lives and holds us through the pain. The joy comes when we walk THROUGH the tunnel and get to the other side and see the amazing new vista there. But you can't see the vista without the tunnel. And once Jesus heals you, your relationships start bearing marks of that healing.
 
 Katy: Is this a one-time tunnel trip?
 
-Mary: Nope. Thereâ€™s more than one tunnel.
+Mary: Nope. There’s more than one tunnel.
 
 Katy: Oh-oh. Like there are more than two shoes that drop?
 
-Mary: Itâ€™s like forgiveness. We can breathe prayers of forgiveness, but it's never a one-time event. It's a process. A painful one.
+Mary: It’s like forgiveness. We can breathe prayers of forgiveness, but it's never a one-time event. It's a process. A painful one.
 
 Katy: Forgiveness. Yeah. I can forgive the same person for the same offense a hundred times before I finally start to "feel" it.
 
@@ -196,7 +196,7 @@ Katy: My Yoda, indeed...
 
 Mary: Go Seahawks! I'm from Seattle.
 
-Katy: Yes! Go Seahawks! I've never said that before. Waitâ€¦is that a football thing? Um, Mary, as my IM mentor, can you tell me--How do I stop this thing?
+Katy: Yes! Go Seahawks! I've never said that before. Wait…is that a football thing? Um, Mary, as my IM mentor, can you tell me--How do I stop this thing?
 
 Mary: You don't. You're stuck forever.
 

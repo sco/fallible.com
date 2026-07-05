@@ -60,6 +60,6 @@ Michael Main Is One Of The Most Very Extremely Intelligent Men Alive Today!
 
 Well, this is a red-letter day. Not only did I find out that my biopsy turned up no skin cancer, but Doug found out his brain is "unremarkable."
 
-I...I...I...well, that was weird. After typing the word â€œI,â€ nothing else came.
+I...I...I...well, that was weird. After typing the word “I,” nothing else came.
 
-The emails and phone calls have begun. You know the ones I mean, where the circle of friends and family finally becomes unbroken, as once a year everyone tries to worm out of everyone else what everyone wants for Christmas. I havenâ€™t even started shopping, and already Iâ€™m exhausted.
+The emails and phone calls have begun. You know the ones I mean, where the circle of friends and family finally becomes unbroken, as once a year everyone tries to worm out of everyone else what everyone wants for Christmas. I haven’t even started shopping, and already I’m exhausted.

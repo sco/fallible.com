@@ -51,49 +51,49 @@ comments:
 
 Here's a piece of fiction I've started. I'm posting it here just for fun. If you have any ideas about where the story might go from here, let me know. Hope you enjoy it!
 
-Not every innocent Catholic girl gets shouldered with bearing the life-long cross of being named Dympna. I think Iâ€™ve finally figured out why.
+Not every innocent Catholic girl gets shouldered with bearing the life-long cross of being named Dympna. I think I’ve finally figured out why.
 
-Saints Online spills the theological beans in no uncertain terms: "St. Dympnaâ€”Patron Saint of the Mentally Ill."
+Saints Online spills the theological beans in no uncertain terms: "St. Dympna—Patron Saint of the Mentally Ill."
 
-Thatâ€™s right. They go to the trouble of capitalizing Mentally Ill like itâ€™s a professional title or an academic distinction or something. Isnâ€™t that Special?
+That’s right. They go to the trouble of capitalizing Mentally Ill like it’s a professional title or an academic distinction or something. Isn’t that Special?
 
-On alternate websites devoted to the saints, sheâ€™s variously described as the patron of the Emotionally Disturbed, the Insane, and my hands-down favorite, the Lunatic.
+On alternate websites devoted to the saints, she’s variously described as the patron of the Emotionally Disturbed, the Insane, and my hands-down favorite, the Lunatic.
 
 So there you have it.
 
-Iâ€™ve never known which one of them deserved the most blame, Mom or Dad. If naming babies is anything like dancing the tango, I figure it takes two. But that doesnâ€™t necessarily mean theyâ€™re both sober.
+I’ve never known which one of them deserved the most blame, Mom or Dad. If naming babies is anything like dancing the tango, I figure it takes two. But that doesn’t necessarily mean they’re both sober.
 
-When I finally figured out the finer points of the facts of life, I decided that Mom popped me out, took one look at my blotchy baby-acne, amniotic-fluid-logged wrinkles, forceps-induced cone-head, and confused expression, and didnâ€™t waste a second brainstorming a name for the pathetic bundle in her arms.
+When I finally figured out the finer points of the facts of life, I decided that Mom popped me out, took one look at my blotchy baby-acne, amniotic-fluid-logged wrinkles, forceps-induced cone-head, and confused expression, and didn’t waste a second brainstorming a name for the pathetic bundle in her arms.
 
-Before Dr. Sinclair severed the umbilical cord and stitched her up, Mom gave a shout-out to Dad over the hospitalâ€™s public address system (fathers paced alone in waiting rooms back then), adding to my young life the psychological insult of a crummy name on top of the minor injuries of a traumatic birth.
+Before Dr. Sinclair severed the umbilical cord and stitched her up, Mom gave a shout-out to Dad over the hospital’s public address system (fathers paced alone in waiting rooms back then), adding to my young life the psychological insult of a crummy name on top of the minor injuries of a traumatic birth.
 
-â€œWhat do you think, Frank? Weâ€™ve always loved the names Rose and Teresa, and then thereâ€™s Angelaâ€¦â€
+“What do you think, Frank? We’ve always loved the names Rose and Teresa, and then there’s Angela…”
 
-â€œI donâ€™t know, babe. Iâ€™ve been burning up the linoleum out here, trying to come up with the perfectâ€”â€
+“I don’t know, babe. I’ve been burning up the linoleum out here, trying to come up with the perfect—”
 
-â€œFrank, wait! It just came to me! Itâ€™s like heaven opened up and a bolt of lightening shot through my soul, and I knowâ€”I just know!â€
+“Frank, wait! It just came to me! It’s like heaven opened up and a bolt of lightening shot through my soul, and I know—I just know!”
 
-â€œDonâ€™t tell me, Chrissie! Let me guessâ€¦â€
+“Don’t tell me, Chrissie! Let me guess…”
 
-And then, as if theyâ€™d individually seen apparitions of the venerable saint herself in the textured covers of the sound systemâ€™s speakers, they shouted to each other in the ecstasy of one voice, like deep calls to deep, orâ€”in their casesâ€”like shallow calls to shallow.
+And then, as if they’d individually seen apparitions of the venerable saint herself in the textured covers of the sound system’s speakers, they shouted to each other in the ecstasy of one voice, like deep calls to deep, or—in their cases—like shallow calls to shallow.
 
-â€œDympna!â€
+“Dympna!”
 
-Upon hearing that single word, a whole hospital full of people whoâ€™d been listening in on this discussion burst into gales of uncontrolled laughter, but Mom and Dad simply thought that the angels in heaven had come to rejoice over their sweet baby girl.
+Upon hearing that single word, a whole hospital full of people who’d been listening in on this discussion burst into gales of uncontrolled laughter, but Mom and Dad simply thought that the angels in heaven had come to rejoice over their sweet baby girl.
 
-Yeah, thatâ€™s the way I picture it happening when Iâ€™m feeling generous and forgiving which, youâ€™ve probably guessed, isnâ€™t often.
+Yeah, that’s the way I picture it happening when I’m feeling generous and forgiving which, you’ve probably guessed, isn’t often.
 
-If St. Dympnaâ€™s claim to fame is shaky on the saintly websites, you should see how she rates on the name-your-baby sites.
+If St. Dympna’s claim to fame is shaky on the saintly websites, you should see how she rates on the name-your-baby sites.
 
-â€œDympna. Female. Irish. From the Irish name Damhnait, meaning fit or eligible.â€
+“Dympna. Female. Irish. From the Irish name Damhnait, meaning fit or eligible.”
 
-Well, okay. First of all, thereâ€™s no getting around the fact that the Irish spelling (and pronunciation?) of the name looks, and probably sounds, suspiciously like a curse word. Thereâ€™s a good reason for that, donâ€™t you think?
+Well, okay. First of all, there’s no getting around the fact that the Irish spelling (and pronunciation?) of the name looks, and probably sounds, suspiciously like a curse word. There’s a good reason for that, don’t you think?
 
-Now, about the nameâ€™s supposed meaning: The only famous Dympna-of-oldâ€”my erstwhile namesakeâ€”was certainly eligible. Iâ€™ll give her that. She was so eligible, in fact, that her loony father, an Irish King, tried to take her for his wife because she reminded him so much, in his unabated grief, of her beautiful but recently deceased mother. Dympna fled to Belgium from her fatherâ€™s insanity, which is how her fitness came in handy, but she still ended up getting martyred for resisting his advances.
+Now, about the name’s supposed meaning: The only famous Dympna-of-old—my erstwhile namesake—was certainly eligible. I’ll give her that. She was so eligible, in fact, that her loony father, an Irish King, tried to take her for his wife because she reminded him so much, in his unabated grief, of her beautiful but recently deceased mother. Dympna fled to Belgium from her father’s insanity, which is how her fitness came in handy, but she still ended up getting martyred for resisting his advances.
 
-Fit and eligible, indeed. In my limited experience, Iâ€™ve found that headless chicksâ€”no matter how the baby-naming websites may lead you to imagine otherwiseâ€”are rarely as fit and eligible after the axe as they were before.
+Fit and eligible, indeed. In my limited experience, I’ve found that headless chicks—no matter how the baby-naming websites may lead you to imagine otherwise—are rarely as fit and eligible after the axe as they were before.
 
-â€œOut of 5673 votes,â€ one site proclaims, â€œ0% have this name themselves, 0% wish with all their souls that theyâ€™d been blessed enough to be given this name, and 0% chose this name for their own precious child.â€
+“Out of 5673 votes,” one site proclaims, “0% have this name themselves, 0% wish with all their souls that they’d been blessed enough to be given this name, and 0% chose this name for their own precious child.”
 
 Those stats are hard to believe, huh?
 
@@ -101,13 +101,13 @@ If Mom and Dad had a scant ounce of mercy between them, they would have added th
 
 When it came to naming little girls, Mary covered a multitude of sins.
 
-If theyâ€™d only gone with that magnificent moniker, my childhood might have been normal, like Mary Bethâ€™s and Mary Kathleenâ€™s and Mary Aliceâ€™s. Even the twins who lived down the block, Mary Janice and Mary Jeanette, got off easy.
+If they’d only gone with that magnificent moniker, my childhood might have been normal, like Mary Beth’s and Mary Kathleen’s and Mary Alice’s. Even the twins who lived down the block, Mary Janice and Mary Jeanette, got off easy.
 
-I, though, entered Miss Pendergastâ€™s kindergarten class and became the immediate object of relentless name-related peer-review, tantamount to taunting.
+I, though, entered Miss Pendergast’s kindergarten class and became the immediate object of relentless name-related peer-review, tantamount to taunting.
 
-â€œWhatâ€™s a Dympna?â€ Dougie Aylward proposed marriage to me on the first day of school, armed with a fake diamond ring from the lid of his mamaâ€™s floor wax container. But our young love was fraught from the beginning with the misery of emotional abuse. â€œDo I dip my Layâ€™s potato chips in it? Bet you canâ€™t eat just one!â€
+“What’s a Dympna?” Dougie Aylward proposed marriage to me on the first day of school, armed with a fake diamond ring from the lid of his mama’s floor wax container. But our young love was fraught from the beginning with the misery of emotional abuse. “Do I dip my Lay’s potato chips in it? Bet you can’t eat just one!”
 
-Why, oh why, didnâ€™t my parents give me the chance to ditch Dympna once and forevermore and go overboard for the Blessed Mother?
+Why, oh why, didn’t my parents give me the chance to ditch Dympna once and forevermore and go overboard for the Blessed Mother?
 
 I would have done it, too. I would have proclaimed my devotion to Mary with my whole being and consecrated my entire future to her renown, if the old folks had only given me an out. But did my parents think their actions through to the likeliest outcome and do the right thing?
 
@@ -117,40 +117,40 @@ No, for some reason known only to Mom, Dad, and the thousands of Patron Saints o
 
 Instead, they named me Dympna Shayne.
 
-Shayne, you understand, isnâ€™t a saintâ€™s name, which means they might as well have spared themselves the effort it took to dream it up. Itâ€™s not like a nun back in the day would have disregarded the churchâ€™s naming traditions by actually calling me Shayne when I was a fledgling catechism student at St. Elizabethâ€™s Grade School.
+Shayne, you understand, isn’t a saint’s name, which means they might as well have spared themselves the effort it took to dream it up. It’s not like a nun back in the day would have disregarded the church’s naming traditions by actually calling me Shayne when I was a fledgling catechism student at St. Elizabeth’s Grade School.
 
-In order to be baptized, either your first or middle name had to be a saintâ€™s name. From infancy on, whenever you were on the premises of an institution operated by the church, you had better be prepared to be addressed by whichever of your names passed muster.
+In order to be baptized, either your first or middle name had to be a saint’s name. From infancy on, whenever you were on the premises of an institution operated by the church, you had better be prepared to be addressed by whichever of your names passed muster.
 
-Iâ€™m pretty sure Sisters Cecilia Gertrude, Bernadette Paul, and Agnes Ireneâ€”themselves personally in cumulative possession of half the saintsâ€™ names in the known universeâ€”could have been, for a much milder offense than calling me Shayne, put out to pasture at the Holy Family Home for Weary Sisters of the Order of St. Joseph.
+I’m pretty sure Sisters Cecilia Gertrude, Bernadette Paul, and Agnes Irene—themselves personally in cumulative possession of half the saints’ names in the known universe—could have been, for a much milder offense than calling me Shayne, put out to pasture at the Holy Family Home for Weary Sisters of the Order of St. Joseph.
 
-So until I entered public high school, I was stuck with Dympna, a second or third-tier saint by even the most inclusive of Catholic standards, but a bona fide saint, nonetheless. Thatâ€™s just the way it worked. It didnâ€™t matter that by some accounts, her lifeâ€™s story might be only a legend. It was of marginal and incidental interest that perhaps sheâ€™d never lived at all, much less had her Olympic sprinting career cut short for disagreeing to become her deranged fatherâ€™s second wife.
+So until I entered public high school, I was stuck with Dympna, a second or third-tier saint by even the most inclusive of Catholic standards, but a bona fide saint, nonetheless. That’s just the way it worked. It didn’t matter that by some accounts, her life’s story might be only a legend. It was of marginal and incidental interest that perhaps she’d never lived at all, much less had her Olympic sprinting career cut short for disagreeing to become her deranged father’s second wife.
 
-It didnâ€™t make an iota of difference that she was merely the patron saint of the mentally ill, or the patron saint of the merely mentally illâ€”only that sheâ€™d been duly canonized and remained, posthumously speaking, in consistent good standing with whomever it is who follows up on stuff like this.
+It didn’t make an iota of difference that she was merely the patron saint of the mentally ill, or the patron saint of the merely mentally ill—only that she’d been duly canonized and remained, posthumously speaking, in consistent good standing with whomever it is who follows up on stuff like this.
 
-And if Dympnaâ€™s a lousy name with which to punish a defenseless child, Shayneâ€™s not much better.
+And if Dympna’s a lousy name with which to punish a defenseless child, Shayne’s not much better.
 
-Not only is Shayne not a saintâ€™s name, itâ€™s not a girlâ€™s name, either. Or even much of a boyâ€™s name, for that matter. Iâ€™ve searched a legion of sources, and Iâ€™ve accumulated all the variations of John-with-a-Celtic-twist in existence, whether male or female: Ian, Sean, Shannon, Shawn, Shane, Shawna, and maybe even Shania (like Iâ€™m lucky enough that Shania and I ever the Twain shall meetâ€”ha!).
+Not only is Shayne not a saint’s name, it’s not a girl’s name, either. Or even much of a boy’s name, for that matter. I’ve searched a legion of sources, and I’ve accumulated all the variations of John-with-a-Celtic-twist in existence, whether male or female: Ian, Sean, Shannon, Shawn, Shane, Shawna, and maybe even Shania (like I’m lucky enough that Shania and I ever the Twain shall meet—ha!).
 
 Rarely have I found a reference to the name Shayne, and never for a girl.
 
-All I can think is that my parents went through a linguistic phase during which they became overly fond of the letter Y. And because of them, Iâ€™ve spent a lifetime being overly obsessed with the question why.
+All I can think is that my parents went through a linguistic phase during which they became overly fond of the letter Y. And because of them, I’ve spent a lifetime being overly obsessed with the question why.
 
-Werenâ€™t three boys in the familyâ€”Patrick, Brendan, and James, with handsome saintsâ€™ names, one and allâ€”enough for them? Mom and Dad werenâ€™t sports-oriented enough to form a softball team and no ranch hands were needed to take over the family farm, since the homestead consisted of a duplex and a dog.
+Weren’t three boys in the family—Patrick, Brendan, and James, with handsome saints’ names, one and all—enough for them? Mom and Dad weren’t sports-oriented enough to form a softball team and no ranch hands were needed to take over the family farm, since the homestead consisted of a duplex and a dog.
 
-Why couldnâ€™t they name me Bridget and be done with it?
+Why couldn’t they name me Bridget and be done with it?
 
-And if one of my two names had to be in honor of a patron saint, why Dympna? Iâ€™ve asked my immigrant father any number of times for an explanation, and he just lowers his gaze, shakes his head, and gets all misty-eyed on me.
+And if one of my two names had to be in honor of a patron saint, why Dympna? I’ve asked my immigrant father any number of times for an explanation, and he just lowers his gaze, shakes his head, and gets all misty-eyed on me.
 
-â€œYouâ€™ll understand someday, Dimps. I promise.â€
+“You’ll understand someday, Dimps. I promise.”
 
 Understand the decision of a man who calls his own daughter Dimps? Sure, I will. About as much chance of me understanding an error of judgment like that as there would be if he called me Pimples or Thunder Thighs or Cellulite.
 
-All I understand is that Dad must have been drunk if heâ€™s the guilty party, if heâ€™s the one who suggested the name to my long-laboring, anesthetized mother. Or, I donâ€™t know, maybe smoking one of those â€œItâ€™s A Girl!â€ pink-banded cheap cigars stunted his growth in the Compassionate Naming Department.
+All I understand is that Dad must have been drunk if he’s the guilty party, if he’s the one who suggested the name to my long-laboring, anesthetized mother. Or, I don’t know, maybe smoking one of those “It’s A Girl!” pink-banded cheap cigars stunted his growth in the Compassionate Naming Department.
 
-As a full-grown woman, I wonâ€™t allow a single soul besides my father to call me Dympnaâ€”or any of its many darling derivatives like Dimples and Dimwit. And you know what? Iâ€™ve got ongoing issues with Shayne, too.
+As a full-grown woman, I won’t allow a single soul besides my father to call me Dympna—or any of its many darling derivatives like Dimples and Dimwit. And you know what? I’ve got ongoing issues with Shayne, too.
 
 Ongoing issues, and a lot of unanswered questions.
 
-Legally, Iâ€™m Dympna Shayne, and thatâ€™s all there is to it. Iâ€™ve resigned myself to the fact that, at least as long as my parents are alive, Iâ€™ll never have any fewer Ys than I have right now.
+Legally, I’m Dympna Shayne, and that’s all there is to it. I’ve resigned myself to the fact that, at least as long as my parents are alive, I’ll never have any fewer Ys than I have right now.
 
-But by the time this storyâ€™s told, as St. Dympna and Shania Twain are my witnesses, I intend to have far fewer whys.
+But by the time this story’s told, as St. Dympna and Shania Twain are my witnesses, I intend to have far fewer whys.

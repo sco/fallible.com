@@ -70,16 +70,16 @@ comments:
       Regards, Bob Dikkens
   - author: "the bahamas"
     date: "2009-01-28T08:29:12"
-    text: "For this Christmas, I gifted my friend with a couple of books by Spencer Johnson. Those are really inspiring and very practical. Itâ€™s worth reading all his books whenever you get an opportunity."
+    text: "For this Christmas, I gifted my friend with a couple of books by Spencer Johnson. Those are really inspiring and very practical. It’s worth reading all his books whenever you get an opportunity."
   - author: "digital photography reviews"
     date: "2009-01-29T14:26:50"
-    text: "My sister gifted me with â€˜You can Winâ€™ for this Christmas. The work has a chunk of practical examples and scenarios. I liked reading it. There were many things that were useful and was follow able in practical life."
-  - author: "ÑÐ°Ð½Ñ‚ÐµÑ…Ð½Ð¸ÐºÐ°"
+    text: "My sister gifted me with ‘You can Win’ for this Christmas. The work has a chunk of practical examples and scenarios. I liked reading it. There were many things that were useful and was follow able in practical life."
+  - author: "сантехника"
     date: "2009-02-03T07:44:39"
-    text: "Frederick Forsythâ€™s â€˜The day of the Jackalâ€™ was the best book gift that I have ever got. I got it from my uncle. I found it to be thrilling and exciting. Every page induces a question as to whatâ€™s next when you read this novel."
+    text: "Frederick Forsyth’s ‘The day of the Jackal’ was the best book gift that I have ever got. I got it from my uncle. I found it to be thrilling and exciting. Every page induces a question as to what’s next when you read this novel."
   - author: "chiropracter"
     date: "2009-02-04T15:10:45"
-    text: "When I was small, I never knew the value of books. But when I was in my teens, it was my elder sister who made me realize the use of them when she first gifted me with â€˜The power of nowâ€™. After that, I continued this habit and have it even till date."
+    text: "When I was small, I never knew the value of books. But when I was in my teens, it was my elder sister who made me realize the use of them when she first gifted me with ‘The power of now’. After that, I continued this habit and have it even till date."
 ---
 
 My good buddies <a href="http://bjhoffgracenotes.typepad.com/" title="BJ Hoff">BJ Hoff</a> and <a href="http://cindyswanslife.blogspot.com/" title="Cindy Swanson">Cindy Swanson</a> have been twittering today about how books make such excellent Christmas presents, and I couldn't agree more.

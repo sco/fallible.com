@@ -68,7 +68,7 @@ comments:
 
 Mary: Oui.
 
-Katy: You should have heard me gasp when I saw your "oui"! Iâ€™m actually IMing!
+Katy: You should have heard me gasp when I saw your "oui"! I’m actually IMing!
 
 Mary: It's amazing, isn't it?
 
@@ -78,9 +78,9 @@ Mary: And you have to sit on one of those doughnuts???
 
 Katy: For eight months...
 
-Mary: Ewwwâ€¦
+Mary: Ewww…
 
-Katy: No, really. You pull into your driveway and your next-door neighbor runs out of his houseâ€¦
+Katy: No, really. You pull into your driveway and your next-door neighbor runs out of his house…
 
 Mary: Naked?
 
@@ -88,7 +88,7 @@ Katy: Almost as bad. He wants to see your new baby and immediately chides you fo
 
 Mary: Oh, yeah.
 
-Katy: And it's 105 flippin' degrees outside and you're thinking a HAT? And from that day on, you feel like a horrible parent. And that (just like with IMing) you REALLY donâ€™t know what youâ€™re doing.
+Katy: And it's 105 flippin' degrees outside and you're thinking a HAT? And from that day on, you feel like a horrible parent. And that (just like with IMing) you REALLY don’t know what you’re doing.
 
 Mary: I understand that.
 
@@ -100,7 +100,7 @@ Katy: Doug wouldn't let me. He's a pacifist...
 
 Mary: Oh. Too bad.
 
-Katy: Or I would have shot HIM by now! Iâ€™m nice, though. I believe in showing mercy to pacifists.
+Katy: Or I would have shot HIM by now! I’m nice, though. I believe in showing mercy to pacifists.
 
 Mary: Then, the next best thing is prayer.
 
@@ -120,7 +120,7 @@ Katy: Really. A new parent starting from scratch. Crummy role models in her past
 
 Mary: Sometimes it feels that way. Part of why I wrote the book was so parents like me (a pioneer parent) wouldn't feel so alone.
 
-Katy: Did you look to friends in the faith to show you how it's done? Books like "The Strong Willed Child?â€ And what is a Pioneer Parent, anyway?
+Katy: Did you look to friends in the faith to show you how it's done? Books like "The Strong Willed Child?” And what is a Pioneer Parent, anyway?
 
 Mary: That's so many questions at once! Yes, I looked to friends. I watched parents obsessively. I read one million books. A pioneer parent is someone who doesn't want to duplicate the home he/she was raised in.
 
@@ -152,9 +152,9 @@ Katy: I fought more with myself than I ever fought with the kids...
 
 Mary: Did you win?
 
-Katy: God is winning, bless His heart...Iâ€™m afraid it's the nature of being Scots-Irish to beat yourself up coming and going. Very violent sort, we are.
+Katy: God is winning, bless His heart...I’m afraid it's the nature of being Scots-Irish to beat yourself up coming and going. Very violent sort, we are.
 
-Mary: Iâ€™m like that, too. Beating myself up. I wrote the book to offer grace. So what pressing questions do you have for me, Miss Katy?
+Mary: I’m like that, too. Beating myself up. I wrote the book to offer grace. So what pressing questions do you have for me, Miss Katy?
 
 Katy: What? These aren't pressing questions?
 
@@ -177,27 +177,27 @@ Katy: You talk in your book about kids having a safe place. How do you make your
 
 Mary: A safe place...By helping my kids know they are loved NO MATTER WHAT. Beyond that, we try to foster a home of grace where my kids can fail and still know we love them. We're big into AUTHENTICITY at our house. We want our kids to share the ups and downs.
 
-Katy: Authenticity...hmmm. Letâ€™s come back to that idea in a minute. Mary, compare your first and second books for us.
+Katy: Authenticity...hmmm. Let’s come back to that idea in a minute. Mary, compare your first and second books for us.
 
 Mary: One has a picture of the beach, the other of some sort of hiking family.
 
-Katy: Thatâ€™s pathetic on so many levels.
+Katy: That’s pathetic on so many levels.
 
 Mary: Seriously, the first book I wrote in conjunction with Hearts at Home Ministries. It's a devotional for moms. I wanted, though, to write a devotional that wasn't foofy. I'm tired of books for women that seem dumbed down. So I wrote one I would want to read. There are sixty devotional thingies.
 
 Katy: Thingies, huh?
 
-Mary: The second bookâ€”the one weâ€™re discussing today--is about how to parent when you've had no example growing up.
+Mary: The second book—the one we’re discussing today--is about how to parent when you've had no example growing up.
 
 Katy: Will it bother you if people start to look to you as an expert on parenting? Like Mary DeMuth the Foof Expert?
 
-Mary: Yes TOTALLY. I told my agent I didnâ€™t want to write parenting books, but he forced me to. By the way, the thread of similarity between the books is that both are authentic.
+Mary: Yes TOTALLY. I told my agent I didn’t want to write parenting books, but he forced me to. By the way, the thread of similarity between the books is that both are authentic.
 
-Katy: Your agent saw something in you. And hereâ€™s that word again--authentic. By authentic, do you mean honest?
+Katy: Your agent saw something in you. And here’s that word again--authentic. By authentic, do you mean honest?
 
-Mary: Yes, honest. Real. True. And the real truth is, my agent saw craziness in meâ€¦
+Mary: Yes, honest. Real. True. And the real truth is, my agent saw craziness in me…
 
-Katy: Back when we were Jesus Freaks, we talked about being â€œtransparent.â€ Is authenticity the postmodern way to say that?
+Katy: Back when we were Jesus Freaks, we talked about being “transparent.” Is authenticity the postmodern way to say that?
 
 Mary: Oui.
 

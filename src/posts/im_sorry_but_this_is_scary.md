@@ -27,7 +27,7 @@ comments:
   - author: "The EWS Financial Group"
     date: "2007-12-24T16:35:02"
     text: |
-      The â€œTOP 14 â€ reasons why YOU should purchase a Final Expense Planâ€¦NOW!
+      The “TOP 14 ” reasons why YOU should purchase a Final Expense Plan…NOW!
       1.      YOU are in total control of how you want your final arrangements handled. 
       
       2.      Nursing Homes, Hospitals, and other creditors cannot attach your benefits

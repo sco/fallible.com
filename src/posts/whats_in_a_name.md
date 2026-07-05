@@ -48,7 +48,8 @@ comments:
       Thanks for the vote, and for being a great sister!  :)
   - author: "Katy"
     date: "2006-01-26T18:04:04"
-    text: "Bridgie--Your name is perfect for the bonny Irish lass you are! Happy Birthday, baby girl."---
+    text: "Bridgie--Your name is perfect for the bonny Irish lass you are! Happy Birthday, baby girl."
+---
 
 Thirty-nine years ago, I was finally given the vote.
 

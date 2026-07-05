@@ -58,51 +58,51 @@ comments:
 
 <i>(And now...ahem...this from guest blogger Michael O'Connor.)</i>
 
-OK, letâ€™s get one thing straight right away. Iâ€™m not falling for any of this cyst-on-the-wrist or painful-zinger-on-my-ring-finger nonsense that Katy has put us through all week.
+OK, let’s get one thing straight right away. I’m not falling for any of this cyst-on-the-wrist or painful-zinger-on-my-ring-finger nonsense that Katy has put us through all week.
 
 No sir.
 
-Just like you Iâ€™ve seen the badly typed messages and stock photo hands on keyboard in short entries from her â€œsupposedâ€ recovery bed. Iâ€™ve got to hand it to Katy. Like an expert illusionist, those were both very nice touches of misdirection. But Iâ€™m not buying any of it.
+Just like you I’ve seen the badly typed messages and stock photo hands on keyboard in short entries from her “supposed” recovery bed. I’ve got to hand it to Katy. Like an expert illusionist, those were both very nice touches of misdirection. But I’m not buying any of it.
 
-Have we been praying for her? I expect most of us have. Weâ€™re a decent sort, we readers of Katyâ€™s warm, homespun brand of scribbling. We show up daily at the Raymond kitchen window, smell the fresh-baked apple pie of literacy wafting through the blogosphere, and we salivate at the possibilities.
+Have we been praying for her? I expect most of us have. We’re a decent sort, we readers of Katy’s warm, homespun brand of scribbling. We show up daily at the Raymond kitchen window, smell the fresh-baked apple pie of literacy wafting through the blogosphere, and we salivate at the possibilities.
 
 Do we grab a slice before it cools? Do we taint the experience with a deft but selfish sleight of hand? Never. We wait our turn like everyone else. We are nothing if not civilized in our covetousness of more stories.
 
-â€œWonâ€™t you come in and set a spell?â€ asks Mama Katy. â€œIâ€™ve got some biscuits in the oven and country gravy bubbling on the stove. Wonâ€™t you come in? What would you like to hear today?â€
+“Won’t you come in and set a spell?” asks Mama Katy. “I’ve got some biscuits in the oven and country gravy bubbling on the stove. Won’t you come in? What would you like to hear today?”
 
 Could we ever feel more welcome in a place not our own?
 
-Ah, but we are fools for her cultural cuisineâ€”every one of us willing to put off that trip to the dry cleanerâ€™s, that organizing of the 2005 receipt-filled income tax shoebox, that list of Thank You notes we owe for the consumer gluttony we filled up on at Christmas time. For a brief moment each day we take a breath from our daily schedule, our monotonous moments of pedestrian existence.
+Ah, but we are fools for her cultural cuisine—every one of us willing to put off that trip to the dry cleaner’s, that organizing of the 2005 receipt-filled income tax shoebox, that list of Thank You notes we owe for the consumer gluttony we filled up on at Christmas time. For a brief moment each day we take a breath from our daily schedule, our monotonous moments of pedestrian existence.
 
 And for what?
 
-To find out if Jessica is going to have Thadâ€™s baby even though sheâ€™s really in love with Thadâ€™s brother, Skip, who himself is a closeted homosexual in deep denial and having a torrid, if dishonest, affair with Jessicaâ€™s mother, Hannah, who is not really Jessicaâ€™s mother at all but due to a remarkable sex change operation  in 1987 is actually her long-lost father, Hank?
+To find out if Jessica is going to have Thad’s baby even though she’s really in love with Thad’s brother, Skip, who himself is a closeted homosexual in deep denial and having a torrid, if dishonest, affair with Jessica’s mother, Hannah, who is not really Jessica’s mother at all but due to a remarkable sex change operation  in 1987 is actually her long-lost father, Hank?
 
-Nothing so sweaty or trivial, Iâ€™m afraid.
+Nothing so sweaty or trivial, I’m afraid.
 
-We approach Mama Katyâ€™s window on the world with one simple, reverent expectation: small but ample portions of her elegantly ordinary life served up steamed, baked, broiled, poached, braised, basted, broasted, candied, roasted, carved and toasted, sesameed and fricasseed, carbonated, marinated, minced, blintzed, sliced, diced, deviled, beveled, and hickory smoked.
+We approach Mama Katy’s window on the world with one simple, reverent expectation: small but ample portions of her elegantly ordinary life served up steamed, baked, broiled, poached, braised, basted, broasted, candied, roasted, carved and toasted, sesameed and fricasseed, carbonated, marinated, minced, blintzed, sliced, diced, deviled, beveled, and hickory smoked.
 
 We are nothing if not devoted connoisseurs of her bloginary art.
 
 And where is she today? What thanks do we get for our explicit acts of crazed devotion?
 
-She gives us the slip, takes a week at Disneyworld, Club Med or some other exotic destination with her Marginal Manâ„¢ in tow. Would I deny our dear Katy this moment in the sun? Would I keep her chained to that splendid Macintosh keyboard of hers with no time out for spiritual rejuvenation? That would be inhumane. And totally unnecessary with the advent of satellite-savvy security ankle bracelets.
+She gives us the slip, takes a week at Disneyworld, Club Med or some other exotic destination with her Marginal Man™ in tow. Would I deny our dear Katy this moment in the sun? Would I keep her chained to that splendid Macintosh keyboard of hers with no time out for spiritual rejuvenation? That would be inhumane. And totally unnecessary with the advent of satellite-savvy security ankle bracelets.
 
-Does she level with us? Does she say, â€œHey you bums, shut your ever-complaining pie-holes. Nobody pays me to produce literary diamonds day after day, week after week . . . so give me a BREAK! Iâ€™m headed to the Alps for a relaxing few days of downhill skiing. Then Iâ€™m taking in the Alito hearings and after that Iâ€™m gonna try to clear up this â€˜Bush liedâ€™ stuff once and for all. And donâ€™t nobody try to use my cell number neither. Iâ€™m out of range. Can ya hear me NOW????â€
+Does she level with us? Does she say, “Hey you bums, shut your ever-complaining pie-holes. Nobody pays me to produce literary diamonds day after day, week after week . . . so give me a BREAK! I’m headed to the Alps for a relaxing few days of downhill skiing. Then I’m taking in the Alito hearings and after that I’m gonna try to clear up this ‘Bush lied’ stuff once and for all. And don’t nobody try to use my cell number neither. I’m out of range. Can ya hear me NOW????”
 
-My final point in this rantâ€”and I can hear the sighs of relief in 37 languagesâ€”is what she does with this space in the Bermuda Triangle of her absence. Does she write 5 or 6 posts in advance and assign some low-lever Fallible lackey to hit the â€œsendâ€ button once a day? Does she put out a â€œgone fishinâ€™â€ sign and simply close up shop, thereby sparing us the pain of checking in for our daily dose of disappointment?
+My final point in this rant—and I can hear the sighs of relief in 37 languages—is what she does with this space in the Bermuda Triangle of her absence. Does she write 5 or 6 posts in advance and assign some low-lever Fallible lackey to hit the “send” button once a day? Does she put out a “gone fishin’” sign and simply close up shop, thereby sparing us the pain of checking in for our daily dose of disappointment?
 
-Or does she pull a devious page from The Bloggerâ€™s Bag of Silly Tricks: How to Fool the Rubes and Keep the Traffic Coming in the Event of Physical or Emotional Meltdown?
+Or does she pull a devious page from The Blogger’s Bag of Silly Tricks: How to Fool the Rubes and Keep the Traffic Coming in the Event of Physical or Emotional Meltdown?
 
-I think all you dedicated readers who have suffered in silence this week know the answer. Katy calls in every favor sheâ€™s owed from every million-selling or Pulitzer Prize nominated author she knows personally or once cleaned carpets for. She begs us to cover her beat and promises it will be a rewarding experience. No money, she sobs, but she can offer us links. LINKS! Hey, I donâ€™t mind getting paid in links, I just want them to come from Jimmy Dean, okay?
+I think all you dedicated readers who have suffered in silence this week know the answer. Katy calls in every favor she’s owed from every million-selling or Pulitzer Prize nominated author she knows personally or once cleaned carpets for. She begs us to cover her beat and promises it will be a rewarding experience. No money, she sobs, but she can offer us links. LINKS! Hey, I don’t mind getting paid in links, I just want them to come from Jimmy Dean, okay?
 
-Yeah, sure, the writing has been brilliant, the masses lose tears faster than congressmen are shedding Jack Abramoff-related donations, and blah blah blah blah blah blah blah blah. Thereâ€™s only one problem. While all of us substitute bloggers this week are eminently fallibleâ€”none of us are Katy.
+Yeah, sure, the writing has been brilliant, the masses lose tears faster than congressmen are shedding Jack Abramoff-related donations, and blah blah blah blah blah blah blah blah. There’s only one problem. While all of us substitute bloggers this week are eminently fallible—none of us are Katy.
 
-So listen. When she gets back next week from her jungle expedition through Outer Bellybuttonia and she goes into her routine of thanking everyone for filling in for her during the trying time when she could barely lift her hand to scratch her noseâ€”let alone type a few lousy wordsâ€”when she starts tap dancing like that . . . DONâ€™T LET HER OFF THE HOOK. Tell her the truth. Tell her how miserable youâ€™ve been all week listening to us. Let her know she made excellent choices, but who wants sardines on their Ritz when theyâ€™re used to caviar?
+So listen. When she gets back next week from her jungle expedition through Outer Bellybuttonia and she goes into her routine of thanking everyone for filling in for her during the trying time when she could barely lift her hand to scratch her nose—let alone type a few lousy words—when she starts tap dancing like that . . . DON’T LET HER OFF THE HOOK. Tell her the truth. Tell her how miserable you’ve been all week listening to us. Let her know she made excellent choices, but who wants sardines on their Ritz when they’re used to caviar?
 
-Accept no substitutes, people . . . or I promise you next time itâ€™ll be a month with guest bloggers. Yell it out loud and long. Shout it from the mountain tops:
+Accept no substitutes, people . . . or I promise you next time it’ll be a month with guest bloggers. Yell it out loud and long. Shout it from the mountain tops:
 
-â€œI WANT MY MAMA KATY'S BLOG!!!!!!!!!!!â€
+“I WANT MY MAMA KATY'S BLOG!!!!!!!!!!!”
 
 Fallibians of the world, unite!
 

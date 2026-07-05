@@ -17,17 +17,17 @@ comments:
   - author: "Daniel"
     date: "2006-03-31T21:40:10"
     text: |
-      â€œDoug, look.â€ I pointed to the twig and straw clog. â€œThatâ€™s why the water pours in front of the door when it shouldnâ€™t, and off the corners of the roof instead of through the gutters. You need to clean the gutters...â€ 
+      “Doug, look.” I pointed to the twig and straw clog. “That’s why the water pours in front of the door when it shouldn’t, and off the corners of the roof instead of through the gutters. You need to clean the gutters...” 
       
       I am a former gutter man; proficient in the art form of gutter removal and installation.  Even possessing the sweet skill of gutter guard installation and not to mention the ability to fasten a 50 ft 6 inch steel without the aid of another - even 30 ft up.  So now that I've established my expertise; exposing the metaphorical hair on my currently bare chest, let me say this:
       
       I hate cleaning out gutters.  Removing them is even worse.  Imagine a cold and windy fall winding down to, what appears to be a dead winter.  Imagine showing up to a project and finding the gutters have not been cleaned in years.  As you shimmy up on a second rate wooden ladder feeling like a Ben Folds Five song, it suddenly occurs to you: You have no insurance, you are doing a three man job by yourself.  To add to it, a recent rain has moistened the organic arrangement clogging the gutter.  
       
-      I can deal with no insurance and I donâ€™t mind being by myself but what I cannot stand is the latter.  There is little difference between sticking your head in the Johnny-on-the spot at the annual chili eating contest and smell of a wet clogged gutter.  Itâ€™s like the gutters are the colon and intestines of a house.  When stuff gets clogged, it stinks.   
+      I can deal with no insurance and I don’t mind being by myself but what I cannot stand is the latter.  There is little difference between sticking your head in the Johnny-on-the spot at the annual chili eating contest and smell of a wet clogged gutter.  It’s like the gutters are the colon and intestines of a house.  When stuff gets clogged, it stinks.   
       
-      Quick digression:  When I took an EMT course, the instructor told a story of a gentleman who was picked up at a nursing home when he became septic and went into cardiac arrest.  When the ambulance arrived they started CPR.  According to the medic performing mouth to mouth, the aged manâ€™s breath â€œsmelled like shit.â€   He was being literal and that is the sad part.  Apparently, this poor man had been as constipated as a morphine addict taking anti-diarrheics.
+      Quick digression:  When I took an EMT course, the instructor told a story of a gentleman who was picked up at a nursing home when he became septic and went into cardiac arrest.  When the ambulance arrived they started CPR.  According to the medic performing mouth to mouth, the aged man’s breath “smelled like shit.”   He was being literal and that is the sad part.  Apparently, this poor man had been as constipated as a morphine addict taking anti-diarrheics.
       
-      As the intestines compacted, the brown goodness moved higher and higher up the digestive system, until he was literally so stopped up that something within him ruptured. Poop ended up filling up his stomach so much so that it could be smelled out of his breath.  Poor man.  Poor poor poor man!  Just think about itâ€¦he goes to work and has to perform mouth to mouth on a pooped-breath man!  
+      As the intestines compacted, the brown goodness moved higher and higher up the digestive system, until he was literally so stopped up that something within him ruptured. Poop ended up filling up his stomach so much so that it could be smelled out of his breath.  Poor man.  Poor poor poor man!  Just think about it…he goes to work and has to perform mouth to mouth on a pooped-breath man!  
       
       Oh yeah, I feel bad for the old guy to.    
       
@@ -39,7 +39,7 @@ comments:
       
       The problem with aluminum is that it has a weeker holding power than what is required to remove the nail from the facia board.  The steel holds strong on the other hand.
       
-      So there I was, in front of a house by myself on a cold day smelling like poo.  Half the gutter had been removed but it was still attached to the other half (blocking the front door of the house).  The exposed nails peeked from the facia board reminding me that my accomplishment of getting the first half down, was incomplete.  Oh, did I mention that my boss (who was supposed to meet me there but instead went to church - he's a good baptist) had not been paying me overtime, did not take taxes out, made me sign a paper saying that I have never, and will never take out workerâ€™s compensation in the event of a job related injury.  Did I mention that I smelled like poo?
+      So there I was, in front of a house by myself on a cold day smelling like poo.  Half the gutter had been removed but it was still attached to the other half (blocking the front door of the house).  The exposed nails peeked from the facia board reminding me that my accomplishment of getting the first half down, was incomplete.  Oh, did I mention that my boss (who was supposed to meet me there but instead went to church - he's a good baptist) had not been paying me overtime, did not take taxes out, made me sign a paper saying that I have never, and will never take out worker’s compensation in the event of a job related injury.  Did I mention that I smelled like poo?
       
       Looking at my failures I felt like crying from frustration and anger, but alas poor Yorik, the sky beat me to it.  As the rain started to pour I decided it was time to find a new job.  I still feel kind of bad for the people who came home to find their front door blocked and half their gutter hanging down.  But then again, the story has become an infinite jest for me.  
       

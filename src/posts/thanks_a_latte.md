@@ -11,7 +11,8 @@ comments:
   - author: "D'Ann Mateer"
     date: "2008-04-08T03:05:33"
     text: |
-      I think it says that you are a wonderful lady who has the unique gift of helping us all to laugh at even the unlaughable aspects of life. And I'm so grateful for that!---
+      I think it says that you are a wonderful lady who has the unique gift of helping us all to laugh at even the unlaughable aspects of life. And I'm so grateful for that!
+---
 
 If you were to peek inside my husband's wallet, you'd find a small but impressive collection of Buy Nine Get One Free punch cards from indie coffee shops around town.
 

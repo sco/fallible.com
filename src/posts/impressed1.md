@@ -26,10 +26,10 @@ comments:
       I've got to say a hair, make-up, rock star, limo party for 8-year-olds makes me feel pretty nauseated.
       
       I've still only been in a limo with a dead person in the back. But that's just me.  ;)
-  - author: "ä¸€å¡é€š"
+  - author: "一卡通"
     date: "2006-08-24T08:47:50"
     text: |
-      å®æ³¢ä¸‰åšç§‘æŠ€æœ‰é™å…¬å¸æ˜¯ä¸“ä¸šæä¾›ä¸‰åš<a href="http://www.3bcom.com.cn/pvc.htm">ä¸€å¡é€š</a>é…ä»¶ï¼Œä¸€å¡é€šç³»ç»Ÿã€ä¸€å¡é€šæ–¹æ¡ˆçš„ä¸€å¡é€šä¼ä¸šï¼Œå®æ³¢ä¸‰åšç§‘æŠ€æœ‰é™å…¬å¸æˆåŠŸæŽ¨å‘å¸‚åœºçš„æ™ºèƒ½è®¾å¤‡äº§å“åŒ…æ‹¬ï¼šSB-100ç³»åˆ—æ„Ÿåº”å¡è¯»å†™å™¨ã€SB-108ç³»åˆ—æ„Ÿåº”å¡å”®é¥­æœºã€SB-108ç³»åˆ—æ„Ÿåº”å¡æ”¶è´¹æœºã€SB-200ç³»åˆ—è€ƒå‹¤æœºã€ SB-300ç³»åˆ—å·¡æ£€æœºã€SB-400ç³»åˆ—é—¨ç¦æœºç­‰ï¼Œä»¥åŠå›´ç»•è‡ªåŠ¨è¯†åˆ«è®¾å¤‡æ‰€å¼€å‘çš„æ•°æ®è½¬æ¢å™¨ç­‰ã€‚
+      宁波三博科技有限公司是专业提供三博<a href="http://www.3bcom.com.cn/pvc.htm">一卡通</a>配件，一卡通系统、一卡通方案的一卡通企业，宁波三博科技有限公司成功推向市场的智能设备产品包括：SB-100系列感应卡读写器、SB-108系列感应卡售饭机、SB-108系列感应卡收费机、SB-200系列考勤机、 SB-300系列巡检机、SB-400系列门禁机等，以及围绕自动识别设备所开发的数据转换器等。
 ---
 
 Erma Bombeck, my favorite female humor writer ever, once penned a line which etched its way into my memory so deeply that I can call it into service at the drop of a funny book. She talked about how, after becoming a successful author, she continued to give her children "the poverty they so richly deserve."
