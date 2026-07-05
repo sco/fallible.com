@@ -1,0 +1,114 @@
+var _____WB$wombat$assign$function_____ = function(name) {return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name)) || self[name]; };
+if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; return this; } }
+{
+  let window = _____WB$wombat$assign$function_____("window");
+  let self = _____WB$wombat$assign$function_____("self");
+  let document = _____WB$wombat$assign$function_____("document");
+  let location = _____WB$wombat$assign$function_____("location");
+  let top = _____WB$wombat$assign$function_____("top");
+  let parent = _____WB$wombat$assign$function_____("parent");
+  let frames = _____WB$wombat$assign$function_____("frames");
+  let opener = _____WB$wombat$assign$function_____("opener");
+
+(function(){
+var el;
+function load( el ){
+    TYPEPAD___tpix.head.appendChild( el );
+}
+
+<!-- Begin Media6degrees Tag -->
+
+el = document.createElement( "script" );
+el.setAttribute( "src", 'https://web.archive.org/web/20100711081051/http://map.media6degrees.com/static/ty2093.js' );
+load( el );
+<!-- End Media6degrees Tag -->
+
+<!-- Begin Revenue Science Tag -->
+el = document.createElement( "script" );
+el.setAttribute( "src", 'https://web.archive.org/web/20100711081051/http://js.revsci.net/gateway/gw.js?csid=K08784' );
+load( el );
+
+// if we want to run javascript *after* the 3rd-party script has loaded
+// we need to take some extra steps
+var runDMWhenReady = function(){
+    tryRunDM();
+}
+function tryRunDM(){
+    if(typeof DM_addEncToLoc == 'function') {
+        DM_addEncToLoc("pid","SIX");
+        DM_tag();
+    }else{
+        setTimeout(runDMWhenReady, 100);
+    }
+}
+runDMWhenReady();
+
+<!-- End Revenue Science Tag  -->
+
+<!-- Begin XGraph Tag -->
+var refValue = ""; try {refValue = top.document.referrer;} catch (xgErr) {refValue = "";}
+var xgJsHost = (("https:" == document.location.protocol) ? "https://web.archive.org/web/20100711081051/https://sxcdn." : "https://web.archive.org/web/20100711081051/http://xcdn.");
+var xglsUri = xgJsHost+"xgraph.net/14557/db/xg.js.jsp?pid=14557&sid=11012&type=db&ref="+escape(refValue)+"&dref="+escape(document.referrer);
+el = document.createElement( "script" );
+el.setAttribute( "src", xglsUri );
+load( el );
+<!-- End XGraph Tag -->
+
+
+<!-- Begin 33Across Tag -->
+  el = document.createElement( "iframe" );
+  el.setAttribute( "src", "https://web.archive.org/web/20100711081051/http://pixel.33across.com/ps/" + Math.ceil(1e6 * Math.random()) + '/?tt=iframe&amp;pid=241' );
+  el.setAttribute( "width", "1");
+  el.setAttribute( "height", "1");
+  el.setAttribute( "frameborder", "0" );
+  el.style.visibility = "hidden";
+  load( el );
+  <!-- End 33Across Tag -->
+
+<!-- RapLeaf Tag -->
+el = document.createElement( "iframe" );
+el.setAttribute( "name", "_rlcdnjsframe" );
+el.setAttribute( "width", "0" );
+el.setAttribute( "height", "0" );
+el.setAttribute( "frameborder", "0" );
+el.setAttribute( "src", "https://web.archive.org/web/20100711081051/http://rlcdn.com/37674.html" );
+load( el );
+<!-- End RapLeaf Tag -->
+
+<!-- Begin LOTCC tag -->
+
+if(typeof LOTCC == "undefined") LOTCC = { asyncBehaviors: {}, async: true };
+
+/* add asynchronous behaviors here */
+
+/* Ex: LOTCC.asyncBehaviors["act"] = ["Action 1", "Action 2"]; */
+el = document.createElement( 'script' );
+el.setAttribute( 'src', 'https://web.archive.org/web/20100711081051/http://tags.crwdcntrl.net/c/88/cc.js' );
+el.setAttribute( 'async', 'true' );
+load( el );
+<!-- End LOTCC tag -->
+
+
+})();
+
+}
+/*
+     FILE ARCHIVED ON 08:10:51 Jul 11, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:55:59 Aug 12, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.126
+  exclusion.robots: 0.024
+  exclusion.robots.policy: 0.01
+  esindex: 0.013
+  cdx.remote: 831.899
+  LoadShardBlock: 379.883 (3)
+  PetaboxLoader3.datanode: 208.155 (4)
+  PetaboxLoader3.resolve: 253.616 (2)
+  load_resource: 154.167
+*/
