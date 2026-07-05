@@ -8,6 +8,10 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob("src/posts/*.md")
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
+  eleventyConfig.addFilter("excerpt", (content) => {
+    const text = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    return text.length > 160 ? text.slice(0, 157) + "…" : text;
+  });
   eleventyConfig.addFilter("postDate", (dateObj) => {
     const dt = dateObj instanceof Date
       ? DateTime.fromJSDate(dateObj, { zone: "utc" })
