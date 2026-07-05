@@ -10,111 +10,344 @@
       margin: 0;
       background: #9E3E13;
       font-family: Georgia, 'Times New Roman', serif;
-      font-size: 15px;
+      font-size: 14px;
       color: #222;
     }
 
-    /* Desktop layout */
-    .mc-outer {
-      max-width: 720px;
-      margin: 0 auto;
-      background: #fff;
-    }
-    .mc-header {
-      display: flex;
-      align-items: flex-end;
-    }
-    .mc-header img.pentop { display: block; }
-    .mc-header img.booktop { display: block; flex: 1; }
-    .mc-body {
-      display: flex;
-      align-items: stretch;
-    }
+    .mc-outer { max-width: 760px; margin: 0; }
+
+    /* ── Header: full width, 4 columns ── */
+    .mc-header { display: flex; align-items: flex-end; }
+    .mc-header img { display: block; }
+    .mc-h-pen   { flex: 0 0 193px; }
+    .mc-h-book  { flex: 1 1 0; overflow: hidden; }
+    .mc-h-book img { width: 100%; height: 70px; object-fit: cover; object-position: left; }
+    .mc-h-edge  { flex: 0 0 108px; }
+    .mc-h-sidebar-top { flex: 0 0 144px; background: #9E3E13; }
+
+    /* ── Two-column outer body ──
+       Primary (pen+content+edge+bookbottom) sits next to Sidebar.
+       align-items: flex-start means sidebar height won't stretch the primary. */
+    .mc-outer-body { display: flex; align-items: flex-start; }
+
+    /* Primary column: stacks the inner body row and bookbottom */
+    .mc-primary { flex: 1 1 0; display: flex; flex-direction: column; overflow: hidden; }
+
+    /* ── Inner body row ── */
+    .mc-body { display: flex; align-items: stretch; flex: 1 1 auto; }
+
+    /* Left decorative column */
     .mc-left {
-      width: 193px;
-      flex-shrink: 0;
+      flex: 0 0 193px;
       background-image: url('/images/marginal/textbackground.gif');
       background-repeat: repeat-y;
     }
     .mc-left img { display: block; }
+
+    /* Main content column */
     .mc-main {
-      flex: 1;
+      flex: 1 1 0;
       background: #fff;
-      padding: 0 20px 20px;
+      padding: 0 16px 24px;
       min-width: 0;
     }
-    .mc-branding {
-      margin-bottom: 12px;
-    }
+    .mc-branding { margin-bottom: 10px; }
     .mc-branding img { display: block; }
-    .mc-footer {
-      background: #fff;
-      border-top: 1px solid #ddd;
-      padding: 12px 20px 12px 213px;
-      font-size: 0.85em;
-      color: #666;
-    }
-    .mc-footer a { color: #7a3010; }
 
-    /* Content styles */
-    .mc-main h2 {
-      font-size: 1.3em;
-      margin: 1.5em 0 0.2em;
-      color: #5a1e00;
-    }
-    .mc-main h2 a { color: #5a1e00; text-decoration: none; }
-    .mc-main h2 a:hover { text-decoration: underline; }
-    .mc-main p { line-height: 1.65; margin: 0.75em 0; }
-    .mc-main a { color: #7a3010; }
-    .mc-main img { max-width: 100%; height: auto; }
-    .mc-post-meta {
-      font-size: 0.85em;
-      color: #888;
-      margin-bottom: 2em;
-      font-family: Arial, sans-serif;
-    }
+    .mc-main h2           { font-size: 1.2em; margin: 1em 0 0.2em; color: #5a1e00; }
+    .mc-main h2 a         { color: #5a1e00; text-decoration: none; }
+    .mc-main h2 a:hover   { text-decoration: underline; }
+    .mc-main p            { line-height: 1.65; margin: 0.7em 0; }
+    .mc-main a            { color: #7a3010; }
+    .mc-main img          { max-width: 100%; height: auto; }
+    .mc-post-meta         { font-size: 0.85em; color: #888; margin-bottom: 1.5em; font-family: Arial, sans-serif; }
     .mc-nav {
-      margin-top: 2.5em;
-      padding-top: 1em;
+      margin-top: 2em;
+      padding-top: 0.8em;
       border-top: 1px solid #e0c8b8;
-      font-size: 0.9em;
+      font-size: 0.85em;
       display: flex;
       justify-content: space-between;
-      gap: 1em;
+      gap: 0.5em;
     }
     .mc-nav a { color: #7a3010; }
 
-    /* Mobile */
-    @media (max-width: 600px) {
-      .mc-header img.pentop { display: none; }
-      .mc-left { display: none; }
-      .mc-main { padding: 12px 14px 20px; }
-      .mc-footer { padding: 12px 14px; }
+    /* Edge strip */
+    .mc-edge {
+      flex: 0 0 108px;
+      background-image: url('/images/marginal/edgebackground.jpg');
+      background-repeat: repeat-y;
+      overflow: hidden;
+    }
+    .mc-edge img { display: block; }
+
+    /* Right sidebar: independent column, doesn't affect primary height */
+    .mc-sidebar {
+      flex: 0 0 144px;
+      background: #9E3E13;
+      color: #f5d8c0;
+      padding: 4px 6px 8px;
+      font-size: 11px;
+      font-family: Arial, sans-serif;
+      overflow-wrap: break-word;
+      word-break: break-word;
+      align-self: flex-start;
+    }
+    .mc-sidebar h1 {
+      font-size: 11px;
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      margin: 8px 0 2px;
+      color: #fff;
+    }
+    .mc-sidebar a  { color: #ffcc99; }
+    .mc-sidebar img { max-width: 100%; }
+    .mc-sidebar td { font-size: 11px; font-family: Arial, sans-serif; vertical-align: top; }
+
+    /* Book bottom + footer */
+    .mc-bookbottom img { display: block; }
+    .mc-footer {
+      padding: 6px 8px;
+      font-size: 11px;
+      color: #ddd;
+      font-family: Arial, sans-serif;
+    }
+    .mc-footer a { color: #ffcc99; }
+
+    /* Mobile: drop decorative columns */
+    @media (max-width: 620px) {
+      .mc-h-edge, .mc-h-sidebar-top,
+      .mc-left, .mc-edge, .mc-sidebar, .mc-bookbottom { display: none; }
+      .mc-main { padding: 10px 14px 20px; }
     }
   </style>
 </head>
 <body>
   <div class="mc-outer">
+
+    <!-- Header: full-width, 4 columns (sidebar top is brown/empty) -->
     <div class="mc-header">
-      <img class="pentop" src="/images/marginal/pentop.jpg" width="193" height="70" alt="">
-      <img class="booktop" src="/images/marginal/booktop.jpg" alt="" height="70" style="width:100%;object-fit:cover;object-position:left;">
+      <div class="mc-h-pen"><img src="/images/marginal/pentop.jpg" width="193" height="70" alt=""></div>
+      <div class="mc-h-book"><img src="/images/marginal/booktop.jpg" alt=""></div>
+      <div class="mc-h-edge"><img src="/images/marginal/edgetopcorner.jpg" width="108" height="70" alt=""></div>
+      <div class="mc-h-sidebar-top"></div>
     </div>
-    <div class="mc-body">
-      <div class="mc-left">
-        <img src="/images/marginal/pen-cup.jpg" alt="" width="193" height="588">
-      </div>
-      <div class="mc-main">
-        <div class="mc-branding">
-          <a href="/marginal/"><img src="/images/marginal/marginalcomments.gif" width="256" height="73" alt="Marginal Comments" border="0"></a>
+
+    <!-- Two-column outer body: primary (pen+content+edge+bookbottom) | sidebar -->
+    <div class="mc-outer-body">
+
+      <!-- Primary column -->
+      <div class="mc-primary">
+        <div class="mc-body">
+
+          <!-- Left: pen/cup on paper background -->
+          <div class="mc-left">
+            <img src="/images/marginal/pen-cup.jpg" alt="" width="193" height="588">
+          </div>
+
+          <!-- Center: blog content -->
+          <div class="mc-main">
+            <div class="mc-branding">
+              <a href="/marginal/"><img src="/images/marginal/marginalcomments.gif" width="256" height="73" alt="Marginal Comments" border="0"></a>
+            </div>
+            {{ content | safe }}
+          </div>
+
+          <!-- Edge strip -->
+          <div class="mc-edge">
+            <img src="/images/marginal/edgetop.jpg" alt="" width="108" height="514">
+          </div>
+
+        </div><!-- end mc-body -->
+
+        <!-- Book bottom image — inside primary so it appears after content, not after sidebar -->
+        <div class="mc-bookbottom">
+          <img src="/images/marginal/bookbottom.jpg" width="637" height="97" alt="">
         </div>
-        {{ content | safe }}
-      </div>
-    </div>
+      </div><!-- end mc-primary -->
+
+      <!-- Right sidebar: independent, doesn't affect primary height -->
+      <div class="mc-sidebar">
+
+        <!-- Photos and blog links -->
+        <a href="http://www.fallible.com/" title="Katy"><img src="/images/marginal/katy.jpg" width="56" height="114" alt="Katy"></a><a href="http://marginal.typepad.com/" title="Doug"><img src="/images/marginal/doug.jpg" width="67" height="114" alt="Doug"></a><br>
+        <a href="http://www.fallible.com/">fallible</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://marginal.typepad.com/">marginal</a>
+        <br><br>
+        <img src="/images/marginal/hishers2.gif" width="72" height="39" alt="His/Hers" align="right">The His/Hers icon at the end of a post means that Katy and I have attempted to write about the same topic or quote, without discussing before we write. I'm not sure what this will prove, other than being like-minded is apparently not a prerequisite to a happy marriage. ;)<br><br><br>
+
+        <!-- Recent Comments -->
+        <h1>Recent Comments</h1><hr>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/life-verse.html#c6a00d834659eee69e20120a64ac6a2970c">Doug</a> on <a href="/marginal/life-verse/">Life Verse</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/10/-the-starbus.html#c6a00d834659eee69e20120a5f3a754970b">Doug</a> on <a href="/marginal/the-starbus/">The Starbus</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/10/-the-starbus.html#c6a00d834659eee69e20120a64ac19c970c">alison</a> on <a href="/marginal/the-starbus/">The Starbus</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/life-verse.html#c6a00d834659eee69e20120a5f2ea35970b">Lynett</a> on <a href="/marginal/life-verse/">Life Verse</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a5f2e95a970b">Lynett</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a5cdbb96970b">Doug</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a622f40c970c">violet</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a59b9ef5970b">Nancy Wood</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a599f8dd970b">Doug</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html#c6a00d834659eee69e20120a5f070a9970c">Deb Raney</a> on <a href="/marginal/terms-of-endearment/">Terms of Endearment</a></td>
+          </tr>
+        </table>
+
+        <!-- Blogs I Read -->
+        <br><h1>Blogs I Read:</h1><hr>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://cindyswanslife.blogspot.com/">Cindy Swanson</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://gpblogs.typepad.com/">Gentlemen Prefer Blogs</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://www.fallible.com/">Katy McKenna</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://lisasamson.typepad.com/author_intrusion/">Lisa Samson</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://maggidawn.typepad.com/maggidawn/blog_index.html">Maggi Dawn</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://relevantblog.blogspot.com/">Mary DeMuth</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://www.messychristian.com/">Messy Christian</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://cba-ramblings.blogspot.com/">Rachelle Gardner</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="http://www.tonywoodlief.com/">Tony Woodlief</a></td>
+          </tr>
+        </table>
+
+        <!-- Books I'm Reading -->
+        <br><h1>Books I'm Reading:</h1><hr>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/0525950494/1n9867a-20"><img alt="The Reason for God: Belief in an Age of Skepticism" src="/images/marginal/6a00d834659eee69e20120a5dd625d970c-75hi.jpg"></a></td>
+            <td>&nbsp;</td>
+            <td><b>The Reason for God</b><br>Timothy Keller</td>
+          </tr>
+          <tr><td colspan="3">&nbsp;</td></tr>
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/0385341008/1n9867a-20"><img alt="The Guernsey Literary and Potato Peel Pie Society" src="/images/marginal/6a00d834659eee69e20120a5dd61db970c-75hi.jpg"></a></td>
+            <td>&nbsp;</td>
+            <td><b>The Guernsey Literary and Potato Peel Pie Society</b><br>Mary Ann Shaffer</td>
+          </tr>
+          <tr><td colspan="3">&nbsp;</td></tr>
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/B00124YOJ6/1n9867a-20"><img alt="Peace Like a River" src="/images/marginal/6a00d834659eee69e20120a5dd6132970c-75hi.jpg"></a></td>
+            <td>&nbsp;</td>
+            <td><b>Peace Like a River</b><br>Leif Enger</td>
+          </tr>
+          <tr><td colspan="3">&nbsp;</td></tr>
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/0385312113/1n9867a-20"><img alt="The God Particle" src="/images/marginal/6a00d834659eee69e200e54fd8e7308833-75hi.gif"></a></td>
+            <td>&nbsp;</td>
+            <td><b>The God Particle</b><br>Leon Lederman</td>
+          </tr>
+          <tr><td colspan="3">&nbsp;</td></tr>
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/0849944376/1n9867a-20"><img alt="The Call" src="/images/marginal/6a00d834659eee69e200e54fd8e72e8833-75hi.jpg"></a></td>
+            <td>&nbsp;</td>
+            <td><b>The Call</b><br>Os Guinness</td>
+          </tr>
+          <tr><td colspan="3">&nbsp;</td></tr>
+          <tr>
+            <td><a href="http://www.amazon.com/exec/obidos/ASIN/1591450187/1n9867a-20"><img alt="Recapture the Wonder" src="/images/marginal/6a00d834659eee69e200e54feb93258834-75hi.jpg"></a></td>
+            <td>&nbsp;</td>
+            <td><b>Recapture the Wonder</b><br>Ravi Zacharias</td>
+          </tr>
+        </table>
+
+        <!-- Archives -->
+        <br><h1>Archives</h1><hr>
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">October 2009</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">September 2009</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">April 2005</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">March 2005</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">February 2005</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">January 2005</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">December 2004</a></td>
+          </tr>
+          <tr>
+            <td><img src="/images/marginal/bullet1.gif" width="4" height="6" vspace="2" hspace="5"></td>
+            <td><a href="/marginal/">November 2004</a></td>
+          </tr>
+        </table>
+
+        <br>
+        <p><b><a href="mailto:dougraymond@ngenius.com">Email</a></b></p>
+
+      </div><!-- end sidebar -->
+    </div><!-- end mc-outer-body -->
+
     <div class="mc-footer">
-      <a href="/marginal/">All Posts</a> &middot;
-      Marginal Comments by Doug Raymond &middot;
-      <a href="/">Fallible.com</a>
+      copyright 2008, ngenius media inc.
     </div>
-  </div>
+
+  </div><!-- end outer -->
 </body>
 </html>
