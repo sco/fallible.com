@@ -27,7 +27,7 @@ comments:
     text: "Great job, Katy! Kudos for your terrific coverage of this event...it was the next best thing to being there."
 ---
 
-[![Eight Lovely Ladies](http://www.fallible.com/images/8ladies.jpg)](http://www.fallible.com/writers-photos.html)I have SO never live-blogged an event before, and technically I guess I'm still not going to, since live-blogging is really more like instant messaging than I'm used to, but here goes!  
+[![Eight Lovely Ladies](/images/8ladies.jpg)](http://www.fallible.com/writers-photos.html)I have SO never live-blogged an event before, and technically I guess I'm still not going to, since live-blogging is really more like instant messaging than I'm used to, but here goes!  
   
 Some of the most wonderful authors in Christian fiction today are gathered here at the Grand Opening of the new [Christian Book and Gift Store](http://www.parable.com/cbg/) in Olathe, Kansas. Who knew they'd have wifi? Since they do, by golly, I'm going to take advantage of it.  
   

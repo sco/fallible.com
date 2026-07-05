@@ -43,7 +43,7 @@ comments:
     text: "great tribute to ur mom.cute family.thank u for sharing ur feelings."
 ---
 
-[![image](http://www.fallible.com/images/uploads/maryg_thumb.jpg)](http://www.fallible.com/images/uploads/maryg-lg.jpg)“Look what I got for you, Mom,’ I say, not knowing if she’ll like the flimsy plastic Happy Birthday banner, replete with pink and purple butterflies, that I hope to hang like a wallpaper border at ceiling level in her nursing home room.
+[![image](/images/uploads/maryg_thumb.jpg)](/images/uploads/maryg-lg.jpg)“Look what I got for you, Mom,’ I say, not knowing if she’ll like the flimsy plastic Happy Birthday banner, replete with pink and purple butterflies, that I hope to hang like a wallpaper border at ceiling level in her nursing home room.
 
 It’s just a little girl’s decoration, after all. It came from a dollar store, along with the other trinkets and favors we’ve purchased to do her 80th birthday in style. I have no idea whether my sisters and brother and I will be able to give Mom a wonderful celebration or not. So much depends on her, and the truth is that for the past few years, she often doesn’t want to be the main character in her own story.
 
@@ -57,7 +57,7 @@ But this is her life, the only story she will have to tell. The only memories sh
 
 “What? I don’t care about any of that. I’m just in this for the guacamole and the Margarita....’
 
-[![image](http://www.fallible.com/images/uploads/maryg5_thumb.jpg)](http://www.fallible.com/images/uploads/maryg5-lg_thumb.jpg)We plan to scoot Mom in her wheelchair across the busy road from the nursing home to the Mexican restaurant. She knows that part, and has been obsessing about the guac and the drink for weeks. What she doesn’t know is that we’re going to make a bona fide parade out of it. We’re going to stop traffic if it’s the last thing we do, and she is going to be the center of attention, the starring attraction in her own life.
+[![image](/images/uploads/maryg5_thumb.jpg)](/images/uploads/maryg5-lg_thumb.jpg)We plan to scoot Mom in her wheelchair across the busy road from the nursing home to the Mexican restaurant. She knows that part, and has been obsessing about the guac and the drink for weeks. What she doesn’t know is that we’re going to make a bona fide parade out of it. We’re going to stop traffic if it’s the last thing we do, and she is going to be the center of attention, the starring attraction in her own life.
 
 “No make-up, no Margarita,’ I say, with enough of a threatening tone that she takes me seriously. I wheel her into the bathroom, where the mirror is set low enough for her to see. I hand over her face powder with an old-fashioned powder puff, and she pats it on like foundation, spreading it evenly with the puff. Then I pass the lipstick.
 
@@ -71,7 +71,7 @@ Bridget places a child’s dress-up pendant (which perfectly matches the shirt s
 
 “A parade,’ we say. “And it’s all about *you*.’
 
-[![image](http://www.fallible.com/images/uploads/maryg2-sm_thumb.jpg)](http://www.fallible.com/images/uploads/maryg2_thumb.jpg)For once, she does not object. She does not tell us it’s too much for her to be the heroine, for us to make over her and act goofy and pretend together that we’re a bunch of little kids at the best party ever. We open the door of the facility and are greeted by the bright sunshine of a fantastic April day.
+[![image](/images/uploads/maryg2-sm_thumb.jpg)](/images/uploads/maryg2_thumb.jpg)For once, she does not object. She does not tell us it’s too much for her to be the heroine, for us to make over her and act goofy and pretend together that we’re a bunch of little kids at the best party ever. We open the door of the facility and are greeted by the bright sunshine of a fantastic April day.
 
 Before we’re even out of the parking lot, and increasingly as we near the intersection, we start waving our bubble wands and blowing our horns and shouting, “Happy Birthday, Mom!’ Dozens of cars slow down, pull over, open their windows, and call out their own birthday wishes for our mother. They honk their horns, give thumbs up, and blow kisses as they pass by, all to Mom’s delight.
 
@@ -79,7 +79,7 @@ Mom has the lunch she’s been waiting for. The guacamole, made at the table whi
 
 We her family wheel her back across the road, still blowing bubbles and tooting our horns, but with somewhat less enthusiasm than we had on the way there. Because yes, stories end, and this one was reaching its curtain call.
 
-[![image](http://www.fallible.com/images/uploads/maryg3_thumb.jpg)](http://www.fallible.com/images/uploads/maryg3-lg.jpg)One year ago, at this very hour, Mom’s 80th birthday party ended. Six weeks ago, at this very hour, my mother breathed her last. In that moment, as I hovered over her soul-forsaken body and stroked her arm, I heard my long-dead father’s voice singing, for old times’ sake, a 1950s-era Nat King Cole song. One he’d sung hundreds of times when he and Mom were young and I was younger still, one that always seemed so sad to me, because even a child knows what’s eventually coming.
+[![image](/images/uploads/maryg3_thumb.jpg)](/images/uploads/maryg3-lg.jpg)One year ago, at this very hour, Mom’s 80th birthday party ended. Six weeks ago, at this very hour, my mother breathed her last. In that moment, as I hovered over her soul-forsaken body and stroked her arm, I heard my long-dead father’s voice singing, for old times’ sake, a 1950s-era Nat King Cole song. One he’d sung hundreds of times when he and Mom were young and I was younger still, one that always seemed so sad to me, because even a child knows what’s eventually coming.
 
 Even a child knows that every song--like every story--has an ending. Sometimes it’s the final tragic line that tempts us to stop listening to the music. But we don’t stop listening, do we? Because the music, like the story, is what we’re left with when this life’s party is said and done. It’s who we are.
 

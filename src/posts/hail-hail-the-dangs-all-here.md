@@ -64,7 +64,7 @@ comments:
 
 Dang! And, technically, ding, too!
 
-![image](http://www.fallible.com/images/uploads/raymond1_thumb.jpg)Hail dings, that is. And lots of them. It all went down (in a rather sideways kind of way...) eight days ago and life has been a bit of a whirlwind ever since.
+![image](/images/uploads/raymond1_thumb.jpg)Hail dings, that is. And lots of them. It all went down (in a rather sideways kind of way...) eight days ago and life has been a bit of a whirlwind ever since.
 
 But our homeowners insurance company has cut us the first (but not the last) check, and the outfit who will be replacing the roof and siding on our entire house is working up their bid as we speak. I’ve seen more measuring tapes whipped out and more blueprints mulled over this past week than at any time since we built this house fifteen years ago. Whew!
 
@@ -76,6 +76,6 @@ We didn’t plan on hosting a boatload of contractors this summer and fall, but 
 
 In the meantime, here are a few storm pics for your viewing pleasure. The insurance company appreciated that we’d taken these, since only our particular area in KC actually reported hail like this on that day.
 
-![image](http://www.fallible.com/images/uploads/hail-damge_thumb.jpg)  
-![image](http://www.fallible.com/images/uploads/raymond5_thumb.JPG)  
-![image](http://www.fallible.com/images/uploads/large-hail_thumb.jpg)
+![image](/images/uploads/hail-damge_thumb.jpg)  
+![image](/images/uploads/raymond5_thumb.JPG)  
+![image](/images/uploads/large-hail_thumb.jpg)

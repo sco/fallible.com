@@ -134,7 +134,7 @@ comments:
     text: "A telephone booth, telephone kiosk, telephone call box or telephone box is a small structure furnished with a payphone and designed for a telephone user's convenience. Such a booth usually has a door to provide privacy and a window to let others know if the booth is in use."
 ---
 
-![](http://www.fallible.com/images/phoneboothbank.jpg)"Flights to Scotland are still so cheap," Doug said. "If we travel before mid-March, we can fly to Glasgow for practically nothing. What do you say?"  
+![](/images/phoneboothbank.jpg)"Flights to Scotland are still so cheap," Doug said. "If we travel before mid-March, we can fly to Glasgow for practically nothing. What do you say?"  
   
 I'm in a weird mood, I guess. Part of me says, "I ain't getting any younger, baby. Book it now!" (And that part of me knows what it's talking about: Today is my birthday and, true to trend, the number keeps getting higher.)  
   

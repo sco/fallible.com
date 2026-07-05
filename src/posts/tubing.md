@@ -18,7 +18,7 @@ comments:
       <a href="http://www.pacquiaovsmarqueziii.info/">pacquiao vs marquez live streaming</a> <a href="http://www.cottovsmargarito.info/">cotto vs margarito</a>
 ---
 
-[![image](http://www.fallible.com/images/uploads/snow2.jpg)](http://www.fallible.com/images/uploads/snow.jpg)This morning’s snow is heavy, the weight of it breaking and bending strong limbs in a resigned bow to Mother Earth. The flakes are wet with too much moisture as they fall upon a narrow branch, overshadowing its color and texture until it appears a mere fragment of its vibrant self.
+[![image](/images/uploads/snow2.jpg)](/images/uploads/snow.jpg)This morning’s snow is heavy, the weight of it breaking and bending strong limbs in a resigned bow to Mother Earth. The flakes are wet with too much moisture as they fall upon a narrow branch, overshadowing its color and texture until it appears a mere fragment of its vibrant self.
 
 I gasp for breath as my mother’s airway constricts again before my eyes, the fragile passage filling with the ravages of suffocation, the cold tubing inserted into her throat now a snow-curved twig. She gags in her coma, and flinches, until I finally have no choice but to beg for the blizzard of medical intervention to forever stop.
 

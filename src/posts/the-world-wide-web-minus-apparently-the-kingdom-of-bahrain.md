@@ -63,7 +63,7 @@ comments:
     text: "Everything was very nice great wonderful color matching shares"
 ---
 
-[![image](http://www.fallible.com/images/uploads/fallible-bahrain-arabic_thumb.jpg)](http://www.fallible.com/images/uploads/fallible-bahrain-blocked_thumb.jpg)Tell me the truth, dear fallible readers. Do you find me and my writings ban-worthy? Because, according to a long-time reader in the Kingdom of Bahrain, the Ministry of Culture and Information is (in the words of the old Pace Picante Sauce advert) “gonna have to shut me down.’
+[![image](/images/uploads/fallible-bahrain-arabic_thumb.jpg)](/images/uploads/fallible-bahrain-blocked_thumb.jpg)Tell me the truth, dear fallible readers. Do you find me and my writings ban-worthy? Because, according to a long-time reader in the Kingdom of Bahrain, the Ministry of Culture and Information is (in the words of the old Pace Picante Sauce advert) “gonna have to shut me down.’
 
 Honestly, I think I’m the most uncontroversial girl in the known universe. I only rarely speak of my strongly-held political views, and in case you’re wondering right this second what those might be, let me just say I heart Ron Paul. A lot. In fact, the more I read and hear the stuff he wrote and said a year ago, or two years ago, the more I realize how RIGHT he is about the condition in which this country finds itself (the United States of America, not the Kingdom of Bahrain. I barely knew what body of water Bahrain found itself in, until today, never mind which STATE).
 
@@ -79,7 +79,7 @@ Praise, politics, and panties aside, there remains my most recent faux-pas. That
 
 “Excuse me, Mr. Minister of Culture and Information, but I do not think that question mark means what you think it means....’
 
-Take a peek at the [message that popped up](http://www.fallible.com/images/uploads/fallible-bahrain-blocked_thumb.jpg) when my friend in Bahrain tried to do a little fallible reading this morning. At the bottom of that page, my friend linked to an [article](http://www.rsf.org/article.php3?id_article=30079) about the websites that have been banned. There are supposedly only 68 banned sites IN THE WORLD, but it looks like the list is growing.
+Take a peek at the [message that popped up](/images/uploads/fallible-bahrain-blocked_thumb.jpg) when my friend in Bahrain tried to do a little fallible reading this morning. At the bottom of that page, my friend linked to an [article](http://www.rsf.org/article.php3?id_article=30079) about the websites that have been banned. There are supposedly only 68 banned sites IN THE WORLD, but it looks like the list is growing.
 
 As for me, I think I’ll just go ahead and proclaim this The Fallible Year Of Blogging Dangerously. Why not just say EVERYthing I want to say, and let the bans fall where they may?
 

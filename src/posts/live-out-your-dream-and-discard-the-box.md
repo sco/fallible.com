@@ -19,7 +19,7 @@ comments:
     text: "This spurs me on again, to dream, and to not give up hope. I've always loved Erma Bombeck's writing but I love yours even more."
 ---
 
-[![image](http://www.fallible.com/images/uploads/ErmaColumn-thumb.jpg)](http://www.fallible.com/images/uploads/ErmaColumn.jpg)I’ve been embarking on my annual decluttering, and let me just say it ain’t pretty.
+[![image](/images/uploads/ErmaColumn-thumb.jpg)](/images/uploads/ErmaColumn.jpg)I’ve been embarking on my annual decluttering, and let me just say it ain’t pretty.
 
 This morning, I questioned myself thoroughly about why (besides purely sentimental reasons) I cling to stuff like I do. I came up with three main reasons. Most of the junk I’m holding onto represents the person I used to be (but likely won’t be again...), the person I wish I was (but likely won’t become), or the person I am now (but really shouldn’t be).
 

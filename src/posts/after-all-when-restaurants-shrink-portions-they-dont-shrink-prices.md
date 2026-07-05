@@ -7,4 +7,4 @@ comments:
     text: "fasdfsagasfasdfasd"
 ---
 
-![image](http://www.fallible.com/images/uploads/fallible.com-restaurants_.jpg)
+![image](/images/uploads/fallible.com-restaurants_.jpg)

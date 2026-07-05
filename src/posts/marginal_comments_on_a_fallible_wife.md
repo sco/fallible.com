@@ -45,7 +45,7 @@ comments:
       Cleo--Welcome! I hope you enjoy blogging as much as we do. Please let me know your address when you get started.
 ---
 
-![Writer's Digest Personal Writing](http://www.fallible.com/images/personalwriting.jpg)To any of you who are new visitors to fallible, as well as to Doug's blog [marginal](http://www.marginalcomments.com), and who found our sites through the article on blogging in the April issue of *Writer's Digest Personal Writing* magazine, welcome! I hope you discover something here to entertain, inspire, and motivate you in your own personal writing life.  
+![Writer's Digest Personal Writing](/images/personalwriting.jpg)To any of you who are new visitors to fallible, as well as to Doug's blog [marginal](http://www.marginalcomments.com), and who found our sites through the article on blogging in the April issue of *Writer's Digest Personal Writing* magazine, welcome! I hope you discover something here to entertain, inspire, and motivate you in your own personal writing life.  
   
 Please feel free to leave me a comment so I know who you are! I love to visit the blogs of my wonderful readers.  
   
@@ -58,4 +58,4 @@ Mom, I hope this renews your faith in both me and the future of the blogosphere!
 Sheesh. Even middle-aged with-it chick bloggers still need their dear old mom's approval. Some things never change.  
   
 
-![Personal Writing Blog Spot](http://www.fallible.com/images/personal-writing-blog-spot.gif)
+![Personal Writing Blog Spot](/images/personal-writing-blog-spot.gif)

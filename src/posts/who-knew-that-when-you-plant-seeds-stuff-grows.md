@@ -29,23 +29,23 @@ My darling son Kevin gave me a beautiful white orchid plant for Mother’s Day l
 
 This Mother’s Day, Kev gave me a different variety of orchid (just in case I’d mastered the care of the first one and needed another challenge, I’m thinking....), this time a pink one with multiple small blooms. As always, I begged his forgiveness in advance for what will most likely become another Fallible Houseplant Demise. He’s so sweet. He said, “But in between now and then, you’ll enjoy looking at it, right?’
 
-![image](http://www.fallible.com/images/uploads/garden092_thumb.jpg)Yes, I will! And even more so this year, since I am now an official gardener! While a number of my experiments with food growing have proven failures, like the three out of four broccoli plants that bolted, most everything is thriving. In fact, tonight we popped a couple of ribeyes on the grill and had salad made WITH LETTUCE THAT WE GREW!
+![image](/images/uploads/garden092_thumb.jpg)Yes, I will! And even more so this year, since I am now an official gardener! While a number of my experiments with food growing have proven failures, like the three out of four broccoli plants that bolted, most everything is thriving. In fact, tonight we popped a couple of ribeyes on the grill and had salad made WITH LETTUCE THAT WE GREW!
 
 For even more fun, while we cut lettuce leaves for dinner, we popped a few bright red and SWEET strawberries into our mouths. Yay for us!
 
-![image](http://www.fallible.com/images/uploads/garden096_thumb.jpg)Small heads of cauliflower have formed and are growing, green peppers and brussel sprouts are coming along nicely, we’ll have a least a number of purple onions, and the tomatoes and zucchini are taking off. Plus, we’ve got tiny peaches on one of two peach trees, which are surrounded by three apples, two pears, and a cherry.
+![image](/images/uploads/garden096_thumb.jpg)Small heads of cauliflower have formed and are growing, green peppers and brussel sprouts are coming along nicely, we’ll have a least a number of purple onions, and the tomatoes and zucchini are taking off. Plus, we’ve got tiny peaches on one of two peach trees, which are surrounded by three apples, two pears, and a cherry.
 
 You know that whole can’t-teach-an-old-chick line of thinking? SO NOT TRUE. I have been making a habit of learning new things, and in 2009 I’ve developed several skills that I’ll enjoy for years to come.
 
 And, yes, I know that hanging clothes on a line in the sunshine is not exactly a skill. But I’ve been doing it since February and I love it. It makes me feel like a kid again, since hanging laundry in our dryer-less household was often assigned to me, and what’s not to like about recapturing one’s youth?
 
-![image](http://www.fallible.com/images/uploads/garden094_thumb.jpg)It’s fascinating when you start caring less about what the stock market’s doing and more about the weather forecast.
+![image](/images/uploads/garden094_thumb.jpg)It’s fascinating when you start caring less about what the stock market’s doing and more about the weather forecast.
 
 “Do you think this load will dry before the rain comes in?’
 
 “Should we water this morning or count on storms to do the job later on?’
 
-![image](http://www.fallible.com/images/uploads/garden093_thumb.jpg)“How much water do you suppose is in the rain barrels? Enough to do the whole garden?’
+![image](/images/uploads/garden093_thumb.jpg)“How much water do you suppose is in the rain barrels? Enough to do the whole garden?’
 
 “Hey, the temperature is perfect. Let’s walk around the property and see what’s growing....’
 

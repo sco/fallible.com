@@ -7,4 +7,4 @@ comments:
     text: "This really is genuinely excellent news. Thank you for sharing it with us!"
 ---
 
-![image](http://www.fallible.com/images/uploads/fallible.com-weight-bearing_.jpg)
+![image](/images/uploads/fallible.com-weight-bearing_.jpg)
