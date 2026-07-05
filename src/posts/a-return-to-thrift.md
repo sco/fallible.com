@@ -27,9 +27,6 @@ comments:
   - author: "Harry-avandia lawyer"
     date: "2009-02-12T06:29:19"
     text: "Really a good and interactive post, i think the post is informative and knowledge providing both in regard of current affairs and present economic Situations."
-  - author: "Adam-Victoria Mortgage Brokers"
-    date: "2009-03-19T04:59:19"
-    text: "Really a good post, Post is good in regards of meaningful information. Thanks for the post."
   - author: "Mika"
     date: "2009-08-15T15:02:37"
     text: |

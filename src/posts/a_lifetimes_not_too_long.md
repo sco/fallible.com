@@ -20,9 +20,6 @@ comments:
   - author: "Cufflink"
     date: "2009-09-12T04:07:16"
     text: "Yes... some friends come as true blessings...though their number is very low. You are one of those lucky persons who have real friends...."
-  - author: "personal injury lawyer houston"
-    date: "2009-09-23T09:19:23"
-    text: "had an accident where a cyclist rode into my car and now he is trying to claim of my insurance. he is trying to claim for tissue damage,concusion anmd cuts and brusies."
   - author: "Acupuncture Tampa FL"
     date: "2009-09-29T08:08:54"
     text: |
@@ -33,9 +30,6 @@ comments:
       Pretty good post. I just came across your site and wanted to say
       that I have really liked reading your posts. Any way
       Iâ€™ll be subscribing to your feed and I hope you post again soon!
-  - author: "Discount cat supplies"
-    date: "2009-10-21T18:31:26"
-    text: "You are lucky to have lifetime friendship.  Nice story."
   - author: "car accident insurance claim"
     date: "2009-11-05T18:57:07"
     text: "Courteous posting,very advisory.Thank you, very absorbing to read, you should be astonishing of your blog. I was truly relishing to check your subject matters from meter to time. We are depending forward to your potential posts."

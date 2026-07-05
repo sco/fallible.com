@@ -38,11 +38,6 @@ comments:
       There are always two cups at my table.
       
       - T'ang Dynasty
-  - author: "montreal escorts"
-    date: "2010-03-27T16:06:30"
-    text: |
-      I actually like this article. Bathroom you hombres assure my internet site if it faces good because I added some Impulsive Cause subject to enhance the flavour. I am not done yet but I am following support along it during my opportunity. 
-      <a href="http://www.jaysxlist.com/"> montreal escorts</a>
   - author: "Kitchen and Bath Remodeling in San Diego"
     date: "2010-05-10T05:34:20"
     text: "It is a captious and adorning article. Things are ordered wellspring. Get to bang lot of affair which were not arena to me."

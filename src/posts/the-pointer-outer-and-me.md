@@ -171,9 +171,6 @@ comments:
     date: "2008-12-01T20:43:04"
     text: |
       Oh, I don't blame Congress. If I had $600 billion at my disposal, I'd be irresponsible, too.
-  - author: "cheap xanax redrawn heterophytic"
-    date: "2008-12-02T00:16:25"
-    text: "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident."
   - author: "omelet"
     date: "2008-12-02T04:12:50"
     text: "I think it is good that books still exist, but they do make me sleepy."
@@ -197,9 +194,6 @@ comments:
     date: "2008-12-02T20:22:18"
     text: |
       You've achieved success in your field when you don't know whether what you're doing is work or play.
-  - author: "buy diazepam workwoman overbuilt"
-    date: "2008-12-02T20:23:20"
-    text: "You create your opportunities by asking for them."
   - author: "construction"
     date: "2008-12-02T20:25:45"
     text: |
@@ -223,9 +217,6 @@ comments:
     date: "2008-12-03T20:29:26"
     text: |
       Photographers do this for a living, every single day -- they point their lenses toward every single corner of our world and somehow make the mundane mesmerizing through their artistic eye. It's all a matter of being aware of your surroundings and realizing that there are some really amazing and interesting things to look at, even if it may just be something so simple as a wall being covered up by paint.
-  - author: "buy hydrocodone osteochondropathy crossite"
-    date: "2008-12-04T00:15:40"
-    text: "He who will not reason is a bigot; he who cannot is a fool; and he who dares not is a slave."
   - author: "generic finasteride"
     date: "2008-12-04T00:16:25"
     text: "After the last of 16 mounting screws has been removed from an access cover, it will be discovered that the wrong access cover has been removed."
@@ -293,12 +284,6 @@ comments:
     date: "2008-12-07T06:50:08"
     text: |
       tbhijrqh http://imozncvj.com zthlfwih czskbrno
-  - author: "personal injury lawyer houston"
-    date: "2009-09-23T06:14:54"
-    text: |
-      Hi,
-       I have a large hard lump on the outer left side of my wrist that hurts a lot when I try to bend my wrist down?Sometimes the lump will go away, but it seems to come back after I've been doing a lot of things like typing and playing the piano....Thank you...
-      <a href="http://www.truckaccidentattorneyhouston.com/">personal injury lawyer houston</a>
   - author: "fence designs"
     date: "2009-09-28T11:15:38"
     text: "this lump could be something very serious, i would urge you not to take it seriously, these lumps can be real dangerous for the future"

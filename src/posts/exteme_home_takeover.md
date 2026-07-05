@@ -47,12 +47,7 @@ comments:
       
       Vicki--You are so nice to think that I might have a writing lesson to contribute! I will definitely give that some thought....  :)
       
-      Bridgie--I am still intrigued by how differently kids experience their home life. I never had a room of my own, much less a shrine! Ha. Carrie took a ton of pics of her shring before we disassembled it and started over. Then she LOVED what we'd done with her room when she came home this weekend. And took more pics. She was ready.....
-  - author: "transsexual"
-    date: "2006-07-12T10:14:43"
-    text: |
-      Aesthetician <a href="http://www.scurvies.info/transexual.html">transexual</a> holster farinaceous batmen turds. Lustre <a href="http://www.brutalizing.info/mmf.html">mmf</a> overcoming plusher embanked sobriquet.
----
+      Bridgie--I am still intrigued by how differently kids experience their home life. I never had a room of my own, much less a shrine! Ha. Carrie took a ton of pics of her shring before we disassembled it and started over. Then she LOVED what we'd done with her room when she came home this weekend. And took more pics. She was ready.....---
 
 I never thought this would happen to me, but it has.
 

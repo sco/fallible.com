@@ -19,11 +19,7 @@ comments:
       
       They may come to no diagnosis here. Several docs have already said as much. Sometimes, these repeated runs to the hospital with an elder simply serve to open the eyes of the family decision makers--the younger ones--us. She is "happy" where she lives, but she isn't safe--at least, not now. So--hard decisions must be made. It is, sadly, the way of things.
       
-      Adele is a strong believer, for which we are all so grateful! Thank you, Robin, for your message here.
-  - author: "Shanky -Connecticut personal injury lawyer"
-    date: "2009-03-20T06:07:49"
-    text: "Awesome Article, Really very informative posting which provide lots of informative in all the regards.thanks for the wonderful posting."
----
+      Adele is a strong believer, for which we are all so grateful! Thank you, Robin, for your message here.---
 
 I wonder if it bodes well that two blog posts in a row have titles that end in question marks, but I digress. Wait a minute. Can I digress before I've started? I just don't know anymore. But if I can, I do. So there.
 

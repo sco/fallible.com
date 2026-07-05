@@ -136,11 +136,6 @@ comments:
     date: "2008-02-29T13:17:42"
     text: |
       Tiffany--Welcome here, and major congrats on your "Rachelle Story."  :) I am going to check out your site to find out more.....Very exciting!
-  - author: "Joey Brown"
-    date: "2008-03-03T07:57:42"
-    text: |
-      very interesting...
-      <a href="http://www.wideworldschoolsupplies.com">ideas for classroom door decorations</a>
 ---
 
 OK, in my previous post called The Evolution of the Rejection Letter, I kind of neglected to mention something.

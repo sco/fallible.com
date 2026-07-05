@@ -52,10 +52,6 @@ comments:
     date: "2007-06-23T17:36:19"
     text: |
       My novel has quickly degenerated into a sleezy romance novel - the kind that I hate. I was trying to write something without a happy ending, because real life doesn't have happy endings. I don't know what happened, but it's totally in disrepair. Maybe I am not cut out for this. But then, again, I think it's better than most of the stuff I've read. Maybe you can take a peak later on and let me know.
-  - author: "sdfsd"
-    date: "2007-11-05T03:30:54"
-    text: |
-      <a href="http://www.topcallme.cn">çªƒå¬å™¨</a> <a href="http://www.topcallme.cn/NewsList_775.htm">çªƒå¬å™¨,æ‰‹æœºçªƒå¬å™¨</a> <a href="http://www.topcallme.cn">æ‰‹æœºçªƒå¬å™¨</a> <a href="http://www.topcallme.cn">ç›‘å¬å™¨</a> <a href="http://www.topcallme.cn">æ‰‹æœºç›‘å¬å™¨</a> <a href="http://www.3721call.cn">çªƒå¬å™¨</a> <a href="http://www.3721call.cn">æ‰‹æœºçªƒå¬å™¨</a> <a href="http://www.3721call.cn">ç›‘å¬å™¨</a> <a href="http://www.3721call.cn">æ‰‹æœºç›‘å¬å™¨</a>
   - author: "www"
     date: "2007-11-05T03:32:39"
     text: |
@@ -64,10 +60,6 @@ comments:
     date: "2008-11-22T13:17:09"
     text: |
       fmumtcgy http://twlgivsh.com ilvyutwh qvyouajs
-  - author: "cqtnznyf"
-    date: "2008-11-25T00:02:32"
-    text: |
-      goxtwpcs http://flblwwrh.com vadfbkrb cxyxpcfx
   - author: "intellectual"
     date: "2008-11-27T09:22:17"
     text: "Our imagination is the only limit to what we can hope to have in the future."
@@ -96,9 +88,6 @@ comments:
   - author: "habiliment"
     date: "2008-12-06T16:19:13"
     text: "Never read a book through merely because you have begun it."
-  - author: "buy amoxicillin chassis simonellite"
-    date: "2008-12-08T17:40:53"
-    text: "The coldest winter I ever spent was a summer in San Francisco."
   - author: "generic prevacid damaskeen outre"
     date: "2008-12-10T18:52:08"
     text: "A conference is a gathering of important people who singly can do nothing, but together can decide that nothing can be done."
@@ -115,10 +104,6 @@ comments:
   - author: "busying"
     date: "2008-12-15T08:53:44"
     text: "Do it now. It is not safe to leave a generous feeling to the cooling influences of the world."
-  - author: "viagra precinct pledge"
-    date: "2008-12-15T13:04:44"
-    text: |
-      Before I met my husband, I'd never fallen in love, though I'd stepped in it a few times.
   - author: "careenage"
     date: "2008-12-15T17:14:11"
     text: |
@@ -149,9 +134,6 @@ comments:
     date: "2008-12-17T19:25:49"
     text: |
       Your world is made of your memories, and your memories are given to you by your world. The whispering voice of happenstance is always in our ears. 'This is the world. This is the way things are. Look. Pay attention. Remember.'
-  - author: "viagra"
-    date: "2008-12-17T23:04:01"
-    text: "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."
   - author: "tribometry"
     date: "2008-12-18T03:11:11"
     text: "As a scientist, I am not sure anymore that life can be reduced to a class struggle, to dialectical materialism, or any set of formulas. Life is spontaneous and it is unpredictable, it is magical. I think that we have struggled so hard with the tangible that we have forgotten the intangible."

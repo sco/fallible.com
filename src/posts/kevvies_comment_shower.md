@@ -854,10 +854,6 @@ comments:
     text: |
       I had to be the last one to comment...
       Kevin...we love you...have a wonderful trip and come home safely! :)
-  - author: "kevin"
-    date: "2006-08-11T22:23:20"
-    text: |
-      <a href="http://photos-637.facebook.com/ip004/v38/71/48/82404361/n82404361_30383637_7164.jpg">i love you all.</a>
   - author: "lisa"
     date: "2006-08-12T03:54:26"
     text: |

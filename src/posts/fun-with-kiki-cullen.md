@@ -16,11 +16,7 @@ comments:
     date: "2011-08-22T08:09:00"
     text: |
       What an awesome memory you made. I am on my own journey of sorting through my grief and reading your words have brought me smiles and comfort. Thank you for continuing to write all these years :-)<br>  
-      <a href="http://www.moviesmalayalam.com">New malayalam movies film online</a><br> Nice article, keep up the good work
-  - author: "Womens"
-    date: "2011-10-22T05:02:00"
-    text: "<a href=\"http://www.toptruereligion.com/Cargo-Jeans\\_9\\_1.htm\">Womens Ture Religion Cargo jeans</a>"
----
+      <a href="http://www.moviesmalayalam.com">New malayalam movies film online</a><br> Nice article, keep up the good work---
 
 I decided, just for fun, to post the opening scene of a novel I wrote. I used to post excerpts from works-in-progress, but those bits never resulted in a completed manuscript. This one did. I still get a kick out of my main character, Kiki Cullen:
 

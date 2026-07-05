@@ -23,10 +23,6 @@ comments:
       I do love all things Celtic, Katy, and I'm a huge fan of BJ Hoff!  
       
       As I've told you many times, my dream is to go to Ireland (and Scotland, and England...) Maybe someday!
-  - author: "ã‚»ãƒƒã‚¯ã‚¹"
-    date: "2008-06-20T15:40:44"
-    text: |
-      <a href="http://www.winwinlose.net/story.html">ã‚»ãƒƒã‚¯ã‚¹</a>
   - author: "Katy"
     date: "2008-06-22T23:25:30"
     text: |

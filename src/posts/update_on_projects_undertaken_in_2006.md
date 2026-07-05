@@ -45,14 +45,6 @@ comments:
     date: "2008-12-04T04:08:32"
     text: |
       tiezkdbr http://wuhaeesl.com nblioacm liqkxcia
-  - author: "generic viagra politick unprepossessed"
-    date: "2008-12-06T07:07:18"
-    text: |
-      If we fall, we don't need self-recrimination or blame or anger - we need a reawakening of our intention and a willingness to recommit, to be whole-hearted once again.
-  - author: "generic viagra solanione ignitable"
-    date: "2008-12-06T07:07:52"
-    text: |
-      I don't like composers who think. It gets in the way of their plagiarism.
   - author: "visicorder"
     date: "2008-12-06T07:13:48"
     text: "There is always some madness in love. But there is also always some reason in madness."
@@ -162,10 +154,6 @@ comments:
     date: "2008-12-12T07:34:18"
     text: |
       I was gratified to be able to answer promptly. I said I don't know.
-  - author: "wsmzlncn"
-    date: "2008-12-13T16:44:43"
-    text: |
-      qpnenprq http://bxdmkuya.com maxbcqjb rrtntufm
   - author: "couture"
     date: "2008-12-14T05:12:36"
     text: "I ran the wrong kind of business, but I did it with integrity."

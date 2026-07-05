@@ -57,13 +57,6 @@ comments:
     date: "2005-09-27T11:11:53"
     text: |
       I lose things all the time, and find them in the strangest places.  The worst incidents involve losing housekeys out of town, utensils in the trash can, books in coat pockets, and pens in pants pockets of garments being worn.  I once had to open and close the microwave a half-dozen times before I'd managed to get some water IN the cup IN the microwave then turned ON in order to make tea.  (Empty cup, full cup in refrigerator, cup in microwave off, cup in microwave on.)  I also forget I'm holding things while I'm walking and drop them when I reach for something else.  (My poor Discman!)  But at my age, they call it ADD.  :)
-  - author: "jrjmwvwf"
-    date: "2009-01-01T11:27:48"
-    text: |
-      wmjltwft http://elociyis.com zlmzvyje cbxmacun
-  - author: "separably"
-    date: "2009-01-03T12:57:21"
-    text: "A rumor without a leg to stand on will get around some other way."
 ---
 
 I guess since I'm living in the land of "a three and a two," Mama-lingo for "Wednesday and Tuesday" respectively, I can't help but notice certain other individuals' little idiosyncracies. Or idiosyncrasies. Whatever.

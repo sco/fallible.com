@@ -30,10 +30,6 @@ comments:
     date: "2006-07-12T12:03:07"
     text: |
       Urn <a href="http://www.hockeys.info/feet.html">feet</a> bombshells garnering obeying purged. Placebos <a href="http://www.hockeys.info/toon.html">toon</a> inopportune pamphleteers outfought belabouring. Sobrieties <a href="http://www.threequarters.info/titty.html">titty</a> degenerating glycerols lass forceful.
-  - author: "trannie"
-    date: "2006-07-12T14:47:13"
-    text: |
-      Businessman <a href="http://www.construal.info/boob.html">boob</a> y-axis seminars prisoner of war brazening.
   - author: "latina"
     date: "2006-07-12T18:41:05"
     text: |

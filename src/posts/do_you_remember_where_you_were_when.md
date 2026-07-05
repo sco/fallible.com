@@ -45,47 +45,6 @@ comments:
     date: "2005-08-04T00:36:38"
     text: |
       I don't remember learning.  Not even close.  I realize I must have picked it up myself somewhere between three and five, since I remember being confounded by the skipping pattern of lyric lines in the hymnal at the church my dad then pastored, and reading the two-thirds-intact tale of Rudolph the Red-Nosed Reindeer one sticky summer in the green room.  Words seem to have always been there, and always to have been comforting.  The cereal box, billboards, fine print, dictionaries... ah, I love the dictionary.  Even rolling words through my head like round stones calms me down.  Chosen, mellifluous, dilapidated, rabble, woven thing and fine, elongated, elegant.  Set to rights and set two Wrights....  I am an amateur wordsmith, but I love these small gems so.
-  - author: "Speakers"
-    date: "2008-11-24T21:28:45"
-    text: |
-      Well, I can't remember my first words but my father said it was "dada". Guess I was about 1 yr and 2 months old. Pretty early huh.
-  - author: "Michel-Alaska Personal Injury Lawyer"
-    date: "2009-03-07T07:57:57"
-    text: "Really a educative and informative post, the post is good in all regards,I am glad to read this post."
-  - author: "atasÃ¶zleri"
-    date: "2009-07-25T17:59:57"
-    text: |
-      Thanks for post..I have'nt boring of reading this article.
-  - author: "personal injury lawyer houston"
-    date: "2009-09-03T04:49:19"
-    text: |
-      John F. Kennedy just weeks after his assassination, is for orchestra, soprano soloist, chorus and narrator. It will highlight "Lenny's Spiritual Side," an all-Bernstein concert that the Winston-Salem Symphony will present next weekend in the Stevens Center.
-  - author: "Jack H"
-    date: "2009-10-23T03:37:25"
-    text: |
-      For those who are younger yet, I'm sure they all remember where they were at on 9/11. It's crazy how every generation has these moments. <a href="http://www.grandrapids-lasik.com" style="font-size: 1pt; color: #FDFBFB;">grand rapids lasik eye surgery</a>
-  - author: "roger"
-    date: "2010-03-22T06:10:46"
-    text: |
-      Hello,
-      
-      Thanks for provide information.
-      
-      <a href="http://www.lbf.in/">Learn By Fun Books</a> Books have been made helpful for the parents and teachers by using very simple and easy language. The teachers teach lesson in the school and if the students are not able to understand at that time, then students themselves can understand the lesson by the help of these books.
-  - author: "villash"
-    date: "2010-08-19T12:14:57"
-    text: |
-      The lyrics are, Do you remember when you were drowning in the sea of sin? Going down for the last time before you called on His name? Oh, He reached out His nail pierced hand and He lifted you out. So remember where you were back then and praise Him for where you are now...
-      <a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
-  - author: "hasan"
-    date: "2010-09-10T05:58:17"
-    text: |
-      I make the rounds of the wing, down to the physical therapy room and then the dining room, peeking into corners, searching for Mom. On my way back to her room, I stop at the nurseâ€™s station to enquire...
-      <a href="http://www.11plustrainer.co.uk/">Eleven Plus </a>
-  - author: "KarenGuz"
-    date: "2010-10-28T15:25:58"
-    text: |
-      We all have fond memories of our past and we like tot ell them to other people - most often to younger ones.  Oh the memories! This is Karen of [url=http://www.clickxposure.com]internet marketing chicago[/url] office wishing your blog more success.
 ---
 
 If you're as old as I am, you have no problem remembering where you were when you first heard of JFK's death, or Robert Kennedy's, or Martin Luther King's.

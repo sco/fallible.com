@@ -10,12 +10,6 @@ comments:
     date: "2009-01-18T02:07:24"
     text: |
       The doctors led you to believe they were in the network? If they do that, how can we be expected not to make mistakes? And did they expect they'd keep you as a patient when you found out they weren't?
-  - author: "San Diego Personal Injury Lawyers"
-    date: "2009-02-04T11:32:41"
-    text: "Thanks for the great article, do you have any additional resources you can point us to to learn more?"
-  - author: "elisha-Alaska Personal Injury Lawyer"
-    date: "2009-03-07T12:21:49"
-    text: "Really a educative and informative post, the post is good in all regards,I am glad to read this post"
   - author: "San Diego Movers"
     date: "2009-03-11T22:16:31"
     text: |

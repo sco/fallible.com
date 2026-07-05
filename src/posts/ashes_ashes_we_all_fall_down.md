@@ -66,9 +66,6 @@ comments:
   - author: "gurnet"
     date: "2008-12-24T02:27:46"
     text: "The bitterest tears shed over graves are for words left unsaid and deeds left undone."
-  - author: "viagra online phototype responsive"
-    date: "2008-12-24T05:35:01"
-    text: "The movies are the only business where you can go out front and applaud yourself."
   - author: "phospholipase"
     date: "2008-12-24T09:41:05"
     text: |

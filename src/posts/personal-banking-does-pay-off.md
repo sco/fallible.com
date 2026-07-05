@@ -36,9 +36,6 @@ comments:
     date: "2009-03-12T05:54:06"
     text: |
       i seriously feel with friends in bank it always helps to know more and better about some of the things, which we aren't aware of much. sometimes when there are some good fixed deposits, or better investment plans, they tell me whether to invest in it or not..they tell me about the loopholes in the schemes also. my bank looks after all my insurance matters also, so that is always a help!
-  - author: "Victoria Mortgage Brokers"
-    date: "2009-03-18T08:40:01"
-    text: "This post is an informative and knowledge providing post, it is really important to the world to have knowledge about this fact."
   - author: "thai girl"
     date: "2009-08-28T13:45:36"
     text: "Discipline is the key and this is the lacking word to most people  who are financially in constraints. You are very lucky to have embraced this word and its giving you financial freedom."

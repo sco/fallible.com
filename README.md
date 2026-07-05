@@ -1,9 +1,9 @@
 # fallible.com
 
-This is fallible.com, the personal weblog of Katy Raymond (active 2000-2012). The site will automatically update when changes are pushed to the main branch on Github.
+This is fallible.com, the personal weblog of Katy Raymond (active 2000-2012). The site will automatically update when changes are pushed to the main branch on [Github](https://github.com/sco/fallible.com).
 
 The original site was managed with Expression Engine. In 2026,
-it was migrated to this codebase, managed with Eleventy.
+it was migrated to this codebase, managed with [Eleventy](https://www.11ty.dev/). 
 
 
 ## Usage
@@ -35,20 +35,28 @@ The simplest way to update the content of the site is to use the Github UI to br
 - [x] formatted dates everywhere
 - [x] archive page
 - [x] restore images
-- [] auto deployment
-  - Amplify? GH pages? cloudflare pages?
-- [] fix special characters
-  - eg https://main.d13xg7pv9e0jn3.amplifyapp.com/posts/because-im-so-fallible-you-might-win-a-free-book/
+- [x] auto deployment
+- [x] fix special characters
 - [] handle all old URLs (permanent redirect or nice 404)
   - [x] /fallible/comments/SLUG
-- [] migrate fallible.com domain
+- [x] migrate fallible.com domain
+- [x] fix broken images (eg /posts/the-partys-over/)
 
 
 ## Nice to have
 - [] modernize markup and metadata
-- [] responsive design
-- [] favicon
-- [] social posting tags
-- [] search
+- [x] responsive design
+- [] more refined mobile design
+- [x] favicon
+- [x] social posting tags
+- [x] search
 - [] dad's posts
 - [] test handling/redirects, including http/https, www or not, various permalink formats, etc
+- [] comments?
+- [] recommended GUI editor?
+- [] migrate to "Build Awesome"
+- [] migrate to .ts templates?
+- [] use _redirects instead of worker-based redirs (and thus disable use-worker-first so we can serve from assets?)
+- 
+
+

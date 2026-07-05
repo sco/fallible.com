@@ -53,14 +53,6 @@ comments:
     date: "2005-06-19T14:09:24"
     text: |
       I know you don't know me but I wish I had a mother like you.
-  - author: "diamonds"
-    date: "2010-06-12T04:04:42"
-    text: "Diamond Microdermabrasion has a handpiece impregnated with diamond flecks. Avoid any stones that have black flecks that are visible to the naked eye."
-  - author: "discount jewellery"
-    date: "2010-10-26T03:52:14"
-    text: |
-      Hi,
-      I received a diamond last week and the other day i noticed a little black dot near the top... my bf said he looked at it under a microscope and there was only one flaw under 10x, unable to see with the naked eye... how can this happen? If i look at the diamond up from the side, i can see little flecks of light, like it chipped on this inside or something?
 ---
 
 It's 1:30 on Thursday afternoon. Kevin just kissed us good-bye.

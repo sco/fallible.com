@@ -53,10 +53,6 @@ comments:
       Assure:  means to make confident or promise something
       Ensure:  means to make certain something will happen
       Insure:  means to buy insurance
-  - author: "firefox"
-    date: "2008-02-21T18:46:04"
-    text: |
-      here is an <a href="http://www.dictionarist.com">Online Talking Dictionary</a>
   - author: "Facilitators"
     date: "2008-11-25T20:32:16"
     text: |

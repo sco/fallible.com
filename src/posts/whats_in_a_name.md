@@ -48,12 +48,7 @@ comments:
       Thanks for the vote, and for being a great sister!  :)
   - author: "Katy"
     date: "2006-01-26T18:04:04"
-    text: "Bridgie--Your name is perfect for the bonny Irish lass you are! Happy Birthday, baby girl."
-  - author: "sexy_thing"
-    date: "2006-02-16T10:31:25"
-    text: |
-      <a href="http://www.kalu-gay-webcam.jouluruno.com">kalu gay webcam</a> ## <a href="http://www.gay-webcam-kalu.jouluruno.com">gay webcam kalu</a> ## <a href="http://www.kalu-gaychat.jouluruno.com">kalu gaychat</a> ## <a href="http://www.gaychat-kalu.jouluruno.com">gaychat kalu</a> ## <a href="http://www.kalu-gaychat-jyvaskyla.jouluruno.com">kalu gaychat jyvaskyla</a> ## <a href="http://www.gaychat-jyvaskyla-kalu.jouluruno.com">gaychat jyvaskyla kalu</a> ## <a href="http://www.kalu-gaysex.jouluruno.com">kalu gaysex</a> <a href="http://www.nakenbilder-masturbating.xpule.com">nakenbilder masturbating</a> ## <a href="http://www.masturbating-nakenbilder-av-jenter.xpule.com">masturbating nakenbilder av jenter</a> ## <a href="http://www.nakenbilder-av-jenter-masturbating.xpule.com">nakenbilder av jenter masturbating</a> ## <a href="http://www.masturbating-nakene.xpule.com">masturbating nakene</a> ## <a href="http://www.nakene-masturbating.xpule.com">nakene masturbating</a> ## <a href="http://www.masturbating-nakene-damer.xpule.com">masturbating nakene damer</a> ## <a href="http://www.nakene-damer-masturbating.xpule.com">nakene damer masturbating</a> <a href="http://www.prostituert-tjejbilder.heste-sex.com">prostituert tjejbilder</a> ## <a href="http://www.tjejbilder-prostituert.heste-sex.com">tjejbilder prostituert</a> ## <a href="http://www.prostituert-tjejsex.heste-sex.com">prostituert tjejsex</a> ## <a href="http://www.tjejsex-prostituert.heste-sex.com">tjejsex prostituert</a> ## <a href="http://www.prostituert-torrdrakt-fetish.heste-sex.com">prostituert torrdrakt fetish</a> ## <a href="http://www.torrdrakt-fetish-prostituert.heste-sex.com">torrdrakt fetish prostituert</a> ## <a href="http://www.prostituert-trange-sma-fitter.heste-sex.com">prostituert trange sma fitter</a>
----
+    text: "Bridgie--Your name is perfect for the bonny Irish lass you are! Happy Birthday, baby girl."---
 
 Thirty-nine years ago, I was finally given the vote.
 

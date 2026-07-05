@@ -36,98 +36,13 @@ comments:
       You are all SO nice to congratulate me over something so...goofy, I guess. But it means a lot to me!!
       
       Kelley--Slainte is Irish, but hey. I'm equal parts Scottish and Irish, so all Irish greetings accepted here! I really enjoyed your enthusiasm........  :)
-  - author: "Vancouver Wedding"
-    date: "2008-06-06T04:34:16"
-    text: |
-      Congrats.  I'm happy for you
-  - author: "ottawa wedding"
-    date: "2008-07-16T17:44:15"
-    text: "congratulation!!"
-  - author: "las vegas weddings"
-    date: "2008-08-16T06:44:41"
-    text: "Best wishes for both of you."
-  - author: "e-commerce website development"
-    date: "2008-08-16T06:47:04"
-    text: |
-      I'm looking forward to be married again with my wife in our 50th wedding anniversary
   - author: "jeff wilson"
     date: "2008-09-02T18:06:46"
     text: "The phrase is a toast that you will always have anough money to afford coal to go in the fire."
-  - author: "Winning lottery numbers"
-    date: "2008-11-12T02:51:47"
-    text: "so nice!!!"
-  - author: "Smoking Cigars"
-    date: "2009-02-05T13:56:57"
-    text: "Almost like I was there alongside you hoping and rooting for your success all along. Iâ€™m very happy for you, as well as a tad jealous that Iâ€™ll never have one of my own despite my husbandâ€™s Scottish ancestry and my own Irish roots."
-  - author: "Mike J."
-    date: "2009-02-26T00:32:19"
-    text: |
-      Congratulations! That's great news.  Having that British passport should come in handy.  I've known plenty of people who've had to wrangle back and forth with the consulate for years to get one. 
-      ---
-      Mike J. 
-      <A HREF="http://www.avvo.com/all-lawyers/ca/san_francisco.html">San Francisco lawyer</A>
-  - author: "Darrel Thomas"
-    date: "2009-05-19T17:53:34"
-    text: |
-      congrats on getting your british passport it is a great country:) Dave from <a href="http://hvacbeginners.com">hvac training</a>
-  - author: "java software development"
-    date: "2009-10-07T10:59:15"
-    text: "Congratulations!"
-  - author: "Mustafa Can"
-    date: "2009-10-24T07:08:04"
-    text: "Congratulations! Thatâ€™s great news.  Having that British passport should come in handy.  Iâ€™ve known plenty of people whoâ€™ve had to wrangle back and forth with the consulate for years to get one."
-  - author: "Hawaii Wedding Package"
-    date: "2009-11-30T05:33:04"
-    text: "Congratulations! Really interesting read. Thanks for sharing this."
-  - author: "myspace profile design"
-    date: "2009-12-12T11:55:38"
-    text: "Congratulations!I would like to thank you for sharing your thoughts."
   - author: "Anna"
     date: "2009-12-30T21:57:18"
     text: |
       I just wanted to say someone left and lang may yer lum reek message on a UK newspaper site, and it immediately got me thinking - exactly what you were thinking, I think. And I'md glad it's meant to be far more innocent than it sounds. Best stick to Happy New Year (in 2010) methinks ...!
-  - author: "ilan ver"
-    date: "2010-04-12T18:18:57"
-    text: "So great writing thank you.."
-  - author: "Wedding online"
-    date: "2010-04-21T11:28:23"
-    text: "Thanks for sharing in this site here."
-  - author: "montreal escorts"
-    date: "2010-05-02T13:38:23"
-    text: |
-      Really acknowledge this post. Itâ€™s harder to array the acceptable from the bad sometimes, but I anticipate youâ€™ve nailed it!
-      <a href="http://www.jaysxlist.com/">montreal escorts</a>
-  - author: "alfred angelo"
-    date: "2010-09-09T03:32:33"
-    text: |
-      Agreed. Iâ€™ve known plenty of people whoâ€™ve had to wrangle back. <a href="http://www.niceweddinggowns.com/">alfred angelo</a>
-  - author: "dress"
-    date: "2010-09-10T02:02:03"
-    text: |
-      Shop prom dresses, formal dresses, prom shoes, 2010 designer prom gowns at PromGirl. Find homecoming, 
-      cocktail dresses, graduation dresses,plus-size formal 
-      <a href="http://www.onedresses.com">Cheap Prom Dresses</a>
-      <a href="http://www.onedresses.com">Homecoming Dresses</a>
-      on best wedding dresses for 2009 and 2010. You can find latest collection of woman's dresses and casual dresses on this site
-  - author: "monique lhuillier"
-    date: "2010-09-13T08:37:59"
-    text: "nice sharing and great points."
-  - author: "maggie sottero"
-    date: "2010-09-13T08:54:32"
-    text: "I anticipate youâ€™ve nailed it."
-  - author: "Pnina Tornai Wedding Dress"
-    date: "2010-09-21T08:27:21"
-    text: |
-      Nice sharing, and great points. Learned many from it. Thanks
-      <a href="http://www.pninatornaiweddingdress.com/">Pnina Tornai Wedding Dress</a>
-  - author: "pictures of eczema"
-    date: "2010-10-04T19:04:57"
-    text: "yes thanks for the very nice article"
-  - author: "irish lottery results"
-    date: "2010-10-23T15:44:13"
-    text: |
-      Amazing post, I especially interested with the part about the pics, thanks.
-      <a href="http://www.irish-lottery-results.net">irish lottery results</a>
   - author: "Georgio"
     date: "2010-11-21T23:57:57"
     text: "I have a friend from Scotland, sure are some nice people."

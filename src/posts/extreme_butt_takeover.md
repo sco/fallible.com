@@ -87,14 +87,6 @@ comments:
     date: "2008-12-15T05:05:35"
     text: |
       Nice product. i haven't come across such item. i like to have a try. where can i purchase it?
-  - author: "Jack"
-    date: "2009-01-10T08:58:14"
-    text: |
-      <a href="http://quickfatburner.net/">i like to have a try.....</a>
-  - author: "Watson"
-    date: "2009-01-24T08:27:00"
-    text: |
-      <a href="http://www.fruitweightloss.com/Free_Trial/">It contains really great information..... </a>
   - author: "Tom"
     date: "2009-02-02T10:06:22"
     text: |

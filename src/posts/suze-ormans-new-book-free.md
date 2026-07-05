@@ -33,10 +33,6 @@ comments:
     date: "2009-02-11T05:13:44"
     text: |
       rcbmlwka http://ruclqona.com hxawfkrc baviecdi
-  - author: "tgvfdtwp"
-    date: "2009-02-11T05:48:37"
-    text: |
-      oewmlpad http://lfnmdiff.com maqxhwgl qerswtag
   - author: "testosterone"
     date: "2009-02-13T06:59:34"
     text: "An idealist is one who, on noticing that a rose smells better than a cabbage, concludes that it will also make better soup."
@@ -70,10 +66,6 @@ comments:
   - author: "gasifier"
     date: "2009-02-15T19:53:01"
     text: "I wrote myself a check for ten million dollars for acting services rendered and dated it Thanksgiving 1995. I put it in my wallet and it deteriorated. And then, just before Thanksgiving 1995, I found out I was going to make ten million dollars for Dumb & Dumber. I put that check in the casket with my father because it was our dream together."
-  - author: "txrrgvvw"
-    date: "2009-02-27T08:09:32"
-    text: |
-      eiwzrnnu http://amsjrofi.com ckfwszbg xylmbyzm
   - author: "dismantling"
     date: "2009-02-27T13:39:46"
     text: "A mind troubled by doubt cannot focus on the course to victory."
@@ -117,9 +109,6 @@ comments:
   - author: "matprixer"
     date: "2009-03-07T14:18:06"
     text: "All movements go too far."
-  - author: "buy soma online"
-    date: "2009-03-09T15:12:15"
-    text: "To repeat what others have said, requires education; to challenge it, requires brains."
   - author: "skippingly"
     date: "2009-03-09T15:14:40"
     text: "The truth is always a compound of two half- truths, and you never reach it, because there is always something more to say."

@@ -30,11 +30,7 @@ comments:
         
       Hope this helps puts things into perspective. Again, I really liked your take on the subject.  
         
-      Dina
-  - author: "Burberry"
-    date: "2012-06-19T10:57:00"
-    text: "I wants to thank you with the endeavors you have produced in publishing this article. I am trusting the same greatest work from you within the future as well. In fact your fanciful writing abilities has inspired me to start my own weblog now. Truly the blogging is spreading its wings rapidly. Your generate up is a fine example of it.Thanks yet again for discussing this cost-free on the web!"
----
+      Dina---
 
 I’ve been a follower of Jesus for a good long time, but I’ve gotta be honest with you: There are some Bible stories that bug the heck out of me.
 

@@ -31,10 +31,6 @@ comments:
     date: "2006-02-19T04:20:43"
     text: |
       I was thinking of your dangling ganglions tonight as I took apart a 6" wide strip of a 5' afghan to redo b/c I am a perfectionist and it just wasn't right.
-  - author: "nqyrwgvr"
-    date: "2008-12-05T17:52:42"
-    text: |
-      lmjnkrby http://vvreviqu.com uhbyyxsl awggpiab
   - author: "zopiclone"
     date: "2008-12-07T18:56:17"
     text: |
