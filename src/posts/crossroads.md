@@ -1,6 +1,6 @@
 ---
 title: "Crossroads?"
-date: "2004-06-28T12:50:00"
+date: "2004-06-28T07:50:00"
 ---
 
 My sister overheard two middle-aged women discussing religion in the old country (which is, in our case, Scotland).  

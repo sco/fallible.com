@@ -1,6 +1,6 @@
 ---
 title: "Old Friends, New Again"
-date: "2003-01-16T15:30:00"
+date: "2003-01-16T09:30:00"
 comments:
   - author: "bethany"
     date: "2003-01-18T22:08:00"

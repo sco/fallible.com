@@ -1,6 +1,6 @@
 ---
 title: "Fluppy Love"
-date: "2004-11-09T14:57:00"
+date: "2004-11-09T08:57:00"
 comments:
   - author: "madi"
     date: "2004-11-10T00:28:00"

@@ -1,6 +1,6 @@
 ---
 title: "Dying Well"
-date: "2004-04-26T14:20:00"
+date: "2004-04-26T09:20:00"
 comments:
   - author: "Sarah"
     date: "2004-04-26T20:38:00"

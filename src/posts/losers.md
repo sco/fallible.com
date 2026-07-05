@@ -1,6 +1,6 @@
 ---
 title: "Losers"
-date: "2003-07-08T00:38:00"
+date: "2003-07-07T19:38:00"
 comments:
   - author: "lisa"
     date: "2003-07-13T00:59:00"

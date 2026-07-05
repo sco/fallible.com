@@ -1,6 +1,6 @@
 ---
 title: "Joyful, Joyful"
-date: "2004-07-19T15:48:00"
+date: "2004-07-19T10:48:00"
 comments:
   - author: "timsamoff"
     date: "2004-07-19T23:41:00"

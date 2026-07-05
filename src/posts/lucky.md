@@ -1,6 +1,6 @@
 ---
 title: "Lucky"
-date: "2003-07-15T15:35:00"
+date: "2003-07-15T10:35:00"
 ---
 
 He has on his tropical print shirt again today, because he knows we'll be stopping by Starbucks.  

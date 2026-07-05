@@ -1,6 +1,6 @@
 ---
 title: "Slow to Leap"
-date: "2004-11-17T14:59:00"
+date: "2004-11-17T08:59:00"
 comments:
   - author: "violet"
     date: "2004-11-17T22:17:00"

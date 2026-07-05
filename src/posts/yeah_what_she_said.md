@@ -1,6 +1,6 @@
 ---
 title: "Yeah, What She Said"
-date: "2004-08-12T13:29:00"
+date: "2004-08-12T08:29:00"
 comments:
   - author: "Catalyst4Christ"
     date: "2004-08-12T21:31:00"

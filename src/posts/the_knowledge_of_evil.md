@@ -1,6 +1,6 @@
 ---
 title: "The Knowledge of Evil"
-date: "2004-06-05T03:08:00"
+date: "2004-06-04T22:08:00"
 ---
 
 You know it's bad when on a Friday night your air conditioner--which has been wheezing spasmodically for a couple of weeks--gasps its last, and service calls cost three times as much on the weekend.  

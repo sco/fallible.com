@@ -1,6 +1,6 @@
 ---
 title: "The Still Me Voice"
-date: "2004-09-10T16:45:00"
+date: "2004-09-10T11:45:00"
 comments:
   - author: "madi"
     date: "2004-09-11T03:20:00"

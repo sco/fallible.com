@@ -1,6 +1,6 @@
 ---
 title: "Wipeout"
-date: "2003-02-10T16:28:00"
+date: "2003-02-10T10:28:00"
 comments:
   - author: "lisa"
     date: "2003-02-12T02:21:00"

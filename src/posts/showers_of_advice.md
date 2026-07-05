@@ -1,6 +1,6 @@
 ---
 title: "Showers of Advice"
-date: "2004-05-20T15:14:00"
+date: "2004-05-20T10:14:00"
 comments:
   - author: "madi"
     date: "2004-05-20T22:44:00"

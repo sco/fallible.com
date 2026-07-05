@@ -1,6 +1,6 @@
 ---
 title: "Small Print"
-date: "2003-10-13T16:55:00"
+date: "2003-10-13T11:55:00"
 comments:
   - author: "Bridget"
     date: "2003-10-13T22:49:00"

@@ -1,6 +1,6 @@
 ---
 title: "Maybe It’s Not Magic, After All"
-date: "2011-01-12T01:24:00"
+date: "2011-01-11T19:24:00"
 comments:
   - author: "Denise"
     date: "2011-01-12T02:08:00"

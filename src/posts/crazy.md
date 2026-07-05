@@ -1,6 +1,6 @@
 ---
 title: "Crazy!"
-date: "2009-08-19T15:36:00"
+date: "2009-08-19T10:36:00"
 comments:
   - author: "Kevin"
     date: "2009-08-19T16:00:00"

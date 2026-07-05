@@ -1,6 +1,6 @@
 ---
 title: "So We’re Even"
-date: "2003-08-11T13:38:00"
+date: "2003-08-11T08:38:00"
 comments:
   - author: "Bridget"
     date: "2003-08-12T18:00:00"

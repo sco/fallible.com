@@ -1,6 +1,6 @@
 ---
 title: "What’s Up With U?"
-date: "2004-06-09T17:24:00"
+date: "2004-06-09T12:24:00"
 comments:
   - author: "Katy"
     date: "2004-06-09T23:37:00"

@@ -1,6 +1,6 @@
 ---
 title: "Novel Idea"
-date: "2003-10-11T18:56:00"
+date: "2003-10-11T13:56:00"
 comments:
   - author: "bethany"
     date: "2003-10-12T01:08:00"

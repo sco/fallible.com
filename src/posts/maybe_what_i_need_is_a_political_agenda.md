@@ -1,6 +1,6 @@
 ---
 title: "Maybe What I Need Is A Political Agenda"
-date: "2004-11-19T16:55:00"
+date: "2004-11-19T10:55:00"
 comments:
   - author: "Cindy"
     date: "2004-11-19T23:40:00"

@@ -1,6 +1,6 @@
 ---
 title: "Underwear Scare"
-date: "2003-01-15T15:17:00"
+date: "2003-01-15T09:17:00"
 comments:
   - author: "lindsey"
     date: "2003-01-15T18:22:00"

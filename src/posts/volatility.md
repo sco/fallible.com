@@ -1,6 +1,6 @@
 ---
 title: "Volatility"
-date: "2004-06-01T18:14:00"
+date: "2004-06-01T13:14:00"
 comments:
   - author: "Katy"
     date: "2004-06-04T05:20:00"

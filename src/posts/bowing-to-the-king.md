@@ -1,6 +1,6 @@
 ---
 title: "Bowing To The King"
-date: "2009-04-10T20:22:00"
+date: "2009-04-10T15:22:00"
 ---
 
 Evidently, American protocol dictates that no president should bow before a king or queen, although a slight bow might be considered a sign of courtesy and respect, especially when offered to a close friend of our country. In order for a bow to be considered deferential, though---a position our leader is not supposed to assume---the top of the president’s head must be lower than the monarch’s chin.

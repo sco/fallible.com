@@ -1,6 +1,6 @@
 ---
 title: "Blow By Blow"
-date: "2004-06-22T22:53:00"
+date: "2004-06-22T17:53:00"
 comments:
   - author: "Kevin"
     date: "2004-06-23T10:19:00"

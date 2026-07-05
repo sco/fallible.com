@@ -1,6 +1,6 @@
 ---
 title: "Lifting Up Cindi"
-date: "2004-11-24T21:13:00"
+date: "2004-11-24T15:13:00"
 comments:
   - author: "rebecca"
     date: "2004-11-25T03:51:00"

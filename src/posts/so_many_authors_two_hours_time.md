@@ -1,6 +1,6 @@
 ---
 title: "So Many Authors, Two Hours Time"
-date: "2005-03-20T20:02:00"
+date: "2005-03-20T14:02:00"
 comments:
   - author: "Michael"
     date: "2005-03-21T16:02:00"

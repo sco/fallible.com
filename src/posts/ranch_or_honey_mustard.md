@@ -1,6 +1,6 @@
 ---
 title: "Ranch Or Honey Mustard?"
-date: "2005-03-12T20:54:00"
+date: "2005-03-12T14:54:00"
 comments:
   - author: "Rebecca"
     date: "2005-03-13T06:42:00"

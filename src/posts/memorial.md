@@ -1,6 +1,6 @@
 ---
 title: "Memorial"
-date: "2003-05-25T20:52:00"
+date: "2003-05-25T15:52:00"
 comments:
   - author: "Bridget"
     date: "2003-05-25T23:21:00"

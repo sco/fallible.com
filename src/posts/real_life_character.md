@@ -1,6 +1,6 @@
 ---
 title: "Real Life Character"
-date: "2005-04-14T19:07:00"
+date: "2005-04-14T14:07:00"
 comments:
   - author: "Blogin"
     date: "2005-04-15T21:54:00"

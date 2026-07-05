@@ -1,6 +1,6 @@
 ---
 title: "Do I Detect A Pattern Emerging?"
-date: "2004-11-18T14:26:00"
+date: "2004-11-18T08:26:00"
 comments:
   - author: "Mary"
     date: "2004-11-19T00:59:00"

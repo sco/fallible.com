@@ -1,6 +1,6 @@
 ---
 title: "Foot in Blog Disease"
-date: "2004-07-12T00:46:00"
+date: "2004-07-11T19:46:00"
 comments:
   - author: "Bridget"
     date: "2004-07-12T19:45:00"

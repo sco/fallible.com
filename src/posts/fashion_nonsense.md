@@ -1,6 +1,6 @@
 ---
 title: "Fashion (Non)Sense"
-date: "2005-01-04T22:44:00"
+date: "2005-01-04T16:44:00"
 comments:
   - author: "Deb"
     date: "2005-01-05T06:06:00"

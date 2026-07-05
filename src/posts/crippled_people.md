@@ -1,6 +1,6 @@
 ---
 title: "Crippled People"
-date: "2005-01-27T14:59:00"
+date: "2005-01-27T08:59:00"
 comments:
   - author: "rebecca"
     date: "2005-01-27T23:26:00"

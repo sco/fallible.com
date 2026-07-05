@@ -1,6 +1,6 @@
 ---
 title: "Every Season Under Heaven"
-date: "2004-08-24T12:38:00"
+date: "2004-08-24T07:38:00"
 comments:
   - author: "lisa"
     date: "2004-08-24T20:24:00"

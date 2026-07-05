@@ -1,6 +1,6 @@
 ---
 title: "If This Is True, I May Be In Luck!"
-date: "2004-09-15T18:06:00"
+date: "2004-09-15T13:06:00"
 comments:
   - author: "bethany"
     date: "2004-09-16T08:04:00"

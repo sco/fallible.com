@@ -1,6 +1,6 @@
 ---
 title: "What A Difference Ten Years Makes"
-date: "2011-08-24T00:27:00"
+date: "2011-08-23T19:27:00"
 comments:
   - author: "elaine"
     date: "2011-08-24T13:26:00"

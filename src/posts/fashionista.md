@@ -1,6 +1,6 @@
 ---
 title: "Fashionista"
-date: "2004-05-21T16:32:00"
+date: "2004-05-21T11:32:00"
 comments:
   - author: "Amber"
     date: "2004-05-25T21:40:00"

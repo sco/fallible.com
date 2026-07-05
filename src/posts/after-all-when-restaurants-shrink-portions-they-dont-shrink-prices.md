@@ -1,6 +1,6 @@
 ---
 title: "After all, when restaurants shrink portions, they don’t shrink prices."
-date: "2012-05-31T13:33:00"
+date: "2012-05-31T08:33:00"
 comments:
   - author: "feng"
     date: "2012-06-02T01:05:00"

@@ -1,6 +1,6 @@
 ---
 title: "Role Models?"
-date: "2003-04-24T18:26:00"
+date: "2003-04-24T13:26:00"
 comments:
   - author: "Kari"
     date: "2003-04-24T21:02:00"

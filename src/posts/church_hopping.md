@@ -1,6 +1,6 @@
 ---
 title: "Church Hopping"
-date: "2003-04-18T19:33:00"
+date: "2003-04-18T14:33:00"
 comments:
   - author: "Linnor"
     date: "2003-04-19T01:13:00"

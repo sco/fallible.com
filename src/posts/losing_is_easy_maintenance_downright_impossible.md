@@ -1,6 +1,6 @@
 ---
 title: "Losing Is Easy, Maintenance Downright Impossible"
-date: "2005-03-17T20:17:00"
+date: "2005-03-17T14:17:00"
 comments:
   - author: "edieraye"
     date: "2005-03-18T04:57:00"

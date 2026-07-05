@@ -1,6 +1,6 @@
 ---
 title: "The Lifetime of An Opportunity"
-date: "2004-12-02T21:36:00"
+date: "2004-12-02T15:36:00"
 comments:
   - author: "timsamoff"
     date: "2004-12-07T00:31:00"

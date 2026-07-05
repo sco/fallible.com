@@ -1,6 +1,6 @@
 ---
 title: "Good Start"
-date: "2004-11-10T13:15:00"
+date: "2004-11-10T07:15:00"
 comments:
   - author: "will"
     date: "2004-11-10T19:54:00"

@@ -1,6 +1,6 @@
 ---
 title: "Somebody Stop Me!"
-date: "2004-10-01T23:45:00"
+date: "2004-10-01T18:45:00"
 comments:
   - author: "joshua"
     date: "2004-10-02T12:00:00"

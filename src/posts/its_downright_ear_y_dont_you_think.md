@@ -1,6 +1,6 @@
 ---
 title: "It’s Downright Ear-y, Don’t You Think?"
-date: "2005-01-12T03:17:00"
+date: "2005-01-11T21:17:00"
 comments:
   - author: "timsamoff"
     date: "2005-01-12T23:45:00"

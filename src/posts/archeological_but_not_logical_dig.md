@@ -1,6 +1,6 @@
 ---
 title: "Archeological--But Not Logical--Dig"
-date: "2004-02-26T21:15:00"
+date: "2004-02-26T15:15:00"
 comments:
   - author: "Carrie"
     date: "2004-02-27T05:56:00"

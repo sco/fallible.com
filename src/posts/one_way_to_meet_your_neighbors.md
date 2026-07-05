@@ -1,6 +1,6 @@
 ---
 title: "One Way to Meet Your Neighbors"
-date: "2003-05-05T00:17:00"
+date: "2003-05-04T19:17:00"
 comments:
   - author: "lisa"
     date: "2003-05-06T00:45:00"

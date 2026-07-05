@@ -1,6 +1,6 @@
 ---
 title: "Against the Rain"
-date: "2004-07-29T20:15:00"
+date: "2004-07-29T15:15:00"
 ---
 
 If I'm sitting in one spot and the dark storm clouds are moving fast, alternating with spots of blue sky and bright sun, I'm miserable. The rapidly shifting barometric pressure in my head is so unbearable that I'm often reduced to a pill-popping, praying, trembling specimen of womankind.  

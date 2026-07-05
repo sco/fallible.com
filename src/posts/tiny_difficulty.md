@@ -1,6 +1,6 @@
 ---
 title: "Tiny Difficulty"
-date: "2003-04-29T13:46:00"
+date: "2003-04-29T08:46:00"
 comments:
   - author: "katy"
     date: "2003-04-29T17:50:00"

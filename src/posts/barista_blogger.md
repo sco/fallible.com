@@ -1,6 +1,6 @@
 ---
 title: "Barista Blogger"
-date: "2002-12-05T15:52:00"
+date: "2002-12-05T09:52:00"
 comments:
   - author: "bethany"
     date: "2002-12-05T22:41:00"

@@ -1,6 +1,6 @@
 ---
 title: "And You Think To Yourself"
-date: "2011-03-28T18:59:00"
+date: "2011-03-28T13:59:00"
 comments:
   - author: "Connie"
     date: "2011-03-28T21:10:00"

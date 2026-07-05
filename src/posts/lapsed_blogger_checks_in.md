@@ -1,6 +1,6 @@
 ---
 title: "Lapsed Blogger Checks In"
-date: "2004-01-02T00:14:00"
+date: "2004-01-01T18:14:00"
 comments:
   - author: "Maria"
     date: "2004-01-02T07:20:00"

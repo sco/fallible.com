@@ -1,6 +1,6 @@
 ---
 title: "That’s Why She Makes The Big Bucks"
-date: "2004-02-01T18:41:00"
+date: "2004-02-01T12:41:00"
 comments:
   - author: "timsamoff"
     date: "2004-02-02T19:41:00"

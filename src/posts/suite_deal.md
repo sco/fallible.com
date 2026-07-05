@@ -1,6 +1,6 @@
 ---
 title: "Suite Deal"
-date: "2004-11-18T14:29:00"
+date: "2004-11-18T08:29:00"
 comments:
   - author: "joshua"
     date: "2004-11-19T00:03:00"

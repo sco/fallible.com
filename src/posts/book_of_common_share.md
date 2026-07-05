@@ -1,6 +1,6 @@
 ---
 title: "Book of Common Share?"
-date: "2004-01-26T18:02:00"
+date: "2004-01-26T12:02:00"
 comments:
   - author: "timsamoff"
     date: "2004-01-28T20:48:00"

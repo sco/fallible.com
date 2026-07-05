@@ -1,6 +1,6 @@
 ---
 title: "Just Thought I’d Ask"
-date: "2004-10-24T01:42:00"
+date: "2004-10-23T20:42:00"
 comments:
   - author: "will"
     date: "2004-10-24T09:56:00"

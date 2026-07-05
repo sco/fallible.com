@@ -1,6 +1,6 @@
 ---
 title: "So Many Books, So Little Time..."
-date: "2004-11-06T00:11:00"
+date: "2004-11-05T18:11:00"
 comments:
   - author: "Kevin"
     date: "2004-11-06T11:21:00"

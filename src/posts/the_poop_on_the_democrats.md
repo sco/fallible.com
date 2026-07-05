@@ -1,6 +1,6 @@
 ---
 title: "The Poop on the Democrats"
-date: "2004-07-16T01:39:00"
+date: "2004-07-15T20:39:00"
 comments:
   - author: "Michael"
     date: "2004-07-16T20:39:00"

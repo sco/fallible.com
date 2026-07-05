@@ -1,6 +1,6 @@
 ---
 title: "Life With Mama"
-date: "2004-05-27T18:22:00"
+date: "2004-05-27T13:22:00"
 comments:
   - author: "Bridget"
     date: "2004-05-30T23:15:00"

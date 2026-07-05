@@ -1,6 +1,6 @@
 ---
 title: "Vote Early, Vote Often?"
-date: "2004-11-02T14:29:00"
+date: "2004-11-02T08:29:00"
 comments:
   - author: "timsamoff"
     date: "2004-11-02T20:53:00"

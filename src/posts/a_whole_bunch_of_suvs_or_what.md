@@ -1,6 +1,6 @@
 ---
 title: "A Whole Bunch of SUVs, or What?"
-date: "2004-11-03T21:52:00"
+date: "2004-11-03T15:52:00"
 comments:
   - author: "violet"
     date: "2004-11-04T06:22:00"

@@ -1,6 +1,6 @@
 ---
 title: "Becoming Brenda Starr"
-date: "2012-10-29T12:47:00"
+date: "2012-10-29T07:47:00"
 ---
 
 Brenda Starr and I go way back. I knew just enough about her by December, 1961, to know I wanted to be her when I grew up. I wanted the career in writing, the fabulous clothes, the glamorous bedroom, the amazing long, red, flowing hair, and the cleavage.

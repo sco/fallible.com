@@ -1,6 +1,6 @@
 ---
 title: "Believers"
-date: "2004-02-10T02:42:00"
+date: "2004-02-09T20:42:00"
 comments:
   - author: "Chip"
     date: "2004-02-15T04:37:00"

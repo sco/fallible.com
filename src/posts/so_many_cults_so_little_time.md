@@ -1,6 +1,6 @@
 ---
 title: "So Many Cults, So Little Time"
-date: "2005-02-01T20:44:00"
+date: "2005-02-01T14:44:00"
 comments:
   - author: "Bethany"
     date: "2005-02-02T04:01:00"

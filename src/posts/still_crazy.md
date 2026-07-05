@@ -1,6 +1,6 @@
 ---
 title: "Still Crazy"
-date: "2003-02-20T03:13:00"
+date: "2003-02-19T21:13:00"
 comments:
   - author: "Bridget"
     date: "2003-02-20T19:07:00"

@@ -1,6 +1,6 @@
 ---
 title: "I’m So Excited I Can Hardly Stand Myself!"
-date: "2005-02-25T13:35:00"
+date: "2005-02-25T07:35:00"
 comments:
   - author: "Michael"
     date: "2005-02-25T21:35:00"

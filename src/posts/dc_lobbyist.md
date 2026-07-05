@@ -1,6 +1,6 @@
 ---
 title: "DC Lobbyist"
-date: "2004-11-18T21:33:00"
+date: "2004-11-18T15:33:00"
 comments:
   - author: "anonymous"
     date: "2004-11-19T06:19:00"

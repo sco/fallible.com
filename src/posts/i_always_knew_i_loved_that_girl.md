@@ -1,6 +1,6 @@
 ---
 title: "I Always Knew I Loved That Girl!"
-date: "2004-10-19T14:36:00"
+date: "2004-10-19T09:36:00"
 comments:
   - author: "Michael"
     date: "2004-10-19T22:11:00"

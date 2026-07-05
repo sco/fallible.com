@@ -1,6 +1,6 @@
 ---
 title: "Time"
-date: "2004-04-03T02:12:00"
+date: "2004-04-02T20:12:00"
 comments:
   - author: "timsamoff"
     date: "2004-04-05T20:31:00"

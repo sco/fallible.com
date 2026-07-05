@@ -1,6 +1,6 @@
 ---
 title: "Starting Over"
-date: "2005-01-27T13:20:00"
+date: "2005-01-27T07:20:00"
 ---
 
 "Hi, babe..." he mumbles.  

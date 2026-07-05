@@ -1,6 +1,6 @@
 ---
 title: "Why Doug and Katy Should Never Skip Church"
-date: "2004-09-05T18:44:00"
+date: "2004-09-05T13:44:00"
 comments:
   - author: "will"
     date: "2004-09-06T04:25:00"

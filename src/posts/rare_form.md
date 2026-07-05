@@ -1,6 +1,6 @@
 ---
 title: "Rare Form"
-date: "2004-11-10T14:26:00"
+date: "2004-11-10T08:26:00"
 comments:
   - author: "Adam"
     date: "2004-11-11T04:19:00"

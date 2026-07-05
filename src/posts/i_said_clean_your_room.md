@@ -1,6 +1,6 @@
 ---
 title: "I Said, Clean Your Room!"
-date: "2003-10-15T13:21:00"
+date: "2003-10-15T08:21:00"
 comments:
   - author: "Michael"
     date: "2003-10-16T00:25:00"

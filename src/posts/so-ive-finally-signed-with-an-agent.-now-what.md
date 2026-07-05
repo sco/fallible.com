@@ -1,6 +1,6 @@
 ---
 title: "So I’ve Finally Signed With An Agent. Now What?"
-date: "2012-08-24T03:00:00"
+date: "2012-08-23T22:00:00"
 comments:
   - author: "Cheryl"
     date: "2012-08-24T04:32:00"

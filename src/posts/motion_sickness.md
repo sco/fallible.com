@@ -1,6 +1,6 @@
 ---
 title: "Motion Sickness"
-date: "2005-02-13T21:25:00"
+date: "2005-02-13T15:25:00"
 comments:
   - author: "Bridget"
     date: "2005-02-14T20:34:00"

@@ -1,6 +1,6 @@
 ---
 title: "Bereft"
-date: "2003-12-03T15:38:00"
+date: "2003-12-03T09:38:00"
 comments:
   - author: "irene"
     date: "2003-12-04T16:28:00"

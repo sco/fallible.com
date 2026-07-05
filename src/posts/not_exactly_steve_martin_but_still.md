@@ -1,6 +1,6 @@
 ---
 title: "Not Exactly Steve Martin, But Still..."
-date: "2005-01-25T15:06:00"
+date: "2005-01-25T09:06:00"
 comments:
   - author: "Michael"
     date: "2005-01-25T23:22:00"

@@ -1,6 +1,6 @@
 ---
 title: "Did I Say That?"
-date: "2004-09-11T23:03:00"
+date: "2004-09-11T18:03:00"
 ---
 
 Doug had a chance to play golf in a church tournament today, and it sounded like too much fun to pass up. I think he felt a little guilty about it, though, because he's been away more than usual recently.  

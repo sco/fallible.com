@@ -1,6 +1,6 @@
 ---
 title: "Soul Train"
-date: "2011-11-11T16:05:00"
+date: "2011-11-11T10:05:00"
 comments:
   - author: "Donna"
     date: "2011-12-03T19:01:00"

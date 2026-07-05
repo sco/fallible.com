@@ -1,6 +1,6 @@
 ---
 title: "Boy to Man"
-date: "2004-05-13T14:23:00"
+date: "2004-05-13T09:23:00"
 ---
 
 I'd closed myself into our walk-in pantry for the unlikely purpose of an in-depth cleaning the likes of which the much-used room had never seen. I must have sounded like the mom in Home Alone--only muffled--when she realizes she's left her son behind, bolts upright in the plane, and screams his name.  

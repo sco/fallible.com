@@ -1,6 +1,6 @@
 ---
 title: "Deaf In One Ear, But Still"
-date: "2004-11-19T17:11:00"
+date: "2004-11-19T11:11:00"
 comments:
   - author: "timsamoff"
     date: "2004-11-20T01:22:00"

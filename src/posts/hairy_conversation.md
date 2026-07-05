@@ -1,6 +1,6 @@
 ---
 title: "Hairy Conversation"
-date: "2003-08-05T12:03:00"
+date: "2003-08-05T07:03:00"
 comments:
   - author: "petes"
     date: "2003-08-05T15:28:00"

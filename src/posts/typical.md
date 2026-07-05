@@ -1,6 +1,6 @@
 ---
 title: "Typical"
-date: "2003-10-13T17:03:00"
+date: "2003-10-13T12:03:00"
 comments:
   - author: "timsamoff"
     date: "2003-10-15T01:53:00"

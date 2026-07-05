@@ -1,6 +1,6 @@
 ---
 title: "Ephemera, Part Two"
-date: "2011-03-30T12:41:00"
+date: "2011-03-30T07:41:00"
 comments:
   - author: "Sue"
     date: "2011-03-30T13:25:00"

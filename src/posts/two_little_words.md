@@ -1,6 +1,6 @@
 ---
 title: "Two Little Words"
-date: "2004-01-08T22:05:00"
+date: "2004-01-08T16:05:00"
 comments:
   - author: "Amber"
     date: "2004-01-09T05:35:00"

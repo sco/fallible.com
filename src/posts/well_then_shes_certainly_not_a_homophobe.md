@@ -1,6 +1,6 @@
 ---
 title: "Well, Then. She’s Certainly Not A Homophobe"
-date: "2005-01-30T17:43:00"
+date: "2005-01-30T11:43:00"
 comments:
   - author: "Michael"
     date: "2005-01-31T03:06:00"

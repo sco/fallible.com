@@ -1,6 +1,6 @@
 ---
 title: "Operation Sticker-Free Car"
-date: "2004-10-14T14:15:00"
+date: "2004-10-14T09:15:00"
 comments:
   - author: "Allegra"
     date: "2004-10-14T20:58:00"

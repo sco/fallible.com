@@ -1,6 +1,6 @@
 ---
 title: "The Next Best Thing To Robert Redford"
-date: "2011-08-18T22:18:00"
+date: "2011-08-18T17:18:00"
 comments:
   - author: "Debra"
     date: "2011-08-18T23:32:00"

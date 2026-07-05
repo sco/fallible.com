@@ -1,6 +1,6 @@
 ---
 title: "Balancing Act"
-date: "2003-04-25T18:57:00"
+date: "2003-04-25T13:57:00"
 comments:
   - author: "katy"
     date: "2003-04-25T21:12:00"

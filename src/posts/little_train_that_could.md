@@ -1,6 +1,6 @@
 ---
 title: "Little Train That Could"
-date: "2003-08-28T23:14:00"
+date: "2003-08-28T18:14:00"
 comments:
   - author: "Carrie"
     date: "2003-08-30T04:32:00"

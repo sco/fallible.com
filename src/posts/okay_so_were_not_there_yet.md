@@ -1,6 +1,6 @@
 ---
 title: "Okay. So We’re Not There Yet."
-date: "2005-01-05T02:02:00"
+date: "2005-01-04T20:02:00"
 comments:
   - author: "timsamoff"
     date: "2005-01-05T21:32:00"

@@ -1,6 +1,6 @@
 ---
 title: "Retiring to Starbucks"
-date: "2004-07-09T18:20:00"
+date: "2004-07-09T13:20:00"
 comments:
   - author: "Bridget"
     date: "2004-07-10T04:43:00"

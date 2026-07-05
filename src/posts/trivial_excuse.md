@@ -1,6 +1,6 @@
 ---
 title: "Trivial Excuse"
-date: "2004-12-05T19:45:00"
+date: "2004-12-05T13:45:00"
 ---
 
 A few posts down (See "On the Edge"), I wrote about "pushing the envelope." Alert reader Tim (Dave Barry's not the only one who has alert readers!) commented about the origins of the phrase.  

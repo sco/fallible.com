@@ -1,6 +1,6 @@
 ---
 title: "Self-Talk"
-date: "2003-12-15T16:40:00"
+date: "2003-12-15T10:40:00"
 comments:
   - author: "Maria"
     date: "2003-12-16T09:01:00"

@@ -1,6 +1,6 @@
 ---
 title: "Time-Zoned Out?"
-date: "2004-10-25T15:06:00"
+date: "2004-10-25T10:06:00"
 comments:
   - author: "Michael"
     date: "2004-10-25T22:47:00"

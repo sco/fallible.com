@@ -1,6 +1,6 @@
 ---
 title: "“Lose Two Hundred Pounds This Weekend!’"
-date: "2004-09-17T16:05:00"
+date: "2004-09-17T11:05:00"
 comments:
   - author: "Anne"
     date: "2004-09-19T05:25:00"

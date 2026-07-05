@@ -1,6 +1,6 @@
 ---
 title: "Shoulders"
-date: "2004-09-16T12:23:00"
+date: "2004-09-16T07:23:00"
 comments:
   - author: "lisa"
     date: "2004-09-17T07:18:00"

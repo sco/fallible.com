@@ -1,6 +1,6 @@
 ---
 title: "Aging In Place, Or Then Again, Maybe Not"
-date: "2011-02-10T17:13:00"
+date: "2011-02-10T11:13:00"
 ---
 
 When we built this house 17 years ago, I was a mere 40 years old. It’s a huge undertaking to custom-build a home, especially when you’re closely involved in every aspect of the job, from drawing up the design and blueprints to choosing the fixtures to poring over paint chips to doing the construction clean-up.

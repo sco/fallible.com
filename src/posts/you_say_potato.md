@@ -1,6 +1,6 @@
 ---
 title: "You Say Potato"
-date: "2004-08-11T23:28:00"
+date: "2004-08-11T18:28:00"
 comments:
   - author: "timsamoff"
     date: "2004-08-12T18:51:00"

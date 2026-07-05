@@ -1,6 +1,6 @@
 ---
 title: "Losing It"
-date: "2009-10-22T12:24:00"
+date: "2009-10-22T07:24:00"
 comments:
   - author: "D'Ann"
     date: "2009-10-24T14:09:00"

@@ -1,6 +1,6 @@
 ---
 title: "Separate Checks"
-date: "2003-02-10T21:16:00"
+date: "2003-02-10T15:16:00"
 comments:
   - author: "Maria"
     date: "2003-02-11T01:58:00"

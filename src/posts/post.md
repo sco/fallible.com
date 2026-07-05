@@ -1,6 +1,6 @@
 ---
 title: "Post!"
-date: "2003-09-25T13:26:00"
+date: "2003-09-25T08:26:00"
 comments:
   - author: "Brandy"
     date: "2003-09-25T14:20:00"

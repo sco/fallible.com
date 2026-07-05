@@ -1,6 +1,6 @@
 ---
 title: "Woof"
-date: "2003-06-09T14:34:00"
+date: "2003-06-09T09:34:00"
 comments:
   - author: "dog"
     date: "2010-12-16T03:25:00"

@@ -1,6 +1,6 @@
 ---
 title: "I Can’t Take It Anymore!"
-date: "2005-01-20T19:19:00"
+date: "2005-01-20T13:19:00"
 comments:
   - author: "relevantgirl"
     date: "2005-01-21T02:01:00"

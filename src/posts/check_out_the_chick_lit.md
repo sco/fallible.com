@@ -1,6 +1,6 @@
 ---
 title: "Check Out The Chick-Lit!"
-date: "2005-03-22T16:03:00"
+date: "2005-03-22T10:03:00"
 ---
 
 I belong to this really great writers group called [American Christian Fiction Writers](http://www.americanchristianfictionwriters.com). We have an email loop that is always entertaining, encouraging, and educational. Not all of us have had our fiction published yet, but the published authors among us are so generous with their time and input.  

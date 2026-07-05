@@ -1,6 +1,6 @@
 ---
 title: "Terms Of Endearment"
-date: "2005-03-04T13:43:00"
+date: "2005-03-04T07:43:00"
 comments:
   - author: "Lori"
     date: "2005-03-04T20:51:00"

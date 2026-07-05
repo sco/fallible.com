@@ -1,6 +1,6 @@
 ---
 title: "Firming Up My Lack of Resolve"
-date: "2004-12-30T15:55:00"
+date: "2004-12-30T09:55:00"
 comments:
   - author: "Anne"
     date: "2004-12-31T04:45:00"

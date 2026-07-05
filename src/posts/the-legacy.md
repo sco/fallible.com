@@ -1,6 +1,6 @@
 ---
 title: "The Legacy"
-date: "2011-01-28T19:55:00"
+date: "2011-01-28T13:55:00"
 comments:
   - author: "Sharen"
     date: "2011-01-28T20:40:00"

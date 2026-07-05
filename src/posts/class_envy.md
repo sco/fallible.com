@@ -1,6 +1,6 @@
 ---
 title: "Class Envy"
-date: "2004-10-09T13:21:00"
+date: "2004-10-09T08:21:00"
 comments:
   - author: "katy"
     date: "2004-10-10T01:14:00"

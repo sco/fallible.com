@@ -1,6 +1,6 @@
 ---
 title: "Getting A Clue"
-date: "2005-03-23T17:03:00"
+date: "2005-03-23T11:03:00"
 comments:
   - author: "Carrie"
     date: "2005-03-24T00:05:00"

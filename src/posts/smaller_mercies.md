@@ -1,6 +1,6 @@
 ---
 title: "Smaller Mercies"
-date: "2004-09-13T20:34:00"
+date: "2004-09-13T15:34:00"
 comments:
   - author: "Bridget"
     date: "2004-09-14T05:41:00"

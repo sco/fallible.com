@@ -1,6 +1,6 @@
 ---
 title: "Distinctions"
-date: "2004-11-18T18:32:00"
+date: "2004-11-18T12:32:00"
 comments:
   - author: "bethany"
     date: "2004-11-20T23:55:00"

@@ -1,6 +1,6 @@
 ---
 title: "The Widow’s Right"
-date: "2003-08-28T19:39:00"
+date: "2003-08-28T14:39:00"
 comments:
   - author: "April"
     date: "2003-08-29T04:45:00"

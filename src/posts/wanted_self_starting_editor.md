@@ -1,6 +1,6 @@
 ---
 title: "Wanted: Self-Starting Editor"
-date: "2003-05-09T12:28:00"
+date: "2003-05-09T07:28:00"
 comments:
   - author: "bethany"
     date: "2003-05-09T21:15:00"

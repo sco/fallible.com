@@ -1,6 +1,6 @@
 ---
 title: "The B’s Don’t Have It"
-date: "2002-12-21T15:51:00"
+date: "2002-12-21T09:51:00"
 comments:
   - author: "bethany"
     date: "2002-12-22T05:21:00"

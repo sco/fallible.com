@@ -1,6 +1,6 @@
 ---
 title: "Caption Captive"
-date: "2003-01-29T13:23:00"
+date: "2003-01-29T07:23:00"
 comments:
   - author: "lisa"
     date: "2003-01-29T14:31:00"

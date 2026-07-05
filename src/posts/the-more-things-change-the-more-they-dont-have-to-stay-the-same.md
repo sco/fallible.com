@@ -1,6 +1,6 @@
 ---
 title: "The More Things Change, The More They Don’t Have To Stay The Same"
-date: "2011-02-10T18:37:00"
+date: "2011-02-10T12:37:00"
 comments:
   - author: "joshua"
     date: "2011-02-15T03:09:00"

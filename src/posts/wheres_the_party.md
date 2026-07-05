@@ -1,6 +1,6 @@
 ---
 title: "Where’s the Party?"
-date: "2004-07-30T01:43:00"
+date: "2004-07-29T20:43:00"
 ---
 
 John Kerry's daughters, Alexandra and Vanessa, have just finished introducing their father to the Democratic conventioneers and Doug has disappeared from the room.  

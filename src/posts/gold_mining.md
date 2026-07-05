@@ -1,6 +1,6 @@
 ---
 title: "Gold Mining"
-date: "2002-12-06T20:16:00"
+date: "2002-12-06T14:16:00"
 comments:
   - author: "bethany"
     date: "2002-12-07T08:47:00"

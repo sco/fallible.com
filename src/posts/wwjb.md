@@ -1,6 +1,6 @@
 ---
 title: "WWJB"
-date: "2005-01-14T15:31:00"
+date: "2005-01-14T09:31:00"
 comments:
   - author: "Michael"
     date: "2005-01-15T00:23:00"

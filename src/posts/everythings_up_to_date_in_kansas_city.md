@@ -1,6 +1,6 @@
 ---
 title: "Everything’s Up To Date In Kansas City?"
-date: "2005-02-03T16:17:00"
+date: "2005-02-03T10:17:00"
 comments:
   - author: "Michael"
     date: "2005-02-03T23:23:00"

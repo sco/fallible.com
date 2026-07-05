@@ -1,6 +1,6 @@
 ---
 title: "Tell It to Oprah"
-date: "2004-08-17T13:38:00"
+date: "2004-08-17T08:38:00"
 comments:
   - author: "Mary"
     date: "2004-08-30T04:00:00"

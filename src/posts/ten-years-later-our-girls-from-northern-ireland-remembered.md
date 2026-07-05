@@ -1,6 +1,6 @@
 ---
 title: "Ten Years Later, Our Girls From Northern Ireland Remembered"
-date: "2011-07-13T20:31:00"
+date: "2011-07-13T15:31:00"
 comments:
   - author: "Anne"
     date: "2011-07-13T21:46:00"

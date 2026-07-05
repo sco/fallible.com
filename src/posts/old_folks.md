@@ -1,6 +1,6 @@
 ---
 title: "Old Folks"
-date: "2003-06-09T15:01:00"
+date: "2003-06-09T10:01:00"
 ---
 
 Doug and I were almost to the end of the cereal aisle when a mother rounded the corner with her full cart, her young daughter following her.  

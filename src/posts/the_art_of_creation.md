@@ -1,6 +1,6 @@
 ---
 title: "The Art of Creation"
-date: "2004-12-02T13:03:00"
+date: "2004-12-02T07:03:00"
 comments:
   - author: "Michael"
     date: "2004-12-03T01:50:00"

@@ -1,6 +1,6 @@
 ---
 title: "Things That Go Bump In The Light"
-date: "2004-03-05T14:03:00"
+date: "2004-03-05T08:03:00"
 comments:
   - author: "timsamoff"
     date: "2004-03-06T01:00:00"

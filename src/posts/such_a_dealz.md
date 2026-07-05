@@ -1,6 +1,6 @@
 ---
 title: "Such A Dealz!"
-date: "2004-12-20T17:56:00"
+date: "2004-12-20T11:56:00"
 comments:
   - author: "Anne"
     date: "2004-12-22T10:04:00"

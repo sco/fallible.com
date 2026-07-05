@@ -1,6 +1,6 @@
 ---
 title: "My Life With A Celebrity Blogger, Take One"
-date: "2005-02-25T20:45:00"
+date: "2005-02-25T14:45:00"
 comments:
   - author: "Doug"
     date: "2005-02-26T03:24:00"

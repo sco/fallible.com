@@ -1,6 +1,6 @@
 ---
 title: "Certifiable"
-date: "2003-10-01T14:21:00"
+date: "2003-10-01T09:21:00"
 comments:
   - author: "lisa"
     date: "2003-10-01T14:25:00"

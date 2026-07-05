@@ -1,6 +1,6 @@
 ---
 title: "Marginal Comments On A Fallible Wife"
-date: "2005-02-21T23:41:00"
+date: "2005-02-21T17:41:00"
 comments:
   - author: "Michael"
     date: "2005-02-22T16:44:00"

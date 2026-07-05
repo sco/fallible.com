@@ -1,6 +1,6 @@
 ---
 title: "Mental Chillness?"
-date: "2003-05-01T13:23:00"
+date: "2003-05-01T08:23:00"
 comments:
   - author: "kari"
     date: "2003-05-01T18:37:00"

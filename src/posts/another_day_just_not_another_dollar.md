@@ -1,6 +1,6 @@
 ---
 title: "Another Day, Just Not Another Dollar"
-date: "2005-02-23T16:01:00"
+date: "2005-02-23T10:01:00"
 comments:
   - author: "Carrie"
     date: "2005-02-24T00:49:00"

@@ -1,6 +1,6 @@
 ---
 title: "Spring Has Sprung!"
-date: "2009-03-20T13:18:00"
+date: "2009-03-20T08:18:00"
 comments:
   - author: "Sandi"
     date: "2009-03-20T13:34:00"

@@ -1,6 +1,6 @@
 ---
 title: "Trading Spaces"
-date: "2003-11-04T17:05:00"
+date: "2003-11-04T11:05:00"
 comments:
   - author: "Bridget"
     date: "2003-11-04T19:02:00"

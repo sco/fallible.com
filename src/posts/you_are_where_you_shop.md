@@ -1,6 +1,6 @@
 ---
 title: "You Are Where You Shop"
-date: "2003-04-15T19:52:00"
+date: "2003-04-15T14:52:00"
 comments:
   - author: "katy"
     date: "2003-04-16T01:18:00"

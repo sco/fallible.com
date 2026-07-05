@@ -1,6 +1,6 @@
 ---
 title: "A Remote Impossibility"
-date: "2005-04-11T21:52:00"
+date: "2005-04-11T16:52:00"
 comments:
   - author: "Cindy"
     date: "2005-04-12T21:57:00"

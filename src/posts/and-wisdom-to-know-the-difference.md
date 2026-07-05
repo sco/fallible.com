@@ -1,6 +1,6 @@
 ---
 title: "And Wisdom To Know The Difference"
-date: "2011-03-16T11:35:00"
+date: "2011-03-16T06:35:00"
 comments:
   - author: "Keli"
     date: "2011-03-16T13:48:00"

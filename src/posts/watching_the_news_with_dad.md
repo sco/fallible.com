@@ -1,6 +1,6 @@
 ---
 title: "Watching the News With Dad"
-date: "2003-03-20T15:46:00"
+date: "2003-03-20T09:46:00"
 comments:
   - author: "Bridget"
     date: "2003-03-25T01:09:00"

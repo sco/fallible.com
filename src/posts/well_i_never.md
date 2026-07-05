@@ -1,6 +1,6 @@
 ---
 title: "Well, I Never!"
-date: "2004-12-05T00:42:00"
+date: "2004-12-04T18:42:00"
 comments:
   - author: "timsamoff"
     date: "2004-12-07T00:37:00"

@@ -1,6 +1,6 @@
 ---
 title: "If You Could Take Some Of It With You"
-date: "2004-11-18T15:03:00"
+date: "2004-11-18T09:03:00"
 comments:
   - author: "Lydia"
     date: "2004-11-18T22:05:00"

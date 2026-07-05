@@ -1,6 +1,6 @@
 ---
 title: "Funny Ha-Ha, Or That Other Kind Of Funny?"
-date: "2009-02-09T15:55:00"
+date: "2009-02-09T09:55:00"
 comments:
   - author: "Joshua"
     date: "2009-02-10T01:28:00"

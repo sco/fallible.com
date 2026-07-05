@@ -1,6 +1,6 @@
 ---
 title: "If You Don’t Want To Comment On This Post, I’ll Forgive You. If You Ask Nicely, That Is."
-date: "2005-03-09T21:02:00"
+date: "2005-03-09T15:02:00"
 comments:
   - author: "Carrie"
     date: "2005-03-10T04:17:00"

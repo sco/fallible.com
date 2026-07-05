@@ -1,6 +1,6 @@
 ---
 title: "The Straight and Narrow Blog"
-date: "2004-08-11T15:45:00"
+date: "2004-08-11T10:45:00"
 comments:
   - author: "will"
     date: "2004-08-12T00:37:00"

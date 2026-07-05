@@ -1,6 +1,6 @@
 ---
 title: "I Know Why the Caged Bird Sings"
-date: "2004-06-08T22:46:00"
+date: "2004-06-08T17:46:00"
 comments:
   - author: "Tim"
     date: "2004-06-09T05:28:00"

@@ -1,6 +1,6 @@
 ---
 title: "Yeah. I Am A Sentimental Sap, And You Might As Well Know It Right Up Front"
-date: "2005-04-11T19:43:00"
+date: "2005-04-11T14:43:00"
 comments:
   - author: "Blogin"
     date: "2005-04-12T03:39:00"

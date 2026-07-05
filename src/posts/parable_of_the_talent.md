@@ -1,6 +1,6 @@
 ---
 title: "Parable of the Talent"
-date: "2003-05-06T14:43:00"
+date: "2003-05-06T09:43:00"
 comments:
   - author: "katy"
     date: "2003-05-06T14:58:00"

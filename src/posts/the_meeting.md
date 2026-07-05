@@ -1,6 +1,6 @@
 ---
 title: "The Meeting"
-date: "2003-05-14T13:58:00"
+date: "2003-05-14T08:58:00"
 comments:
   - author: "lisa"
     date: "2003-05-15T02:16:00"

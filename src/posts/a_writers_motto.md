@@ -1,6 +1,6 @@
 ---
 title: "A Writer’s Motto"
-date: "2004-09-01T19:29:00"
+date: "2004-09-01T14:29:00"
 comments:
   - author: "Anne"
     date: "2004-09-04T11:29:00"

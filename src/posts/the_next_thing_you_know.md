@@ -1,6 +1,6 @@
 ---
 title: "The Next Thing You Know"
-date: "2003-08-06T18:16:00"
+date: "2003-08-06T13:16:00"
 comments:
   - author: "Maria"
     date: "2003-08-07T01:41:00"

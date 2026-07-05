@@ -1,6 +1,6 @@
 ---
 title: "The Thrift of Grief"
-date: "2011-07-08T21:39:00"
+date: "2011-07-08T16:39:00"
 comments:
   - author: "Terri"
     date: "2011-07-09T02:53:00"

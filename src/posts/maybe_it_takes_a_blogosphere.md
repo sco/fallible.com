@@ -1,6 +1,6 @@
 ---
 title: "Maybe It Takes A Blogosphere..."
-date: "2005-01-11T15:52:00"
+date: "2005-01-11T09:52:00"
 comments:
   - author: "Kevin"
     date: "2005-01-13T23:16:00"

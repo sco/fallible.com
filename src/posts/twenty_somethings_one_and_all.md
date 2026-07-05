@@ -1,6 +1,6 @@
 ---
 title: "Twenty-Somethings, One And All"
-date: "2005-01-10T02:11:00"
+date: "2005-01-09T20:11:00"
 comments:
   - author: "Kevin"
     date: "2005-01-10T09:39:00"

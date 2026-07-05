@@ -1,6 +1,6 @@
 ---
 title: "So What’s Up With The Tennis Balls?"
-date: "2005-02-24T21:16:00"
+date: "2005-02-24T15:16:00"
 comments:
   - author: "Bridget"
     date: "2005-02-25T05:05:00"

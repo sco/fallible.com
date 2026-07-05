@@ -1,6 +1,6 @@
 ---
 title: "Silent Hour, Holy Hour"
-date: "2011-01-24T19:49:00"
+date: "2011-01-24T13:49:00"
 comments:
   - author: "Anne"
     date: "2011-01-25T01:50:00"

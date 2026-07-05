@@ -1,6 +1,6 @@
 ---
 title: "From A Lullaby To Goodbye...."
-date: "2011-02-21T17:56:00"
+date: "2011-02-21T11:56:00"
 ---
 
 [![From A Lullaby To Goodbye](/images/uploads/from-a-lullaby-to-goodbye.jpg)](http://www.lullabytogoodbye.com/)I don’t remember how I first came to follow Patti McKenna on Twitter. Maybe her name attracted me because, well, I’m always up to meet a McKenna.

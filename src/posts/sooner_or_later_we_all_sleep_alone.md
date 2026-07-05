@@ -1,6 +1,6 @@
 ---
 title: "Sooner or Later, We All Sleep Alone..."
-date: "2004-11-08T15:39:00"
+date: "2004-11-08T09:39:00"
 comments:
   - author: "Carrie"
     date: "2004-11-08T22:32:00"

@@ -1,6 +1,6 @@
 ---
 title: "How Many Quarters Can I Stuff In A Phone Booth?"
-date: "2004-12-29T13:30:00"
+date: "2004-12-29T07:30:00"
 comments:
   - author: "Sarah"
     date: "2004-12-29T20:59:00"

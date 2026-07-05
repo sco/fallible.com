@@ -1,6 +1,6 @@
 ---
 title: "Word Order"
-date: "2003-12-02T13:24:00"
+date: "2003-12-02T07:24:00"
 ---
 
 Novelist T.C. Boyle says this about writing:  

@@ -1,6 +1,6 @@
 ---
 title: "Difficult Rebirth"
-date: "2003-01-03T14:34:00"
+date: "2003-01-03T08:34:00"
 comments:
   - author: "Ivy"
     date: "2003-01-03T16:02:00"

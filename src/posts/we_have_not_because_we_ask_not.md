@@ -1,6 +1,6 @@
 ---
 title: "We Have Not Because We Ask Not..."
-date: "2004-10-29T01:44:00"
+date: "2004-10-28T20:44:00"
 comments:
   - author: "violet"
     date: "2004-10-29T20:09:00"

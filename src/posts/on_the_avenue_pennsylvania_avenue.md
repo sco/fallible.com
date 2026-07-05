@@ -1,6 +1,6 @@
 ---
 title: "On the Avenue, Pennsylvania Avenue..."
-date: "2004-11-16T00:01:00"
+date: "2004-11-15T18:01:00"
 comments:
   - author: "cro"
     date: "2004-11-16T11:21:00"

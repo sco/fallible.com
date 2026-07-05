@@ -1,6 +1,6 @@
 ---
 title: "Thanks to You"
-date: "2004-11-25T13:28:00"
+date: "2004-11-25T07:28:00"
 comments:
   - author: "Michael"
     date: "2004-11-26T01:25:00"

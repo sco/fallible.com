@@ -1,6 +1,6 @@
 ---
 title: "Between A Rock and A DNR"
-date: "2011-01-04T14:06:00"
+date: "2011-01-04T08:06:00"
 ---
 
 “Make sure you’ve got DNRs in place,’ a friend of mine advised recently. “That way you won’t have to make horrible decisions when the time comes.’

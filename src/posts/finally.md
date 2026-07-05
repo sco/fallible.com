@@ -1,6 +1,6 @@
 ---
 title: "Finally"
-date: "2003-12-08T13:37:00"
+date: "2003-12-08T07:37:00"
 comments:
   - author: "lisa"
     date: "2003-12-09T03:00:00"

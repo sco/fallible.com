@@ -1,6 +1,6 @@
 ---
 title: "What I Know For Sure"
-date: "2004-09-14T15:16:00"
+date: "2004-09-14T10:16:00"
 comments:
   - author: "Kevin"
     date: "2004-09-15T19:09:00"

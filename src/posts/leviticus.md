@@ -1,6 +1,6 @@
 ---
 title: "Leviticus?"
-date: "2004-08-06T23:00:00"
+date: "2004-08-06T18:00:00"
 comments:
   - author: "will"
     date: "2004-08-07T07:32:00"

@@ -1,6 +1,6 @@
 ---
 title: "Celebrate New Friends, Come On!"
-date: "2004-11-15T23:14:00"
+date: "2004-11-15T17:14:00"
 comments:
   - author: "Doug"
     date: "2004-11-16T05:49:00"

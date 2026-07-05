@@ -1,6 +1,6 @@
 ---
 title: "Water Log"
-date: "2003-09-01T01:14:00"
+date: "2003-08-31T20:14:00"
 comments:
   - author: "Carrie"
     date: "2003-09-01T14:16:00"

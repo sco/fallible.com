@@ -1,6 +1,6 @@
 ---
 title: "Nationalize Me, Baby!"
-date: "2009-02-23T14:07:00"
+date: "2009-02-23T08:07:00"
 comments:
   - author: "lisa"
     date: "2009-02-23T15:25:00"

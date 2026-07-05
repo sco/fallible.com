@@ -1,6 +1,6 @@
 ---
 title: "The Benefits of Heritage"
-date: "2004-08-12T19:27:00"
+date: "2004-08-12T14:27:00"
 comments:
   - author: "Anne"
     date: "2004-08-13T07:28:00"

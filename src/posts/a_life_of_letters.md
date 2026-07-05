@@ -1,6 +1,6 @@
 ---
 title: "A Life of Letters"
-date: "2003-10-12T22:20:00"
+date: "2003-10-12T17:20:00"
 comments:
   - author: "petes"
     date: "2003-10-14T21:39:00"

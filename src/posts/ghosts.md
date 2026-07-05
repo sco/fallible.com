@@ -1,6 +1,6 @@
 ---
 title: "Ghosts"
-date: "2003-08-11T12:21:00"
+date: "2003-08-11T07:21:00"
 comments:
   - author: "James"
     date: "2003-08-14T16:20:00"

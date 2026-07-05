@@ -1,6 +1,6 @@
 ---
 title: "Because I’m So Fallible, You Might Win A Free Book!"
-date: "2009-05-14T01:48:00"
+date: "2009-05-13T20:48:00"
 comments:
   - author: "Denise"
     date: "2009-05-14T03:17:00"

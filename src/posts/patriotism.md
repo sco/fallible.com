@@ -1,6 +1,6 @@
 ---
 title: "Patriotism"
-date: "2004-10-08T02:03:00"
+date: "2004-10-07T21:03:00"
 ---
 
 Chances are, unless you've been in the market for a new washing machine in the past six months, that you've never heard of Fisher & Paykel. They're the New Zealand-based manufacturer of machines that are all the rage in Europe and elsewhere--and apparently for good reason.  

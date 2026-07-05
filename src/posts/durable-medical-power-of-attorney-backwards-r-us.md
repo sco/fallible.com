@@ -1,6 +1,6 @@
 ---
 title: "Durable Medical Power Of Attorney Backwards R Us"
-date: "2011-02-09T19:09:00"
+date: "2011-02-09T13:09:00"
 comments:
   - author: "Medical"
     date: "2011-03-25T08:07:00"

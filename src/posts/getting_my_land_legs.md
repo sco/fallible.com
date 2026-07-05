@@ -1,6 +1,6 @@
 ---
 title: "Getting My Land Legs"
-date: "2004-03-22T20:14:00"
+date: "2004-03-22T14:14:00"
 comments:
   - author: "timsamoff"
     date: "2004-03-23T04:26:00"

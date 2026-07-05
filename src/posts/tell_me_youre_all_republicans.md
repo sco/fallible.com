@@ -1,6 +1,6 @@
 ---
 title: "“Tell Me You’re All Republicans’"
-date: "2004-06-06T11:34:00"
+date: "2004-06-06T06:34:00"
 comments:
   - author: "Bridget"
     date: "2004-06-08T05:05:00"

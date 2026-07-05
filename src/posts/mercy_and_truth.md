@@ -1,6 +1,6 @@
 ---
 title: "Mercy and Truth"
-date: "2005-01-28T13:39:00"
+date: "2005-01-28T07:39:00"
 comments:
   - author: "Cindy"
     date: "2005-01-28T20:35:00"

@@ -1,6 +1,6 @@
 ---
 title: "Sounds Suspicious"
-date: "2002-12-04T13:42:00"
+date: "2002-12-04T07:42:00"
 ---
 
 There's a radio show here that's been on the air for what seems like forever, called "Kansas City's Moneyline." It's a call-in show, and the host, an amiable accountant named Peter Newman, uses the tagline, "We're here to take *all* your money questions."  

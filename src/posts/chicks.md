@@ -1,6 +1,6 @@
 ---
 title: "Chicks"
-date: "2003-05-17T23:31:00"
+date: "2003-05-17T18:31:00"
 comments:
   - author: "lisa"
     date: "2003-05-19T00:36:00"

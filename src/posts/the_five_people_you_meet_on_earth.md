@@ -1,6 +1,6 @@
 ---
 title: "The Five People You Meet On Earth"
-date: "2005-03-22T17:07:00"
+date: "2005-03-22T11:07:00"
 comments:
   - author: "timsamoff"
     date: "2005-03-23T00:31:00"

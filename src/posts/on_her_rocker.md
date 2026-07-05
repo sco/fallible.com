@@ -1,6 +1,6 @@
 ---
 title: "On Her Rocker"
-date: "2003-09-09T19:45:00"
+date: "2003-09-09T14:45:00"
 comments:
   - author: "lisa"
     date: "2003-09-14T03:34:00"

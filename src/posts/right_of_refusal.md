@@ -1,6 +1,6 @@
 ---
 title: "Right of Refusal?"
-date: "2004-11-10T23:58:00"
+date: "2004-11-10T17:58:00"
 comments:
   - author: "violet"
     date: "2004-11-11T22:21:00"

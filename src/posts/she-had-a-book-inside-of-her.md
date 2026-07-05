@@ -1,6 +1,6 @@
 ---
 title: "She Had A Book Inside Of Her"
-date: "2011-01-04T23:07:00"
+date: "2011-01-04T17:07:00"
 comments:
   - author: "Cathy"
     date: "2011-01-05T00:56:00"

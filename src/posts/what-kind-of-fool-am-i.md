@@ -1,6 +1,6 @@
 ---
 title: "What Kind Of Fool Am I?"
-date: "2009-04-06T15:35:00"
+date: "2009-04-06T10:35:00"
 comments:
   - author: "Sandi"
     date: "2009-04-07T14:14:00"

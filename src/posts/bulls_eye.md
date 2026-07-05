@@ -1,6 +1,6 @@
 ---
 title: "Bull’s Eye"
-date: "2003-03-25T14:45:00"
+date: "2003-03-25T08:45:00"
 ---
 
 ![Bread alone](http://www.fallible.com/img/thumbnails/biscuits.jpg)"Is Dad OK?" Carrie asked, concerned.  

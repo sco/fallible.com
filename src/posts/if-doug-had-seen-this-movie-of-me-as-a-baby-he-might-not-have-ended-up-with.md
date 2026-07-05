@@ -1,6 +1,6 @@
 ---
 title: "If Doug Had Seen This Movie Of Me As A Baby, He Might Not Have Ended Up With Chatty Katy"
-date: "2009-07-20T12:38:00"
+date: "2009-07-20T07:38:00"
 comments:
   - author: "Suzan"
     date: "2009-07-20T12:55:00"

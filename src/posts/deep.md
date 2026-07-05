@@ -1,6 +1,6 @@
 ---
 title: "Deep"
-date: "2003-09-20T01:24:00"
+date: "2003-09-19T20:24:00"
 comments:
   - author: "J"
     date: "2003-09-22T00:17:00"

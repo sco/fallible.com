@@ -1,6 +1,6 @@
 ---
 title: "Why I’m Always Glad To Have Written"
-date: "2009-07-07T23:03:00"
+date: "2009-07-07T18:03:00"
 comments:
   - author: "Sandi"
     date: "2009-07-11T23:27:00"

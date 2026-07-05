@@ -1,6 +1,6 @@
 ---
 title: "The Immigrants"
-date: "2003-10-27T22:39:00"
+date: "2003-10-27T16:39:00"
 ---
 
 One side of a conversation overheard in Starbucks on the Plaza, between the boss--an Irishman with a thick brogue who seemed uncomfortable with his position as employer--and the young Hispanic man he was trying to woo back to work:  

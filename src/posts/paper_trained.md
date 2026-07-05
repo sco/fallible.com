@@ -1,6 +1,6 @@
 ---
 title: "Paper Trained"
-date: "2003-06-20T18:29:00"
+date: "2003-06-20T13:29:00"
 ---
 
 The Arts section of the New York Times is a particular joy of mine, one which I indulge in for the cost of an Americano, if a reader leaves the paper behind at Starbucks.  

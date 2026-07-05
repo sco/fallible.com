@@ -1,6 +1,6 @@
 ---
 title: "What Thanksgiving Means to Me"
-date: "2004-11-23T18:28:00"
+date: "2004-11-23T12:28:00"
 comments:
   - author: "violet"
     date: "2004-11-24T02:50:00"

@@ -1,6 +1,6 @@
 ---
 title: "Shred of Integrity"
-date: "2003-01-02T23:28:00"
+date: "2003-01-02T17:28:00"
 ---
 
 By now I've decided that the recurrence of the word "integrity" everywhere I go this week is not just a coincidence. And that maybe--OK, more than maybe--Somebody's trying to tell me something.  

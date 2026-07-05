@@ -1,6 +1,6 @@
 ---
 title: "Just Terrible"
-date: "2005-02-18T19:11:00"
+date: "2005-02-18T13:11:00"
 comments:
   - author: "Jeanne"
     date: "2005-02-20T03:06:00"

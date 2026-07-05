@@ -1,6 +1,6 @@
 ---
 title: "And the Two Shall Become..."
-date: "2004-11-29T19:30:00"
+date: "2004-11-29T13:30:00"
 comments:
   - author: "Carrie"
     date: "2004-11-30T05:02:00"

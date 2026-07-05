@@ -1,6 +1,6 @@
 ---
 title: "Trading Faces"
-date: "2005-03-01T23:55:00"
+date: "2005-03-01T17:55:00"
 comments:
   - author: "T.S."
     date: "2005-03-04T04:16:00"

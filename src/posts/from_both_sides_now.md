@@ -1,6 +1,6 @@
 ---
 title: "From Both Sides Now"
-date: "2003-10-01T22:22:00"
+date: "2003-10-01T17:22:00"
 comments:
   - author: "Carrie"
     date: "2003-10-02T02:25:00"

@@ -1,6 +1,6 @@
 ---
 title: "Gone Fishin’"
-date: "2002-12-04T13:31:00"
+date: "2002-12-04T07:31:00"
 comments:
   - author: "lisa"
     date: "2002-12-04T17:11:00"

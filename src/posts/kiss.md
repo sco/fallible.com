@@ -1,6 +1,6 @@
 ---
 title: "Kiss"
-date: "2003-08-01T12:29:00"
+date: "2003-08-01T07:29:00"
 comments:
   - author: "marilyn"
     date: "2003-08-01T19:06:00"

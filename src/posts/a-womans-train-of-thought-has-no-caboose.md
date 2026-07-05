@@ -1,6 +1,6 @@
 ---
 title: "A Woman’s Train of Thought Has No Caboose"
-date: "2012-06-18T21:47:00"
+date: "2012-06-18T16:47:00"
 attitude: true
 ---
 

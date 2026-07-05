@@ -1,6 +1,6 @@
 ---
 title: "Real Life"
-date: "2003-10-30T20:30:00"
+date: "2003-10-30T14:30:00"
 comments:
   - author: "lisa"
     date: "2003-11-02T01:34:00"

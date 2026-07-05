@@ -1,6 +1,6 @@
 ---
 title: "You, Too, May Have Money Coming To You!"
-date: "2004-10-26T15:54:00"
+date: "2004-10-26T10:54:00"
 comments:
   - author: "lisa"
     date: "2004-10-26T22:59:00"

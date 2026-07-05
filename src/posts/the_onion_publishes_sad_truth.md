@@ -1,6 +1,6 @@
 ---
 title: "The Onion Publishes Sad Truth"
-date: "2003-11-13T13:55:00"
+date: "2003-11-13T07:55:00"
 comments:
   - author: "katy"
     date: "2003-11-13T14:56:00"

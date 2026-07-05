@@ -1,6 +1,6 @@
 ---
 title: "Steep Decline"
-date: "2005-02-05T04:10:00"
+date: "2005-02-04T22:10:00"
 comments:
   - author: "Michael"
     date: "2005-02-05T11:57:00"

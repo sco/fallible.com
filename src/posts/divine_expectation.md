@@ -1,6 +1,6 @@
 ---
 title: "Divine Expectation"
-date: "2004-08-05T13:30:00"
+date: "2004-08-05T08:30:00"
 comments:
   - author: "Patrick"
     date: "2004-08-06T01:02:00"

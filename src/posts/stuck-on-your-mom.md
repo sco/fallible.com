@@ -1,6 +1,6 @@
 ---
 title: "Stuck On Mom"
-date: "2011-07-14T15:22:00"
+date: "2011-07-14T10:22:00"
 ---
 
 At Mom's house, family photographs are prominently displayed in one of three places. The refrigerator is the logical landing spot, but the fridge is now 18 years old, and some of the photos have hung there that long. Once a picture has secured a position on the fridge, it's for life. Even if the subject of the photo is now hanging in the post office, he knows he'll be wanted on the fridge, too.

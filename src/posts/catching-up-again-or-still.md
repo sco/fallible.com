@@ -1,6 +1,6 @@
 ---
 title: "Catching Up Again, Or Still?"
-date: "2009-09-14T12:47:00"
+date: "2009-09-14T07:47:00"
 ---
 
 I’ll tell you what: If things could be any nuttier over here, I don’t know how.

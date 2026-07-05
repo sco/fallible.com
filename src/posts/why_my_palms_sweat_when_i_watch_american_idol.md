@@ -1,6 +1,6 @@
 ---
 title: "Why My Palms Sweat When I Watch American Idol"
-date: "2005-01-19T19:29:00"
+date: "2005-01-19T13:29:00"
 comments:
   - author: "timsamoff"
     date: "2005-01-20T03:48:00"

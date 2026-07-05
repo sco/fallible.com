@@ -1,6 +1,6 @@
 ---
 title: "That Pesky Good Samaritan"
-date: "2011-01-05T16:17:00"
+date: "2011-01-05T10:17:00"
 comments:
   - author: "Alison"
     date: "2011-01-05T17:53:00"

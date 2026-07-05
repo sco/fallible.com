@@ -1,6 +1,6 @@
 ---
 title: "Shared Values"
-date: "2004-09-24T13:34:00"
+date: "2004-09-24T08:34:00"
 comments:
   - author: "timsamoff"
     date: "2004-09-24T20:37:00"

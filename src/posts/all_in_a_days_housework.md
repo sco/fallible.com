@@ -1,6 +1,6 @@
 ---
 title: "All In A Day’s Housework"
-date: "2004-10-16T20:42:00"
+date: "2004-10-16T15:42:00"
 comments:
   - author: "Bridget"
     date: "2004-10-17T03:48:00"

@@ -1,6 +1,6 @@
 ---
 title: "A VERY Frugal January!"
-date: "2010-12-24T23:42:00"
+date: "2010-12-24T17:42:00"
 ---
 
 So, here it is, Christmas Eve, and I'm already making New Month's Resolutions.

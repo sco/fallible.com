@@ -1,6 +1,6 @@
 ---
 title: "Bottom-Line Friendship"
-date: "2005-04-06T21:38:00"
+date: "2005-04-06T16:38:00"
 comments:
   - author: "jane"
     date: "2005-04-07T05:47:00"

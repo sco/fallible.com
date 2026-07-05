@@ -1,6 +1,6 @@
 ---
 title: "Lording It Over"
-date: "2003-09-26T15:01:00"
+date: "2003-09-26T10:01:00"
 comments:
   - author: "April"
     date: "2003-09-26T18:03:00"

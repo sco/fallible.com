@@ -1,6 +1,6 @@
 ---
 title: "Acutely Not That Funny"
-date: "2009-10-16T10:42:00"
+date: "2009-10-16T05:42:00"
 comments:
   - author: "Terri"
     date: "2009-10-17T04:44:00"

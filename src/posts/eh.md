@@ -1,6 +1,6 @@
 ---
 title: "Eh!"
-date: "2004-11-10T02:14:00"
+date: "2004-11-09T20:14:00"
 comments:
   - author: "Steph"
     date: "2004-11-10T12:18:00"

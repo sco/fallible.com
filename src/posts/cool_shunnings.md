@@ -1,6 +1,6 @@
 ---
 title: "Cool Shunnings"
-date: "2004-05-14T17:30:00"
+date: "2004-05-14T12:30:00"
 comments:
   - author: "Carrie"
     date: "2004-05-15T01:32:00"

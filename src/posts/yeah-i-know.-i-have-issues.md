@@ -1,6 +1,6 @@
 ---
 title: "Yeah, I know. I have issues."
-date: "2012-05-26T13:53:00"
+date: "2012-05-26T08:53:00"
 attitude: true
 ---
 

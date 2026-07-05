@@ -1,6 +1,6 @@
 ---
 title: "Weightloss Program Astonishing Success!"
-date: "2004-09-24T15:04:00"
+date: "2004-09-24T10:04:00"
 comments:
   - author: "timsamoff"
     date: "2004-09-24T23:57:00"

@@ -1,6 +1,6 @@
 ---
 title: "Why We Do What We Do"
-date: "2003-07-08T21:08:00"
+date: "2003-07-08T16:08:00"
 comments:
   - author: "Maria"
     date: "2003-07-09T00:33:00"

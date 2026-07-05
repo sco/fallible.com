@@ -1,6 +1,6 @@
 ---
 title: "However much we own, we are all still living on borrowed time"
-date: "2012-06-03T03:35:00"
+date: "2012-06-02T22:35:00"
 attitude: true
 ---
 

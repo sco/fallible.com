@@ -1,6 +1,6 @@
 ---
 title: "Left Behind"
-date: "2010-12-16T13:44:00"
+date: "2010-12-16T07:44:00"
 comments:
   - author: "Tampa"
     date: "2010-12-31T19:26:00"

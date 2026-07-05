@@ -1,6 +1,6 @@
 ---
 title: "Vanity"
-date: "2003-01-31T15:20:00"
+date: "2003-01-31T09:20:00"
 comments:
   - author: "Maria"
     date: "2003-02-02T20:13:00"

@@ -1,6 +1,6 @@
 ---
 title: "I Love You People!"
-date: "2005-03-25T00:46:00"
+date: "2005-03-24T18:46:00"
 comments:
   - author: "Katy"
     date: "2005-03-25T20:31:00"

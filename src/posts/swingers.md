@@ -1,6 +1,6 @@
 ---
 title: "Swingers"
-date: "2003-06-06T20:15:00"
+date: "2003-06-06T15:15:00"
 comments:
   - author: "Bridget"
     date: "2003-06-07T22:00:00"

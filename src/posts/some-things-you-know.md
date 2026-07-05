@@ -1,6 +1,6 @@
 ---
 title: "Some Things, You Know"
-date: "2010-03-23T20:37:00"
+date: "2010-03-23T15:37:00"
 comments:
   - author: "BJ"
     date: "2010-03-24T11:32:00"

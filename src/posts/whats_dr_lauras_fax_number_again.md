@@ -1,6 +1,6 @@
 ---
 title: "What’s Dr. Laura’s Fax Number Again?"
-date: "2004-06-29T23:21:00"
+date: "2004-06-29T18:21:00"
 comments:
   - author: "Jennifer"
     date: "2004-07-01T20:56:00"

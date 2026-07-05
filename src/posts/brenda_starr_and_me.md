@@ -1,6 +1,6 @@
 ---
 title: "Brenda Starr and Me"
-date: "2003-10-31T15:03:00"
+date: "2003-10-31T09:03:00"
 comments:
   - author: "Bridget"
     date: "2003-11-01T15:31:00"

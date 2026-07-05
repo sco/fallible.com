@@ -1,6 +1,6 @@
 ---
 title: "Dusty Jewels"
-date: "2003-01-26T23:24:00"
+date: "2003-01-26T17:24:00"
 comments:
   - author: "sara"
     date: "2003-01-27T03:04:00"

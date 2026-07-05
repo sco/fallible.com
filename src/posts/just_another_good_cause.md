@@ -1,6 +1,6 @@
 ---
 title: "Just Another Good Cause?"
-date: "2004-10-07T14:54:00"
+date: "2004-10-07T09:54:00"
 comments:
   - author: "timsamoff"
     date: "2004-10-07T22:28:00"

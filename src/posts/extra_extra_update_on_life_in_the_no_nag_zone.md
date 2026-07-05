@@ -1,6 +1,6 @@
 ---
 title: "Extra! Extra! Update On Life In The No-Nag Zone"
-date: "2005-01-19T14:56:00"
+date: "2005-01-19T08:56:00"
 comments:
   - author: "violet"
     date: "2005-01-20T09:34:00"

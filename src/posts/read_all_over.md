@@ -1,6 +1,6 @@
 ---
 title: "Read All Over"
-date: "2003-05-17T23:51:00"
+date: "2003-05-17T18:51:00"
 ---
 
 We've been working on my 81-year-old mother-in-law's house, room by room. She lives alone, and the house has gotten the best of her now, with its 33-year accumulation of Reader's Digests, National Geographics, and Price Chopper ads.  

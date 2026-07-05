@@ -1,6 +1,6 @@
 ---
 title: "What A Way to Go!"
-date: "2004-10-15T21:12:00"
+date: "2004-10-15T16:12:00"
 ---
 
 Both of these items are in today's news, raising a basic question about one's philosophy of life, and this is it:  

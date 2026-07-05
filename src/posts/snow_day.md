@@ -1,6 +1,6 @@
 ---
 title: "Snow Day"
-date: "2004-01-26T19:05:00"
+date: "2004-01-26T13:05:00"
 comments:
   - author: "irene"
     date: "2004-01-27T16:44:00"

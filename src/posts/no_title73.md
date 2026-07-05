@@ -1,6 +1,6 @@
 ---
 title: "(No Title)"
-date: "2002-07-23T00:35:00"
+date: "2002-07-22T19:35:00"
 comments:
   - author: "anne"
     date: "1969-12-31T18:00:00"

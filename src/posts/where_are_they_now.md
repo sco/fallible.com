@@ -1,6 +1,6 @@
 ---
 title: "Where Are They Now?"
-date: "2003-04-23T13:09:00"
+date: "2003-04-23T08:09:00"
 ---
 
 ![nun](http://www.fallible.com/img/nun.jpg)Sister Ursula Marie was a trip in 1968, tottering on the brink of senility, if she hadn't stumbled off the edge altogether. She made life at the all girls' academy for young Christian women worth waking up for.  

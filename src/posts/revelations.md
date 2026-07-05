@@ -1,6 +1,6 @@
 ---
 title: "Revelations"
-date: "2003-01-07T19:25:00"
+date: "2003-01-07T13:25:00"
 comments:
   - author: "Bridget"
     date: "2003-01-07T20:11:00"

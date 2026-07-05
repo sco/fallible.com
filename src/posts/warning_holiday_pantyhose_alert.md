@@ -1,6 +1,6 @@
 ---
 title: "Warning! Holiday Pantyhose Alert!"
-date: "2004-12-18T17:31:00"
+date: "2004-12-18T11:31:00"
 comments:
   - author: "Carrie"
     date: "2004-12-19T03:12:00"

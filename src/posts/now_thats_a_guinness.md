@@ -1,6 +1,6 @@
 ---
 title: "Now That’s A Guinness"
-date: "2003-02-25T00:09:00"
+date: "2003-02-24T18:09:00"
 comments:
   - author: "Ellen"
     date: "2003-02-25T08:42:00"

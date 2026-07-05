@@ -1,6 +1,6 @@
 ---
 title: "The Robe"
-date: "2003-05-06T13:32:00"
+date: "2003-05-06T08:32:00"
 comments:
   - author: "Tim"
     date: "2003-05-09T04:41:00"

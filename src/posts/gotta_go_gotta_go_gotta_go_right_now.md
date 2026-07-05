@@ -1,6 +1,6 @@
 ---
 title: "Gotta Go, Gotta Go, Gotta Go Right Now"
-date: "2004-06-13T16:23:00"
+date: "2004-06-13T11:23:00"
 comments:
   - author: "Angus"
     date: "2004-06-14T03:08:00"

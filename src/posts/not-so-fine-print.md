@@ -1,6 +1,6 @@
 ---
 title: "Not-So-Fine Print"
-date: "2009-02-10T16:21:00"
+date: "2009-02-10T10:21:00"
 comments:
   - author: "Natalie"
     date: "2009-02-10T17:23:00"

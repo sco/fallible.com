@@ -1,6 +1,6 @@
 ---
 title: "Seeing Things"
-date: "2011-03-14T13:06:00"
+date: "2011-03-14T08:06:00"
 comments:
   - author: "Adam"
     date: "2011-03-16T02:23:00"

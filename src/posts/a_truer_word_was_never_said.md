@@ -1,6 +1,6 @@
 ---
 title: "A Truer Word Was Never Said"
-date: "2004-06-04T17:13:00"
+date: "2004-06-04T12:13:00"
 comments:
   - author: "Maria"
     date: "2004-06-05T06:53:00"

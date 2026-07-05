@@ -1,6 +1,6 @@
 ---
 title: "The Hearing Earring"
-date: "2003-05-02T13:40:00"
+date: "2003-05-02T08:40:00"
 comments:
   - author: "Just"
     date: "2003-05-02T18:57:00"

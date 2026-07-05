@@ -1,6 +1,6 @@
 ---
 title: "The Stories of Our Lives"
-date: "2005-04-07T14:14:00"
+date: "2005-04-07T09:14:00"
 comments:
   - author: "Crystal"
     date: "2005-04-08T03:44:00"

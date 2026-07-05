@@ -1,6 +1,6 @@
 ---
 title: "What Mom Said"
-date: "2004-02-25T15:07:00"
+date: "2004-02-25T09:07:00"
 comments:
   - author: "Carrie"
     date: "2004-02-25T23:24:00"

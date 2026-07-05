@@ -1,6 +1,6 @@
 ---
 title: "Those Pesky Anglican Ankles!"
-date: "2005-03-05T17:00:00"
+date: "2005-03-05T11:00:00"
 comments:
   - author: "Claudia"
     date: "2005-03-06T04:19:00"

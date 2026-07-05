@@ -1,6 +1,6 @@
 ---
 title: "Our Fallible Wedding"
-date: "2009-02-19T14:48:00"
+date: "2009-02-19T08:48:00"
 comments:
   - author: "Suzan"
     date: "2009-02-19T19:46:00"

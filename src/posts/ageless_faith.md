@@ -1,6 +1,6 @@
 ---
 title: "Ageless Faith"
-date: "2005-03-26T15:40:00"
+date: "2005-03-26T09:40:00"
 comments:
   - author: "Margie"
     date: "2005-04-02T12:45:00"

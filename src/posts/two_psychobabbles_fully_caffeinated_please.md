@@ -1,6 +1,6 @@
 ---
 title: "Two Psychobabbles, Fully Caffeinated Please!"
-date: "2005-04-13T17:13:00"
+date: "2005-04-13T12:13:00"
 comments:
   - author: "Bridget"
     date: "2005-04-13T23:57:00"

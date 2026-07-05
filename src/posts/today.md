@@ -1,6 +1,6 @@
 ---
 title: "Today"
-date: "2003-09-17T13:59:00"
+date: "2003-09-17T08:59:00"
 comments:
   - author: "cro"
     date: "2003-09-17T15:08:00"

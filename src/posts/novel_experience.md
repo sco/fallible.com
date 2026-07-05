@@ -1,6 +1,6 @@
 ---
 title: "Novel Experience"
-date: "2003-03-18T00:24:00"
+date: "2003-03-17T18:24:00"
 comments:
   - author: "lisa"
     date: "2003-03-18T18:26:00"

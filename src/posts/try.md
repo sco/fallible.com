@@ -1,6 +1,6 @@
 ---
 title: "Try"
-date: "2012-11-25T21:28:00"
+date: "2012-11-25T15:28:00"
 comments:
   - author: "Anna"
     date: "2013-02-11T02:24:00"

@@ -1,6 +1,6 @@
 ---
 title: "Small Mercy"
-date: "2003-07-01T14:38:00"
+date: "2003-07-01T09:38:00"
 comments:
   - author: "lisa"
     date: "2003-07-01T19:29:00"

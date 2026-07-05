@@ -1,6 +1,6 @@
 ---
 title: "Words To Die By"
-date: "2005-01-11T17:46:00"
+date: "2005-01-11T11:46:00"
 comments:
   - author: "Michael"
     date: "2005-01-12T03:39:00"

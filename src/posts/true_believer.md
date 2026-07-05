@@ -1,6 +1,6 @@
 ---
 title: "True Believer"
-date: "2003-02-26T19:13:00"
+date: "2003-02-26T13:13:00"
 comments:
   - author: "lisa"
     date: "2003-02-28T14:52:00"

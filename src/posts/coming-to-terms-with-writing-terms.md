@@ -1,5 +1,6 @@
 ---
 title: "Coming To Terms With Writing Terms"
+date: "2009-09-01T00:00:00"
 ---
 
 Today, my husband Doug and I are both writing our takes on some novel-writing terms we learned a lot about at the [American Christian Fiction Writers](http://www.acfw.com/) conference last week. For the most part, we took the same workshops. But we aren’t reading each other’s blog posts until after we hit “submit.’ Any guesses about whether or not we came away from the classes with similar understanding about the essential elements of a novel? Leave your comments here, or over at [Marginal](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html), or both.

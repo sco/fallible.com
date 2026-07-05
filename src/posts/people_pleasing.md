@@ -1,6 +1,6 @@
 ---
 title: "People Pleasing"
-date: "2004-08-30T19:06:00"
+date: "2004-08-30T14:06:00"
 comments:
   - author: "lisa"
     date: "2004-08-31T09:02:00"

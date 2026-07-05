@@ -1,6 +1,6 @@
 ---
 title: "“If I Die Today, There’s Not Enough Make-Up In The World To Make Me Look Good In My Casket.’"
-date: "2005-02-11T21:44:00"
+date: "2005-02-11T15:44:00"
 comments:
   - author: "Michael"
     date: "2005-02-12T06:04:00"

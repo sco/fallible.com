@@ -1,6 +1,6 @@
 ---
 title: "Motivating Mom"
-date: "2004-10-08T14:17:00"
+date: "2004-10-08T09:17:00"
 comments:
   - author: "Deb"
     date: "2004-10-09T01:51:00"

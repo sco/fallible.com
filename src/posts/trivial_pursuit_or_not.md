@@ -1,6 +1,6 @@
 ---
 title: "Trivial Pursuit, Or Not?"
-date: "2003-02-25T16:50:00"
+date: "2003-02-25T10:50:00"
 comments:
   - author: "madi"
     date: "2003-02-25T17:34:00"

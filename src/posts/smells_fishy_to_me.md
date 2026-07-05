@@ -1,6 +1,6 @@
 ---
 title: "Smells Fishy to Me"
-date: "2003-04-08T15:55:00"
+date: "2003-04-08T10:55:00"
 ---
 
 ![](http://www.fallible.com/img/thumbnails/whale.gif)God asked Jonah to do a very simple thing, really.  

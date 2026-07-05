@@ -1,6 +1,6 @@
 ---
 title: "Drawing a State Line in the Sand"
-date: "2003-02-24T20:38:00"
+date: "2003-02-24T14:38:00"
 comments:
   - author: "lisa"
     date: "2003-02-24T21:36:00"

@@ -1,6 +1,6 @@
 ---
 title: "The World-Wide Web, Minus---Apparently---The Kingdom Of Bahrain"
-date: "2009-01-24T15:51:00"
+date: "2009-01-24T09:51:00"
 comments:
   - author: "Becky"
     date: "2009-01-24T17:53:00"

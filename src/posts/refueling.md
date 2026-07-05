@@ -1,6 +1,6 @@
 ---
 title: "Refueling"
-date: "2003-07-15T01:01:00"
+date: "2003-07-14T20:01:00"
 ---
 
 When several cars are a part of your family's personal property, it can be pretty hard to remember--about any one particular car--whether the gas tank is on the left or the right.  

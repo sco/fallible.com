@@ -1,6 +1,6 @@
 ---
 title: "Checkmark, Please!"
-date: "2004-11-12T14:45:00"
+date: "2004-11-12T08:45:00"
 comments:
   - author: "Michael"
     date: "2004-11-13T01:48:00"

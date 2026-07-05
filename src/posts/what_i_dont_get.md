@@ -1,6 +1,6 @@
 ---
 title: "What I Don’t Get"
-date: "2004-03-08T13:31:00"
+date: "2004-03-08T07:31:00"
 comments:
   - author: "Heather"
     date: "2004-03-09T00:46:00"

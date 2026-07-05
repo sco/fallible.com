@@ -1,6 +1,6 @@
 ---
 title: "Test-Driving Your Medical Power-Of-Attorney"
-date: "2009-01-30T16:40:00"
+date: "2009-01-30T10:40:00"
 comments:
   - author: "Sandi"
     date: "2009-02-02T23:22:00"

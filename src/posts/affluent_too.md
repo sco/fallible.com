@@ -1,6 +1,6 @@
 ---
 title: "Affluent, Too?"
-date: "2002-12-13T15:25:00"
+date: "2002-12-13T09:25:00"
 comments:
   - author: "annie"
     date: "2002-12-14T00:43:00"

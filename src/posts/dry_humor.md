@@ -1,6 +1,6 @@
 ---
 title: "Dry Humor"
-date: "2003-04-25T15:16:00"
+date: "2003-04-25T10:16:00"
 ---
 
 ![laundry day](http://www.fallible.com/img/clothesline.jpg)What is it about severe weather--in this case, thunder, lightning, hail, mudslide, and tornado--that brings out the "inner laundress" in the upscale women who live near me?  

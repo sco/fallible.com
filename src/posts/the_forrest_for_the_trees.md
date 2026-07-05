@@ -1,6 +1,6 @@
 ---
 title: "The Forrest for the Trees"
-date: "2004-07-08T13:52:00"
+date: "2004-07-08T08:52:00"
 comments:
   - author: "Anne"
     date: "2004-07-09T10:33:00"

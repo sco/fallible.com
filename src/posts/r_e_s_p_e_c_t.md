@@ -1,6 +1,6 @@
 ---
 title: "R-e-s-p-e-c-t"
-date: "2004-07-30T13:16:00"
+date: "2004-07-30T08:16:00"
 comments:
   - author: "lisa"
     date: "2004-07-31T18:24:00"

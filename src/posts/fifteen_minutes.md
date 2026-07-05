@@ -1,6 +1,6 @@
 ---
 title: "Fifteen Minutes"
-date: "2004-06-06T13:18:00"
+date: "2004-06-06T08:18:00"
 comments:
   - author: "Angus"
     date: "2004-06-07T01:41:00"

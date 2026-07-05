@@ -1,6 +1,6 @@
 ---
 title: "Crappy Birthday"
-date: "2003-09-09T14:50:00"
+date: "2003-09-09T09:50:00"
 comments:
   - author: "petes"
     date: "2003-09-09T16:24:00"

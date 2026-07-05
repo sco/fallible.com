@@ -1,6 +1,6 @@
 ---
 title: "Another Great Conference!"
-date: "2009-09-23T12:46:00"
+date: "2009-09-23T07:46:00"
 comments:
   - author: "Lisa"
     date: "2009-09-23T15:35:00"

@@ -1,6 +1,6 @@
 ---
 title: "Dueling Seasons"
-date: "2004-10-29T21:51:00"
+date: "2004-10-29T16:51:00"
 comments:
   - author: "BobW."
     date: "2004-10-30T21:35:00"

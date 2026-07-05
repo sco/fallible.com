@@ -1,6 +1,6 @@
 ---
 title: "Everywhere Else"
-date: "2003-10-12T23:33:00"
+date: "2003-10-12T18:33:00"
 comments:
   - author: "lisa"
     date: "2003-10-13T04:07:00"

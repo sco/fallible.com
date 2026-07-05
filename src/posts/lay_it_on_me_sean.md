@@ -1,6 +1,6 @@
 ---
 title: "Lay It On Me, Sean!"
-date: "2003-03-23T14:35:00"
+date: "2003-03-23T08:35:00"
 comments:
   - author: "Bridget"
     date: "2003-03-25T01:04:00"

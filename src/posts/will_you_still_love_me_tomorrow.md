@@ -1,6 +1,6 @@
 ---
 title: "Will You Still Love Me Tomorrow?"
-date: "2005-02-27T22:47:00"
+date: "2005-02-27T16:47:00"
 comments:
   - author: "Mary"
     date: "2005-03-01T04:11:00"
