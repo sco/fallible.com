@@ -49,12 +49,12 @@ comments:
 
 "Doug, can we honestly provide a "˜religiously neutral" home environment?"
 
-I sat filling out an application to become a host family to a pair of teenagers"’one Catholic and one Protestant"’from Northern Ireland. Until coming across this particular requirement, which the literature repeated several times for emphasis, I imagined we"d be perfect sponsors. My husband and I had grown up Catholic, but we"d raised our own family in a non-denominational Christian church.  
-We empathized with both sides in the Irish "troubles," but did that make us religiously neutral? I wanted to make sure that, according to the guidelines provided by the Children"s Friendship Project for Northern Ireland, we fulfilled the letter of the law.
+I sat filling out an application to become a host family to a pair of teenagers"’one Catholic and one Protestant"’from Northern Ireland. Until coming across this particular requirement, which the literature repeated several times for emphasis, I imagined we'd be perfect sponsors. My husband and I had grown up Catholic, but we'd raised our own family in a non-denominational Christian church.  
+We empathized with both sides in the Irish "troubles," but did that make us religiously neutral? I wanted to make sure that, according to the guidelines provided by the Children's Friendship Project for Northern Ireland, we fulfilled the letter of the law.
 
-My husband"s answer caught me off guard. "Religious neutrality"s easy. We"ll just avoid favoring either kid"s denomination. It"s not like the organization"s asking us to be spiritually complacent..."
+My husband's answer caught me off guard. "Religious neutrality's easy. We'll just avoid favoring either kid's denomination. It's not like the organization's asking us to be spiritually complacent..."
 
-I winced. If we hadn"t exactly grown spiritually complacent, we were certainly comfortable. Our family"s spiritual comfort had been the precise reason I felt we could risk inviting strangers into our home. Our own kids (then 22-year-old Scott, 19-year-old Carrie, and 16-year-old Kevin) enjoyed growing relationships with the Lord, great friends, and positive outlooks. Even if we ended up hosting two Irish kids with serious attitudes, we would still emerge, I hoped, comfortable.
+I winced. If we hadn't exactly grown spiritually complacent, we were certainly comfortable. Our family's spiritual comfort had been the precise reason I felt we could risk inviting strangers into our home. Our own kids (then 22-year-old Scott, 19-year-old Carrie, and 16-year-old Kevin) enjoyed growing relationships with the Lord, great friends, and positive outlooks. Even if we ended up hosting two Irish kids with serious attitudes, we would still emerge, I hoped, comfortable.
 
 Was that such a bad thing?
 
@@ -66,9 +66,9 @@ I put the signed application in the envelope, sealed it, and prayed for the teen
 
 Our entire family"’each of us holding cheesy signs bearing the girls" names"’burst out laughing as Sheryl Heaney and Chloe Faulkner, their fresh-off-the-plane faces beaming, delivered their well-rehearsed line in unison. Never had we been victimized by such a horrible rendition of a Southern drawl!
 
-Once again, I was caught off-guard. I"d expected all of us to go through a period of shyness, but awkwardness in the presence of these girls couldn"t achieve even a toehold. We were out of our cotton-pickin" minds, all right, but in very good company.
+Once again, I was caught off-guard. I'd expected all of us to go through a period of shyness, but awkwardness in the presence of these girls couldn't achieve even a toehold. We were out of our cotton-pickin" minds, all right, but in very good company.
 
-In County Tyrone, the girls" religions dictated where they shopped, the sports they played, the schools they attended, and even whether they entertained a belief in leprechauns. In day-to-day life, their paths weren"t likely to cross. We determined that while in our country, they"d spend every waking moment together"’and every sleeping moment, too. If by some miracle they succeeded in becoming true friends, who knew how big an impact they might have on their communities back in Northern Ireland?
+In County Tyrone, the girls" religions dictated where they shopped, the sports they played, the schools they attended, and even whether they entertained a belief in leprechauns. In day-to-day life, their paths weren't likely to cross. We determined that while in our country, they'd spend every waking moment together"’and every sleeping moment, too. If by some miracle they succeeded in becoming true friends, who knew how big an impact they might have on their communities back in Northern Ireland?
 
 For now, though, Northern Ireland would have to wait. For the month of July, 2001, Sheryl and Chloe belonged to Kansas City, and the whole city belonged to them.
 
@@ -76,26 +76,26 @@ To get things rolling, we threw a huge Fourth of July party with friends, family
    
 More than anything, they desperately longed to see cowboys in ten-gallon hats and pointy-toed boots, riding vicious livestock in a good old-fashioned rodeo. Before the opening act started, though, the Irish girls and our kids headed off to buy soft drinks.
 
-Had they lost interest already? "Hurry back. You don"t want to miss the bulls."
+Had they lost interest already? "Hurry back. You don't want to miss the bulls."
 
-I should have known their innocent smiles meant trouble. By the time we realized they"d been gone too long, they returned with sheepish grins"’and Sheryl sporting a limp. If only someone had warned us about the mechanical bull!  
+I should have known their innocent smiles meant trouble. By the time we realized they'd been gone too long, they returned with sheepish grins"’and Sheryl sporting a limp. If only someone had warned us about the mechanical bull!  
 ***  
 Spreading the Word***
 
 As the weeks went on, Sheryl and Chloe accumulated so many shared experiences and touched so many lives"’whether hammering with Habitat for Humanity or cruising in a police car with my brother-in-law cop"’that the Kansas City Star decided to print a front-page story about them. The reporter and photographer shadowed the girls, along with our kids, for a couple of days, following them into shops on the Plaza, treating them to lunch at the Cheesecake Factory, and even accompanying them to church.
 
-Rather than attend their separate denominations on Sundays, the girls insisted on experiencing our church, Great Plains Community, together. They found Pastor Tom Blasco"s messages entertaining and meaningful, the music energetic and engaging, and the youth group welcoming.
+Rather than attend their separate denominations on Sundays, the girls insisted on experiencing our church, Great Plains Community, together. They found Pastor Tom Blasco's messages entertaining and meaningful, the music energetic and engaging, and the youth group welcoming.
 
 In other words, even at church, they found common ground.
 
-Once back on Northern Ireland"s soil, the girls remained close. They continued posting entries to the online journal Doug helped them set up, and looked forward to attending university in Belfast in the fall of 2002.
+Once back on Northern Ireland's soil, the girls remained close. They continued posting entries to the online journal Doug helped them set up, and looked forward to attending university in Belfast in the fall of 2002.
 
 Imagine our shock when Sheryl once again made the newspapers"’this time for her death. Just one year after we fell in love with her, she and her sister Tara lost their lives in a car accident on a treacherous piece of road in County Louth.
 
-As horrible as we felt, we couldn"t deny God"s grace in the midst of tragedy. Sheryl, a Catholic, had engendered such respect among Catholics and Protestants alike in County Tyrone that a local Protestant parade"’a recurring thorn in the side for Catholics"’was canceled in her honor. Not only that, but her parents, Michael and Gwen Heaney, invited a Protestant minister to join the Catholic priest in presiding over the funeral of their daughters, setting an unheard-of precedent.
+As horrible as we felt, we couldn't deny God's grace in the midst of tragedy. Sheryl, a Catholic, had engendered such respect among Catholics and Protestants alike in County Tyrone that a local Protestant parade"’a recurring thorn in the side for Catholics"’was canceled in her honor. Not only that, but her parents, Michael and Gwen Heaney, invited a Protestant minister to join the Catholic priest in presiding over the funeral of their daughters, setting an unheard-of precedent.
 
-Against all odds, people from both sides of the conflict came together in genuine sorrow to mourn the community"s loss in a way rarely witnessed in Northern Ireland.
+Against all odds, people from both sides of the conflict came together in genuine sorrow to mourn the community's loss in a way rarely witnessed in Northern Ireland.
 
-Sheryl and Chloe made a difference not only in their world, but in our world, too. In the end, Doug was right. Whether or not we were religiously neutral didn"t seem to matter much to our girls. But it would have been sad indeed if"’given such a wonderful opportunity to touch a pair of lives"’we"d been spiritually complacent.
+Sheryl and Chloe made a difference not only in their world, but in our world, too. In the end, Doug was right. Whether or not we were religiously neutral didn't seem to matter much to our girls. But it would have been sad indeed if"’given such a wonderful opportunity to touch a pair of lives"’we'd been spiritually complacent.
 
 In the end, two young women became unlikely friends, lured us out of our risk-free existence, and ultimately caused us to lean, once again, on the God of all comfort.

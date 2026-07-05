@@ -154,7 +154,7 @@ comments:
   - author: "Kiki"
     date: "2004-06-14T12:42:00"
     text: |
-      fraught(like caught, not fought), suburb(think sub urb"an"), superb, miniscule(think mini, small)  
+      fraught(like caught, not fought), suburb(think sub urb'an"), superb, miniscule(think mini, small)  
         
       One word that gives me problems, and that I misspelled in a spelling bee in H.S. is parallel. I hope I got it right this time...Lol.  
         

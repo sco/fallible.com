@@ -27,9 +27,9 @@ comments:
   - author: "Cheap"
     date: "2010-04-11T04:29:00"
     text: |
-      Katy, It"s been much too long since I"ve visited your blog. This post took me back four years, to the assisted living facility where my dad lived.  
+      Katy, It's been much too long since I've visited your blog. This post took me back four years, to the assisted living facility where my dad lived.  
         
-      You"re an amazing daughter, but
+      You're an amazing daughter, but
   - author: "Candy"
     date: "2010-06-04T15:50:00"
     text: "Its been the sweet story and been amazing with its words and its character where all the lively and feels like reading it whole in one day.The presentation of the words and ironic words make the story a lively one."

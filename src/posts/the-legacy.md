@@ -46,6 +46,6 @@ OneÂ 
 TearÂ   
 FallsÂ   
 Glistening,Â shimmering,Â   
-OntoÂ myÂ brother"sÂ lock.Â   
+OntoÂ myÂ brother'sÂ lock.Â   
 OntoÂ this,Â   
 MyÂ inheritance.Â

@@ -40,7 +40,7 @@ comments:
   - author: "jessica"
     date: "2008-12-18T02:28:00"
     text: |
-      Great, it boosts up my energy on this morning. It is really funny and i can"t stop reading with single time.Thanks for sharing.  
+      Great, it boosts up my energy on this morning. It is really funny and i can't stop reading with single time.Thanks for sharing.  
       www.CreativeAcoustics.com
 ---
 

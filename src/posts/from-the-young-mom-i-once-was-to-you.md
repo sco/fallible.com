@@ -10,7 +10,7 @@ comments:
     text: |
       Little children at my feet  
       A hundred daily needs to meet  
-      O when I"m yearning to be free"¦  
+      O when I'm yearning to be free"¦  
       Let the children come to me.
   - author: "Natural"
     date: "2011-12-25T13:03:00"

@@ -60,7 +60,7 @@ comments:
         
       And not ONLY that, it was a stick shift, and when I handed over the cash (yes, cash) to pay for it, I as yet didn't know how to drive it.  
         
-      I think those count for a lot of "never done something before"s!
+      I think those count for a lot of "never done something before's!
   - author: "lisa"
     date: "2003-09-23T21:54:00"
     text: "you brave woman! the first car of our marriage was a peugeot, i didn't know how to drive it when we bought it...and though we did not buy it overseas, for this michigan girl, arizona may as well have been a foreign country. best of luck to you...and remember that the more you drive, the better it gets ;)"

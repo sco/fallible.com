@@ -73,7 +73,7 @@ comments:
   - author: "Website"
     date: "2010-02-14T12:06:00"
     text: |
-      Hi, my friend, are you able to give more post like this!! As I was very pleased to find this post on this site. I wanted to thank you for this great read. I definitely enjoying every little bit of it and I have bookmarked you to check out new stuff you post. It sounds, like you"re on the up and up.  
+      Hi, my friend, are you able to give more post like this!! As I was very pleased to find this post on this site. I wanted to thank you for this great read. I definitely enjoying every little bit of it and I have bookmarked you to check out new stuff you post. It sounds, like you're on the up and up.  
       <a href="http://www.xigmapro.com">Website Design Company</a>
   - author: "dream"
     date: "2010-02-25T06:42:00"

@@ -58,7 +58,7 @@ comments:
     date: "2011-09-24T02:45:00"
     text: |
       "Take my hand. Take my whole life, too.  
-      For I can"t help falling in love with you."  
+      For I can't help falling in love with you."  
         
       I like the song very much.  
         

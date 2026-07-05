@@ -69,7 +69,7 @@ comments:
   - author: "real"
     date: "2009-05-15T15:35:00"
     text: |
-      I"ve been wary of nationalization because, while I think there"s some logic to it, I question the idea of completely wiping out shareholders. Basically, it seems like an action like that could create a domino effect that would send the Dow spiraling out of control.  
+      I've been wary of nationalization because, while I think there's some logic to it, I question the idea of completely wiping out shareholders. Basically, it seems like an action like that could create a domino effect that would send the Dow spiraling out of control.  
         
       Cheers,Harry,Panama real estate.
   - author: "comfort"

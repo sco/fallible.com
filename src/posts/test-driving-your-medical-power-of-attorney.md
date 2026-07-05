@@ -24,7 +24,7 @@ comments:
   - author: "New"
     date: "2009-10-29T06:42:00"
     text: |
-      I don"t have any real objections to making Spanish an official second language,but if that means having all road signs in two languages, all legal documents in two languages  
+      I don't have any real objections to making Spanish an official second language,but if that means having all road signs in two languages, all legal documents in two languages  
       <a href="http://www.priorityshred.com/new-jersey-document-shredding.html/">New Jersey document destruction</a>
   - author: "Best"
     date: "2009-11-09T06:08:00"

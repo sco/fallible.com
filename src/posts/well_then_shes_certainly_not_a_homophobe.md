@@ -52,7 +52,7 @@ comments:
     text: |
       Katy, when you've accepted the basic premise that everything "secular" can be made sacred, you don't have to worry about who's heart will open. I think the sinners and the "saved" both need this message...  
         
-      \_"I simply argue that the Cross should be raised at the center of the marketplace as well as on the steeple of the church.  
+      \_'I simply argue that the Cross should be raised at the center of the marketplace as well as on the steeple of the church.  
         
       "I am recovering the claim that Jesus  
       was not crucified in a cathedral between two candles; but on a cross between two thieves;  

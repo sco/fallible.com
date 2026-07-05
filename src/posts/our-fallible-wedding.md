@@ -44,7 +44,7 @@ comments:
   - author: "Tuxedo"
     date: "2009-06-10T18:09:00"
     text: |
-      Katy!I enjoyed reading this for so many reasons, Congratulations on your anniversary.The picture is classic"¦you"re beautiful!It"s nice to hear other people"s stories. Rob and I eloped, sort of, so I don"t have as many details, but we were Jesus freaks too. Maybe I will blog my story next Nov when we hit 39!! Blessings my dear friend.  
+      Katy!I enjoyed reading this for so many reasons, Congratulations on your anniversary.The picture is classic"¦you're beautiful!It's nice to hear other people's stories. Rob and I eloped, sort of, so I don't have as many details, but we were Jesus freaks too. Maybe I will blog my story next Nov when we hit 39!! Blessings my dear friend.  
       <a href="http://www.finetuxedos.com">Tuxedo</a>
   - author: "Wedding"
     date: "2009-06-17T15:35:00"

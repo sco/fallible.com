@@ -14,7 +14,7 @@ comments:
       Hi Katy,  
       I really enjoyed your post here and even found myself chuckling a few times here and there; but you are missing the entire point of the story. I am a Jew who has found Messiah so I tend to read the Scriptures with a Hebrew mindset.  
         
-      You, understandably, are viewing this story through the eyes of a "Christian" rather than through the eyes of a Shepherd in search of His Lost Sheep; some of which can be found in Samaria. I"ll explain.  
+      You, understandably, are viewing this story through the eyes of a "Christian" rather than through the eyes of a Shepherd in search of His Lost Sheep; some of which can be found in Samaria. I'll explain.  
         
       The focus of the story is not the beaten Jew, it is the Samaritan man who is one of the Lost Sheep who Jesus leaves his flock in search of. This story is to show us the various places to fish and hunt for those who belong to G-d.  
         
@@ -24,9 +24,9 @@ comments:
         
       The reason the Priest and the Levite refused to help is because the Samaritans claim to be "Jewish" because they are Â½ breeds"¦ they are part of the Ten Lost Tribes that Jesus is in search to bring home and re-unite with Israel.  
         
-      But the Jews don"t want to receive this truth because they claim only those whose mother or both parents is Jewish is a Jew. The Scriptures tell us in the end time Israel will listen and accept their brothers" home with open arms and receive Messiah. What a Glorious Day!  
+      But the Jews don't want to receive this truth because they claim only those whose mother or both parents is Jewish is a Jew. The Scriptures tell us in the end time Israel will listen and accept their brothers" home with open arms and receive Messiah. What a Glorious Day!  
         
-      In the meantime, many Gentiles will enter into the family of G-d because his fishers of men are casting nets and both Jews and Gentiles will get caught in those nets together. The nets must be cast out into the many "nations" since that"s where G-d exiled the 10 Tribes. Those nations are now comprised of nationals AND lost, assimilated Jews.  
+      In the meantime, many Gentiles will enter into the family of G-d because his fishers of men are casting nets and both Jews and Gentiles will get caught in those nets together. The nets must be cast out into the many "nations" since that's where G-d exiled the 10 Tribes. Those nations are now comprised of nationals AND lost, assimilated Jews.  
         
       Hope this helps puts things into perspective. Again, I really liked your take on the subject.  
         

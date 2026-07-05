@@ -28,7 +28,7 @@ comments:
   - author: "shares"
     date: "2009-04-28T07:11:00"
     text: |
-      Gives Thanks, Very fascinating read, you should be dramatic of your web logs. I"ve been genuinely delighting developing up your situations from meter to time. Looking forward to understand your future positions  
+      Gives Thanks, Very fascinating read, you should be dramatic of your web logs. I've been genuinely delighting developing up your situations from meter to time. Looking forward to understand your future positions  
       Many wonderful selective information, thanks for partaking. Testament definitely be back more often"¦.
   - author: "Robbie"
     date: "2009-05-25T04:42:00"

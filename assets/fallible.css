@@ -131,13 +131,22 @@ tr.toprow {
 	text-align : left;
 }
 
+#blog h2.title {
+	font-size : 17px;
+}
+
 #blog h3 {
-	font-size : 14px;
+	font-size : 13px;
 	letter-spacing : -0.02em;
 	font-weight : bold;
 	color : #000;
 	text-align : left;
 }	
+
+#blog img {
+	display: block;
+	margin-bottom: 0.5em;
+}
 
 #blog p.posted {
 	text-align: right;
