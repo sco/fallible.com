@@ -9,6 +9,19 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
+    // HTTP → HTTPS
+    if (url.protocol === 'http:') {
+      url.protocol = 'https:';
+      return Response.redirect(url.href, 301);
+    }
+
+    // www → bare domain
+    if (url.hostname === 'www.fallible.com') {
+      url.hostname = 'fallible.com';
+      return Response.redirect(url.href, 301);
+    }
+
+    // Old URL pattern redirects
     for (const [pattern, dest] of REDIRECTS) {
       const match = url.pathname.match(pattern);
       if (match) {
