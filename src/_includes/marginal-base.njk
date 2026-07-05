@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}{% if title %} — {% endif %}Marginal Comments</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #9E3E13;
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 15px;
+      color: #222;
+    }
+
+    /* Desktop layout */
+    .mc-outer {
+      max-width: 720px;
+      margin: 0 auto;
+      background: #fff;
+    }
+    .mc-header {
+      display: flex;
+      align-items: flex-end;
+    }
+    .mc-header img.pentop { display: block; }
+    .mc-header img.booktop { display: block; flex: 1; }
+    .mc-body {
+      display: flex;
+      align-items: stretch;
+    }
+    .mc-left {
+      width: 193px;
+      flex-shrink: 0;
+      background-image: url('/images/marginal/textbackground.gif');
+      background-repeat: repeat-y;
+    }
+    .mc-left img { display: block; }
+    .mc-main {
+      flex: 1;
+      background: #fff;
+      padding: 0 20px 20px;
+      min-width: 0;
+    }
+    .mc-branding {
+      margin-bottom: 12px;
+    }
+    .mc-branding img { display: block; }
+    .mc-footer {
+      background: #fff;
+      border-top: 1px solid #ddd;
+      padding: 12px 20px 12px 213px;
+      font-size: 0.85em;
+      color: #666;
+    }
+    .mc-footer a { color: #7a3010; }
+
+    /* Content styles */
+    .mc-main h2 {
+      font-size: 1.3em;
+      margin: 1.5em 0 0.2em;
+      color: #5a1e00;
+    }
+    .mc-main h2 a { color: #5a1e00; text-decoration: none; }
+    .mc-main h2 a:hover { text-decoration: underline; }
+    .mc-main p { line-height: 1.65; margin: 0.75em 0; }
+    .mc-main a { color: #7a3010; }
+    .mc-main img { max-width: 100%; height: auto; }
+    .mc-post-meta {
+      font-size: 0.85em;
+      color: #888;
+      margin-bottom: 2em;
+      font-family: Arial, sans-serif;
+    }
+    .mc-nav {
+      margin-top: 2.5em;
+      padding-top: 1em;
+      border-top: 1px solid #e0c8b8;
+      font-size: 0.9em;
+      display: flex;
+      justify-content: space-between;
+      gap: 1em;
+    }
+    .mc-nav a { color: #7a3010; }
+
+    /* Mobile */
+    @media (max-width: 600px) {
+      .mc-header img.pentop { display: none; }
+      .mc-left { display: none; }
+      .mc-main { padding: 12px 14px 20px; }
+      .mc-footer { padding: 12px 14px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="mc-outer">
+    <div class="mc-header">
+      <img class="pentop" src="/images/marginal/pentop.jpg" width="193" height="70" alt="">
+      <img class="booktop" src="/images/marginal/booktop.jpg" alt="" height="70" style="width:100%;object-fit:cover;object-position:left;">
+    </div>
+    <div class="mc-body">
+      <div class="mc-left">
+        <img src="/images/marginal/pen-cup.jpg" alt="" width="193" height="588">
+      </div>
+      <div class="mc-main">
+        <div class="mc-branding">
+          <a href="/marginal/"><img src="/images/marginal/marginalcomments.gif" width="256" height="73" alt="Marginal Comments" border="0"></a>
+        </div>
+        {{ content | safe }}
+      </div>
+    </div>
+    <div class="mc-footer">
+      <a href="/marginal/">All Posts</a> &middot;
+      Marginal Comments by Doug Raymond &middot;
+      <a href="/">Fallible.com</a>
+    </div>
+  </div>
+</body>
+</html>

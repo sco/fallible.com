@@ -2,7 +2,7 @@ const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setLibrary("md", markdownIt({ typographer: true }));
+  eleventyConfig.setLibrary("md", markdownIt({ typographer: true, html: true }));
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addCollection("posts", function (collectionApi) {
@@ -14,6 +14,11 @@ module.exports = function (eleventyConfig) {
     return collectionApi
       .getFilteredByGlob("src/posts/*.md")
       .filter(p => !p.data.attitude)
+      .sort((a, b) => (b.date || 0) - (a.date || 0));
+  });
+  eleventyConfig.addCollection("marginalPosts", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("src/marginal/posts/*.md")
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
   eleventyConfig.addFilter("olderPost", (collection, url) => {

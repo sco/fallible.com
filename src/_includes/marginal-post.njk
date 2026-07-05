@@ -1,0 +1,17 @@
+---
+layout: marginal-base.njk
+---
+
+<article>
+  <h2>{{ title }}</h2>
+  <p class="mc-post-meta">{{ date | postDate }}</p>
+  {{ content | safe }}
+</article>
+
+{% set older = collections.marginalPosts | olderPost(page.url) %}
+{% set newer = collections.marginalPosts | newerPost(page.url) %}
+<nav class="mc-nav">
+  <span>{% if older %}&larr; <a href="{{ older.url }}">{{ older.data.title }}</a>{% endif %}</span>
+  <a href="/marginal/">All Posts</a>
+  <span>{% if newer %}<a href="{{ newer.url }}">{{ newer.data.title }}</a> &rarr;{% endif %}</span>
+</nav>
