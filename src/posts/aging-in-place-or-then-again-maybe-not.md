@@ -1,6 +1,30 @@
 ---
 title: "Aging In Place, Or Then Again, Maybe Not"
 date: "2011-02-10T11:13:00"
+comments:
+  - author: "Tracy Booth"
+    date: "2011-02-11T13:26:22"
+    text: |
+      Katy,
+      This is a great use of my painting!  I am a true believer in downsizing and living with just what you need to be happy.  My tiny houses were created to express this wonderful simplicity.  Also, my parents are the oldest of the boomers, and are going through some of the transitions you have mentioned.  Great site, and good luck with your future travels and adventures!
+  - author: "Katy McKenna"
+    date: "2011-02-11T14:17:10"
+    text: "Tracy, I am so happy to have shared your darling \"tiny house\" painting here! Thank you for allowing it. I've just had a nice visit to your site and love your whimsical paintings. Also enjoyed looking at the photos of real-life tiny houses than inspired some of your works. The one in Maine with the window boxes of flowers? I could so live there! Best wishes in your new home, and to your parents also, as they pave the way for the rest of us boomers."
+  - author: "Suzan"
+    date: "2011-02-11T21:32:11"
+    text: "Hubby turns 63 next month, I turn 55. We are downsizing to a 24-foot travel trailer with a couple of storage units. It's funny how freeing it is..."
+  - author: "Jem"
+    date: "2011-02-19T17:19:53"
+    text: |
+      Oh, this is exactly what happened when my mom died. I sold, donated, recycled and rented a big flat bed to haul the rest to the dump. Unbelievable.
+      
+      That was a real eye opener and now, as I see my friends becoming hoarders of animals and junk, I am more determined to keep my act relatively clean.
+      
+      I never thought I would live in a mobile home but downsized into an adult mobile park. I shopped around for the largest yard (I garden and have pets) and actually fixed up the aging mobile.
+      
+      One thing I never want for myself is isolation. As a hospice RN, I see this all the time. Not good.
+      
+      Great post.
 ---
 
 When we built this house 17 years ago, I was a mere 40 years old. It’s a huge undertaking to custom-build a home, especially when you’re closely involved in every aspect of the job, from drawing up the design and blueprints to choosing the fixtures to poring over paint chips to doing the construction clean-up.
