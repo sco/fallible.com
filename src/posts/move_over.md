@@ -1,6 +1,49 @@
 ---
 title: "Move Over"
 date: "2006-02-27T12:46:32"
+comments:
+  - author: "Ame"
+    date: "2006-02-27T14:27:23"
+    text: |
+      That is SO incredibly awesome - on so many levels.  I love how God teaches us; he's taught me through dreams, too.  Wow . . . you will never forget this invaluable truth from your Almighty, Sovereign God :)
+  - author: "lisa"
+    date: "2006-02-27T14:54:41"
+    text: "Amen!"
+  - author: "Jeanne Damoff"
+    date: "2006-02-27T15:16:49"
+    text: "Mmmm. Yes. Well said, Katy."
+  - author: "Pattie"
+    date: "2006-02-27T19:35:36"
+    text: |
+      Was this really a dream you had? You are such a wonderful writer. I am almost always sucked right in when I read your blog, and it's like I can't read fast enough... I just can't wait to find out what is going to happen next. I feel like that even with your not-so-full-of-suspense type stories. Thanks! (o:
+  - author: "Michael O'Connor"
+    date: "2006-02-27T22:49:05"
+    text: "Thanks for sharing this Katy. I needed this one more than you know."
+  - author: "Katy"
+    date: "2006-02-28T01:52:44"
+    text: |
+      Yes, it's a true dream, from night before last. Mom is not eating, and not noticing good looking men. Believe me, these are not encouraging signs. Two docs today took me aside to say how much she's declined cognitively since her August hospitalization. Both indicated that a nursing home is the appropriate next step. I've always loved the Scripture where Jesus says to His disciples, "I have many more things to say to you, but you cannot bear them now." That's how I feel. Don't tell me everything, Lord! Just enough light so I can see the next step on the path.
+      
+      Mom had a 24-hour crying jag also. She calmed down this evening, but from the sounds of it, she's gearing up again for the night. My sisters are there now, and I wish them God's grace.
+  - author: "Ame"
+    date: "2006-02-28T02:00:50"
+    text: |
+      Oh, Katy.  I'm so sorry.  How poignant the scripture.  How good of God to show you so vividly how in control He is . . . just when you really needed to see it . . . before today.
+  - author: "Diane"
+    date: "2006-02-28T17:28:16"
+    text: |
+      It's so awesome to get the assurence from God and know that He is in control of the situation! The best thing about that is that God keeps His promises!
+      
+      I will add you and your mom to my prayer list. Take care okay?
+  - author: "Pattie"
+    date: "2006-02-28T18:43:53"
+    text: |
+      Katy-- I'm so sorry about everything you are going through right now. I hope and pray that the Lord will give you the strength you need.
+      
+      PS "M" is my husband. (laughing)
+  - author: "Maria"
+    date: "2006-02-28T22:35:12"
+    text: "My heart goes out to you. I remember caring for my father in his last days at home. I find the serenity prayer a salvation when I am tired and feeling out of control."
 ---
 
 How many people does a school bus hold?

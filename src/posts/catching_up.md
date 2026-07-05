@@ -1,6 +1,45 @@
 ---
 title: "Catching Up"
 date: "2006-05-01T11:12:54"
+comments:
+  - author: "relevantgirl"
+    date: "2006-05-01T14:11:16"
+    text: |
+      Donegal, eh?
+      
+      My hubby's relations are from there. See if you can spot a few O'Donnells roaming around.
+  - author: "katy"
+    date: "2006-05-01T14:59:08"
+    text: |
+      We're headed that way. i'll keep a sharp eye out. where we've been, in mayo, there were o'malleys everywhere we turned. we stayed with a mary o'malley for three nights. now we're on the road to sligo and may end up there tonight before going on to donegal. then later in the week, monaghan and tyrone. monaghan is my family's county. tyrone is where the girls who spent the summer with us five years ago are from, and we'll meet them there. thanks for checking in, mary. we're so close, and yet still so far....darn. love...
+  - author: "Daniel"
+    date: "2006-05-01T17:30:23"
+    text: |
+      Still not feeling well, eh?  Sorry to hear.  Don't drink the Irish water, the black frothy broth might have thrown your system into shock.
+      
+      Hope you start to feel better.
+  - author: "Chris(tine)"
+    date: "2006-05-01T18:44:03"
+    text: |
+      That much happiness and fun, even while sick? :)
+      
+      Sounds like a wonderful time (except for the sick part), and hope you continue to feel better and have even more good times!!
+  - author: "Carrie K."
+    date: "2006-05-01T20:13:14"
+    text: "Praying for you to feel better quickly!"
+  - author: "Vicki"
+    date: "2006-05-01T21:23:56"
+    text: "Hope the bug passes soon! Love hearing from you. Blessings!"
+  - author: "Katy"
+    date: "2006-05-02T14:37:28"
+    text: |
+      Yea! The Irish bug has passed, it has....  :)
+      Thanks for the well wishes in that "direction." Ha.
+  - author: "montreal incalls"
+    date: "2010-04-19T11:53:15"
+    text: |
+      I feel fascinated to study such a working post, I would care to thank the Generator for this marvelous movements.this post is good in affects of whatever cognition equally advisable as selective information. Thanks for the brand.
+      <a href="http://www.jaysxlist.com/">montreal incalls</a>
 ---
 
 We're in Westport, County Mayo (sister city to our own Westport area in Kansas City) for the second time in three days. Friday morning we passed through here on our way to Louisburgh, which held the festival we just returned from. It was SO great!

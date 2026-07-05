@@ -1,6 +1,48 @@
 ---
 title: "You Asked For It, You Got It"
 date: "2008-01-24T14:02:00"
+comments:
+  - author: "Carrie K."
+    date: "2008-01-24T20:23:56"
+    text: |
+      snort - thanks for sharing! You could write an entire comedy book on your experiences with the medical profession. :)
+  - author: "Deb Raney"
+    date: "2008-01-24T20:39:41"
+    text: |
+      Oh, Katy! I am ROFLOL (almost literally) at this post! You are a complete, wonderful NUT! Don't ever stop! ; )
+  - author: "laura"
+    date: "2008-01-25T19:03:11"
+    text: "That was hysterical!!!  Thanks for sharing"
+  - author: "Alison"
+    date: "2008-01-25T23:28:30"
+    text: |
+      I don't know if I'll be able to look you in the face again! But anyway, I've got an embarrassing moment that really can't compare with yours, but it ended up with me going off my diet and back into therapy. I'll tell you that story sometime. But basically, after having been through childbirth twice, and some pretty serious complications after the second one, nothing really embarrasses me any more. I barely know modesty when I see it. I know my kids wish I embarrassed more easily. Then they wouldn't have to chaperone me at the office Christmas parties.
+  - author: "Mary Anne Green"
+    date: "2008-01-30T17:29:58"
+    text: |
+      I was right about this one....if you remember right, I worked at St Joseph Hospital when you spent 2 weeks with us. I recall most of the circumstances of your situation..we were all very worried about you. Whatever was causing these unpleasant episodes, I'm very glad for your sake they are in the past.
+  - author: "ed hardy"
+    date: "2008-02-14T00:34:25"
+    text: |
+      quote , Iâ€™d gotten chewed out by the manager for taking a customerâ€™s bad check.
+      
+      Happened to me once :)
+  - author: "medical"
+    date: "2008-02-26T08:02:11"
+    text: |
+      Wow, that was a nice way of introducing yourself to somebody, sharing the most embarassing moment, at least that was how i met your blog. Keep up your writings. :)
+  - author: "Celebrity Foods"
+    date: "2008-03-01T02:19:12"
+    text: |
+      I agree with the comment from medical.  This is definitely an introduction that I won't forget.  I think we all have had our embarrassing moments.  Thanks for sharing, you are much braver than I am.
+  - author: "How to lose weight"
+    date: "2009-09-22T20:30:37"
+    text: "This is just another reason why I like your website. I like your style of writing you tell your stories without out sending us to 5 other sites to complete the story."
+  - author: "tuxedo trousers"
+    date: "2009-10-19T05:44:00"
+    text: |
+      I was at school today and I came to the conclusion that everybody there falls into some sort of category. Nobody dresses really uniquely or stands out. All the colors people wear are dull and boring. But anyways, how does someone go about standing out and making a fashion statement at the same time?
+      <a href="http://www.finetuxedos.com/Page/tuxedo-trousers.htm/">tuxedo trousers</a>
 ---
 
 Quite a while back, several of you agreed that you'd like to read the story of Katy's Most Embarrassing Moment. One reader, Mary Anne (whom I've known since earliest childhood...), felt certain that the moment involved St. Joseph's Hospital, circa a really long time ago.

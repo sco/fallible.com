@@ -1,6 +1,22 @@
 ---
 title: "Toothpicks"
 date: "2007-06-18T16:28:35"
+comments:
+  - author: "Bridget"
+    date: "2007-06-18T17:02:45"
+    text: |
+      There's always No-Doze! :)  Or energy drinks.  (Do those have sugar?)  How can I help???
+  - author: "Katy"
+    date: "2007-06-18T19:24:53"
+    text: |
+      Bridgie--Can you believe I've never taken a No-Doze in my whole life? I took a Mydol once and got so strung out it scared me off OTC meds for good!  :)
+      
+      This week, I'm OK, but next week, leading up to the wedding? I may need more help than I currently realize!!!
+  - author: "Bridget"
+    date: "2007-06-18T19:36:08"
+    text: |
+      No-Doze, I'm sad to say, got me through many a final exam week early in my college years.  Pure legal speed.  You couldn't handle it! :)
+      Let me know when you need me...
 ---
 
 Anybody got a couple of toothpicks to spare?

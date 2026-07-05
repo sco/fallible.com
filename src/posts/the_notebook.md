@@ -1,6 +1,16 @@
 ---
 title: "The Notebook"
 date: "2005-07-07T20:51:01"
+comments:
+  - author: "Bridget"
+    date: "2005-07-13T03:31:48"
+    text: |
+      Too funny!  My notebook is of the small, pocket-size variety.  You'd think I'd upgrade by now, but I refuse.  I just have it all memorized.  Sick, huh? 
+      -----
+  - author: "Singlesnet.com trial"
+    date: "2009-09-21T18:19:40"
+    text: |
+      I wouldn't know an alarming symptom which should be reported to my primary doctor from a hangnail..<a href="http://zerodollartrials.com/services/meet-your-suitable-singles-today-at-singlesnetcom/">Singlesnet.com trial</a>
 ---
 
 <img src="http://www.fallible.com/images/notebook.jpg" alt="" width="95" height="110" hspace="5" vspace="5" border="0" align="right">I have a modest-sized 5x7 spiral notebook that I carry with me to my doctor's appointments.

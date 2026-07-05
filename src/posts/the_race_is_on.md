@@ -1,6 +1,10 @@
 ---
 title: "The Race Is On"
 date: "2006-12-16T15:07:00"
+comments:
+  - author: "lala"
+    date: "2006-12-18T10:20:04"
+    text: "lala"
 ---
 
 I don't know what style of Christmas shopper you are, but I'm the type who feels guilty at the last minute.

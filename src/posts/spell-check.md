@@ -1,6 +1,90 @@
 ---
 title: "Spell Check"
 date: "2008-12-09T21:15:00"
+comments:
+  - author: "alison"
+    date: "2008-12-09T23:36:08"
+    text: |
+      Well, I'll never be as exciting as you are, but I've got such a hideous black eye that people keep taking me aside and asking about elder abuse and if I'm living in a dangerous situation. Well, yes, if elder abuse is leaving your mother home alone on a Saturday night, and yes, if a dangerous situation is a throw rug. So, everything that's wrong with me is pretty much self-inflicted. 
+      
+      And just to encourage you, a colonoscopy isn't that bad. They make you comfortable, put your head on a nice soft pillow and pat it a little, and talk to you in a soothing voice, and you're facing a TV. At least that's what I thought it was.
+      
+      See you soon, Katie. I have a present from Ireland for you.
+  - author: "Suzan"
+    date: "2008-12-09T23:48:50"
+    text: "You are always in my thoughts and prayers."
+  - author: "Carrie K."
+    date: "2008-12-10T21:54:53"
+    text: |
+      I will definitely be praying. And while I've never had a colonoscopy, my husband has, and he didn't even remember it afterward. I think that's a good sign. :)
+  - author: "Joshua"
+    date: "2008-12-11T04:58:19"
+    text: "My thoughts and prayers go out to you. Sounds like quite the year! I heard an old joke once about a guy experiencing a stabbing pain in his eye, turns out he kept drinking his coffee with the spoon in it... Anyway, seriously, I will be praying."
+  - author: "Scott Orn"
+    date: "2008-12-11T07:02:30"
+    text: |
+      Hi Katy - I found your blog post via a search on Google for Trigeminal Neuralgia. I know you only touch on it briefly and it doesn't sound like you've isolated the cause of yuor problems, but my friend Ben and I started a patient to patient support group called LivingWithTN (www.livingwithtn.org) It's for people with Trigeminal Neuralgia. Check it out. We started it 3 weeks ago and already have 50+ people providing support to each other on it.
+      
+      cheers,
+      Scott
+  - author: "Sandi Thompson"
+    date: "2008-12-11T17:34:13"
+    text: |
+      Katy, 
+      I will continue to pray for you. The year seems to have been quite a nightmare for you. I am amazed that you got your editing done at all. Hang in there. Blessings
+      Sandi
+  - author: "Christa Allan"
+    date: "2008-12-12T01:06:14"
+    text: |
+      Katy-girl: Only you could write such a history and have it read as medical comedy.
+      
+      The colonoscopy was the twilight zone...really. It was the orange-flavored phlegm I had to drink to get ready for it that made me want to rip my colon out of my body.
+      
+      You're in my prayers. What a funny book this will be one day. . .
+  - author: "Theresa G"
+    date: "2008-12-12T03:18:14"
+    text: |
+      Katy,
+      
+      I feel badly that I am laughing at your series of unfortunate events. But how can I help it when you tell it with such humor. We love you Katy for who you are, weepy colon and all.
+  - author: "Kat Harris"
+    date: "2008-12-12T15:30:55"
+    text: |
+      Oh, Katy. 
+      
+      I cannot wait to read your book. If you can make what you've endured this past year sound so amusing...I don't know.
+      
+      I'm praying for you girl. Hang in there.
+  - author: "jim"
+    date: "2009-01-19T01:37:15"
+    text: |
+      i am ready to read your book. i am hoping and praying for you.
+      
+      <a href="http://www.gangbash.com">lose 15 pounds fast</a>
+  - author: "ReversePhoneLookup"
+    date: "2009-05-15T06:54:57"
+    text: "Hi, I was searching Yahoo to find something about similar topic and found your site. Reading the post gave me some inspiring and thought on my future actions."
+  - author: "Burnsville Personal Trainer"
+    date: "2009-07-08T02:49:32"
+    text: |
+      you  are an inspiration to others.i'll be praying for you.just stay strong.
+  - author: "poisoning symptoms"
+    date: "2009-09-10T14:32:07"
+    text: "i am ready to read your book. i am hoping and praying for you."
+  - author: "Mrsa"
+    date: "2009-09-30T14:21:09"
+    text: "For the head ache problem it should be the most MRSA virus and then some bakterias and mostly body stress.Be relax always.Iwill pray for you!"
+  - author: "Laptop Computers"
+    date: "2009-10-04T13:51:35"
+    text: |
+      Hi Katy, I'm sorry to hear your story. I'll pray for your health so I can see you continue to write in this blog. Your articles are always an inspiration for me.
+      Thanks and God bless
+  - author: "indonesia arthritis"
+    date: "2009-10-16T10:23:28"
+    text: "I can see that you are putting a lot of time and effort into your blog and detailed articles! I am deeply in love with every single piece of information you post here. Will be back often to read more updates!"
+  - author: "indonesia arthritis"
+    date: "2009-12-20T12:05:06"
+    text: "As a Texan I delight reading almost means weâ€™re going to save money in the future by utilising alternative muscularity. I hope Texas continues to be at the forefront of the new-energy revolution, for the interest of the environment and saving."
 ---
 
 At the beginning of 2008, I had exactly two goals for my health, not counting---of course---the two constants: lose weight and exercise. Those recurring resolutions SHOULD keep me in excellent shape just because of the muscles used and calories burned laughing my head off each time I think of them, but I digress.

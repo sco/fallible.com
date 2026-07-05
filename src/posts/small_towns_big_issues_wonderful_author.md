@@ -1,6 +1,69 @@
 ---
 title: "Small Towns, Big Issues, Wonderful Author"
 date: "2007-02-11T23:25:52"
+comments:
+  - author: "T.F."
+    date: "2007-02-12T21:59:09"
+    text: |
+      Deb is wonderful, isn't she?
+  - author: "Colleen Coble"
+    date: "2007-02-12T23:01:06"
+    text: "Fabulous interview! And Deb is just as sweet and real as her books--and this interview!"
+  - author: "Photo Buffet"
+    date: "2007-02-12T23:55:52"
+    text: |
+      Yes, small towns do offer a different sense of community. They're gossipy but they come together at the right moments, usually.
+      
+      Loved the interview. I'm heading over to see Deb's home office...
+  - author: "rose mccauley"
+    date: "2007-02-13T16:39:58"
+    text: |
+      Thanks Katy and Deb for this chance to hear more of Deb's wisdom and try to win her new book which is the only one of hers I don't have yet, I think. I'm getting ready to start A Nest of Sparrows tonight and look forward to it even more after this review. thanks, rose
+  - author: "Bridget"
+    date: "2007-02-13T17:39:25"
+    text: "What?!  A chance to win another book on fallible?  Hey, maybe the snow day off from school will bring me luck today...."
+  - author: "Vail"
+    date: "2007-02-13T18:54:26"
+    text: |
+      I've never read one of Deborah's but after reading about her books I will definetly get one! Hopefully I'll win one and then I'll buy a different one!
+  - author: "Katy"
+    date: "2007-02-13T19:12:00"
+    text: |
+      Tina--She's a doll. I'm looking forward to reading my first Tina Forkner book!  :)
+      
+      Colleen--Are you knowed in yet??? We managed to get off our road this morning. Yesterday, we went to the grocery and only spent $45 in storm preps. I told Doug how much you and your hubby spent and how you had to buy fudge ingredients. He got a big laugh out of that!
+      
+      Photo Buffet Bonnie--How are you, lady? Deb's office pics actually inspired me when I set up *another* desk in our bedroom.
+      
+      Rose--You are WAY ahead of me and deserve to head the fan club!! I am attempting to make up for the lost years when I did not know of Deb's writing, though. I may get there yet!
+      
+      Bridget--YES!! Snow Days should have many rewards attached to them. And fallible has no rule which prevents a previous winner from winning again. Best wishes, little sister!
+      
+      Vail--Welcome! I think winning a book is a fine way to be introduced to a new author. Whether you win or not, though, Deb's sticking around. Her books have a solid following of readers for good reason. I hope you enjoy them!
+  - author: "Kelley Mathews"
+    date: "2007-02-14T04:05:48"
+    text: |
+      What a great interview, Katy! I'll be checking out Deb's books next time I hit the bookstore...count me in for the contest if you haven't already chosen a winner.
+  - author: "Chris(tine)"
+    date: "2007-02-14T06:07:53"
+    text: |
+      Great interview, Katy!
+      
+      Thanks for the heads-up on another author I now really want to read!
+  - author: "Katy"
+    date: "2007-02-14T15:30:37"
+    text: |
+      Kelley--Hey, girl! I'm about to draw the name of a winner, so stay tuned....
+      
+      Chris(tine)--You are most welcome! So far, I've only featured authors that I've met or have something of an online relationship with--or both! These writers are some of the best people I've ever known.
+  - author: "Deb Raney"
+    date: "2007-02-14T20:34:57"
+    text: |
+      Hey, congratulations, Vail! So glad you won! And Katy, thanks for a FUN interview. You actually made me sound interesting! LOL!
+      
+      Happy Valentine's Day to all of you wonderful readers!
+      
+      Deb
 ---
 
 <img src="http://farm1.static.flickr.com/166/381351681_b8e0ea3cb3_m.jpg" align="left" hspace="6" vspace="3" width="102" height="120">Have you read a Deborah Raney book lately? Today, I'm pleased to bring you the lady herself, whom I've had the joy of meeting on several occasions. Last fall, at the American Christian Writers Conference, I sat under the teaching of Deb and fellow-author Colleen Coble. I learned so much from them that I still haven't absorbed it all.

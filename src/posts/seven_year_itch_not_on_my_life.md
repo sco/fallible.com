@@ -1,6 +1,43 @@
 ---
 title: "Seven-Year Itch? Not On My Life!"
 date: "2007-02-03T13:48:37"
+comments:
+  - author: "Suzan"
+    date: "2007-02-03T19:05:54"
+    text: |
+      Thank you for this post. And congrats, girl! (I hope I don't turn into a food nazi about sugar...)
+      
+      I'm down 5 already!!
+  - author: "Katy"
+    date: "2007-02-03T19:27:07"
+    text: |
+      Suzan--You writing about your diet on your blog and Lisa S. starting her diet group got me thinking how seldom I mention this part of my life. But if it weren't for dear old Dr. A (God rest his soul), I'm not sure I would still be around--not with my family history!! Love you and MAJOR congrats on the 5 pounds!! That's fantastic!
+  - author: "Maria"
+    date: "2007-02-06T02:09:05"
+    text: |
+      Here's to Dr. A.!  I have followed the Atkin's way of eating of and on for years and I know it is what helps keep my weight down.
+      
+      Coincidentally we are of the same height and weight.  However I have been around many more years and therefore am longer in the tooth than you.
+      
+      Good Lawd, I am making it sound like a contest and I am the winner. LOL
+  - author: "Sunflower"
+    date: "2007-02-06T05:36:16"
+    text: |
+      Congrats, Katy! I have a sweet tooth and cannot imagine cutting out all forms of sugar. I'm trying to cut down on soft drinks (I think you call them sodas?) though. That's my first line of attack. 
+      
+      Over here rice is a staple, so it's a bit difficult to get away from it, but I ask for smaller portions (I'm always eating out because it's kind of pointless cooking for one. Plus, I'm culinary-challenged, although microwaves work wonders!).
+  - author: "Cindy Swanson"
+    date: "2007-02-06T13:01:10"
+    text: |
+      Wow, Katy! That's downright inspiring!
+  - author: "Katy"
+    date: "2007-02-06T20:14:39"
+    text: |
+      Maria--You ARE the winner! You are the cutest little thing. I am proud to be an Atkins girl with you....
+      
+      Sunflower--I have a HUGE sweet tooth, but I've had to master the monster. When I started Atkins, over here you couldn't escape a meal without pasta. Usually something called a "never ending bowl" of pasta. I finally figured out I didn't need a never ending bowl of anything!! Cutting out soft drinks is a great step!
+      
+      Cindy--Not as inspiring as that pic of your new grandson!  :)  I'm jealous, but keeping it reined in....
 ---
 
 You know that statistic that has us discouraged? The one that says something like 95% of everyone who loses weight regains all they've lost plus more inside of so many years? What is it--two years? Five?

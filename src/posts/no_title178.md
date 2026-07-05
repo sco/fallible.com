@@ -1,6 +1,11 @@
 ---
 title: "(No Title)"
 date: "2001-06-15T16:59:42"
+comments:
+  - author: "high heels"
+    date: "2010-06-05T03:15:07"
+    text: |
+      Away from the sidewalk before people come by. She looks as if she is trying to nip at people's heels.
 ---
 
 Do you know what it's like to be blinded by the light?

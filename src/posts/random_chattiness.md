@@ -1,6 +1,33 @@
 ---
 title: "Random Chattiness"
 date: "2006-07-22T19:34:44"
+comments:
+  - author: "Sabine"
+    date: "2006-07-22T21:50:47"
+    text: |
+      You have been on my mind quite a bit lately, Katy.  I know that you have health problems but you seldom write anything about how you suffer.  I'm sure there are other fallible addicts like me who also deal with pain and/or illness and who are very interested to read about how you are coping.  So, don't apologize for 'complaining'.  It's really just 'esplainin' (ala Ricky Ricardo).
+      
+      You've taken on a lot of challenges all at once.  Very inspiring!  I hope that novel of yours is a huge success.
+  - author: "relevantgirl"
+    date: "2006-07-23T09:25:24"
+    text: |
+      Hooray!!!!
+      
+      You bring that book to ACFW and wow them baby! I can't wait to see you there!
+  - author: "Ginger"
+    date: "2006-07-23T18:56:14"
+    text: |
+      Wow, 14 lbs!  Way to go (she said, with a tinge of jealousy).
+      
+      Changing habits is such an energizing and hope-filled activity, isn't it?
+  - author: "Katy"
+    date: "2006-07-25T16:15:04"
+    text: |
+      Sabine--I am so glad you commented. I had lost track of your blog and I really enjoyed reading your recent posts. You have been through a lot, girl! Yikes! We are making a lot of changes, but for once, we're choosing of our own volition, rather than having "stuff" happen to us. It's nice, for a change!
+      
+      Relevant Mary--Won't we have fun? And with our hottie, Jeanne, too.....  :)
+      
+      Ginger--Did I say 14? I meant 15!!!  I am prone to staying in ruts for nigh unto forever. It's fun to turn the tables on a few things, and prove (if only to ourselves) than we can still choose to change and God's grace is right there, waiting.
 ---
 
 Have I ever mentioned how much I hate migraines? Man, oh man. I get them in clusters. I'll be fine for a week, or two, and occasionally even as many as three weeks in a row. Then it'll start up again, and it usually lasts for a solid month, if not longer.

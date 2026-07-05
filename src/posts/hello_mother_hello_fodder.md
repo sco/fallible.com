@@ -1,6 +1,12 @@
 ---
 title: "Hello Mother, Hello Fodder"
 date: "2008-01-25T22:16:00"
+comments:
+  - author: "Bridget"
+    date: "2008-01-28T20:14:01"
+    text: |
+      Oh, our Mama....  
+      She didn't call on my birthday, by the way.  That's three years and counting.  Guess I should give up hoping.  (But, that's so depressing.)
 ---
 
 Due to an online class I've been taking this month ("Defeating Your Self-Defeating Behaviors" by Margie Lawson, a practicing psychologist who works with a lot of writers), I've largely given up my chronic negativity.

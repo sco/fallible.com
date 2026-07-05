@@ -1,6 +1,14 @@
 ---
 title: "Beans And Rice, Rice And Beans"
 date: "2008-04-26T14:04:01"
+comments:
+  - author: "Kathryn"
+    date: "2008-04-29T19:51:46"
+    text: |
+      Buy a chicken and you shall never go hungry...well, you won't go hungry until your chicken gets old and stops laying eggs.
+  - author: "alison"
+    date: "2008-04-30T13:59:57"
+    text: "Hahahaha."
 ---
 
 I feel sorry for nationally known financial advisor <a href="http://www.daveramsey.com/" title="Dave Ramsey">Dave Ramsey</a>, I really do.

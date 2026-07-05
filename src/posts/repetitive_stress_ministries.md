@@ -1,6 +1,20 @@
 ---
 title: "Repetitive Stress Ministries"
 date: "2006-12-11T17:01:28"
+comments:
+  - author: "Vicki"
+    date: "2006-12-11T18:10:12"
+    text: |
+      Oh, how I enjoy coming here to catch up on what I've missed! Sure do relate to those stress injuries:-) And bless Kathleen's heart--so sweet and giving of her. 
+      
+      Warmest Christmas blessings,
+      Vicki
+  - author: "Tricia Goyer"
+    date: "2006-12-11T18:57:02"
+    text: |
+      There is a verse that talks about "praying for workers for the harvest." That's a good prayer, and one that is sometimes answered before we even know it.
+      
+      Lord, thank you for those who give to see lives touched for YOU.
 ---
 
 I know. Most people suffer sports injuries while actually doing...sports.

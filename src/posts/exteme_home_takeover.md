@@ -1,6 +1,57 @@
 ---
 title: "Extreme Home Takeover"
 date: "2006-06-05T13:26:25"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-06-06T02:12:48"
+    text: |
+      I love the way you write, Katy. You make me laugh and cry. 
+      
+      Grace made the takeover easier on us. The summer after her freshman year in college she announced she wanted to completely redo her room. She went through all her mementos and either trashed them or stored them in plastic bins. We painted the walls, sheetrocked the ceiling, refinished the wood floors, framed some b&w photos she'd taken and hung them on the walls, even bought new furniture and linens. It's her room when she comes home, but it makes a lovely guest room most of the time. 
+      
+      George is in the process of converting Luke's old room into a science lab. So I know how you feel. It's kind of sad to erase the traces. 
+      
+      Of course, having decorated my house in Framed Family Fotos motif, there's no really danger of their presence ever being missed. 
+      
+      Wishing you much more than well,
+      Jeanne
+  - author: "Paula"
+    date: "2006-06-06T02:47:11"
+    text: "My oldest gets her driving permit this week . . . not a room shrine issue, but it reminds me how close I am to those days!"
+  - author: "lisa"
+    date: "2006-06-06T04:38:56"
+    text: |
+      katy, i've just had to go through a similar thing myself, as we're moving from Kansas to Florida on pretty short notice because of C's job..i've had to look at and make a decision about (keep, goodwill, garage sale, or garbage?) EVERY THING in our humble abode. after awhile, i thought i was going to lose it if i had to look through one more box of kid's school papers, and got really good at pitching things altogether. asking myself if i really wanted to UNPACK this stuff at the other end helped tremendously. i'm a sentimental sucker for sure, but this time has really shown me how to prioritize in this area!
+  - author: "Nancy Wood"
+    date: "2006-06-06T15:45:48"
+    text: |
+      Oh Katy, how you make me laugh!  I love how you describe Mom! That gives me a much better word picture than the usual way I've seen things! Your writing and your ways are very inspirational, you know!   Much love!  Nancy
+  - author: "Vicki"
+    date: "2006-06-07T20:33:40"
+    text: |
+      Katy, I wanna write like you when I grow up:-) Loved your post--it connected with my mommy heart of three (all grown and have flown the coop, as they say). 
+      
+      Would love to get some writerly perspective at my new place under 'Valuable Writing Lessons' if you get a chance. Thanks, Katy. God bless.
+  - author: "Bridget"
+    date: "2006-06-10T05:23:38"
+    text: |
+      Ah, to have my old bedroom called a "shrine"...that's so funny to me! :)  I didn't move any of that stuff out until we moved Mom into assisted living three years ago, you know that, right?   The puzzles went into the trash, I'm sad to say, as did two of the Prom dresses after I did a fashion show for Jim, who took pictures.  The one from sophomore year didn't fit at all, although Baillie looked great in it.  The junior year dress actually fit and zipped almost all the way, but my boobs overflowed out.  LOL.  I kept my flapper senior prom dress..you just never know when it might be needed as a costume.  I loved that dress!  As for the dance costumes, they, too, ended up thrown away, but I still have all the memories of your kids and the other nieces/nephews trying on the costumes through the years and performing for the family.  The teenage secrets stored away in the drawers and closet shelves consisted of letters from lost loves, pictures of past boyfriends, and memories of such a wild past that I needed to keep stored safely away in Kansas City.  I miss my home, my room.  No one seems to understand what memories my "shrine" really holds.  Thanks for helping me remember.
+  - author: "Katy"
+    date: "2006-06-13T14:51:06"
+    text: |
+      Jeanne--Some kids take it easier than others, and some parents do, too. Your Grace sounds like a girl I'd get along with!  :)
+      
+      Paula--Oh, my! I remember the first license around here, 11 years ago. I let him go up to the gas station alone for his first solo fun. Gave him ten minutes to get there and back. I've never prayed so hard in my life! The years do fly by after they start driving....
+      
+      Lisa--You're moving? I've loved knowing you were just over there, beyond the bend. You will be missed in this neck of the woods, but please stay in touch!! I am glad you have the strength to go through stuff on this end. You will be glad.
+      
+      Vicki--You are so nice to think that I might have a writing lesson to contribute! I will definitely give that some thought....  :)
+      
+      Bridgie--I am still intrigued by how differently kids experience their home life. I never had a room of my own, much less a shrine! Ha. Carrie took a ton of pics of her shring before we disassembled it and started over. Then she LOVED what we'd done with her room when she came home this weekend. And took more pics. She was ready.....
+  - author: "transsexual"
+    date: "2006-07-12T10:14:43"
+    text: |
+      Aesthetician <a href="http://www.scurvies.info/transexual.html">transexual</a> holster farinaceous batmen turds. Lustre <a href="http://www.brutalizing.info/mmf.html">mmf</a> overcoming plusher embanked sobriquet.
 ---
 
 I never thought this would happen to me, but it has.

@@ -1,6 +1,27 @@
 ---
 title: "Party Down, Dudes"
 date: "2007-04-13T16:00:11"
+comments:
+  - author: "Suzan"
+    date: "2007-04-13T19:20:48"
+    text: |
+      I gave up on my TBR pile and put them all on the top bookshelf. Now their random, oh well.
+      
+      I read "Reading like a Writer." It's good.
+  - author: "Suzan"
+    date: "2007-04-13T19:23:12"
+    text: |
+      Um, let's try that post again, shall we? Now the TBR books are randomly placed. I have no idea in which order I was supposed to read them. 
+      
+      I'm brain dead today. Wide awake this morning at 4 AM. Now it feels like midnight, though it's going on 3:30 PM. I can't see straight, let alone type. LOL
+  - author: "Katy"
+    date: "2007-04-19T02:54:49"
+    text: |
+      Suzan--OK, the shelf. That might work long term! Whoever said the TBR pile had to be on the bedside table? You've changed my life! (But then, you knew that, right?)
+  - author: "Bill Braunlich"
+    date: "2007-06-26T17:31:46"
+    text: |
+      Hi, you said something about your Mom's foot doctor.  I am looking for a great foot doctor in Kansas City that specializes in acquired flat feet.  Can you tell me who's your Mom's Doctor?  Is he a Christian?
 ---
 
 Doug and I enjoy throwing a good blow-out party every now and again. In fact, at least 3 times per year we host a doozy. And I'm not talking regular holidays here, folks. Those go without mentioning.

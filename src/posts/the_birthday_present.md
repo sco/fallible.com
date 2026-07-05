@@ -1,6 +1,49 @@
 ---
 title: "The Birthday Present"
 date: "2006-01-16T22:53:26"
+comments:
+  - author: "Bridget"
+    date: "2006-01-17T00:28:17"
+    text: |
+      Mom's just getting worse, isn't she?  I was in the middle of a conversation with her Saturday, when she said, "Well, I'll just have to talk to you in a few days." Then, she hung up.  
+      As for your birthday, it's gonna be dragged out a bit longer since I still plan on taking you out to lunch sometime.  We need some sister time! :)  Love ya.
+  - author: "Katy"
+    date: "2006-01-17T01:00:08"
+    text: |
+      Bridgie--She told me about cutting short your conversation. She said someone had come into her apt. and she needed to talk to her, but she could not remember who it was.   Oooh! Lunch! Let's get it on the calendar, girl!  :)
+  - author: "Ame"
+    date: "2006-01-17T03:22:00"
+    text: |
+      Oh, Katy, it is the priceless, intangible that we learn to hold so dear, isn't it :)  As we weed out our "stuff" in this stuff-filled world, we find what little value it holds.  But another birthday with your Mom . . . now that's priceless :)  What a blessing you are to her :)
+  - author: "Kathryn, the daring one"
+    date: "2006-01-17T07:29:49"
+    text: "I am also a Decemberite."
+  - author: "Michael O'Connor"
+    date: "2006-01-17T10:32:01"
+    text: |
+      Welcome home Mama Katy. Hope you are tanned and rested. We are parched for your stories and ready to listen.
+      
+      Oh and Happy Birthday young lady. From here you don't look a day over twenty-seven.(But then, California is a long way away.)
+  - author: "Katy"
+    date: "2006-01-17T19:38:12"
+    text: |
+      Ame--Yeah. For me, it's getting to be about all the stuff that MasterCard can't buy.
+      
+      Kathryn--What date? Please accept my sympathy.  ;)
+      
+      Michael--Tanned? You must mean even more freckled than usual! Man, we had it good at 27, huh? At least, when looking in the mirror!
+      
+      I've decided I'm going to post some pics here soon to acquaint you young folks with what a geezer-chick blogger looks like. Try not to laugh too hard!
+  - author: "Ame"
+    date: "2006-01-17T22:43:59"
+    text: |
+      Define "young"  HAHAHAHAHA
+  - author: "Kane"
+    date: "2006-03-18T21:12:55"
+    text: "Birthday is a memorable day and one should celeberate it at its fullest."
+  - author: "Guia restaurantes"
+    date: "2009-08-11T20:05:20"
+    text: "I am General Manager in the organisation and Chairman is a simple person. The gift should be decent and cost preferably should be upto Rs. 5000. Please advise."
 ---
 
 Anyone who has endured many years with a December birthday will tell it to you like it is if you're brave enough to handle the truth.

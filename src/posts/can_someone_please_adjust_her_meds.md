@@ -1,6 +1,37 @@
 ---
 title: "Can Someone Please Adjust Her Meds?"
 date: "2006-11-04T14:48:13"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-11-04T16:17:46"
+    text: |
+      I loved that show. Tim Conway as the shuffling little old man? So funny.
+      
+      George can't tell jokes, either. He tries, bless his heart, but he always bungles it. We laugh--not at the jokes, but at him. So I guess he gets the desired results one way or another.
+  - author: "Sabine"
+    date: "2006-11-05T04:34:54"
+    text: |
+      I can't even <i>write</i> a joke properly, let alone tell it. This post reminds of a joke a family friend told us at a party:
+      
+      A man is sent to prison for the first time. At night, the lights in the cell block are turned off, and his cellmate goes over to the bars and yells, "Number twelve!" The whole cell block breaks out laughing. A few minutes later, somebody else in the cell block yells, "Number four!" Again, the whole cell block breaks out laughing.
+      
+      The new guy asks his cellmate what's going on. "Well," says the older prisoner, "we've all been in this here prison for so long, we all know the same jokes. So we just yell out the number instead of saying the whole joke."
+      
+      So the new guy walks up to the bars and yells, "Number six!" There was dead silence in the cell block. He asks the older prisoner, "What's wrong? Why didn't I get any laughs?"
+      
+      "Well," said the older man, "sometimes it's not the joke, but how you tell it."
+      
+      (Since I couldn't remember how it went exactly, I copied this from http://reddit.com/info/6xmp/comments/c6yaw)
+  - author: "Chris(tine)"
+    date: "2006-11-05T06:26:25"
+    text: |
+      I can't remember any parts of jokes, and I can't retell them well even when I've just heard them.  You, at least, have a fine grasp of humor in your writing.
+      
+      I hope there wasn't more to your post today, that life (or a parent?) isn't driving you crazy...
+  - author: "Mob mesh"
+    date: "2009-07-12T12:18:44"
+    text: |
+      Wow really very nice and good information you share here. I read your entire post and really superb information you share here on <a href="http://www.hohahe.com/index.aspx">funny stuff</a> thanks for your information.
 ---
 
 I'm really, really awful at remembering jokes. I know there was one going around when my kids were little that we told over and over for years. Even now, I can only remember the punchline, which went "My buns are burning! My buns are burning!"

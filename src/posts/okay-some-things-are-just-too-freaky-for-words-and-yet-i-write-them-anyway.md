@@ -1,6 +1,30 @@
 ---
 title: "Okay, Some Things Are Just Too Freaky For Words, And Yet I Write Them Anyway"
 date: "2008-08-02T23:08:00"
+comments:
+  - author: "Katy"
+    date: "2008-08-03T11:58:48"
+    text: |
+      BTW, the girl who appears to be sitting next to Scott is actually one row in front of him, I believe. Boo-hoo that Brooke and Kevin didn't make it into the picture. Oh, well. I'll keep watching TV...
+  - author: "Deb"
+    date: "2008-08-04T00:23:12"
+    text: "Very cool!"
+  - author: "Gracie"
+    date: "2008-08-04T02:24:16"
+    text: "That is so cool, Katy! Congrats on seeing your kids make it to television fame. Blessings!"
+  - author: "D'Ann Mateer"
+    date: "2008-08-04T02:50:22"
+    text: "How do such fun (and funny) things always happen to you? That is so wild! What a great experience--and a great story!"
+  - author: "Lisa Jordan"
+    date: "2008-08-05T12:14:27"
+    text: "Katy girl, you need to incorporate that into a novel...what a funny experience!"
+  - author: "christa allan"
+    date: "2008-08-09T03:14:50"
+    text: "What a wonderful experience. As for me...well, I shudder to think where national television might find my son......."
+  - author: "medajmpr"
+    date: "2008-09-09T04:07:45"
+    text: |
+      weybfmpj http://uvlvnvcb.com lyrtqnsw vhnmejqg
 ---
 
 Doug and I RARELY watch the national news, on any station.

@@ -1,6 +1,32 @@
 ---
 title: "Come Saturday Morning"
 date: "2007-10-13T16:48:35"
+comments:
+  - author: "Katy"
+    date: "2007-10-13T18:44:24"
+    text: |
+      Back in the day, my kids used to make me pay them $1 for every blog comment on a post they found even SLIGHTLY embarassing. Doug suggested the same thing this morning. So, comment away, if you'd like to see his black pants weighed down with dollar bills! (I'd pay him in quarters, but I don't want to re-injure his back...)
+  - author: "Michael Main"
+    date: "2007-10-14T04:22:24"
+    text: |
+      You guys are sticking to decaf right? :)
+      
+      -MM
+  - author: "Suzan"
+    date: "2007-10-14T18:57:59"
+    text: |
+      Oh yeah. Been there! Many times!
+      LOL
+  - author: "Katy"
+    date: "2007-10-15T13:43:13"
+    text: |
+      MM--Let's just say we're in our experimental phase. The last time he had a fully-caffed cuppa was in 2003. I had to take him to the ER for his racing heart. No kidding. A cup of caf is too expensive, when it comes to Dougie Raymond. This empty nest DOES take some adjusting to, though.....  :)
+      
+      Suzan--Last night, the house had gotten hot and I turned on the attic fan, opening only one bedroom window. When Doug came to bed, he said, "It got really cold in here, so I closed the window." I was SOUND asleep, but plenty alert to say, "Ahem. Did you turn OFF the attic fan?" Umm, no. He got up and turned it off. Then he said, "I flipped the furnace on, set at a low temp, in case it gets too cold tonight..." I thought that sounded like a plan until I awakened this morning, and went into his home office, where the COLD air was blowing in through an OPEN window!!! Sheesh.
+  - author: "Xpym Xpym"
+    date: "2007-10-26T01:10:43"
+    text: |
+      [url=http://tb.dp.ua/levitra-viagra.html]Levitra Viagra[/url] | [url=http://tb.dp.ua/prescription-viagra.html]Prescription Viagra[/url] | [url=http://tb.dp.ua/pill-viagra.html]Pill Viagra[/url] | [url=http://tb.dp.ua/100mg-viagra.html]100mg Viagra[/url] | [url=http://tb.dp.ua/cialis-vs-viagra.html]Cialis vs Viagra[/url] | [url=http://tb.dp.ua/get-viagra.html]Get Viagra[/url]
 ---
 
 You may not know how empty nesting couples talk to each other. I exist to provide the important service of giving you an insider's peek into this It-Could-SO-Happen-To-You phenomenon.

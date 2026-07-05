@@ -1,6 +1,22 @@
 ---
 title: "OK. Now She's Scaring Me!"
 date: "2007-06-04T17:02:43"
+comments:
+  - author: "Suzan"
+    date: "2007-06-04T19:31:54"
+    text: |
+      Well, we'll see if she's really serious or if she just wants to get out of serving time.
+      
+      On the other hand, I know just what she means too.
+  - author: "Michael Main"
+    date: "2007-06-04T22:24:08"
+    text: "I wonder who wrote it for her..."
+  - author: "upasna"
+    date: "2007-06-05T06:29:05"
+    text: |
+      Hello! came across a large friendship community and thought to pass it on. You want to join the community you should pass the E-qool test. Follow the link below and join
+      
+       http://www.bigadda.com/Boss/quiz.php?type=web&uid=2784
 ---
 
 I don't do a lot of celebrity stuff here at fallible. Sure, I've dropped a few names in my day. I could probably find references to Mel Gibson, George Clooney, David McCallum, Pierce Brosnan, George Clooney, Denzel Washington, Russell Crowe, and George Clooney if I took a peek through the archives.

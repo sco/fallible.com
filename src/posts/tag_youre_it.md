@@ -1,6 +1,45 @@
 ---
 title: "Tag, You're It!"
 date: "2005-05-02T22:15:02"
+comments:
+  - author: "Michael Main"
+    date: "2005-05-03T05:04:41"
+    text: |
+      You know I had to look up &quot;meme&quot; the other day when I got 'tagged&quot; by this same &quot;meme&quot; from another wonderful writer, Bet at &lt;a href=&quot;http://betsblog.typepad.com/weblog/&quot; rel=&quot;nofollow&quot;&gt;Dappled Things&lt;/a&gt;.   I hemmed and hawed an excuse but I guess now that I've been double tagged I'll have to play...besides which I have nothing to write about unless I start recapping West Wing episodes :)
+      
+      I'll play tomorrow...course I have to figure out who to tag... Gordon won't play...maybe the two grumpy old men from Kentucky :)
+      
+      That may be the hardest thing to decide... :)
+      
+      -M 
+      -----
+  - author: "Katy Raymond"
+    date: "2005-05-03T05:52:45"
+    text: |
+      Well, if you can write about your recent obsessive viewing of an entire season's worth of West Wing, why the heck didn't I work some Idol trivia into my 5 answers?  ;)
+  - author: "Paul Nichols"
+    date: "2005-05-03T08:29:46"
+    text: |
+      I read Robin Lee Hatcher's blog almost every day. Hey, she tagged you. I took a look and Lo! and Behold! I lost the little slip of paper you gave me last month. I've found you again. You have a great site!
+      
+      Hope you don't mind, but I'd like to link you to my blog, http://writingfromthehip.blogspot.com/ Lemme know. I don't do that without permission.
+      
+      See you at HACWN? Hope so!
+      
+      Paul Nichols
+  - author: "Cindy Swanson"
+    date: "2005-05-03T17:26:20"
+    text: |
+      Katy, you might as well be a comedienne now!  I can't count the times your blog has made me laugh out loud.  You have an awesome sense of humor! :)
+  - author: "Katy Raymond"
+    date: "2005-05-04T03:12:38"
+    text: |
+      Paul--I'm glad you finally mentioned the local writers group, or I would NOT have remembered meeting you! But now I do! So much for scraps of paper, huh? Glad you found us. I'll visit your site, too...  :)
+      
+      Cindy--Girl, you made my day!
+  - author: "Katy Raymond"
+    date: "2005-05-04T03:13:25"
+    text: "Oh, and Paul--You have permission."
 ---
 
 Robin Lee Hatcher (a fabulous author whose books and blogs you should be reading!) at <a href="http://robinlee.typepad.com/i_was_just_thinking_/2005/05/tag_youre_it.html">I Was Just Thinking</a> tagged me this afternoon to complete five of the following sentences, then pass them on to three more people.

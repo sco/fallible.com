@@ -1,6 +1,59 @@
 ---
 title: "Mama Katy's Blog"
 date: "2006-01-13T18:45:04"
+comments:
+  - author: "draymond"
+    date: "2006-01-13T23:37:52"
+    text: |
+      Michael: Katy also said she couldn't possibly do the dishes this week, what with water-soluble stitches and all. Come to think of it, I've been doing all the vacuuming since Katy herniated a disk in her neck. I think I need to break something quick. Especially before Katy slips another disk laughing at this hilarious post!
+  - author: "Katy"
+    date: "2006-01-13T23:48:02"
+    text: |
+      Doug needs to get his medical conditions straight! I haven't vacuumed since I had a hysterectomy in 1990. I haven't carried in the groceries since I herniated TWO disks in my neck in 1997. And I haven't driven at night on the highway since I had brain surgery in 1999.
+      
+      Honestly, though, a few years back he had a hernia repaired and I tied his bloomin' shoes for FOUR DAYS! 
+      
+      I am going to be VERY AFRAID to ask "just anyone" to guest blog from now on!!! I'd darn well better make sure they're the "sympathetic type" before I make my request, huh? ;)
+  - author: "Michael O'Connor"
+    date: "2006-01-14T00:08:58"
+    text: |
+      Very nice touch guys--arguing with each other *wink,wink* online here and supposedly at home while you are both sipping Shirley Temples on a beach in Fiji before winging your way back home Sunday. Why not open up a Fallible-cam with a "live" feed and about an hour of the Raymonds at home, zooming in and out of the shot? You could put this on an endless loop and it would be more believable than the photos from iStock.com and having a six year old type for you.
+      
+      Get your rest, Katy. Your adoring throng awaits the news that you are "back" and ready to blog.
+  - author: "Katy"
+    date: "2006-01-14T00:29:01"
+    text: |
+      OK, do you think beaches in Fiji come equipped with even a "wi," much less a "fi"? Come on, O'Connor! Just now, the Marginal Man, TM, walked through the bedroom where I sit eeking out a few painful words here and there, and said (very pitifully, I might add), "Well...I guess I'd better fix myself some dinner..." Sheesh! Are those words a woman in recovery would have to hear anywhere on the island of FIJI??? I think not...
+  - author: "Liz"
+    date: "2006-01-14T04:55:17"
+    text: |
+      I must admit, when I saw you (Katy) commenting on my blog this week, I wondered at the "surgery."  
+      
+      ha haa!!!! This post had me rolling.  As a matter of fact, I've read it twice!
+  - author: "Ame"
+    date: "2006-01-14T04:56:51"
+    text: |
+      The first time I saw Veggie Tales I had no previous knowledge of the stuff.  As I watched and listened, I realized this MUST have been written by a MAN!  Sure enough, saw the credits at the end . . . written by a man :)
+      
+      Same here - didn't need Michael's name at the top to know this was written by a man!  hehehehehe   Because, you know what?  If these fingers were Michael's fingers?  I doubt anyone would hear from Michael for forever!
+      
+      Oh, gosh, Michael! I've just herded you into this male stereotypical corral, and I don't even know you!!!  But I do love Katy!!!!!
+      
+      Wouldn't you prefer, though, to look through the perspective that though we all adore Katy, we have discovered during her absence that she has exquisite taste in friends?  :)  hehehehehe
+  - author: "Katy"
+    date: "2006-01-14T14:05:20"
+    text: |
+      Liz--O ye of little faith!!!  ;)  Glad you found Michael entertaining. I've read this post six or seven times, and I've shed quite a few hysterical tears over it, I must say...
+      
+      Ame--Oh, baby, bring on the stereotypes! And not just about Michael (though he is so deserving...). What about The Marginal Man, TM, expecting the DISHES to be washed by a woman who has stitches in her hand!
+      
+      That reminds me SO much of my dear father, dead now nearly 22 years. The night I was born, my mother knew she was in desperate, fast-moving labor. My father didn't want her to go to the hospital until she'd washed the dinner dishes!!!!! She flatly refused, and I was born within the dinner hour.
+      
+      Michael and Doug are definitely more evolved than THAT, don't you think?  :)
+  - author: "Ame"
+    date: "2006-01-15T06:34:27"
+    text: |
+      Katy . . . when he comes home with paper plates and plastic ware, you'll know he's figured out that the dishes are HIS responsibility!!!!!  HAHAHAHAHA
 ---
 
 <i>(And now...ahem...this from guest blogger Michael O'Connor.)</i>

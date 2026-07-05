@@ -1,6 +1,17 @@
 ---
 title: "Monday Morning Funnies"
 date: "2009-01-12T14:30:00"
+comments:
+  - author: "Terri"
+    date: "2009-01-12T21:13:27"
+    text: "hilarious"
+  - author: "Sandi Thompson"
+    date: "2009-01-12T22:16:00"
+    text: |
+      Aren't we all just a little now and then?
+  - author: "alison"
+    date: "2009-01-13T17:41:32"
+    text: "I was I was married and could have fun conversations like you guys do."
 ---
 
 This is the kind of stuff that gets said around here, when it's just Doug and me doing the saying:

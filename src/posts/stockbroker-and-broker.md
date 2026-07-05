@@ -1,6 +1,26 @@
 ---
 title: "Stockbroker And Broker....."
 date: "2009-01-07T13:43:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2009-01-07T15:05:07"
+    text: |
+      Katy
+      I'm with you. They will probably cancel all the contracts to keep the military up to date and have the world digging and filling in ditches. Hopefully, your book will get published and make money. Meanwhile, hang in there.
+  - author: "Terri"
+    date: "2009-01-07T20:57:05"
+    text: |
+      the world still benefits from many of the WPA projects of the 1930's.  I know Paola still has a few brick streets built under their auspices and you have probably visited parks with lots of wonderful stonework, built by the WPA as well.  But I agree with you about "fake work."
+  - author: "Katy"
+    date: "2009-01-07T21:25:31"
+    text: |
+      Sandi---Publishing is definitely suffering right now, along with so many other industries. But I'm still hopeful!
+      
+      Terri---I know you are right, and I'm sure I'm not identifying specific WPA projects when I see them and appreciating them. I do know a wonderful New York City photographer from that time named Berenice Abbott. She was funded by WPA to chronicle the changing face of NYC. I would love to own a few of her wonderful photos.....
+      
+      But busy work or fake work (apart from the truly useful/beautiful things that sometimes do happen in spite of the government's best intentions) makes me tired, as it contributes nothing to society but paychecks at the taxpayers expense. (Of course, I have been paid by private corporations to do "busy work," and I don't get that, either.)
+      
+      I wonder, too, about the nature of the WPA-type ideas in store for us in 2009 and beyond. We are no longer a society of hard physical laborers. When the government refers to putting people to work on the "infrastructure," are they still talking about roads and parks and railroads, as in the 1930s? Or is there a new meaning to the word "infrastructure"?
 ---
 
 Doug was talking to a stockbroker friend of ours the other day. I know, I know. It sounds like an oxymoron, "stockbroker friend." But, hey, it happens.

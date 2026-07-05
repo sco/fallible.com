@@ -1,6 +1,27 @@
 ---
 title: "My Idea Of Outragious Fun, Except For The Hungry Masses Yearning For Their Next Meal Part"
 date: "2007-01-13T21:22:31"
+comments:
+  - author: "Liz"
+    date: "2007-01-14T04:23:56"
+    text: "ummm I really want to laugh, but as you reap what you sow, I know that tomorrow I would be stuck behind her twin brother or something.  so I will only chuckle sympathetically.  way to get blog fodder out of it though!"
+  - author: "Michael #2"
+    date: "2007-01-15T16:13:09"
+    text: |
+      Waht a pretty picture you paint with your words... I did  laugh btw.
+      
+      Take Care
+      Michael
+  - author: "Katy"
+    date: "2007-01-15T17:43:41"
+    text: |
+      Liz--How are you, lady? :)  And to think I got behind this girl ON PURPOSE. I don't regret it, either. She was more fun that back-to-back episodes of Monk, which I highly recommend.
+      
+      Michael #2--Laughter is always appreciated! Now, if you could just get my little sister to start blogging again. The stinker.
+  - author: "Staci"
+    date: "2007-01-20T17:53:05"
+    text: |
+      Katy - as always you make me laugh and look at life with a whole new perspective! I even had to call Mike in to read this one. Can't wait to see you in September! We need to grab a coffee together!
 ---
 
 I had to get in the grocery line behind the girl with the cornrows, I just had to. If you'd been there, you would have done it, too.

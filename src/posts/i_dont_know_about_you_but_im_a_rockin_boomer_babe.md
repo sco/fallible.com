@@ -1,6 +1,81 @@
 ---
 title: "I Don't Know About You, But I'm A Rockin' Boomer Babe!"
 date: "2007-08-05T21:44:33"
+comments:
+  - author: "Diann"
+    date: "2007-08-06T14:42:50"
+    text: |
+      Great interview, Katy and Allison! 
+      
+      Just reading about all that you do makes me want to take a nap, Allison! You go, girl!
+  - author: "Anna"
+    date: "2007-08-06T14:57:19"
+    text: "Sometimes I think that at the still young age of 27 I have waited to long to accomplish things. (I should have gone to school earlier, etc., etc.) Thanks for the words of encouragement for all women."
+  - author: "Carrie K."
+    date: "2007-08-06T15:19:41"
+    text: "Sounds like a great read - count me in!"
+  - author: "Bridget"
+    date: "2007-08-06T15:27:22"
+    text: |
+      Love the interview, Katy!  You have yet another career in the making!  Put me in the drawing... :)
+  - author: "Terri"
+    date: "2007-08-06T15:38:20"
+    text: |
+      The filling my time with "busyness"--as a way to avoid my dreams is ME all over.  My dream is to take a round the world cruise with my husband--EXPENSIVE, so I sit and merely read about all the travelers who have gone before me.
+  - author: "Deb Raney"
+    date: "2007-08-06T18:26:17"
+    text: |
+      I'm right up there with you boomers with that 52-53 thing going on. : ) I've had the pleasure of meeting Allison, but I've yet to have the pleasure of reading one of her books, so you betcha...sign me up!
+  - author: "Allison Bottke"
+    date: "2007-08-06T23:20:59"
+    text: |
+      Hello everyone! Allison here. I just managed to log on and read this blog and I want to thank dear Katy for hosting me. Your questions were great! I would have been online sooner, but we are moving from MN to TX (Dallas area) and I'm overwhelmed trying to pack. I'm excited about the idea of no snow this winter! YIPPEE and PTL! Any "fallible gals" in the Dallas area? Okay, logging off now. Thanks, Katy, for this opportunity - and I love your blog, I'll be back often when I get moved! :-)
+  - author: "Karen"
+    date: "2007-08-07T12:39:39"
+    text: |
+      Hi Katy,
+      
+      Thanks for the inspirational interview.  I would like to read One Little Secret so I hope it's not too late to enter the drawing.
+  - author: "Katy"
+    date: "2007-08-07T14:12:45"
+    text: |
+      Thanks for all the great comments, everyone! As for me, I am thrilled to see that Allison (in comment #7) admits to feeling "overwhelmed"! Tacky of me, but always nice to know the rest of us are in good company, eh?
+      
+      Allison, thank you so much for the fun interview and for stopping by in the comments section. Best wishes for a smooth move, really!  :)
+      
+      I'll choose a book winner later today (Tuesday....) Good luck, you fallible folks, you!
+  - author: "draymond"
+    date: "2007-08-08T16:56:19"
+    text: |
+      Drum roll, please....We have a winner! The lovely Deb Raney!!! Congrats, Deb. Since you've already met Allison in person, now you get to put a book with a face! I'll be popping One Little Secret in the post to you....
+  - author: "Bridget"
+    date: "2007-08-08T23:29:19"
+    text: |
+      I'm so sad....I never win anymore... The luck of the Irish isn't with me.
+  - author: "Andburnnotice"
+    date: "2007-12-05T13:34:14"
+    text: "Great site keep up the good work"
+  - author: "Weekeureka"
+    date: "2007-12-05T14:29:02"
+    text: "Great site. Keep doing."
+  - author: "Chairmannightstalker"
+    date: "2007-12-05T17:03:35"
+    text: "I am very excited to see this site.  Universal design and accessibility.  Congratulations!"
+  - author: "Chairmanreal"
+    date: "2007-12-05T21:08:50"
+    text: "Greetings. This site is so full of information"
+  - author: "Boxdoro"
+    date: "2007-12-25T16:06:02"
+    text: "Nice site keep it up"
+  - author: "Marsmacgyver"
+    date: "2007-12-25T18:17:39"
+    text: "Wow Pete, what an amazing new site you have now; great therapy and loads to contemplate. Thanks for building my new art/design site - can not wait to see the end result."
+  - author: "Anddoston"
+    date: "2007-12-27T11:29:35"
+    text: "Hello admin, nice site!  Good content, Beautiful design, thanks!  Greetings"
+  - author: "Founddeadlikeme"
+    date: "2007-12-27T12:33:25"
+    text: "Thank you for the informative website"
 ---
 
 OK, it's official. Once Allison Bottke, of God Allows U-Turns fame, pronounces you (or, in this case, me!) a Rockin' Boomer Babe, well. Let's just say she ought to know.

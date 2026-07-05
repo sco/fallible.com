@@ -1,6 +1,14 @@
 ---
 title: "Shredded"
 date: "2007-05-15T11:38:22"
+comments:
+  - author: "Suzan"
+    date: "2007-05-15T17:23:19"
+    text: |
+      Ah, girl. I'm lifting you up right now.
+  - author: "Sunflower"
+    date: "2007-05-16T06:58:13"
+    text: "Oh Katy! Wish I could give you a hug..."
 ---
 
 Sometimes I write about off-brand Triscuits because it's the only thing I can think of at the moment that isn't stressful. And it's better to write about crackers than to eat them, especially if it takes eating a whole bunch of them to relieve the stress.

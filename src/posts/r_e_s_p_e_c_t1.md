@@ -1,6 +1,40 @@
 ---
 title: "R-E-S-P-E-C-T"
 date: "2006-07-13T18:00:49"
+comments:
+  - author: "Vicki"
+    date: "2006-07-14T01:39:44"
+    text: |
+      Beautiful Blog!
+      
+      My MIL used to say that a woman could throw more out the back door than a man could bring in the front. 
+      
+      I just started listening to Dave Ramsey - wonderful and inspiring show. We are working on our finances too. Good Luck to you!!
+  - author: "Suzan Robertson"
+    date: "2006-07-14T20:48:26"
+    text: |
+      Katy, this post hit home with me. My hubby and I have much in common with you two. And respect regarding money is something we need to see with new eyes. I'm glad we're not the only ones in this boat.
+      suzan
+  - author: "Katy"
+    date: "2006-07-15T18:36:11"
+    text: |
+      Vicki--Whoa! My MIL never said that!  :)  Love Dave Ramsey. Hope you guys can make it work for you!
+      
+      Suzan--My little buddy! So nice to see you here. You and your hub are not alone. I've decided coming clean on some of my crummy habits and attitudes might help some other people feel than can get "un-stuck", too. Will you be at ACFW?
+  - author: "Suzan"
+    date: "2006-07-15T23:49:46"
+    text: |
+      I'll be at ACFW. Can't WAIT to see you. 
+      
+      Make sure you're at the FIF Friday Fest at ACFW. The FIF/MASTER'S Artist gang is getting together for dinner Friday night during the conf. Check the FIF posts on ACFW
+  - author: "Katy"
+    date: "2006-07-16T17:38:38"
+    text: |
+      Suzan--Oh, goody! I haven't been a faithful commenter on Master's Artist or FIF lately, but I would love to meet everyone! Thanks for the heads up!
+  - author: "The DEBTective"
+    date: "2006-08-28T16:52:50"
+    text: |
+      That's what I'm talking about, babe. It takes guts to have the insight into yourself that you did, and I'm proud of you. You're getting on the same page with your husband and the two of you are working together. And now you're on your way.
 ---
 
 I'm learning about a form of disrepect for my husband that I'd never acknowledged until now.

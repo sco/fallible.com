@@ -1,6 +1,12 @@
 ---
 title: "(No Title)"
 date: "2001-01-12T16:01:13"
+comments:
+  - author: "Monroe"
+    date: "2010-07-29T07:21:59"
+    text: |
+      I remarked in the second paragraph that I intentionally leaved dead Smashing Powder Magazine. 
+      <a href="http://www.jaysxlist.com/">montreal outcalls</a>
 ---
 
 i remember visiting my father one day when scott was a two-year-old. i couldn't wait to tell my dad about the latest, greatest thing the baby had accomplished. (hmmm, i should have written it down, since i'm struggling 19 years hence to know what it was.) "daddy," i enthused, "it's a milestone!"

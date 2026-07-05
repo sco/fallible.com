@@ -1,6 +1,11 @@
 ---
 title: "This Is Only A Test"
 date: "2005-08-31T19:14:00"
+comments:
+  - author: "to do denver"
+    date: "2010-06-16T01:56:30"
+    text: |
+      I've been on vacation for the past week while I wait for my new job to start. It's really flown by, but I must say it's the strangest vacation.
 ---
 
 "Mom, would you rather I leave the room?"

@@ -1,6 +1,20 @@
 ---
 title: "Irregulars"
 date: "2007-05-14T00:38:44"
+comments:
+  - author: "Suzan"
+    date: "2007-05-14T02:17:27"
+    text: |
+      I pretty much shop at Whole Foods and buy a lot of their home brand. Most of it is pretty good, but I avoid their tortilla chips. That's okay because I've pretty much given up tortilla chips. Anyway, Whole Foods have their own Triscuits, called, "Woven wheat crackers." Isn't that a nice name? They're drier than the "name brand." But hey, crackers with nothing but whole wheat? At a reduced price? I'll take it! I hate to admit this, but sometimes I put cheese on them and nuke em for 10 seconds...
+      
+      And sometimes I get on a salt kick. I don't know why that happens every so often, but I figure my body must be craving it for a reason so I go with it. If I'm on a salt kick and happen upon a good tortilla chip - I ADD salt. Isn't that pathetic?
+  - author: "Katy"
+    date: "2007-05-15T13:54:14"
+    text: |
+      Suzan--I need to check out Whole Foods. I've been in there a few times, but I've never really gotten the lay of the land. It's on the way to my MIL's new place, so I may stop....and yes, Woven Wheats is a poetic name!
+  - author: "blogger"
+    date: "2010-12-15T09:26:21"
+    text: "I bought a graphics card yesterday and installed it in my desktop. Previously I was using the inbuilt graphics thing on the motherboard. The problem is that as soon as the graphics card is installed, the computer suddenly stops detecting the wireless network in my house. My laptop can still detect it though from the same location. Could the graphics card be causing interference, or something?"
 ---
 
 It used to be the low, low price that attracted me.

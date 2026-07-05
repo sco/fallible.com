@@ -1,6 +1,40 @@
 ---
 title: "Have Yourself A Merry Little Colonoscopy!"
 date: "2008-12-19T17:54:00"
+comments:
+  - author: "Carrie K."
+    date: "2008-12-19T21:08:14"
+    text: |
+      Glad all is healthy down there. :) I hope you have a wonderful holiday and birthday and that the New Year brings healthier times. (And a book deal!
+  - author: "Terri"
+    date: "2008-12-20T17:09:46"
+    text: |
+      I've been concerned...think "wellth"  (health & well being)
+  - author: "Sandi Thompson"
+    date: "2008-12-20T20:41:48"
+    text: |
+      Glad to hear there was no serious problem. Hopefully if they need another medication, they will find one a little less painful.
+      My birthday is Dec 29. Have a Happy Birthday. 
+      Blessed Christmas too.
+      Love ya
+      Sandi
+  - author: "Bridget"
+    date: "2008-12-21T01:20:06"
+    text: |
+      Hey...Trileptil is the medicine that Jim takes. It really seems to help him with controlling his headaches.  Maybe you'll have the same luck.  :)  See you tomorrow!!!!
+  - author: "PattyT"
+    date: "2008-12-21T04:11:01"
+    text: |
+      Blessings of health and comfort to you, Katy. "Let Nothing you dismay"...
+  - author: "Christa"
+    date: "2008-12-21T19:19:37"
+    text: |
+      Thrilled to read you passed your test, and you didn't have to study!
+      
+      Have a fabulous Christmas!
+  - author: "Joshua"
+    date: "2008-12-22T19:33:23"
+    text: "Have a happy birthday and a blessed Christmas. May the Lord bring you health and wholeness for the coming year."
 ---
 
 Well, the deed is done. The colonoscopy, that is. And my health is, for all intents and purposes, perfect. I am a specimen to be envied among all womankind. Except for that, of course, I've been really, really sick.

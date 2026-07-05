@@ -1,6 +1,30 @@
 ---
 title: "Why, Oh Why Didn't I Take Home Ec?"
 date: "2008-11-21T18:17:00"
+comments:
+  - author: "D'Ann Mateer"
+    date: "2008-11-22T01:55:39"
+    text: "I learned home ec the same way you did--trial and error and on-the-job-training! And yes, I laughed at this article. It amazes me how people think!"
+  - author: "Joshua"
+    date: "2008-11-25T15:31:51"
+    text: |
+      Home Ec? Is that cooking and sewing? Sadly, I am not very good at either one, but I can build a wall and drywall a room! 
+      
+      As far as cutting back and tradeoffs, I do think I drive less than I did these days, but I still allow myself my morning cup of Starbucks. I don't even feel guilty about the latter either :-)
+  - author: "Dave Mason"
+    date: "2009-01-01T11:28:31"
+    text: |
+      Interesting article! Very informative for me . Thanks for sharing with us. 
+      <a href="http://dave-mason.worldwidefanclubs.com">Dave Mason</a>
+  - author: "Markvel"
+    date: "2009-01-05T18:21:34"
+    text: |
+      Great post.Keep up the fine work.
+      <a href="http://freethemelayouts.com">Wordpress Themes</a>
+  - author: "Marcia"
+    date: "2009-01-17T21:06:41"
+    text: |
+      Terrific post. And your blog is gorgeous! Like you, I didn't take home-ec. This was considered not for college-bound girls, unless you were considering that field in college, of course. I learned by doing.
 ---
 
 When I went to an all-girls Catholic high school from 1968-1972, I was exposed to an education that was nothing if not progressive.

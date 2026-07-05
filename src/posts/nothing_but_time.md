@@ -1,6 +1,15 @@
 ---
 title: "Nothing But Time"
 date: "2007-05-20T22:37:14"
+comments:
+  - author: "Aithyne"
+    date: "2007-06-16T06:54:41"
+    text: |
+      At least Carrie's wedding is that big of a deal to her! That's pretty awesome.
+  - author: "Katy"
+    date: "2007-06-17T21:01:11"
+    text: |
+      Hi, Aithyne--Yes, Mom is pretty psyched about Carrie's wedding. Less than two weeks away now! Should be fun.
 ---
 
 Because Mom's been in the ER twice in the past three weeks, her primary doc's nurse gave me a little call. His office got the reports from the hospital, and she realized it had been a while since Mom had been in for a check-up.

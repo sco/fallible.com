@@ -1,6 +1,41 @@
 ---
 title: "The Get-Up"
 date: "2006-05-18T11:18:13"
+comments:
+  - author: "relevantgirl"
+    date: "2006-05-18T14:08:02"
+    text: "LOL! What I love about my perception of your marriage is the amazing humor you both exhibit. I love, love, love it!"
+  - author: "Michael #2"
+    date: "2006-05-18T16:31:28"
+    text: |
+      Simple.
+      
+      He was going for funny.
+      He was thankful that you noticed.
+      
+      ...and you were complimenting him. You talked to him.
+      
+      Take Care
+      Michael
+  - author: "Katy"
+    date: "2006-05-18T16:52:52"
+    text: |
+      Mary--One of the first things Doug said to me after we got engaged was "Don't laugh at me!" I'm sorry, but that's just not possible. Now, he thinks it's funny that he said that. He has an excellently developed sense of humor, for which I'm eternally grateful. I couldn't live with a guy who couldn't whoop it up a little!   :)
+      
+      Take Care Michael Number Two--I asked Doug just now if he was going for funny. He said that actually, he just couldn't find his pants which, I'm sorry, is pretty funny, isn't it? He also said that he knew I would react to his get-up, and that he looked forward to my reaction. So yeah, he definitely got what he was going for, pants or no pants!
+  - author: "lisa"
+    date: "2006-05-23T02:24:20"
+    text: |
+      from what i understand about men (which probably isn't much but has been beefed up lately by reading shaunti feldhahn's "for women only"), he was thinking about something altogether different than his getup at the moment and, though he responded, did not really even hear you. just a guess, but know that i have BEEN there with my man.
+  - author: "Katy"
+    date: "2006-05-24T14:09:59"
+    text: |
+      Lisa--I suspect you are correct. I should get me one of those how-to-understand-men books. I haven't tried one lately....maybe the next-gen writers can help me out!  :)
+  - author: "lisa"
+    date: "2006-05-29T15:07:47"
+    text: |
+      there is an absolute ocean of how to/self help books out there and i'm leery at best of the new things always coming down the pike..the reason i liked this particular one is that it's based on a "blind, meticulously planned and executed" survey of four hundren anon. men ranging in ages from 21 to 75. intriguing!
+      anyway...not exactly '10 steps to a better you', and if i could stomach it, i'd say just about anybody can.
 ---
 
 I don't get men. I like them, I just don't get them.

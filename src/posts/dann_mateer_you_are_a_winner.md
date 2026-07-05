@@ -1,6 +1,11 @@
 ---
 title: "D'Ann Mateer, You Are A Winner!!!"
 date: "2008-04-11T19:33:00"
+comments:
+  - author: "D'Ann Mateer"
+    date: "2008-04-11T21:20:13"
+    text: |
+      Woo-hoo! I can't wait for it to arrive!
 ---
 
 Of course, I already knew that. From the first time we met, I knew you were special and wonderful.  :)

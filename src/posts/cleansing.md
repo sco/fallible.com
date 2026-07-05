@@ -1,6 +1,15 @@
 ---
 title: "Cleansing"
 date: "2005-04-23T21:04:02"
+comments:
+  - author: "Carrie K."
+    date: "2005-04-24T20:41:09"
+    text: |
+      Beautiful.  Thank you for helping me get ready to go to worship this morning. 
+      -----
+  - author: "violet"
+    date: "2005-04-27T22:00:54"
+    text: "Just beautiful, Katy! ...all those priceless words just waiting to be uncovered, and the treasures in my own life I disdain... Your post has made me want to slow down, notice and appreciate."
 ---
 
 The ornate crucifix must have been attached to a lovely rosary at one time, many long years ago. Whether the owner--either my mother or my father, God rest him--prayed so diligently, so often that the beads and cross came apart at the seams, I can't say for sure.

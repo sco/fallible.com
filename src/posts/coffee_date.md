@@ -1,6 +1,39 @@
 ---
 title: "Coffee Date"
 date: "2006-08-08T14:38:29"
+comments:
+  - author: "Michael"
+    date: "2006-08-08T16:23:33"
+    text: |
+      ...and there is always the date on your back porch. Fresh brewed and bottomless coffee for about 11 cents.
+      
+      Plus the view is just the best.
+      
+      Take Care
+      michael
+  - author: "Kim"
+    date: "2006-08-08T17:43:24"
+    text: |
+      Cup of coffee -- $1.50
+      Romantic, affirming note from your husband -- priceless.
+  - author: "Carrie K."
+    date: "2006-08-08T18:20:41"
+    text: "What a sweet hubby you have!"
+  - author: "Deb Raney"
+    date: "2006-08-09T00:59:05"
+    text: |
+      Awww.... Hang on to that man, Katy...he's a keeper! ; )
+  - author: "shanna"
+    date: "2006-08-10T00:02:37"
+    text: |
+      Oh yes, I remember Sambo's! We'd eat at the one on Santa Fe, going into old OP. 
+      
+      Of course I had no clue how racist it was; I just loved looking at the pictures! Towers of pancakes!
+      
+      By the way, your Starbucks vow has got me thinking...
+  - author: "Alex  black coffee"
+    date: "2009-01-03T23:01:59"
+    text: "Thatâ€™s so romantic; coffee really brings people together, doesnâ€™t it? I wish one day when I will get married, Iâ€™ll have a loving husband. I loved the part when he sends you the email I mean itâ€™s like the cutesâ€™ thing ever. I remember on my first date I went out for a coffee, but that didnâ€™t actually turn out that great."
 ---
 
 Do you remember the old days, when you and your spouse or a friend would "go out for coffee"? I'm not talking about meeting at Fourbucks (or Fivebucks, depending on which city you're in), or any place that offers what I'll call designer coffee.

@@ -1,6 +1,73 @@
 ---
 title: "Spice Up Your Marriage With A Fun Novel!"
 date: "2008-04-07T20:04:00"
+comments:
+  - author: "Kathryn Harris"
+    date: "2008-04-08T21:19:33"
+    text: |
+      Oh, Megan, you're a writer after my own heart. I hope your book sells like, well, like an ice cold Coke on a steamy day in July because I don't think enough people realize how important intimacy (and not just the bedroom kind) is throughout marriage.
+      Marriage is something that needs regular care, and I think too often people take their vows too lightly. 
+      Bless you for touching on this topic! 
+      Now, Katy...hmmm...what are the chances of winning twice in a row? I'm almost done with Michael's book, so I'll be looking for something new to read soon. ;-)
+  - author: "Nancy Wood"
+    date: "2008-04-08T22:19:27"
+    text: |
+      Sounds like a great read....and I'm always looking for a new book.  So put me in the drawing!
+  - author: "Lisa Jordan"
+    date: "2008-04-08T23:55:26"
+    text: |
+      I've been interested in this book since I learned of its release. Can't wait to read it. Marriage is sacred. On Sunday, our church hosted a small reception for a couple who just celebrated their 50th anniversary. I asked the man what was his secret. He said, "When we went through our tough times as every couple does, it didn't occur to me that I could walk out on her. I took a vow, made a promise, adn that was that." Very sage advice. Great interview, ladies. Katy girl, as always, your humor shines like a newly-minted copper penny!
+  - author: "Megan DiMaria"
+    date: "2008-04-09T04:00:49"
+    text: |
+      Hi Katy,
+      
+      Thanks for letting me visit your blog. It was a delight. 
+      
+      Ladies, thank you for your kind words, I hope you enjoy reading Searching for Spice.
+      
+      A prisoner of hope,
+      Megan
+  - author: "D'Ann Mateer"
+    date: "2008-04-09T12:42:46"
+    text: |
+      I admit, I've been looking forward to readint this book since I heard about it at the ACFW Conference last year. I just haven't made it to the bookstore yet. I enjoyed hearing Megan speak then and I enjoyed reading this interview now.
+  - author: "Cathy West"
+    date: "2008-04-11T13:39:29"
+    text: "Sounds like a great book!!"
+  - author: "Electric"
+    date: "2008-10-16T11:04:32"
+    text: "Despite being married for a long time women still want romance. Despite being married for a long time men still want sex. Which leads to the conclusion that everything is more or less like when you first got married."
+  - author: "April"
+    date: "2009-01-25T05:03:59"
+    text: "Your book would be such a blessing to me. I will be 30 this year and been married for about 5.5 years and 2 young children. Things have seemed like the bottle ran out of spice. Lots of times things are quite fine falling asleep when too tired, rolling up comfortable in pant pajamas and long shirt. I could use some pointers or just plain humor to set my mind at ease and get a few ideas."
+  - author: "How to catch a cheating husband"
+    date: "2009-01-27T22:48:54"
+    text: |
+      "She wants to have an affair--with her own husband. "
+      
+      Definitely linking this page. lol very good read
+      
+      Kris
+  - author: "the friend zone guide"
+    date: "2009-08-13T09:51:42"
+    text: "Itâ€™s probably never a good idea to compare your marriage with someone else but then itâ€™s human nature to look and think the grass is greener on the other side of the fence."
+  - author: "singles polen"
+    date: "2009-08-25T07:10:56"
+    text: "Things have seemed like the bottle ran out of spice. Lots of times things are quite fine falling asleep when too tired, rolling up comfortable in pant pajamas and long shirt."
+  - author: "dating asien"
+    date: "2009-08-26T07:20:26"
+    text: |
+      It has always been my opinion that people in arranged marriages stay married because of their culture and rarely because of happiness. They know what is expected of them and they do not
+      want to let their families down, or be judged by others.
+  - author: "thai girl"
+    date: "2009-08-28T07:51:13"
+    text: |
+      QUOTE: "fiction is a wonderful way to convey truth"... this is very true although its better to know a true story just like the saying of many men who now have a Thai Girlfriend or Wife that she will give you unconditionally what you want and need out of life, total happiness and a life of love and respect".
+  - author: "Singlesnet.com trial"
+    date: "2009-09-20T00:30:05"
+    text: |
+      If you like the idea of these games, but have never been a real dramatic type, you can ease into it by wearing clothes/lingerie that you wouldn't normally wear...<a href="http://zerodollartrials.com/services/meet-your-suitable-singles-today-at-singlesnetcom/"> Singlesnet.com</a>
 ---
 
 <a href="{filedir_1}megan2.jpg"><img src="{filedir_1}megan1.jpg" border="0" alt="image" name="image" width="100" height="119" align="right" hspace="5" vspace="3" style="border: 1px solid #666;" /></a>Today, I'm excited to introduce you to debut fiction author <a href="http://megandimaria.blogspot.com/" title="Megan DiMaria">Megan DiMaria</a>. <i><a href="http://www.amazon.com/Searching-Spice-Megan-Dimaria/dp/1414318871/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1207662953&sr=8-1" title="Searching for Spice">Searching for Spice</a></i> has just been released by Tyndale, and Megan is basking in the glow. If you'd like a chance to win a free copy of Megan's heartwarming book, leave a comment on this post.

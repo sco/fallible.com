@@ -1,6 +1,68 @@
 ---
 title: "Swish"
 date: "2005-10-15T16:22:55"
+comments:
+  - author: "Pattie"
+    date: "2005-10-16T01:04:14"
+    text: |
+      Great story... thanks for making me smile! (o:
+  - author: "Ginger"
+    date: "2005-10-16T13:38:19"
+    text: |
+      I loved this post! I need to make a swishing drawer for my grandkids as they get older.
+      
+      In our house is was my mom's purse.  Always something interesting in there....
+  - author: "Ame"
+    date: "2005-10-16T19:55:39"
+    text: |
+      Love it :)  Love that you have so many beautiful memories of your Grandmother.  Hummmmm, perhaps it would be a good idea to condense the size of the "swishing space" in my home from the expanse of my whole house to a drawer!!!  hehehehehe :)
+  - author: "Bonnie"
+    date: "2005-10-17T02:03:00"
+    text: |
+      Katy, those junk (swishing) drawers are like treasure hunts when we're kids. I remember finding those same black photo corners, too...and those sticky binder paper reinforcements! Some things are too good to throw away, even if they're not used, I guess.
+      
+      I love your writing--you paint with words!
+  - author: "Lynn"
+    date: "2005-10-17T03:22:11"
+    text: |
+      I am so having a swishing drawer.
+      
+      Thank you.
+  - author: "eija"
+    date: "2005-10-17T18:30:06"
+    text: |
+      I'll tell you what's fun...
+      
+      It's your mum!
+      
+      Thank you for all the great stories of her, I just love them...
+  - author: "anna"
+    date: "2005-10-18T22:13:51"
+    text: "i feel as though I went swishing today in the great deep cyberdrawer and came up with this exquisite story of yours. oh, how i handled it and handled it, and held it up to the light just to get a better look!"
+  - author: "Katy"
+    date: "2005-10-18T22:31:20"
+    text: |
+      Pattie--I'm glad you liked it! Now get back to swishing...  :)
+      
+      Ginger--Ooooh, purses! They can be wonderful. My grandmother always kept a crisp $100 bill in her purse. That, and her "charge-a-plate" to the Jones Store. The $100 bucks fascinates me to this day...
+      
+      Ame--Me, too!! And then I tried to compulsively organize my junk drawer one day a year ago. It's so organized now that it's NO FUN at all! I never open that drawer! (It's the only organized space in my house, though.)
+      
+      Bonnie--Those words of writing encouragement, coming from you, mean a lot! I am really enjoying visiting your site, as well. Your photography and writing are wonderful!
+      
+      Lynn--You are young! You can do this thing! I promise you that a swishing drawer will change not only your life, but everyone who shares you joy of swishing...
+      
+      eija--My mum is fun, though yesterday she had five crying jags in the span of 15 minutes. She said, "Life is weird, and the older you get, the weirder it gets." Hard to argue with someone who has so much experience!  :)
+      
+      Anna--I had to read your comment to my hubby!! We loved the "great deep cyberdrawer"! You have a wonderful way of putting things, I'm thinking. Welcome!
+  - author: "Katy"
+    date: "2005-10-18T22:32:37"
+    text: |
+      What?? No men among those who comment here have a swishing drawer? Or is it that you just won't admit to swishing? Come on! I dare you!
+  - author: "Ame"
+    date: "2005-10-19T03:32:03"
+    text: |
+      Hey, Katie - I love how you comment on our comments - feels like you hear us - thanks, I really like that :)  Ann
 ---
 
 My grandmother, perhaps the most fastidious housekeeper God ever created, nevertheless had a six-inch-deep catch-all drawer in the family room, the top drawer of a chest containing otherwise boring material.

@@ -1,6 +1,26 @@
 ---
 title: "Search And You Shall Find?"
 date: "2007-02-15T14:25:59"
+comments:
+  - author: "Doug Raymond"
+    date: "2007-02-15T14:51:06"
+    text: |
+      Hello? This is your hubby/webmaster speaking... 
+      Fallible has always had a nifty search feature in the left sidebar. ;)
+  - author: "Katy"
+    date: "2007-02-15T16:47:10"
+    text: |
+      Doug--All I can say is--and I mean this with ever ounce of love in my heart--please don't die. Ever.  :)
+  - author: "alison"
+    date: "2007-02-15T18:20:44"
+    text: |
+      Relevant's a good magazine. My daughter Karen sometimes writes for Relevant (I think it's their online version). One of her articles is still floating around there and much to her surprise, she still gets some good comments on it. I'll have to skip over there and read your article.
+  - author: "alison"
+    date: "2007-02-15T18:23:08"
+    text: "I should add - My daughter, Karen, Journalism major, mother of my two grandchildren, missionary appointee to Ireland."
+  - author: "Suzan"
+    date: "2007-02-15T20:08:20"
+    text: "Great article, Katy!"
 ---
 
 One day, when I've been using the Internet for let's just say a gazillion years, I *might* remember that God put that little search feature on most sites for a reason.

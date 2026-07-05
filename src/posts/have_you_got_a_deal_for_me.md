@@ -1,6 +1,86 @@
 ---
 title: "Have You Got A Deal For Me?"
 date: "2006-06-19T19:50:56"
+comments:
+  - author: "Anne"
+    date: "2006-06-19T21:39:14"
+    text: |
+      I'm as ancient as you and Doug are, Katy, and much less knowledgeable about all the new forms of communication. We still have a "landline" with a CORDED phone (along with various cordless and cell phones, like you). But I'm keeping that thoroughly plugged-in thing until they get 911 calls truly worked out for cells/internet phones and until cordless phones work during power outages and cell phone batteries never die. AND no one on a police scanner can listen in on the corded phone....only the government. :)
+  - author: "Chris(tine)"
+    date: "2006-06-20T07:18:59"
+    text: |
+      It does get a little overwhelming, doesn't it?
+      
+      I don't have any great answers for your questions (probably because I'm only a few years younger) - but I can sing the praises of Skype.  My friend in England and I use it for talking fairly regularly.
+      
+      For skyping - you need a microphone (mine is built into my Powerbook laptop - my friend has a headset with a speaker and and microphone that she uses on her PC) and a speaker.  I don't leave Skype on all the time and receive random "phone" calls - instead, I arrange a time to talk with my friend through email, then we plan to "meet" at a specific time and skype together.
+      
+      I don't think Skype is so good at replacing a phone - if my friend needed to get ahold of me right away to talk (like some kind of emergency), she would have to use the regular phone.  There is no way I could guarantee being at my computer to hear random incoming calls.  But it works great for pre-arranged chatting within a specific time period that I am willing to be sitting at my computer.
+      
+      As to how it works?  I have a degree in computer science, and I can barely grasp what's happening with most of this stuff... and I've never Instant Messaged anyone.  That may change as my 12-year-old gets a little older...
+  - author: "relevantgirl"
+    date: "2006-06-20T16:16:45"
+    text: |
+      Skype rocks!
+      
+      And, gee Katy, I thought I meant more to you than a mere skype fling! LOL!
+      
+      We use skype in many ways. I talk to my friends using a headset, and like Chris(tine), we set a time to do so. Otherwise it's too hard to hear my computer ringing from three floors away.
+  - author: "Katy"
+    date: "2006-06-23T13:05:22"
+    text: |
+      Anne--Girl, with age comes wisdom! And I think you've got you some. I'm hanging on to my land line, too. I ain't afraid of no gubment eavesdroppers.  :)
+      
+      Chris(tine)--We instant messaged a bit when our oldest son, Scott, spent a semester abroad--or maybe it was when he backpacked ALONE through Asia for three weeks. But I don't really have the hang of it. I'm too slow to keep up with young minds.....Thanks for sharing the ropes on Skype. We will definitely be using it with another kid overseas!
+      
+      Relevant Mary--I was kidding. We are no casual fling, you and I. Real deal, baby! I hope I can hear with the headset thingie. The deafness is problematic. But true loves always finds a way, as you and I can testify...    :)
+  - author: "Lynn"
+    date: "2006-06-25T10:34:45"
+    text: |
+      Skype is great for foreign calls...it's like 0.01 a minute to call out of country, depending on where. Check it out, seriously.
+  - author: "Lynn"
+    date: "2006-06-25T10:41:19"
+    text: |
+      Oh, and if she gets Skypeout credit, she can call your house phone. That's what I meant. Computer to computer it's free.
+  - author: "Jennifer"
+    date: "2006-06-26T20:34:15"
+    text: |
+      We use iConnectHere.com to call and receive calls from the States (we're in Germany). You (and by "you", I mean my techie husband) can forward the service to a phone. So no computer headset thingy. We have one phone for our iconnect number and one for our local number. And my husband did something that causes the call to rollover to our German phone if the other phone isn't working for some reason. 
+      
+      The iconnect number has the same area code as where we used to live, so our friends and family don't pay any more long distance calling us here than they did when we lived in the States.
+      
+      The clarity of the connection can vary, though, depending on how busy the Internet or our individual DSL connection is.
+  - author: "Katy"
+    date: "2006-06-27T17:11:23"
+    text: |
+      Lynn--Whoa, baby! I can afford that! We are definitely doing Skype or something similar. Gotta stay in touch with my baby. Thanks!
+      
+      Jennifer--Thanks for telling me about this one. I had not heard of it. It looks like we'll have our choice of several great options. Glad you are able to stay in touch with your loved ones so cheaply!
+  - author: "joshua"
+    date: "2006-06-30T02:45:11"
+    text: |
+      well, although i'm 33 and act way younger than that, i am afraid i won't be much help. i can't stand mobile phones, and if i didn't need one for work, i would definitely never carry one. i ditched the land line years ago, and basically use the internet wherever free wi-fi (i have no idea what that even stands for) can be found. as far as skype goes, it sounds suspiciously like some sort of a rodent. in any event, i was laughing so hard by the end of this post and thought i would offer you ... nothing at all, but a thanks for the laugh.
+  - author: "Katy"
+    date: "2006-06-30T15:12:31"
+    text: |
+      Joshua--Yea! A man after my own heart. I deplore mobile phones. We are ditching mine as soon as our contract is up (costs $175 to break a contract with Verizon!!!). It only costs $10 month as an add-on phone, but I don't use it AT ALL. Don't even know my number. We will keep Doug's phone and our land line, but will reduce services on the land line by quite a bit---too many trick ponies for me. Thanks for sharing in the laugh!!!!
+  - author: "Bridget"
+    date: "2006-07-02T04:19:36"
+    text: |
+      As for internet without a phone line, that one's easy. Ours is through the cable line, and we pay with our cable bill.  It's high-speed and is great!  I'm ready to totally ditch our land line phone because that's the one that WE never really use.  We did the opposite of you...we switched from DishNetwork to cable and couldn't be happier.  The cable doesn't go out in storms, in high winds, or just for no good reason at all.  Our dish was always going out for days at a time.  It was awful.  As for texting, be happy you don't have teenagers.  We finally got unlimited texting for all ($10 a month deal total for family) because the kids were texting about 2000 messages per month.  Remember the old days when we just picked up a corded phone and called friends?  Doesn't happen.  (I've known some kids who have used about 10000 texts a month! Unreal.)  
+      
+      I admit, though, that I enjoy all the new forms of communication.  I love cell phones, wireless internet, and high-speed cable internet.  I am becoming way too technologically saavy than I ever thought I'd be...
+  - author: "clip"
+    date: "2006-07-12T02:50:51"
+    text: |
+      Somnolence <a href="http://www.cliquy.info/butt.html">butt</a> overexercised pollens chugs indirecting.
+  - author: "tit"
+    date: "2006-07-12T09:27:37"
+    text: |
+      Lanyard <a href="http://www.warpath.info/oral.html">oral</a> tuff semiologist conchies skit. Gruels <a href="http://www.warpath.info/up_skirt.html">up_skirt</a> hurrahed quills capacitive immodestly. Barbequed <a href="http://www.chickmagnet.info/oral.html">oral</a> mismanaging backlogs barbed medicaids.
+  - author: "BoyptowAeropephota"
+    date: "2009-08-26T06:07:51"
+    text: "Ð¸Ð½Ñ‚Ð¸Ð¼ Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ <a >ÑÑ€Ð¾Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ðµ Ñ„Ð¾Ñ‚Ð¾</a>  <a >Ð´Ð¾ÑÑƒÐ³ Ð²Ñ‹ÐµÐ·Ð´ Ð¼Ð¾ÑÐºÐ²Ð°</a>  Ð¿Ð¾Ñ€Ð½Ð¾ Ð²Ð¸Ð´ÐµÐ¾ ÑÐºÐ°Ñ‡Ð°Ñ‚ÑŒ Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾   Ð¸Ð½Ñ‚Ð¸Ð¼ Ñ„Ð¾Ñ‚Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð¸Ñ‚ÑŒ  <a >Ð¿Ð¾Ñ€Ð½Ð¾ Ð°Ð½Ð°Ð»</a>  Ð¶ÐµÑÑ‚ÐºÐ¸Ð¹ Ð°Ð½Ð°Ð» Ð¸Ð½Ñ„Ñ€Ð°ÐºÑ€Ð°ÑÐ½Ð°Ñ ÑÐ°ÑƒÐ½Ð° Ð¼Ð¾ÑÐºÐ²Ð° Ð¿Ð¾Ñ€Ð½Ð¾ php Ð¸Ð½Ñ‚Ð¸Ð¼ ÐºÐ°Ñ€Ñ‚Ð° Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»Ð¾Ðº  <a >dosug su29 ru 104 </a>   <a >doiop com dosug</a>  <a >ÐºÐ¾Ð½Ñ‡Ð¸Ñ‚ÑŒ Ð² Ñ€Ð¾Ñ‚</a>  Ð¸Ð½Ñ‚Ð¸Ð¼ Ð¼Ð¾ÑÐºÐ²Ð° Ð´ÐµÐ²ÑƒÑˆÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ  ÑˆÐ»ÑŽÑ…Ð¸ Ð±Ð»ÑÐ´Ð¸  <a >Ð¿Ñ€Ð¾ÑÑ‚Ð¸Ñ‚ÑƒÑ‚ÐºÐ¸ Ð¼Ð¾ÑÐºÐ²Ñ‹ Ð´Ð¾ÑÑƒÐ³</a>  ÐºÐ¸Ð½Ð¾ Ð¿Ñ€Ð¾ÑÐ¼Ð¾Ñ‚Ñ€ Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾  <a >Ð¸Ð½Ñ‚Ð¸Ð¼ Ð´Ð¾ÑÑƒÐ³ Ð¼Ð¾ÑÐºÐ²Ð°</a>   <a >Ð´ÐµÐ»Ð°ÑŽ ÑÑ€Ð¾Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸Ð¹ Ð¼Ð°ÑÑÐ°Ð¶</a>  j net ru  <a >Ð´Ð¾ÑÑƒÐ³ Ñ€Ñƒ</a>  prostitutki kieva  <a >ÐµÐ±Ð»Ñ Ð²Ð¸Ð´ÐµÐ¾</a>  Ð¿Ñ€Ð¾ÑÑ‚Ð¸Ñ‚ÑƒÑ‚Ð¾Ðº  <a >Ð´ÐµÐ²ÑƒÑˆÐºÐ° Ð´ÐµÐ½ÑŒÐ³Ð¸</a>   <a >Ð¸Ð½Ñ‚Ð¸Ð¼ Ð¼Ð¾ÑÐºÐ²Ð° Ð´ÐµÐ²ÑƒÑˆÐºÐ¸ ÑÐ¾Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ðµ</a>  Ð¸Ð½Ñ‚Ð¸Ð¼ Ð·Ð½Ð°ÐºÐ¾Ð¼ÑÑ‚Ð²Ð° Ñ„Ð¾Ñ‚Ð¾ Ð±Ð»ÑÐ´Ð¸ Ð¿Ð¸Ñ‚ÐµÑ€Ð° <a >Ð²Ð¸Ð´ÐµÐ¾ Ð°Ð½Ð°Ð»</a>   <a >www Ð´Ð¾ÑÑƒÐ³ Ð½ÑŽ</a>  Ð´Ð¾Ð¼Ð°ÑˆÐ½ÐµÐµ Ð¸Ð½Ñ‚Ð¸Ð¼ Ñ„Ð¾Ñ‚Ð¾ <a >Ñ‡Ð°ÑÑ‚Ð½Ð¾Ðµ Ð¸Ð½Ñ‚Ð¸Ð¼ Ñ„Ð¾Ñ‚Ð¾ Ð´ÐµÐ²ÑƒÑˆÐµÐº</a>  Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸  <a >Ð´Ð¾ÑÑƒÐ³ Ð½Ñƒ Ð°Ð²Ñ‚Ð¾Ð¼Ð°Ñ‚Ð¸Ñ‡ÐµÑÐºÐ¸ Ð²Ñ…Ð¾Ð´Ð¸Ñ‚ÑŒ</a>  Ð¸Ð½Ñ‚Ð¸Ð¼ Ñ„Ð¾Ñ‚Ð¾ Ð¿Ñ€Ð¾ÑÑ‚Ð¸Ñ‚ÑƒÑ‚ÐºÐ¸ Ð¼Ð¾ÑÐºÐ²Ñ‹ Ð²Ñ‹ÐµÐ·Ð´  <a >ÑÑÐºÐ¾Ñ€Ñ‚ Ð°Ð³ÐµÐ½Ñ‚ÑÑ‚Ð²Ð°</a>  Ð°Ð½Ð°Ð» Ñ„Ð¾Ñ‚Ð¾"
 ---
 
 My husband and I, both rather ancient by many of your standards (he's 53 and I'm 52) need just a tad of advice on how to lower our communications costs.

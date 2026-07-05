@@ -1,6 +1,44 @@
 ---
 title: "That Depends On What The Definition Of \"It\" Is"
 date: "2006-02-10T14:43:10"
+comments:
+  - author: "Rebecca"
+    date: "2006-02-10T19:45:24"
+    text: |
+      Since it's Open Comment Friday and all... And since it seems so tragic to get email after email of spam...
+      
+      This post was hilarious! I say you should be very proud of mystifying the cashier. Nothing makes me crazier than poor communication (which I, oddly enough, am completely guilty of myself).
+  - author: "violet"
+    date: "2006-02-13T04:01:13"
+    text: |
+      Ha! 
+      
+      And did that thingy that goes with the bags ever arrive? And DO you like it?  
+      
+      I hope the 'ding' you got with this comment cheered you up as much as the 24 you got in reply to the Freaky Friday post. Of course all that spam will never be wasted on you - you'll just fry it up in another fallible.
+  - author: "Katy"
+    date: "2006-02-13T04:24:57"
+    text: |
+      Rebecca--I know! I always start out assuming it must be me, but you know what? It usually ends up being them. I mean, is it an effective beginning to an entire relationship to start with the words, "Do you like it?" I think not!!
+      
+      Violet--Girl, I've been "missing" you. I need to check in over at your site, too, and catch up big-time! Your ding really does it for me, baby...
+  - author: "Kathy"
+    date: "2006-02-16T04:22:42"
+    text: |
+      je pense que cette blogge est magnefique! (il y a 2 ans depuis j'ai etudier le francais, donc, mon francais, c'est mauvais!)  
+      
+      je vais returner!
+  - author: "Katy"
+    date: "2006-02-16T04:38:33"
+    text: |
+      Kathy-Une amie de Kathryn et Heather est une amie de moi! Dites-moi: Dans votre opinion, "blogge" est feminine? Merci bien pour la visitation!
+  - author: "the friend zone guide"
+    date: "2009-08-06T08:27:09"
+    text: "Then it occurs to me that sheâ€™s just scanned and thrown away the little empty bottle of low-carb smoothie that I drank while shopping.That must be it!"
+  - author: "Singlesnet.com"
+    date: "2009-09-19T21:07:08"
+    text: |
+      Tribeca Belle gave the most accurate answer to your question. One thing that people always forget about is that Clinton, though he really didn't need to, apologized to the American people and asked for forgiveness. If someone refuses to forgive and holds onto a resentment after receiving an apology, By <a href="http://zerodollartrials.com/services/meet-your-suitable-singles-today-at-singlesnetcom/"> Singlesnet.com</a>
 ---
 
 "Do you like it?"

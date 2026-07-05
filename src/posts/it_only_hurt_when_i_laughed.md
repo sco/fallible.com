@@ -1,6 +1,25 @@
 ---
 title: "It Only Hurt When I Laughed"
 date: "2007-01-10T16:17:54"
+comments:
+  - author: "kevin"
+    date: "2007-01-10T17:52:33"
+    text: "thank you mom. my life would truly not be the same without you. i love you so much and will see you soon. 11 days actually!"
+  - author: "Katy"
+    date: "2007-01-10T17:59:11"
+    text: "Baby, baby--Eleven days and counting every minute. Missing you today, but thrilled to be seeing you soon. Were your friends in Switzerland good to you on your birthday?"
+  - author: "Carrie Raymond"
+    date: "2007-01-11T05:06:17"
+    text: "I remember that day (even though I was very young) because Scott and i were fighting about whether it was going to be a boy or a girl. Even though I really wanted a sister, I have realized that no sister would hold a candle to Kev. Miss you, bud!"
+  - author: "Jennifer"
+    date: "2007-01-12T15:07:32"
+    text: "That is such a GREAT story. And an even better birthday gift! I love your pics in the sidebar, Katy. You look so happy and ... for lack of better word? ... purposeful. As in purpose filled."
+  - author: "Katy"
+    date: "2007-01-13T22:54:11"
+    text: |
+      Carrie--You really remember when Kev was born? You were two months shy of your third birthday! That's amazing.
+      
+      Jennifer--See, THIS is why I like you! I look purposeful???? No one's EVER accused me of being purposeful!! Thank you.  :)
 ---
 
 Only three times in my life have I produced something so beautiful, brilliant, and original that the events themselves became annual holidays.

@@ -1,6 +1,30 @@
 ---
 title: "The Ultimate Gift"
 date: "2006-11-27T19:51:36"
+comments:
+  - author: "Suzan"
+    date: "2006-11-27T21:22:25"
+    text: |
+      Sorry, Katy, I'm cheating because I have three, but I couldn't decide on one.
+      
+      I'd like to gift:
+      My niece Danielle with mental health.
+      My niece Nancy with total deliverance from crack addiction
+      My husband with zero debt!
+  - author: "Katy"
+    date: "2006-11-27T23:04:35"
+    text: "Suzan--You deserve three, as they are so generous. I hope all your gift ideas come true."
+  - author: "Michael  Main"
+    date: "2006-11-28T20:32:12"
+    text: |
+      Top of my head...I'd give everyone in your family McDonald's coupons in case Mom takes up cooking again. :)
+  - author: "Katy"
+    date: "2006-11-28T20:42:56"
+    text: |
+      I can't stop laughing, M. You know what? Mom told us years after the fact that toward the end of Dad's life, she find the food she cooked him scraped off his plate into the trash bin. Was he SCARED she might do him in? Hmmmm. All I know is that while a heart attack was blamed for his death, he DID only weigh 90 pounds. 5'8". You do the math.....  ;)
+  - author: "Gift Ideas India"
+    date: "2009-03-09T12:04:29"
+    text: "Oh really very nice and awesome information you share here. Thanks for your nice information."
 ---
 
 Here's a holiday question for you. If you could only give one gift this year, what would it be and to whom would you give it?

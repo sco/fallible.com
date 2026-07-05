@@ -1,6 +1,39 @@
 ---
 title: "Getting To Know You, Getting To Know All About You"
 date: "2007-04-29T18:14:35"
+comments:
+  - author: "alison"
+    date: "2007-04-29T20:20:00"
+    text: "High-larious. You have the makings of a romantic novel."
+  - author: "kevin"
+    date: "2007-04-30T07:49:40"
+    text: |
+      haha! people always ask me what my sign is but i can never remember. i think ill start saying; "i'm an alpha one"
+  - author: "Angela Coon"
+    date: "2007-05-01T02:46:31"
+    text: |
+      If I hadn't been watching HGTV, and "Flip this House" I wouldn't even have know what you were talking about.  Fallible for sure. This is one to add to my "ways of identifying yourself."
+  - author: "Katy"
+    date: "2007-05-01T20:28:54"
+    text: |
+      alison--Hey! There's an idea.....  :)
+      
+      Kevvie--Oooh. That sounds like of like "Alpha Male," which might be impressive to a certain type of woman.....
+      
+      Angela--Isn't it pathetic?? Funny, but pathetic. Thanks for commenting here!
+  - author: "jenn_a"
+    date: "2007-05-03T18:50:47"
+    text: |
+      unfortunately in my case, "scuffed linoleum coupled with aged plush carpet" isn't nearly as sexy as "borderline compulsive with a hint of unrequited whimsy."
+  - author: "Lisa Jordan"
+    date: "2007-05-08T12:36:09"
+    text: "Haha! Only you could write such an entertaining account, sister!"
+  - author: "Heather Diane Tipton"
+    date: "2007-05-27T06:40:19"
+    text: |
+      what am I? I'm homeless so I can't really claim to be granite or shag carpeting for that matter! LOL
+      
+      Ok, technically I'm basement dweller in friends house. :o)
 ---
 
 Live long enough, and you'll hear people identify themselves by just about every criteria imaginable.

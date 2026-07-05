@@ -1,6 +1,47 @@
 ---
 title: "Too Much Fun!"
 date: "2008-04-11T19:39:00"
+comments:
+  - author: "D'Ann Mateer"
+    date: "2008-04-11T21:24:19"
+    text: |
+      What amazes me is that I must scroll to page 3 when I google my first name! Who would have thought so many crazy people would use the apostophe! Of course almost all the ones before me are "professionals" with listings on legitimate websites. Maybe I'll move up in the world when I get more than just a blog, which I hope to do very soon.
+      
+      Now first and last name? I'm it.
+  - author: "Christa"
+    date: "2008-04-11T22:53:18"
+    text: |
+      Well, being first will be such a great way for your readers to find you when you're Miss Fancy Pants Novelist!
+  - author: "Angela"
+    date: "2008-04-12T00:15:23"
+    text: |
+      I've never tried it. How fun though
+  - author: "Jeannine"
+    date: "2008-04-12T03:24:20"
+    text: |
+      I've tried my full name before, but not just the first, so I did that tonight.  The first entry was the site www.behindthename.com. Did anyone else see it?  It's interesting - gives you some history of your name, popularity, people's comments - something I hadn't seen before.  What better thing to do on a Friday night, right?  Oh yeah, go to sleep. :-)  Good night.
+  - author: "Michael #2"
+    date: "2008-04-12T13:29:10"
+    text: |
+      First is fabulous!
+      Congrats.
+      
+      I ran out of patience looking to see how far down the list I was. 
+      
+      Take Care
+      Michael
+  - author: "Kathryn Harris"
+    date: "2008-04-14T16:52:15"
+    text: |
+      I have Googled myself before using my full name, but after getting 16 pages in I ran out of patience trying to find me. 
+      Don't mind me. I'm bitter about the Secretary of State in Florida stealing my 15 minutes of fame.
+  - author: "Kathryn Harris"
+    date: "2008-04-17T15:56:12"
+    text: |
+      Not to be a blog pest or anything but: It only took six pages to find me on Yahoo! Coincidentally, I found myself on Yahoo! because it was listed under YOUR blog. How funny is that?
+  - author: "Bridget"
+    date: "2008-04-22T18:22:14"
+    text: "Unfortunately, Bridget Jones beats me out by a mile."
 ---
 
 Have you ever sat around (with too much free time, obviously) and googled first names, just to see how far down you are?

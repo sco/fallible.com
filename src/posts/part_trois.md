@@ -1,6 +1,40 @@
 ---
 title: "Part Trois"
 date: "2008-02-28T23:06:00"
+comments:
+  - author: "Carrie K."
+    date: "2008-02-29T00:03:11"
+    text: "Oh, Katy. (((Hugs))) I will be praying, sweetie."
+  - author: "christa Allan"
+    date: "2008-02-29T01:48:00"
+    text: "Katy, girl, my prayers and cyber-hugs are with you."
+  - author: "anne"
+    date: "2008-02-29T04:22:07"
+    text: |
+      Yowza! Prayers are there for you and your mom, Katy. 
+      Though I'm not a frequent "commenter", I do follow your blog faithfully. If I'm overstepping by commenting now, PLEASE, disregard my comments. It's just that in talking to my own mom tonight (before reading your last 3 blogs), we talked about "truth to draw from" (Dobson) in regard to our (her children , my sibs, my children) children. I believe this would hold true for your mother as well. You are exceptionally responsive to your mother as are your siblings. However, the ultimate outcome of  your mother's well being, whether here or in eternity, rests on God and her relationship to Him. Not on how good a daughter you are. Wow, did I really say that? Please feel free to cut me off from ever commenting again if need be. I know that I've probably WAAAAAAY overstepped. 
+      It's just that you seem to be carrying more than a mortal's load....we cannot carry the load that is God's alone.
+      I can't know all that you're going through, my comments are colored by my own experiences, not yours. 
+      I do think of you. I do pray.  
+      Keep clinging to God and be at peace.
+      Anne
+  - author: "Katy"
+    date: "2008-02-29T13:13:37"
+    text: |
+      Carrie K and Christa--Thank you!
+      
+      Anne--I just tried to email you, and my "send" isn't working. But an email is in the queue! You aren't just an infrequent commenter here. We've known your family for many years, even if we don't see you often. I deeply appreciate your comment. There is more truth in it that I am able to face without more coffee.  ;)
+      
+      As hard as this may be to believe, I am MUCH mellower about my mother's care than I used to be. In fact, I'm coming up on my 2-year anniversary of chilling out. Of course, my definitions might be skewed all to heck.   ;)
+      
+      I will try again on that email.....
+  - author: "D'Ann Mateer"
+    date: "2008-03-01T02:59:50"
+    text: "I will pray, Katy. On all counts."
+  - author: "Katy"
+    date: "2008-03-01T13:20:07"
+    text: |
+      D'Ann--I miss you! We need to sit and talk over a cuppa.....
 ---
 
 Late Sunday night, at 1 am, my sister Liz lay on my mother's couch, listening to Mom's frightening sleep-apnea-induced snoring and gasping. (Mom is non-compliant as far as wearing her c-pap apparatus). Suddenly, Mom's breathing started coming in shorter, stranger snippets.

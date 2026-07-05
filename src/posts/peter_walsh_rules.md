@@ -1,6 +1,31 @@
 ---
 title: "Peter Walsh Rules!"
 date: "2007-12-01T00:38:00"
+comments:
+  - author: "Chris(tine)"
+    date: "2007-12-01T03:41:15"
+    text: |
+      How cool, Katy!!
+      
+      I'll add that your posts on de-cluttering have been very encouraging - thanks!
+  - author: "Bridget"
+    date: "2007-12-01T15:35:27"
+    text: |
+      Yep, Peter rules! :)
+  - author: "Katy Raymond"
+    date: "2007-12-03T13:16:15"
+    text: |
+      Chris(tine)--Great to hear from you, lady! I'm gonna hop over to your (uncluttered) blog and catch up on the news!
+      
+      Bridgie--We cut back on our cable and no longer get Clean Sweep. I am sad! But I can still love and follow Peter's sound advice.
+  - author: "Hope"
+    date: "2007-12-12T01:12:00"
+    text: |
+      I'm reading his book these days and getting ready to clean house. that's very cool that he left a comment!
+  - author: "Katy"
+    date: "2007-12-14T15:04:47"
+    text: |
+      Hope! How great to see you here! I don't know how Peter landed here. He says in his recent e-letter that in the days after the Oprah shows, he got 500 emails asking for help! And he somehow found fallible! The whole thing was a lot of fun for me, and girl, has it kept me motivated to keep pushing forward with the decluttering. It's all starting to make sense to me--perhaps for the first time in my life....
 ---
 
 OK, I'm going to indulge in a bit of Friday night hero worship. Of course, you all know Doug is my main man in the hero department, but sometimes, I gotta tell ya', other guys step up.

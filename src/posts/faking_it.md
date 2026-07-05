@@ -1,6 +1,22 @@
 ---
 title: "Faking It"
 date: "2006-09-13T15:29:16"
+comments:
+  - author: "relevantgirl"
+    date: "2006-09-13T19:22:23"
+    text: |
+      OK, here's a solution. Come sit at my empty table. I'm no editor or agent so I won't be popular. I'll be lonely. So, come to my table and pitch away. Tell me you love me. I'll welcome you!
+  - author: "Bridget"
+    date: "2006-09-17T18:49:06"
+    text: |
+      Maybe instead of a name tag, you could wear a T-shirt that says, "Interested in me and my wonderful book?  Sit on my left and let's talk!"  It would be a wonderful conversation starter...
+  - author: "Katy"
+    date: "2006-09-17T19:02:05"
+    text: |
+      RelevantMary--Great solution!! I freakin' adore you, and I cannot bear the thought of you lunching all by your lonesome....Can't wait to meet you in person!
+      
+      Bridget--What a GREAT idea! You know, a t-shirt like that kind of garners the sympathy vote and I can use all the help I can get.  :)
+      Hey, I could have the words all printed out in American Sign Language!!
 ---
 
 If you've read here for any length of time, you know I'm not normally the nervous type.

@@ -1,6 +1,29 @@
 ---
 title: "So After You Sign With An Agent, Then What?"
 date: "2008-03-15T23:44:00"
+comments:
+  - author: "Cathy West"
+    date: "2008-03-16T17:14:42"
+    text: |
+      I know. Most people who aren't writers have no idea what a big deal it is to get an agent.  And I agree, I think a lot of folks mistakenly believe that once you have an agent, your publishing debut is on its way. 
+      Don't we wish! But I also agree with you, having an agent does increase the chances of publication because they can send your book to publishers that don't accept unsolicited manuscripts. So, I'm really glad I have one. I just need to get over the excitement so I can get back to writing!!
+  - author: "christa Allan"
+    date: "2008-03-16T18:45:02"
+    text: |
+      My students keep asking me when they'll find my book in the bookstores. I keep telling them about 30 seconds after I know it's there. 
+      
+      This is such a great post.Instead of writing my own, I'm just going to refer all to this one! In fact, if it's okay with you, I'd like to have  a link on my blog on Tuesday. Monday's already reserved for my daughter's b'day.
+      
+      Honestly, though, knowing how I felt after Rachelle's offer of representation, when the book actually sells, I may need spray Prozac. 
+      
+      I'm still bouncing off the walls when I see my name on Rachelle's blog. There's no greater joy; well, maybe seeing that my name's not on the obituary page...
+  - author: "Kathryn Harris"
+    date: "2008-03-17T19:31:17"
+    text: |
+      Congrats on your successes in finding an agent, gals. 
+      Getting an agent is such a huge step in the right direction, and Katy's right, unless someone has ever tried to garner the attention of a publisher or agent, they don't know the frustration and struggle.
+      Can't wait to be in such great company. 
+      BTW Christa: I got my start as writer doing obits and, while I was always glad my name wasn't on the page, I think getting an agent would be better. ;-)
 ---
 
 Several people have emailed me (or written a message on my facebook wall) asking "Now that you've got an agent, when is your book coming out?" It's such a typical question, I thought I'd address it here at fallible. After all, I know quite a number of you are writers and hope to be published one day. Why not make the waters a little less muddy?

@@ -1,6 +1,55 @@
 ---
 title: "Santa, Baby"
 date: "2005-12-08T15:05:19"
+comments:
+  - author: "Katy"
+    date: "2005-12-08T19:38:36"
+    text: |
+      My mother's dancing Santa may have been temporarily lacking some body parts, but he still didn't look as pathetic as this poor fellow: http://www.local6.com/news/5491296/detail.html
+  - author: "Ame"
+    date: "2005-12-09T05:26:50"
+    text: |
+      LOVE it!!!  Read it to my eight-year-old tonight - she loved it too :)  Your Mom is so funny!  (And how did you find that Santa "hangin'" from a tree!!!)
+  - author: "irene"
+    date: "2005-12-09T09:18:01"
+    text: "Hilarious! Glad you managed to put Santa back together for your mom, Katy!"
+  - author: "Jeanne Damoff"
+    date: "2005-12-09T20:55:03"
+    text: "Hey, Katy! Would you e-mail me your home address? damoffj at yahoo. Gracias!"
+  - author: "Jeanne Damoff"
+    date: "2005-12-09T21:03:46"
+    text: |
+      This is a really cute story, by the way. I'm glad Santa can get his groove on after all.
+  - author: "Katy"
+    date: "2005-12-10T15:13:55"
+    text: |
+      Ame--We used to read our kids actually bedtime stories, back in the day...  :)  I clicked on Drudge, and there hung poor Santa.
+      
+      Irene--Yeah. I thought she'd have a conniption if I didn't solve the Mystery of the Missing Derriere soon.
+      
+      Jeanne--Email sent. Santa's doing his thing, baby. All's well with the world!
+  - author: "Kathryn, the daring one"
+    date: "2005-12-10T21:06:34"
+    text: |
+      My husband's and my bellies are both jiggling like a bowl full of jelly.  That was one of the funniest things I've read in weeks.  You rock and I've added you to my aggregator.  Thanks for the...um..Christmas cheer.
+  - author: "Stephanie"
+    date: "2005-12-12T16:04:56"
+    text: |
+      Wow, that is hilarious.
+      
+      And you have a really neat blog design.  I love it, love it, love it.
+  - author: "Heather"
+    date: "2005-12-12T18:44:19"
+    text: "This is my first time to your blog.  You are hilarious, and I will definitely follow you from here on out!  Yay for Santa, finding his buttocks."
+  - author: "Katy"
+    date: "2005-12-12T23:37:25"
+    text: |
+      Kathryn, the daring one--I have been so happy to make your blogging acquaintance! Everyone, check out this blog, especially if you love good humor and motherhood! Great stuff!
+      
+      Stephanie--My husband is my "guy." He asked me what I had in mind design-wise. I pulled out some stickers and a piece of stationery and laid them out like so and dictated a couple of color preferences, and he did the rest! It's so nice to have a guy around the house...  :)
+      I'm off to check out your site, too...
+      
+      Heather--Welcome to you, also! Hope you have a few laughs and a healthy dose of encouragement when you stop by here. Yes, Santa's buttocks and legs have emerged from beneath his waistline, BUT (or perhaps I should say BUTT) now I can't find the plug-in thingie that would allow him to do his dance moves and sing. It's always something, huh? I'm off to visit your blog, too.  :)
 ---
 
 It all started last Christmas when my niece Erin and her fiance Josh threw their lots in with a couple of their cousins to purchase my mom a <a href="http://www.walmart.com/catalog/product.do?product_id=3922117" title="life-sized singing and dancing Santa Claus">life-sized singing and dancing Santa Claus</a>.

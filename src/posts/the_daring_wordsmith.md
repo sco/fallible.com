@@ -1,6 +1,18 @@
 ---
 title: "The Daring Wordsmith"
 date: "2006-02-18T23:32:20"
+comments:
+  - author: "Vicki"
+    date: "2006-02-20T16:52:12"
+    text: |
+      Katy, hi!! Sure hope you're feeling better soon. Just dropping by with a hug and hello, and to see what's up. Thanks for your recent email--it was so helpful and inspiring. 
+      
+      Blessings,
+      Vicki
+  - author: "Macromoments"
+    date: "2006-02-20T21:22:40"
+    text: |
+      Katie,you've probably coined more terms in your blog than anyone, so use the word any way you like. I prefer the original over the cattle reference, anyway.
 ---
 
 Astute fallible reader and commenter Kathryn (aka Daring Young Mom) commented on my previous post that she loves the term "Momeopathic" and that she intends to use it, as well.

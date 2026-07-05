@@ -1,6 +1,35 @@
 ---
 title: "House Of Cards, Indeed"
 date: "2005-06-13T15:11:02"
+comments:
+  - author: "lisa"
+    date: "2005-06-14T02:31:40"
+    text: |
+      precisely why we don't have credit cards anymore (but i will confess..we are still dutifully paying back taxes :(...)
+      i love dollar strecher..lots of good advice there! 
+      
+      -----
+  - author: "Lorna"
+    date: "2005-06-14T11:53:49"
+    text: |
+      This is scary stuff. Not so much that minimum payments are being raised, but that so many appear to have borrowed so much. And for what?
+      
+      The 'charge it' mania started so many years ago, and it seems that so few have been taught what my dad called 'healthy living skills.'
+      
+      Not sure if this is possible in the USA, but here in Finland banks offer a service where you can pay the CC bill off each month from your normal bank account - enjoying the 45 days or so free credit - but without being charged any interest or risking a late payment fees.
+      
+      It required a huge change in attitude in spending for us. &quot;Can we afford to buy this?&quot; but it's not a bad rule of thumb.
+      
+      Still my heart goes out to those caught up in the spending frenzy. A house full of Avon/MaryKay /tupperware is my idea of hell. But here you have to pay cash for those home purchases! Just as well :)
+  - author: "irene"
+    date: "2005-06-14T17:19:22"
+    text: |
+      If they haven't even been making minimum payment on the credit cards, why haven't they been sued? I didn't make minimum payments for three consecutive months and my credit card company terminated my card &amp; put me on the central bank's blacklist! That frightened me enough to get me to start paying it all off but if I hadn't, I'm pretty sure I would've been sued.
+      
+      It's hard to imagine parents like Serena &amp; her husband when my parents are so frugal &amp; responsible... I'm the spendthrift one in the family. But I'm getting better! (I hope)
+  - author: "Paula"
+    date: "2005-06-15T02:10:25"
+    text: "Thank you for a responsible and well researched blog post, Katy. You done good."
 ---
 
 The story Renee told me might have curled my hair if I hadn't recently gotten a perm.

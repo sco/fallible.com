@@ -1,6 +1,16 @@
 ---
 title: "The American Scream"
 date: "2005-05-02T13:14:02"
+comments:
+  - author: "Anonymous : )"
+    date: "2005-05-03T01:10:34"
+    text: |
+      Oh,Katy! How dare you let me think, even for a few minutes that I wasn't the only one in the world who ever pulled a &quot;turkey stunt.&quot; I was SO disappointed to learn this was all a dream...because, you see, as a young newlywed, I DID allow a turkey to go green and putrid. We'd won him in a Thanksgiving raffle, but with just the two of us, and Thanksgiving always spent with family, there was never an occasion to cook the poor fellow. So he languished in the big freezer in the basement. But one late winter day we decided the freezer used too much electricity, so we pulled the plug. &quot;I have at least a day or two before Mr. Tom thaws and must be roasted,&quot; I thought--and never gave it a thought again. It was nearly summer when we started noticing a horrible stench occasionally emanating from the basement. But why, oh why, did my husband finally decide to investigate the weekend his parents were coming for a visit? The turkey received a decent burial deep in the field behind the house, but the whole sorry incident is constantly being dug up whenever we get together with dh's family. : } 
+      -----
+  - author: "Katy Raymond"
+    date: "2005-05-04T03:15:08"
+    text: |
+      Anon--Your story is HILARIOUS and could have so happened to me! How I wish I knew your name and the address of your blog--if you dare to have one. I'll bet it's a load of fun...
 ---
 
 I'd never purchased a piece of real estate by myself before--with no one there to temper my enthusiasm by bringing up the cracks in the foundation or the leaky roof--but now I have.

@@ -1,6 +1,56 @@
 ---
 title: "Blogger Reveals All!"
 date: "2005-06-01T21:45:02"
+comments:
+  - author: "Bridget"
+    date: "2005-06-02T05:51:13"
+    text: |
+      Well, ditto Katy's stories, except I wasn't around for Patrick dying, but I'm sure the effects of that are ongoing.  I'd probably have to add our own dad dying when I was only 17 (of a heart attack, of course...I wonder what Mom cooked that week..), and the dangerous course of my life that followed thereafter.  I'm lucky to have survived, but wouldn't have changed the things I did as that is what has made me who I am today...a fighter and a surviver.  Then there's my car accident from 3 1/2 years ago...but that's a whole 'nother story...much too long to post here, but which has affected me in too many ways to count.  Love to you, Katy.  Glad that Carrie is back in the US!!! :) 
+      -----
+  - author: "Jeanne Damoff"
+    date: "2005-06-02T06:41:56"
+    text: |
+      Wow, Katy. You've been through a lot of tragedy and heartbreak. I like the way you can weave humor about your mother's cooking through a story about so much sorrow. (Or were you not kidding?)
+      
+      I'm so thankful Carrie is back. I don't think you need to apologize for battling fear. I know I do it, too. And asking others for prayer is wise, not wimpy. You're actually doing us a favor by ushering us into God's presence on your behalf.
+      
+      Bottom line is we don't know what's going to happen, and sometimes sin, death, and evil prevail. But never without our Lord's permission and purpose. At least that's my faith stand. I pray the fulness of God's purpose to be accomplished through these events that have had an impact on your life. And may He continue to watch over your precious children in their travels.
+      
+      Peace of Christ,
+      Jeanne
+  - author: "Blogin Idiot"
+    date: "2005-06-02T07:22:24"
+    text: |
+      I don't have an excuse. My parents gave me all the best things that they could. All my brothers and sisters were healthy. I was accident prone and had a lot of stiches as a kid but never once even broke a bone.
+      
+      I was a middle child too so I didn't have the pressures of being the oldest or youngest. I did well in school and never got into trouble. So what happened with me?  How did I get weird? How did I become a blogin Idiot? It's more fun that way.
+      
+      Peace be with you.
+      Take Care
+      Michael
+  - author: "Bridget"
+    date: "2005-06-02T07:56:55"
+    text: |
+      Oh, Michael...you mean I can also add having the &quot;pressure&quot; of being the youngest child?!?  Yeah!  Of course that's not my problem at all (or is it?  hmmm...), but it's nice to know that I can use that as an excuse for how I am!
+  - author: "Maria"
+    date: "2005-06-02T09:07:07"
+    text: |
+      You're not weird. Your experiences have contributed to your charm and empathy. (And I can say that 'cuz I've been reading for a long time.)
+      
+      You are doing the best you can with what God has given to you. And quite eloquently, too.
+  - author: "Paula"
+    date: "2005-06-02T10:51:08"
+    text: |
+      Even with a tough past, I don't consider any of the experiences I had 'excuses' for anything. I recently posted a short testimony on my site and it was good for me to share it. I hoped people would see how God has been with me when I &quot;walked through the waters.&quot; I couldn't see it then, but He was there. 
+      I'm sure He was with you too, Katy. And your sensitivity and compassion indicate this. He comforts us so we can be comforted, but also so we can learn to be comforters. Thanks for sharing with us. God bless you and I hope you find someone to comfort you more.
+  - author: "Paul Nichols"
+    date: "2005-06-02T19:57:59"
+    text: |
+      Well, Katy, at least you came out smelling like a rose. You have to remember that you are one POSITIVE person. You must ead Phil 4:13 a lot.
+      
+      HACWN tonight.
+      
+      Blessings!
 ---
 
 After my last blog entry, some of you may think I'm pretty hopeless in the old faith department. And I don't know, maybe I am. I'm very big on praying for God to protect my friends and loved ones when I can't, and also overly-convinced of my own personal responsibility to make sure that everyone is very, very safe at all times. Like God really needs me to step in if He isn't in the mood or something.

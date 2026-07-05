@@ -1,6 +1,27 @@
 ---
 title: "But What If It Is Brain Surgery?"
 date: "2007-11-06T18:40:27"
+comments:
+  - author: "Carrie K."
+    date: "2007-11-07T06:42:18"
+    text: |
+      Okay, Katy, you actually had me laughing at a post about brain surgery! Brain surgery, can you believe it? It was the whole one eye popping open while you were asleep thing that got me.
+      
+      Thanks for sharing this. If you only knew the week I'm having. It's not brain surgery - not even anything to do with my health or the health of my family, but it has definitely challenged my faith. Thanks for encouraging me.
+  - author: "Suzan"
+    date: "2007-11-07T17:54:42"
+    text: |
+      Thanks for this post. God is awesome, isn't He?
+  - author: "joshua"
+    date: "2007-11-08T14:58:44"
+    text: |
+      Wow! Your second paragraph says it all about our God â€“ "A test of faith, Iâ€™d like to say up front, is designed to be passed. God actually sets up the test so we, His students, have every advantage. He hands out the syllabus well in advance of the course beginning, so we have time to skim through the text and get to know His personality as an Instructor before the first lecture is scheduled."
+       
+      Thank you so much for this awesome word of encouragement. God bless!
+  - author: "vandie"
+    date: "2007-12-17T12:49:43"
+    text: |
+      So glad you have your website up...I've been reading discussion boards on other websites for those with brain tumors but you have to say you won't pray when you sign in...supposedly being delicate to the 2000+ members from all over the world...I think that is so sad.  Glad you are well.  My surgery will be in January.  I know that ultimately He is the Great physician.  I wrote alot of prose which is my therapy along with prayer and journaling.  Thanks again for your sharing!  God Bless you and yours.
 ---
 
 In the comments under my post Reader's Choice, my long-time reader Joshua has requested that I write about a time my faith was tested. And while I'll soon be writing about my most embarassing moment, I think I'll tackle this subject first.

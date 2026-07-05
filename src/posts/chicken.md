@@ -1,6 +1,15 @@
 ---
 title: "Chicken!"
 date: "2005-10-28T14:44:22"
+comments:
+  - author: "Bridget"
+    date: "2005-10-28T15:05:34"
+    text: |
+      While you were sleeping (hey, that's a great movie!), I was having horrible dreams.  Why is it always one or the other of us?
+  - author: "Katy"
+    date: "2005-10-28T15:12:32"
+    text: |
+      Girl, it's me EVERY night! But I am very sorry that it's you, too. If you ever want to chat in the middle of the night, just call. I'm awake... Love you!
 ---
 
 "The chicken!"

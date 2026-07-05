@@ -1,6 +1,11 @@
 ---
 title: "Oh, The Weather Outside Is Frightful. But A Lockdown's So Delightful!"
 date: "2006-11-29T22:50:59"
+comments:
+  - author: "Tess"
+    date: "2006-11-30T04:15:56"
+    text: |
+      Oh my word!  I'm glad to hear she's okay, but that sure would be skeery
 ---
 
 I don't know if I've mentioned this, but my darling daughter is teaching severely disabled 7-year-olds in a public school in the very extremely urban core of Kansas City.

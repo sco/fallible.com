@@ -1,6 +1,10 @@
 ---
 title: "Christmas Cop-Outs"
 date: "2007-12-14T20:36:00"
+comments:
+  - author: "Bridget"
+    date: "2007-12-16T14:12:45"
+    text: "Guess maybe I should keep the poinsetta that I got to give to Mom, huh?  She loved the one I got last year, but I suppose that was a one-time deal."
 ---
 
 So yesterday I went to see Mom and noticed that someone had given her a small poinsettia. She refuses all Christmas decorations except the two Scottish Santas, which she displays year round, but I thought maybe she'd like the idea of a plant.

@@ -1,6 +1,17 @@
 ---
 title: "Plunkett and Podge"
 date: "2006-05-18T00:22:24"
+comments:
+  - author: "Plunkett McKenna"
+    date: "2010-01-23T14:34:42"
+    text: |
+      Katy,
+      You look so much like my Canadian Cousins, Mary and Patrica.
+      Talk soon.
+      &#123;Plunkett)
+  - author: "Real estate chennai"
+    date: "2010-10-06T10:02:46"
+    text: "A precious commodity to my way of thinking,the occasion of which prompted my computer which contained that information to utterly and forsakenly die."
 ---
 
 If I hadn't lost John McKenna--albeit temporarily--I never would have found Plunkett McKenna. And if I hadn't found Plunkett, well, I'd have never met Podge McKenna.

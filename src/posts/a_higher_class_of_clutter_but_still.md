@@ -1,6 +1,48 @@
 ---
 title: "A Higher Class Of Clutter, But Still..."
 date: "2005-05-10T20:14:02"
+comments:
+  - author: "lisa"
+    date: "2005-05-11T15:33:16"
+    text: |
+      Couches?!  Oh Katy, you are priceless!  I love it.  BTW, I have four. 
+      -----
+  - author: "Kevin"
+    date: "2005-05-11T18:27:26"
+    text: |
+      Missouri loves company? Oh, that's just really awful... :D!
+  - author: "Katy Raymond"
+    date: "2005-05-11T19:37:28"
+    text: |
+      Lisa--You only have four couches because you're a full ten years younger than I. Just you wait, girlie! These things take time. By the way, I noticed your latest blog entry is about materialism. Hmmmph. I hope you don't think I'm materialistic because I'm NOT, unless you count chintz, of course.  ;)
+      
+      Kevin--Hey, I've missed you! See? Missouri really does love company. I'm going to go catch up on your blog...
+  - author: "edieraye"
+    date: "2005-05-12T03:02:44"
+    text: |
+      My sister can't help herself when it comes to dishes.  I have no idea how many sets she has!  I used to have a weakness for dishes, glasses, and vintage clothes - particularly party clothes.  But my recent decluttering has been so heart-wrenching I am finding it easier to just say no.
+  - author: "Brandon Edling"
+    date: "2005-05-12T06:47:59"
+    text: |
+      Well, if you feel so inclined, my fiancee and I need a couch when we move in together in July... :)
+  - author: "Steph"
+    date: "2005-05-13T06:45:57"
+    text: |
+      I'd beg you for a couch, Katy, but (a) I live in Canada and (b) my new roommate will be bringing a couch with her when she moves in this July.  A couch, high-speed internet access, and a complete home entertainment system.  I have an unplugged twelve-inch screen for my Super Nintendo.  With this girl around, I might never leave our home again.  :)
+  - author: "irene"
+    date: "2005-05-13T14:53:50"
+    text: |
+      My weakness is for books. I see them and I just want to buy them. It's more than just wanting to read them; I want to own them, to display them on my shelf and to feel the comfort &amp; security of knowing they're all mine. I need help.
+      
+      &quot;Hello, my name is irene, and I am a book-buyer-holic.&quot;
+  - author: "Paula"
+    date: "2005-05-13T21:21:05"
+    text: |
+      Irene and I are bibliophiles. We not only like to read them. We know they deserve a place of honor. Mine get placed on shelves as decorations. So there, Better Homes Than Mine, er, &amp; Gardens. Does anyone have a weakness for bookshelves they'd like help with? (smile)
+  - author: "Kat"
+    date: "2005-05-17T08:21:50"
+    text: |
+      I'm commenting here cause your other two posts are full of the 50 comments, so count this towards another dollar for your daughter! :)
 ---
 
 Many of you will remember that last fall I impulsively purchased a book just for its title: "How To Lose 200 Lbs. This Weekend!" by Don Aslett.

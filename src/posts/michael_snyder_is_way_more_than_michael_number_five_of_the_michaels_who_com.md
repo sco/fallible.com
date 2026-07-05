@@ -1,6 +1,99 @@
 ---
 title: "Michael Snyder Is WAY More Than Michael Number Five Of The Michaels Who Comment Here!"
 date: "2008-03-12T21:35:00"
+comments:
+  - author: "Carrie K."
+    date: "2008-03-12T22:43:28"
+    text: |
+      Does being first increase my chances? I'd love to read this, and I'm adding it to my Amazon wish list to buy if I don't win.
+  - author: "Suzan"
+    date: "2008-03-12T23:20:52"
+    text: "Great Interview! Congrats to Mike on the book!"
+  - author: "Kylie"
+    date: "2008-03-13T11:21:20"
+    text: "Sounds like a fabulous book with some great truths and morals that I would love to read. It was a fantastic in-depth interview Katy!"
+  - author: "D'Ann Mateer"
+    date: "2008-03-13T13:00:38"
+    text: |
+      I've wanted to read this book since I heard it was coming out! i met Michael a couple of years ago at the ACFW conference--just before he was contracted for this book. So put my name in the hat, Katy!
+  - author: "joshua"
+    date: "2008-03-13T14:02:09"
+    text: "these interviews are great! thanks for the preview of what sounds like a really cool book."
+  - author: "Anna Frederick"
+    date: "2008-03-13T14:12:19"
+    text: |
+      Ooh. Pick me, pick me. I LOVE reading books written by people with interesting minds (this is why I read your blog, Katy). What's the latest on YOUR book?
+  - author: "Kelley"
+    date: "2008-03-13T15:32:08"
+    text: |
+      Your interview was priceless--makes me want to go out and buy the book. But I'd rather have you buy it and send it to me :). Count me in!
+  - author: "Kathryn Harris"
+    date: "2008-03-13T16:32:30"
+    text: |
+      From one interviewer to another, nice job Katy. I can't wait to read this book.
+  - author: "Hannah"
+    date: "2008-03-14T03:00:49"
+    text: |
+      I'm a lurker here, but I'm speaking up because this book sounds really interesting and I'd love to be included in the drawing for it. :)
+      
+      By the way, Katy, I don't really comment on blogs much, but I do want to say that I love your writing and have been reading here pretty frequently for over a year now. Thanks for all the laughs. :)
+  - author: "michael snyder"
+    date: "2008-03-14T03:31:02"
+    text: |
+      Wow, thank you all for the kind words. And Katy...thank you for all the words, the great questions, and for letting me rent some space here on your blog. Where do I send that check again?
+      
+      Seriously, thanks. This was a lot of fun for me.
+  - author: "Nancy Wood"
+    date: "2008-03-14T18:27:44"
+    text: "Have you picked a winner yet?  If not, put me in the bidding!  Sounds like a great book"
+  - author: "Jeanne Damoff"
+    date: "2008-03-14T20:59:45"
+    text: |
+      Great interview, made all the more great (a plethora of greatness even--a veritable behemoth) by the fact that the interviewer and interviewee are two of my favorite people.
+      
+      Love you both.
+      Jeanne
+  - author: "Cathy West"
+    date: "2008-03-14T21:14:59"
+    text: "Interesting. I shall make note of that one for my to be read pile, which seems to grow larger by the day, and overshadows my to be written pile...something seems wrong with this picture..."
+  - author: "alison"
+    date: "2008-03-14T22:46:33"
+    text: |
+      First of all, is Mike married and, if not, will you introduce us? Your interview brought tears to my eyes, actual tears. That isn't all that unusual, because I spend a lot of my spare time crying. Nevertheless ... As you know, I am struggling with what might turn out to be a novel based on what I perceive to be fact. One of the reasons I say "struggle," is because I struggle a lot with God in real life and in what I write. It's not the same type of "survivor's guilt" the two of you have in common - it's more like "surviving guilt." In my life, I go back and forth between blaming myself and blaming God for the way my life has turned out. Sometimes it's easier to blame God so I don't have to think about how badly I screwed up. Other times I blame God because He is, after all, omnipotent, and He could have intervened any time He wanted to, if He wanted to. But I digress. Anyway, I want the book. I need the book. Can I please have the book? And, as a side comment, I'm glad you and Doug are the only people who know who I am.
+  - author: "alison"
+    date: "2008-03-14T22:48:42"
+    text: |
+      He's probably too young for me anyway.
+  - author: "Katy"
+    date: "2008-03-14T23:27:17"
+    text: |
+      Carrie K--If God is on your side, being first does increase your chances. Ha!
+      
+      Suzan--I promise it's unlike anything else you've read....which tickles me.
+      
+      Kylie--Thanks! I am adding your name to my list of K names for future characters. It's adorable!
+      
+      D'Ann--That's when I met Mike, too!! If I remember right, he was stunned with having landed Steve Laube as his agent....
+      
+      Joshua--I think this is a book a guy your age would find hilarious. Good luck!
+      
+      Anna--You are a fun girl!! Mike's mind is indeed FASCINATING. I'm still trying to figure him out, and enjoying the process.
+      
+      Kelley--I wish I could send one to everyone! Good luck on winning!
+      
+      Kathryn--Now I will come read your interviews!! It's been a while since I've done one, but I do so enjoy it. Some wonderful writers out there, deserving of attention....
+      
+      Hannah--Thank you for delurking!! Your comment is so sweet and appreciated. I hope to deliver a lot more entertainment your way!  :)
+      
+      Michael Snyder--If you and your erstwhile agent Steve Laube will split the three-syllable words with me and my agent Rachelle Gardner, you can tear up the check. It's been my pleasure!!!!
+      
+      Nancy--I may hold off till Saturday morning, because the comments are still hot and heavy. Good luck!
+      
+      Jeanne--And we both love you!!! Are you back from the mission field, safe and sound? I want to read all about your trip....
+      
+      Cathy--Yes, I know what you mean!! You and I will definitely need to be shifting the balance in favor of WRITING, huh?? I'm still excited about you signing with Rachelle....
+      
+      Alison--I am sorry to report that Mike is indeed married and has four kiddos. BTW, I think a lot of us novelists who are targeting the Christian market "struggle." And so do our characters. The days of so-called Christian novels being populated by nearly-perfect characters seem long gone. "Real" Christians are not perfect, and fiction is reflecting the struggles that are common to believers and unbelievers alike. Your story may very well fit right in.....
 ---
 
 <img src="/images/snyder.jpg" border="0" width="100" height="121" hspace="6" align="left">I'm betting a few of you know about debut fiction author Michael Snyder and his wonderful novel, My Name Is Russell Fink.

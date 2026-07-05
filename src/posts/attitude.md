@@ -1,6 +1,20 @@
 ---
 title: "Attitude"
 date: "2005-04-21T00:20:02"
+comments:
+  - author: "Bridget"
+    date: "2005-04-21T07:43:05"
+    text: |
+      Yeah, Mom had already shared this with me on the night of her birthday when I called her.  She asked me if she was dying.  I asked what she was talking about.  She replied that if we're doing all that for her, then we must have all been told by her doctors that she was &quot;in her final days.&quot;  I said that we did it because we loved her and that it was a special birthday.  I don't think she believed me.  I think she enjoyed her two days, but it was just too much and a bit overwhelming for her.  Great blog, by the way.  Love you and miss you. 
+      -----
+  - author: "Paula"
+    date: "2005-04-21T12:24:47"
+    text: |
+      Don't be surprised if God gives her what seems like oodles of 'time.' My mom had multiple myeloma (like her mom) and lived for 20 years after the diagnosis. And Bridget is right; 75 is a good year to celebrate.
+  - author: "jane"
+    date: "2005-04-23T01:49:35"
+    text: |
+      thanks for sharing Katy, this reminds me of the attitude i have lately about life. i know God wants me to enjoy life, but i let alot of worries and &quot;what-ifs&quot; overload and burden me that i can't enjoy anymore. thank God He kindly reminds me again &amp; again, even through your blog...don't let Satan's lies worry &amp; stop me from enjoying what God wants me to enjoy!
 ---
 
 "I guess I should just be grateful all to hell."

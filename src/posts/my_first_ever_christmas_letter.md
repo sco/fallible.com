@@ -1,6 +1,70 @@
 ---
 title: "My First-Ever Christmas Letter!"
 date: "2007-12-22T15:34:00"
+comments:
+  - author: "Suzan"
+    date: "2007-12-22T18:31:47"
+    text: "Love this! Merry Christmas!"
+  - author: "Carrie K."
+    date: "2007-12-22T19:17:16"
+    text: "Great letter, Katy! Have a wonderful Christmas."
+  - author: "PattyT"
+    date: "2007-12-23T08:43:00"
+    text: |
+      Amen and Amen, darlin'. May your season hold a full nest for a while, peace, and relaxation. Merry Christmas!
+  - author: "Michael Main"
+    date: "2007-12-23T23:40:50"
+    text: |
+      Katy,
+      
+      I've spent been much of the past week...okay, month of two, reflecting on the last 12-14 months.
+      From teen suicides, funerals, con-men and mission trips (don't worry that thank you note to you and Doug is on my "to do" list...right above "make the children less self-absorbed" so it still has a chance). 
+      
+      Uh,lest that be misunderstood the thank you note is for Katy and Doug's generosity toward our  mission trip.
+      
+      It's been a rocky year...we've been in valley and atop peaks.
+      
+      Most of all we've been blessed. 
+      
+      We feel honored to count you & Doug among those blessings.
+      
+      Your nest will never be empty, because your hearts are full.
+      
+      That to me is the true definition of "Peace on earth."
+      
+      Peaceful hearts.
+      
+      Have a glorious Christmas and we look forward to sharing our journeys (the ups & downs) in the year to come.
+      
+      We wish you blessed perspective when you need it, and a continued sense of humor when you can't muster it.
+      
+      Grace & peace,
+      
+      Michael & Amy
+  - author: "Bridget"
+    date: "2007-12-24T18:14:55"
+    text: |
+      Okay...I couldn't read past "use the treadmill".  Really?!?!  LOL.  :)  Love to you always.
+  - author: "Jennifer"
+    date: "2007-12-25T16:48:09"
+    text: |
+      Wow...it has indeed been quite the year! Here's hoping you have the merriest Christmas and a happy, healthy 2008!
+  - author: "Cynthia Ruchti"
+    date: "2007-12-26T23:10:54"
+    text: |
+      Katy, bless you for your service to the WORLD writing fallible blog posts! Your Christmas letter so brightened my day. You're such an awesome writer. I love how you use that gift.
+  - author: "D'Ann"
+    date: "2007-12-26T23:20:41"
+    text: |
+      Hey Katy!
+      
+      I'm just now discovering that when I set your blog to "My Favorites" after the ACFW Conference, it set it for the page that took me to that particular post! So for three months I've been checking back and thinking you hadn't changed it--wondering if you were ok or if you had fallen off the face of the earth! I'm glad I've realized my mistake and glad to catch up a little on your life this past year. I look forward to checking in on you more often now!
+  - author: "Rent a Car Car Hire Antalya Dalaman"
+    date: "2008-02-19T13:46:31"
+    text: |
+      If you plan to Car Rental in Antalya, Dalaman, Izmir, Bodrum, Istanbul, Ankara, Marmaris, Fethiye, Didim we can provide you easy and relaxing car hire with our friendly staff, new and well maintained vehicles at affordable rates, by being most efficient car rental company in Turkey
+      Der Vermieter ist in den grÃ¶ÃŸten tÃ¼rkischen StÃ¤dten vertreten. Die angebotenen Fahrzeuge gehen von Kleinwagen bis Minivans.
+      http://www.antalyarentacar.com
 ---
 
 To friends, family, and fallible readers,

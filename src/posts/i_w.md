@@ -1,6 +1,107 @@
 ---
 title: "I Will Not Be Afraid Of The Terror By Night, Nor Of The Dream About The Guy Who Breaks The Piano"
 date: "2005-11-06T23:04:18"
+comments:
+  - author: "Bridget"
+    date: "2005-11-07T02:22:17"
+    text: |
+      Yep, we really have come full-circle when we're now "losing" our mom instead of our children.  What a horrible nightmare, Katy.  I'm so sorry.  Good luck with Mom tomorrow!
+  - author: "Amber"
+    date: "2005-11-07T17:46:40"
+    text: "Oh, Dear Katy, I think you need a vacation!"
+  - author: "Katy"
+    date: "2005-11-08T19:01:45"
+    text: |
+      Bridgie--So far, so good...
+      
+      Amber--I do SO need a vacation. Believe me, I'm squirrelling away the quarters!
+  - author: "Netpowersoft"
+    date: "2005-12-06T12:51:49"
+    text: |
+      You take pleasure in the most twisted things... 
+      
+      keep it up :) 
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Rachel McAdams"> Rachel McAdams </a>
+      
+      hey i am fully agree to what all you have written here ..
+      i am lovin this blog...
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Jessica Alba"> Jessica Alba </a>
+      
+      This is looking really nice stuff..
+      This is a cool stuff 
+      :)
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Charlize Theron"> Charlize Theron </a>
+      
+      This is looking really nice stuff..
+      Well you win my heart..
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Paris Hilton"> Paris Hilton </a>
+      
+      i am lovin this blog...
+      This is a cool stuff 
+      :)
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Angelina Jolie"> Angelina Jolie </a>
+      
+      
+      You take pleasure in the most twisted things... 
+      keep it up :) 
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Pamela Anderson"> Pamela Anderson </a>
+      
+      
+      hey i am fully agree to what all you have written here ..
+      i am lovin this blog...
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Jessica Simpson"> Jessica Simpson </a>
+      
+      
+      This is looking really nice stuff..
+      This is a cool stuff 
+      :)
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Lindsay Lohan"> Lindsay Lohan </a>
+      
+      
+      This is looking really nice stuff..
+      Well you win my heart..
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Halle berry"> Halle Berry </a>
+      
+      
+      i am lovin this blog...
+      This is a cool stuff 
+      :)
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Josie Maran"> Josie Maran </a>
+      
+      You take pleasure in the most twisted things... 
+      keep it up :) 
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Kate Winslet"> Kate Winslet </a>
+      
+      
+      i am lovin this blog...
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Catherine Bell">  Catherine Bell </a>
+      
+      
+      This is looking really nice stuff..
+      This is a cool stuff 
+      :)
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Jodie Foster"> Jodie Foster </a>
+      
+      
+      This is looking really nice stuff..
+      Well you win my heart..
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Adriana lima">Adriana Lima </a>
+      
+      
+      i am lovin this blog...
+      This is a cool stuff 
+      :)
+      
+      <a href="http://www.netwallpapers.com/index.php?m=wallpapers&p=Rachel Bilson"> Rachel Bilson </a>
+      <a href="http://tradealoan.com">http://tradealoan.com</a>
 ---
 
 I've written about this before, but I'm not sure I've mentioned it on fallible--which is weird in itself, since you probably think that in five years' time, I've pretty much mentioned everything on fallible.

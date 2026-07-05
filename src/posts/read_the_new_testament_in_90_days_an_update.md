@@ -1,6 +1,11 @@
 ---
 title: "Read The New Testament In 90 Days! An Update..."
 date: "2006-01-17T16:24:21"
+comments:
+  - author: "Heather"
+    date: "2006-01-18T00:55:53"
+    text: |
+      It reminds me of what you said about New Year's resolutions.  If it weren't so important, what would it matter if we just gave up.  Thanks for your comments today, and for this post.  I love this blog!
 ---
 
 Thanks to the inspiration of many of you, perhaps most especially <a href="http://robinlee.typepad.com/i_was_just_thinking_/2006/01/90_days_week_2.html">Robin Lee Hatcher</a>, I took the bait again this year.

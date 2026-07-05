@@ -1,6 +1,17 @@
 ---
 title: "Quotes To Live By"
 date: "2008-02-01T21:22:00"
+comments:
+  - author: "Beloved MaMa"
+    date: "2008-02-02T04:15:22"
+    text: |
+      What a beautiful blog :) I found you on 100 Christian Blogs :)
+  - author: "Bridget"
+    date: "2008-02-04T18:20:03"
+    text: |
+      "It's never too late to be what you might have been."  George Eliot
+      
+      "Do what you can, with what you have, where you are." Theodore Roosevelt
 ---
 
 It's February 1, and I'm still accumulating some inspirational quotes by which to live my year. I'll share a few of my favorites here:

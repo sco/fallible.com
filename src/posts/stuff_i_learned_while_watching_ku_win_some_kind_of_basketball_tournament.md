@@ -1,6 +1,41 @@
 ---
 title: "Stuff I Learned While Watching KU Win Some Kind Of Basketball Tournament"
 date: "2008-04-08T15:53:00"
+comments:
+  - author: "Carrie D."
+    date: "2008-04-10T13:46:47"
+    text: |
+      Mom-Glad you're getting to know more about the game--just don't become a KU fan, ok? 
+      MIZZOU-RAH!
+  - author: "Nancy Wood"
+    date: "2008-04-10T17:59:47"
+    text: |
+      Katy,
+      
+      I'm so glad you cleared this all up for me!  For the 1st time in 15 years, my non-sports liking husband decided to watch the game in his "office".  He proceeded to come down every 5 minutes and tell me the score and the best shots!  What I don't understand is ...  why do the last 2 minutes of the game seem to take forever!!!  Craig comes down and says, "Just 2 minutes to go."  Five minutes go by and he comes down again, "Just 1 minutes and 58 seconds to go."  Makes me think that these games are being played in another time dimension!  Oh well!  It was fun!
+  - author: "Kathryn Harris"
+    date: "2008-04-11T15:51:31"
+    text: |
+      Oh, Katy, don't become a basketball fan. Although I do find the March Madness brackets fun to fill out, I still believe basketball is just a bunch of overgrown men running around in their pajamas trying to put a ball in a hole without putting each others eyes out.
+      I'd take college football any old day of the week over basketball. Go Big 12!
+  - author: "Jennifer"
+    date: "2008-04-12T14:08:48"
+    text: |
+      Can't wait for your re-cap and analysis of the World Series!
+  - author: "Lynn Raymond"
+    date: "2008-04-12T16:21:02"
+    text: |
+      Katy,
+      You should become a sports announcer!  But hey, on Monday night I found the best way to watch basketball!  I turned on the first 5 minutes of the game, saw that KU was winning, then flipped to shows I had Tivo'd.  As the evening progressed, I happened to flip back to "live tv" and the game had only 3 minutes to go, plus the overtime.  It was great to watch the final minutes, and I didn't have to sit thru all that boring stuff in the middle!  (ok, so I'm not a b-ball fan... give me the Masters anyday!)
+  - author: "Entertainers"
+    date: "2008-11-24T19:44:23"
+    text: |
+      Bravo to you! Not all wives get themselves into basketball, especially moms. This is a good way to bond with your husband and of course your son or daughter whose into basketball too.
+      
+      I salute you!
+  - author: "Andrea Mae"
+    date: "2009-02-05T04:01:50"
+    text: "Basketball is the most popular sport for me"
 ---
 
 OK, everyone knows the University of Kansas, my son Scott's alma mater, won a championship of some sort. A national thing. I remember somewhere along the line there was a Big Eight, and then a Final Four. There might have been, previous to that, a Sweet Sixteen, but I could be mistaken on that one.

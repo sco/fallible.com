@@ -1,6 +1,35 @@
 ---
 title: "Happiness"
 date: "2008-07-08T19:40:00"
+comments:
+  - author: "Carrie K."
+    date: "2008-07-08T22:57:08"
+    text: |
+      What a wonderful story - and a wonderful gift to open the book and see that dedication. :)
+  - author: "Nancy Moser"
+    date: "2008-07-09T12:38:20"
+    text: |
+      Katy, you told me that story during one of our lunches at Applebee's and it stuck with me.  Obviously! The dedication reads: "I prayed for a friend like the Katie I'd left behind.
+      And then I met youâ€¦
+      May you be all-the-way happy."  The rest if the dedication may seem like an insider information (as do most dedications) but it stems from this: I had a good friend Katie back in Nebraska, who I really missed when we moved to Kansas City.  And so I prayed to God for a friend like Katie.  And soon after, I met...Katy.  Too cool. God certainly answers prayers! I hope you like the "John 3:16" novel, my dear!
+  - author: "Sandi Thompson"
+    date: "2008-07-09T19:27:40"
+    text: "I like that. I have a picture of my granddaughter that fits it to a tee!!  Children get it. We forget."
+  - author: "Cathy West"
+    date: "2008-07-11T15:52:43"
+    text: |
+      Aw. That's wonderful. I must remember that one. All the way happy. 
+      Yes.
+  - author: "D'Ann Mateer"
+    date: "2008-07-15T13:31:30"
+    text: |
+      Katie--
+      
+      I had to laugh when I read your story. Now I (again) see why we "clicked" when we met! We are so alike it's scary! And the dedication--how fun!
+  - author: "Sally"
+    date: "2008-07-22T12:16:35"
+    text: |
+      I would love to get on that publishers' mailing list for advance copies to read and review on my blog. Can you tell me how?
 ---
 
 I am in a fortunate position these days. Because I've interviewed lots of authors on fallible, I'm now being sent TONS of free books by any number of publishers.

@@ -1,6 +1,30 @@
 ---
 title: "Baby Got Bad Back"
 date: "2007-08-27T13:27:20"
+comments:
+  - author: "Michael Main"
+    date: "2007-08-27T15:58:31"
+    text: |
+      I think I'd find another doctor.
+  - author: "lisa"
+    date: "2007-08-28T03:25:59"
+    text: |
+      i think you ought to go on hiatus from doing things that may self injure, and spend some serious time with say, the bbc's pride & predjudice and some really good chocolate...
+  - author: "Bridget"
+    date: "2007-08-28T11:10:12"
+    text: |
+      I hope the shots work for Doug.  I, of course, was one of the 20% that they DIDN'T work for...go figure.  I'm thinking of him.
+  - author: "Lynnell Hayes"
+    date: "2007-08-28T14:09:29"
+    text: |
+      My mom has a herniated disc too. Eh! She goes to physical therapy which she said helps. She has to pay a copay though and three times a week over a long period of time adds up. She isn't suposed to do lifting either but they are moving so of course she is doing it some anyway.
+  - author: "Vicki"
+    date: "2007-09-05T03:39:50"
+    text: |
+      Oh, dear, I do hope the both of you  can get some much-needed relief. That 'out-of-whack' back stuff is excruciating. &#123;&#123;&#123;hugs&#125;&#125; Remind me not to call that doctor!
+  - author: "Katy"
+    date: "2007-09-05T17:42:40"
+    text: "Thanks for your kind remarks, everyone! Finally, Doug had his first shot this morning.....hope it works for him!"
 ---
 
 My poor fellow, who's only been sick about three days in his life, has gotten himself into a bona fide situation.

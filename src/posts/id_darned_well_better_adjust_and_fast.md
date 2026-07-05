@@ -1,6 +1,61 @@
 ---
 title: "I'd Darned Well Better Adjust, And Fast"
 date: "2005-05-17T13:27:02"
+comments:
+  - author: "lisa"
+    date: "2005-05-18T03:21:50"
+    text: |
+      i have just about twelve weeks left until I'm - for the first time in over a decade - preschooler-less. I relate to the feeling of being ok with the first two growing up, moving on, leaving me holding crayola's box of sixty-four and the rubbermaid containing every color of playdough in the rainbow (and then some)...and their little sister. now she's looking very forward to her first day of kindergarden, and I'm hanging in there... 
+      
+      -----
+  - author: "Jeanne Damoff"
+    date: "2005-05-18T10:36:45"
+    text: |
+      Katy, I know how you feel. In a few days my 20-yr-old son is heading west from Wisconsin in a van with three other guys, camping here and there, eventually landing in northern California for a while, and finally arriving in Seattle, where my daughter graduates from Seattle Pacific University June 11. Then he'll fly back to Chicago to join a group heading to England for the summer. He's not coming home to East Texas at all this summer. Meanwhile, the 21-yr-old graduating daughter plans to join her brother in England in August, then remain in Europe until the end of September, traveling all over the continent with a girlfriend, and staying with people she met last summer when she studied at an international school in Barcelona.
+      
+      Like I said. I know how you feel. Wanna swap prayer requests?
+  - author: "Katy"
+    date: "2005-05-18T19:29:30"
+    text: |
+      Lisa--You have taken your mothering so to heart that it will hurt a little. I remember feeling JEALOUS of Kevin's preschool teacher and then his first few grade school teachers because they were WITH HIM. One of them even told me that looking forward to being with Kev helped her get out of bed in the morning! I knew just what she meant. You will do great, Lisa, but I won't pretend that you won't have your moments... Blessings to you and I miss your blogging!
+      
+      Jeanne--You've got me beat this year, I think. Although the weather report is talking about hurricane-force winds in the Caribbean starting today. Carrie arrives in Haiti this afternoon. If you remember, Haiti didn't fare too well in last year's storm season...Sheesh. It's not shallow to pray for physical and spiritual safety for all these kids, is it? And freedom from disease? And good companions for the journey? Because if it is, call me Shallow...
+  - author: "Katy"
+    date: "2005-05-18T19:33:23"
+    text: "Jeanne--Although some years, I may have beat you. Scott, now 25 and married, went to seven (I think) countries in Asia ALONE for three weeks in 2003. It scared me to death. He devoted a blog to his travels, called &quot;Scott Raymond, Gentleman Adventurer,&quot; on which he posted pics of $1 hotel rooms in Indonesia. The thought of my kid alone in a $1 room freaked me out pretty bad..."
+  - author: "lisa"
+    date: "2005-05-18T20:46:39"
+    text: |
+      thanks for the understanding words, katy..and i have fallen off the blog wagon (or is it hanging on? i cannot remember)..i've been reading more than writing as of late. maybe i'll start writing about what i've read soon..
+  - author: "Katy"
+    date: "2005-05-18T21:59:31"
+    text: |
+      Lisa--Your words remind me of a favorite Ben Franklin quote. He said, &quot;Either write something worth reading or do something worth writing.&quot; Writing and doing pretty much covers all life's bases, huh?  :)
+  - author: "Jeanne Damoff"
+    date: "2005-05-19T01:43:03"
+    text: |
+      Oh, I don't know that I've got you beat. Haiti is scarier than Europe. If your prayers are shallow, then I'm wading in puddles, too.
+      
+      Your kids sound cool! I wish our young gypsies could meet. :)
+  - author: "Katy"
+    date: "2005-05-19T02:35:48"
+    text: |
+      Jeanne--You are so kind to commiserate. Carrie has landed in Haiti in the last hour or so. She called from Miami and said we'd likely not hear from her again for the duration. My dumb hyperventilationn problem has been much better lately, but I've found myself keeping a paper bag handy today. I'm such a wimp!
+      
+      Maybe our prayers are deep, huh? One of the scariest titles of a novel I can remember is &quot;The Deep End of the Ocean.&quot; Like the ocean could have a shallow end! These parenting waters--and all the requisite prayers that attend them--are anything but shallow.
+      
+      Yeah, let's get those kids together! Yours sound wonderful, too...   :)
+  - author: "Hope"
+    date: "2005-05-22T11:20:22"
+    text: "I need to adjust fast too - boy it is so much harder than I ever thought it would be.  Daughter is 21 and home for the summer before heading back to college.  One son is 19 and still at home and youngest son is going to be 18 this year.  Before I know it there will be the empty nest.  I am continually surprised with the amount of new things in life thrown at me that I still want control over.  Like, all of it."
+  - author: "Katy"
+    date: "2005-05-22T20:36:16"
+    text: |
+      Hope--I talked to my 75-year-old mother about this subject last week. She said it NEVER lets up, the constantly having to adjust. Losing spouses and peers as we get older requires constant adjusting, and then perhaps having to move into assisted living with a whole new group of associates can be very difficult.
+      
+      So I think getting good at adjusting will serve us all well going forward!
+      
+      Enjoy those kiddies of yours!
 ---
 
 Today Carrie leaves for two weeks in Haiti. She's been there once before, just sixteen months ago, and I haven't recovered yet. One of the boys on the trip nearly died of malaria upon their return home and, well, I'm a chicken about stuff like this.

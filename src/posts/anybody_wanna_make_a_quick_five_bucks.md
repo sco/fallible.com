@@ -1,6 +1,34 @@
 ---
 title: "Anybody Wanna Make A Quick Five Bucks?"
 date: "2008-05-03T15:48:00"
+comments:
+  - author: "Katy"
+    date: "2008-05-03T19:45:05"
+    text: "I may keep this contest open until Monday night or so...."
+  - author: "Lynn R"
+    date: "2008-05-04T00:15:45"
+    text: |
+      I'm guessing $360 million... !  (I have no rationale, it just seemed like a good number!)
+  - author: "Kelley"
+    date: "2008-05-05T02:15:40"
+    text: "total guess... $235.6 mil"
+  - author: "joshua"
+    date: "2008-05-05T03:52:50"
+    text: |
+      ok! let's have a fun and make a wild guess... $957 million. 
+      
+      It has to be a boatload since some of those places charge you a transaction fee and some banks charge you on top of that. i refuse to be a part of that system! like you... it is cash back at the store or debit card.
+  - author: "Carrie Dahmer"
+    date: "2008-05-05T04:18:59"
+    text: |
+      1.2 billion. Completely wild guess. But I can't pass up an opportunity for a five dollar bill! That's a gallon of milk and then some!!
+  - author: "marc ryan"
+    date: "2008-05-05T05:33:14"
+    text: |
+      It has to be 4.5 billion...because the number '45' continues to have a soft spot in my heart!
+  - author: "Bridget"
+    date: "2008-05-05T22:57:05"
+    text: "Okay...a total guess...$3.2 billion."
 ---
 
 I've got five bucks that says we Americans are paying WAY too much for ATM fees.

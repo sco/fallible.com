@@ -1,6 +1,52 @@
 ---
 title: "Unentitlement Mentality"
 date: "2007-04-27T12:21:20"
+comments:
+  - author: "Anna"
+    date: "2007-04-27T17:59:29"
+    text: |
+      What a great post! We would all do well to remember what we can do without. 
+      
+      Have you read, "A Girl Named Zippy"? If you haven't, you must. Give it a few chapters, but there are some stories in there that I can almost guarantee you will love. Your post today reminds me so much of that book.
+  - author: "Suzan"
+    date: "2007-04-27T22:29:38"
+    text: |
+      I feel like you peeked a little into my own childhood. What you describe is so similar to my experience, we really MUST be sisters in a parallel universe. Yes, I remember. I remember not having a remote and getting up to change the TV channel. I remember not having a car until I was 10. Walking to school and food from scratch. Vacations up in the mountains in a cruddy cabin where we did all the cooking. But we thought it was heaven. They had a real swimming pool!
+      
+      It's unbelievable what "progress" has done to our world. People actually complain about how long the microwave takes to heat up dinner, and when Netflix takes more than one day to send a movie.
+      
+      Progress. It's given us everything the world has to offer, and taken the godly virtues of patience and contentment away from us forever. 
+      
+      I miss some of those old days when we got by on getting by, don't you?
+  - author: "alison"
+    date: "2007-04-30T14:44:41"
+    text: |
+      We got most of our clothes out of the Good Will. It was collected from the townsfolk at the church where my dad was the pastor. Before the Good Will truck came to pick everything up, we could go through the stack of boxes for clothing, etc. The problem was, it was a small town (250 people), and people noticed if you were wearing something they had recently donated to Good Will.
+      
+      Once a year we got new (not Good Will) shoes and mom would make us an Easter dress out of fabric we bought from a catalog. Mom was and still is an excellent seamstress, but the results were still sometimes a little embarrassing.
+      
+      I never had a new "store-bought" dress until I was a Sophomore in High School. Winnie Mears (about 70 years old) came to our house one day and told us she had bought this dress for herself and realized it was too young for her and maybe I would like it. It was a sleveless pink linen dress with scallops and it fit perfectly and I loved it. It wasn't until I was an adult that I realized Winnie bought that dress with me in mind. She's long gone but I will always love her for that gift - not just for the dress, but for pretending it was not charity. It was the first time I ever felt normal.
+  - author: "Jennifer"
+    date: "2007-05-01T19:26:30"
+    text: |
+      This post reminded me of something a friend told me...she and her 5-year-old son were looking at a Sesame Street DVD, I believe, and she mentioned that it's been on since she was his age. (uh, we're 30-somethings.) And he wanted to know what other movies she bought in the store when she was little.
+      
+      When she told him that you couldn't buy movies/TV shows in the store then, he just couldn't wrap his little mind around it. What? You had to actually wait until it was on?
+      
+      My 4-year-old daughter refers to when I was her age as the "old, old days," and it gets me every time. (Grandma's time was the "old, old, OLD days" and before that was the dinosaurs.)
+  - author: "Katy"
+    date: "2007-05-01T20:37:42"
+    text: |
+      Anna--Thanks for recommending A Girl Named Zippy. I'd seen it in the store but hadn't looked at it. Now I will, and I've added it to my wish list. Fun!
+      
+      Suzan--You are right!! I am not a huge fan of "progress" myself. It breeds anxiety and ungratefulness, IMO.
+      
+      alison--GREAT story about Winnie's dress! What a lovely lady to be so kind to you. I taught myself to sew in the fifth grade, and made my own clothes for many years. For some reason, Mom couldn't afford a new dress for me, but she didn't mind spending a few dollars for fabric. 
+      
+      Jennifer--Kids!! One of my great-nephews, by age 18 months, was taking credit cards out of his mother's purse and swiping them between the couch cushions! That's how familiar he was with "swiping." I'm afraid I grew up in the Old, Old, OLD days.....
+  - author: "stock update"
+    date: "2010-11-02T20:56:16"
+    text: "Types of financial investments include shares, other equity investment, and bonds (including bonds denominated in foreign currencies). These financial assets are then expected to provide income or positive future cash flows, and may increase or decrease in value giving the investor capital gains or losses."
 ---
 
 If you think this is going to be one of those right-wing Republican diatribes in which I go off on how my tax dollars support no end of entitlement programs and how it JUST ISN'T RIGHT, well. You're wrong. Ha! I don't often start a blog post by telling you you're wrong, do I?

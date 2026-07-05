@@ -1,6 +1,56 @@
 ---
 title: "Personal Banking DOES Pay Off!!!"
 date: "2009-01-15T18:20:00"
+comments:
+  - author: "Brooke Raymond"
+    date: "2009-01-15T20:16:46"
+    text: |
+      I know you enjoy the personal aspect of banking, but I don't and I am here to say that you can save just as much by calling. We have never paid any fees on our accounts and don't expect to in the future. I also just got our cable reduced to the introductory rate by just calling.
+  - author: "Katy"
+    date: "2009-01-15T20:32:08"
+    text: |
+      Brooke--Ha! I KNOW you to be among my most financially astute readers, not to mention my favorite DIL. It honestly occurred to me that you might comment on this post, because I know you insist on the customer service and benefits you deserve. I used to be better at this stuff, but somewhere along the line, while trying to raise a family and help Doug run the business and take care of The Moms, I lost some of my former "edge." Now I am getting it back!!! And I am learning a lot from YOU.   :)
+  - author: "Chris A."
+    date: "2009-01-15T21:47:31"
+    text: |
+      Ha!  Good job.
+      
+      Do you know anyone at the I*R*S on a first name basis, who could shave some numbers down for me today?
+  - author: "Terri"
+    date: "2009-01-16T05:11:49"
+    text: "You could even try for interest bearing checking accounts--sometimes that will cover the monthly fees of a checking account."
+  - author: "Katy"
+    date: "2009-01-16T18:52:00"
+    text: |
+      Chris A--Ha!! I have structured my entire life as to NOT attract the attention of anyone at the IRS! I do use an accountant, though, and I think he may actually have "favorite" people to speak with about tax matters. I try to keep my distance!!  :)
+      
+      Terri--I should be more disciplined, but the best strategy for me is to get money OUT of my checking account ASAP, and into savings accts. not quite as easily accessed. I literally don't keep enough in checking to earn five cents per month!
+  - author: "Omar"
+    date: "2009-01-26T02:01:27"
+    text: |
+      I have a personal contact with a lady in my bank but unfortunately this didn't stop her from suggesting a supposedly free credit card and then charge me $120 later. So a personal banking relationship is not enough. We should have personal banking relationships with employees who care about their customers and who have some power to help their client not just very low level employees acting like robots with no power to make any decision.
+  - author: "SiteListCentral Directory"
+    date: "2009-02-12T11:49:35"
+    text: "ok,personal relationship in banking in some cases helpful.Because we can learn many things very easily what we want to know.But if we expect beyond our limit that means if we hope that we may get some consideration about taxes and such,it will break our heart"
+  - author: "Host and Care"
+    date: "2009-03-12T05:54:06"
+    text: |
+      i seriously feel with friends in bank it always helps to know more and better about some of the things, which we aren't aware of much. sometimes when there are some good fixed deposits, or better investment plans, they tell me whether to invest in it or not..they tell me about the loopholes in the schemes also. my bank looks after all my insurance matters also, so that is always a help!
+  - author: "Victoria Mortgage Brokers"
+    date: "2009-03-18T08:40:01"
+    text: "This post is an informative and knowledge providing post, it is really important to the world to have knowledge about this fact."
+  - author: "thai girl"
+    date: "2009-08-28T13:45:36"
+    text: "Discipline is the key and this is the lacking word to most people  who are financially in constraints. You are very lucky to have embraced this word and its giving you financial freedom."
+  - author: "Business Broker"
+    date: "2010-01-31T19:40:42"
+    text: "I did have some very good personal relationships with my banker but I am sad to report that internet banking has all but made that relationship obsolete!"
+  - author: "denver phone"
+    date: "2010-06-15T02:30:56"
+    text: "Payday lenders require the borrower to bring one or more recent pay stubs to prove that. The statewide database does not allow a loan to be issued to a consumer."
+  - author: "Square Peg Web"
+    date: "2010-06-26T10:20:16"
+    text: "You know the banking without face to face,the bank loses the opportunity to up sale its services when banking is face. When you bank on line, you can ignore the ads.but if the teller is in front you asking if you would like to get the new super ultra gold card, with no fees for 90 days, you just might do it."
 ---
 
 My former creative writing teacher, Terri, commented on my previous post about the benefits of face-to-face banking. I could not agree with her more!

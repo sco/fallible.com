@@ -1,6 +1,47 @@
 ---
 title: "Toe Gross-Out!"
 date: "2007-04-25T16:25:02"
+comments:
+  - author: "Suzan"
+    date: "2007-04-25T18:12:47"
+    text: |
+      Umm, yuck. I'm going to get a pedicure right now.
+      
+      :-)
+  - author: "Katy"
+    date: "2007-04-25T18:17:36"
+    text: |
+      Suzan--But, to get a pedicure, don't you have to let someone actually...um...TOUCH YOUR TOES?? That's a deal breaker for me....  :)
+  - author: "Suzan"
+    date: "2007-04-25T22:00:24"
+    text: |
+      Pedicures are kinda gross, so I only get one a year, that's all I can stand. I bring a book and try to ignore what's going on. I have a friend who gets two per month...whew, I'd never be able to stand it. Here in the south, everyone wears sandals and shows off their pedicures. I don't try and compete with that. Once a year is plenty for me.
+  - author: "Terri"
+    date: "2007-04-26T01:05:26"
+    text: |
+      My mother is a diabetic and takes excellent care of her feet.  In fact, as I visited with her Tuesday, I actually thought what beautiful feet you have...
+      
+      She spent all last summer in a convalesent (sp?) hospital and had to schedule her visits with the podiatrist.  If your toenails are long, but you know you're going to have to wait a month to get them cut--the wait can be excruciating.  I was prevailed upon to cut them for her!  Voila, a gross and tender and hilarious memory!
+  - author: "John PG McKenna"
+    date: "2007-04-27T18:34:42"
+    text: |
+      Footnote to Katy.
+      
+      My dear wife Anne has the misfortune of only posessing 5 toenails in total (not all on the same foot). 
+      
+      However, it doesn't make her any less of a person(she can still toe the line with the best of them and sometimes win).
+      
+      Cutting her remaining toe nails is such a fun activity we are thinking of selling tickets.
+      
+      Of course, photos will be supplied if required.
+  - author: "Katy"
+    date: "2007-05-01T20:43:21"
+    text: |
+      Suzan--I think you're amazing for enduring one per year!! That's about how often I have to have an MRI of my head, which I tolerate WAY better than I would a pedicure!!
+      
+      Terri--Your mother sounds lovely. It sounds as if you two bonded even more than you already were, over her toe nails. That sounds like a MIRACLE to me, but hey. Miracles do happen!!
+      
+      John PG McKenna--"Footnote," eh? Unbelievable. Your Anne is quite the lady. I loved meeting her, and my enjoyment is in no way diminished by finding out that she is only half toenailed. In fact, that endears her to me even more!!  :)  If you want to charge admission, I will send my mother over to make the show even more of a sell-out. Monetize, baby!
 ---
 
 I can handle a lot, people. Bodily functions, as I'm sure you've realized by now, do not upset me. Blood, sweat, tears, and assorted other excretions and secretions are par for my children-and-mother-intense existence.

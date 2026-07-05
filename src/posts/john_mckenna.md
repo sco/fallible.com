@@ -1,6 +1,14 @@
 ---
 title: "John McKenna"
 date: "2006-05-16T11:45:22"
+comments:
+  - author: "John McKenna"
+    date: "2006-05-16T16:23:25"
+    text: "While I am thousands of miles from the John McKenna tha Katy writes about in this blog, I have a strong feeling of connection when I study the picture of our newly discovered Irish relative."
+  - author: "Katy"
+    date: "2006-05-16T16:56:48"
+    text: |
+      Johnnie--Hey, I finally got you to comment, little brother! It only took nearly six years.  :)  Yes, I told Frank and Mary Quinn that the John McKenna over there looks like a slightly older version of you. He says we McKennas are all pretty good looking, as long as we don't inherit the McKenna forehead. What's that? I asked. "It starts here," he said, pointing to his eyebrows. "Then it goes up to here," he continued, pointing to his hairline, "and then it just keeps going." Ah, right!!
 ---
 
 I guess it was about four years ago that I took to googling myself.

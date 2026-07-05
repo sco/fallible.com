@@ -1,6 +1,30 @@
 ---
 title: "Twenty-four"
 date: "2008-04-19T19:11:00"
+comments:
+  - author: "suzan"
+    date: "2008-04-19T19:50:04"
+    text: "Praying for you and your friend."
+  - author: "Angela"
+    date: "2008-04-20T15:08:32"
+    text: "That was a lovely post and your are a lovely friend"
+  - author: "Jeannine"
+    date: "2008-04-21T12:49:07"
+    text: "I will pray for you both.  Another post I can relate to - I was with my mom when she died 11 years ago.  You will be such a comfort to your friend, just as she was to you."
+  - author: "Bridget"
+    date: "2008-04-22T18:19:41"
+    text: |
+      Seems like just yesterday...can it possibly be that long ago?
+      
+      How ironic that we were just talking about Terri's dad the other night at Mom's birthday.
+  - author: "J"
+    date: "2008-04-25T20:18:19"
+    text: |
+      I'm so sorry to hear of your loss.  
+      
+      
+      
+      Check out <a href="http://myinspiringstory.com">MyInspiringStory</a>
 ---
 
 Twenty-four years ago this morning, I dropped my two children off at my girlfriend Terri's house and drove to the hospital to be with my critically ill father.

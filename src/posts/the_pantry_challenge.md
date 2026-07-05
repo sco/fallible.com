@@ -1,6 +1,23 @@
 ---
 title: "The Pantry Challenge"
 date: "2006-07-11T13:15:55"
+comments:
+  - author: "Lynn"
+    date: "2006-07-12T06:52:03"
+    text: |
+      That's a really good idea. =)
+      
+      Hmm...mind emailing me some of those frugality blogs? Methinks I could use the inspiration.
+  - author: "Katy Raymond"
+    date: "2006-07-13T17:46:28"
+    text: |
+      Lynn--I haven't settled on any particular faves yet. Kind of still cruising the frugality bricks online. If you google frugality or simplicity, you'll come up with tons of sites! I like a personal finance blogs, too. Real people being transparent about their struggles and goals. Not a lot of pretense with these folks!
+  - author: "Lynn"
+    date: "2006-07-17T08:09:03"
+    text: |
+      I couldn't find your comment, for some reason. Thanks for the suggestion - I'm doing so now. Finances has been on my mind lately, causing undue stress...
+      
+      Perhaps I need a real blog of my own. *laughs*
 ---
 
 Since the Raymonds have been hitting it on nearly every front in their effort to eliminate debt, raise funds for their son's last year of college, trample waste, obliterate clutter, and vanquish fat, why not add a good old-fashioned pantry challenge to the cause?

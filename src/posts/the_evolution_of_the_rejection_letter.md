@@ -1,6 +1,50 @@
 ---
 title: "The Evolution Of The Rejection Letter"
 date: "2008-02-05T02:50:00"
+comments:
+  - author: "Bridget"
+    date: "2008-02-05T13:29:07"
+    text: |
+      Yep, gotta love that file of rejection letters.  I swear...they are going to wallpaper one of my bathrooms with those letters some day, with my framed book cover on top! :)
+  - author: "Katy"
+    date: "2008-02-05T13:35:20"
+    text: |
+      Bridgie,
+      You will only need a small bathroom for the rejections. However, at least two of my author buddies have an entire wall of a large room filled with their framed book covers! Now THAT'S my idea of fine decorating!!! I'm thinking your bathroom will not be big enough.  :)
+  - author: "Mary DeMuth"
+    date: "2008-02-05T16:17:46"
+    text: |
+      I have five book covers framed, but so many more rejection letters that it would be too expensive to frame those too. 
+      
+      As I progressed in my writing, I saw the same evolution as you, Katy. Form letters that had been xeroxed ad infinitum. Then the same form letters with a message scribbled across the bottom. Then personal notes. Eventually, I got that acceptance letter and WHOOPED AND HOLLERED. 
+      
+      Here's to some whooping and hollering for you!
+  - author: "Kathryn"
+    date: "2008-02-14T20:43:23"
+    text: |
+      It's an awesome feeling to have someone request a partial. I'm praying I get beyond that point very, very soon. 
+      Your post has been encouraging.
+  - author: "Katy"
+    date: "2008-02-16T23:39:01"
+    text: |
+      Mary--What was REALLY bad were the purple mimeographed form letters with REALLY PALE ink--I think they reserved the crummy copies for the WORST writers--ha!!
+      
+      Kathryn--I've enjoyed reading your comments over on Rachelle's site. Welcome here!! Requesting a partial is a great step in the right direction. Hard not to get distressed by how "baby" the steps are, but when we look back on this someday, it will all make sense.....
+  - author: "Essay Writing"
+    date: "2008-11-28T15:37:26"
+    text: |
+      Hi Katy, 
+      This is Jason - one of those unknown writers:)
+      I just wanted to share my personal experience in rejections affairs. 
+      What I usually do after I receive a rejection letter is not just lower my head and rush improving my writing skills elsewhere, but read the thing attentively and respond right away. 
+      It is sooo fascinating when you manage once to force them to answer :) 
+      Then I understand that my writing style and technique works and worth more than their approval.
+  - author: "freelance writer"
+    date: "2008-12-15T19:20:31"
+    text: |
+      Right! 
+      That's the way to react I'd support Jason :) 
+      Don't stop writing whatever you got in response!...and regardless whoever from you got the letter - don't be lazy to write back!
 ---
 
 I admit it. I am one of those sorry schmucks who's kept every single rejection letter I've ever received.

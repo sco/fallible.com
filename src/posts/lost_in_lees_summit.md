@@ -1,6 +1,34 @@
 ---
 title: "Lost In Lee's Summit"
 date: "2005-05-09T14:24:02"
+comments:
+  - author: "jane"
+    date: "2005-05-10T00:11:38"
+    text: |
+      wow...sounds fun Katy. i get lost all the time on the road..and i panick and make so many U turns i get dizzy. in life though, i am very cautious because i feel i've been lost for too long before. i try to do everything &quot;right&quot; cuz i don't think i can afford being lost again. but it's very tiring always trying to be &quot;right&quot;. reading your entry i could feel the sense of enjoying the moment &amp; things i come across while not knowing where im going... maybe i'll try that sometime :) 
+      -----
+  - author: "Paula"
+    date: "2005-05-10T08:20:47"
+    text: |
+      I have a friend who laughs and says, &quot;You're not lost until you're out of gas.&quot; he's a guy, of course. hehe.
+  - author: "Candace Pfau"
+    date: "2005-05-10T21:23:01"
+    text: |
+      I really hate going somewhere unless I have directions.  I cannot find my way out of a paper bag.  I have to have directions written out for me.   Saw this contest you would love. You can enter every day.  Win a trip to Ireland. http://www.senseocitysensations.com/index.html
+      
+      Mothers Day always depresses me because my children do not live here.
+  - author: "Katy Raymond"
+    date: "2005-05-11T19:43:08"
+    text: |
+      Jane--I so share your feelings. Being right is exhausting. I would give it up entirely if I weren't so darned good at it.  :)  No, truly, I'm trying to loosen up a bit in my old age. Have a little fun, maybe. Rekindle the joy...Sounds good, huh?
+      
+      Paula--One thing I will NEVER do is tempt the gas gauge! Running out of gas has never been on my to-do list. The idea of it freaks me out totally. If the tanks not half-full, I ain't driving, baby...
+      
+      Candace--I, too, must have directions. And while I refer to maps in my entry, that was merely a literary reference. I CANNOT read maps. Which is so dumb, I can't believe it's true about myself, but it is. My hubby is Mr. Map and Atlas of the Universe, and he can keep the title. I can't compete!
+  - author: "lisa"
+    date: "2005-05-17T11:48:22"
+    text: |
+      your post brings to mind something I read yesterday in Madeleine L'Engle's &quot;A Circle of Quiet&quot; in describing the place she goes for some solitude (involving the great outdoors, often a steady drizzle of rain, and two balls of twine's worth of a guide line)...&quot;it's amazing what passing the half-century mark does to free one to be eccentric&quot;. Turning 33 this year, I'm still clinging to being defined as 'eclectic' (which, I've been told, is an actual interior decorating style), but i imagine i will one day fit rather snugly into Ms. L'Engle's professed category. It rather sounds like fun...
 ---
 
 I know, I know. Mother's Day is all about the folks. It's all about staying in bed too long even though you've got a terrible crick in your back, because you know they really believe that you want nothing more in the world than to be served breakfast there.

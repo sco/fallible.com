@@ -1,6 +1,29 @@
 ---
 title: "Holy Weak"
 date: "2008-03-19T21:14:01"
+comments:
+  - author: "Suzan"
+    date: "2008-03-19T21:59:15"
+    text: "Praying for your mom. And you"
+  - author: "christa Allan"
+    date: "2008-03-19T22:58:29"
+    text: "Keeping you and your mom in my prayers. Rest in Him."
+  - author: "Angela"
+    date: "2008-03-20T02:19:23"
+    text: "I will be praying for you and your mother. May God keep her safe on earth until she can rest in His arms."
+  - author: "Anne"
+    date: "2008-03-20T02:27:33"
+    text: "also praying"
+  - author: "Carrie K."
+    date: "2008-03-20T15:05:53"
+    text: "(((Hugs))) Katy - I will be praying. Hang in there."
+  - author: "Kathryn"
+    date: "2008-03-20T21:17:09"
+    text: |
+      It's never easy to watch the ones who have nurtured us to wither, and it's painful to let go of them. I'm sure she feels the same about letting go of the people she loves, too. Sometimes all a person needs is to know it's okay to let go. You and your mother are in my prayers.
+  - author: "joshua"
+    date: "2008-03-21T02:41:04"
+    text: "katy - my mom is a social worker with hospice in NY and has told me so many stories - i have shared this entry with her. our prayers are with you and your mother. i pray the peace of God that goes beyond all understand on your family this night."
 ---
 
 When my mother was in the hospital, she almost died from like a dozen different things, all feeding off each other. It was a systems-wide failure, and quite hard to keep up with. Just when we imagined that it would be respiratory failure that got her, her blood sugar shot up to 500 and stayed there. Then, when we figured the old heart rate of 165 didn't bode well for her future on earth, her blood pressure would plummet to nearly nothing.

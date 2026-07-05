@@ -1,6 +1,60 @@
 ---
 title: "Thanks For The Meme-Story..."
 date: "2005-06-14T15:25:02"
+comments:
+  - author: "Amber"
+    date: "2005-06-15T01:45:33"
+    text: |
+      You can blame Michael for my tagging all of those whom were trying to dodge the taggers. Isn't that right, Michael? ;-)
+      
+      Thanks for playing, Katy! 
+      -----
+  - author: "Katy"
+    date: "2005-06-15T02:32:43"
+    text: |
+      I could never win at dodgeball, either! And I love it, Amber, that you've given me something else to blame Michael for. He is, after all, The First Michael Who Ever Commented Here, so he deserves a little trouble..   :)
+  - author: "Amber"
+    date: "2005-06-15T04:39:17"
+    text: |
+      I'm just here to help, Katy. :)
+  - author: "Michael Main"
+    date: "2005-06-15T04:59:40"
+    text: |
+      Yeah...go ahead blame me:)
+      
+      I will soon be starting the anti meme meme...expect to be tagged at any time..
+      
+      Be afraid...be very very afraid.
+      
+      -M
+  - author: "Katy"
+    date: "2005-06-15T06:37:14"
+    text: |
+      Michael--Your threat reminds me of a story that happened when Scott (now 26) was a kid of maybe 16. Scott visited a Canadian website and within seconds of his visit, received an email from them. He hadn't given them his information, but a flaw in an early version of Netscape had allowed them to capture it. He was mad, so he sent them an email asking them to stop spamming him. He wrote that if they didn't stop, he would &quot;bomb&quot; them. &quot;Be afraid,&quot; he signed off, &quot;be very afraid.&quot;
+      
+      Within hours of Scott sending this (tongue in cheek) message, a lawyer called me. He said that my son was threatening his client with bombs (!!!) and that if anything happened, the FBI would be at our door in a heartbeat!! Scared the heck out of me--and out of Scott, too.....
+      
+      Of course, neither the company nor their lawyer knew Scott was referring to an email bomb as opposed to a good old-fashioned car bomb, and they didn't know the famous line, &quot;Be afraid, be very afraid,&quot; either.
+      
+      Michael, you're fortunate I'm one savvy chick. :)
+  - author: "Amber"
+    date: "2005-06-15T08:06:43"
+    text: |
+      You don't scare me, Michael.
+      
+      ;-)
+  - author: "Cindy Swanson"
+    date: "2005-06-15T17:17:40"
+    text: |
+      Katy, you've showcased three of my favorite writers there!  I just finished &quot;Club Sandwich&quot; last night (loved it!), and those two books by Nancy and Robin are high on my reading list.  I've also read and loved &quot;A Nest of Sparrows,&quot; which was my first Deborah Raney book.  So many books, so little time!
+      
+      I'm not ready to swear off memes yet.  I think they're fun! :)
+  - author: "Katy"
+    date: "2005-06-16T00:58:28"
+    text: |
+      Hey, everybody! Head over to Cindy's site to read excerpts of an excellent radio interview she did with Lisa Samson. Big fun!
+      
+      Cindy, you are the Queen of the Memes! (Amber, put the woman on your short list...)
 ---
 
 <img src="http://www.fallible.com/images/bedside.jpg" alt="" width="150" height="100" hspace="5" vspace="5" border="0" align="right">When I was a kid, I never got picked for teams. I don't mean I got picked last, I mean I was invisible. I got left standing there, alone. Which was fine with me, really. Because, honestly, if I'd gotten picked, I would have disgraced not only myself but my team, and my otherwise intact popularity would have disintegrated into filmy vapors.

@@ -1,6 +1,26 @@
 ---
 title: "Repentance"
 date: "2006-06-20T18:06:53"
+comments:
+  - author: "Deb Raney"
+    date: "2006-06-21T14:27:09"
+    text: |
+      Katy, I absolutely LOVE your writing. You make me smile every time (unless you're making me cry.) 
+      
+      That's all. : )
+  - author: "Katy"
+    date: "2006-06-23T13:07:34"
+    text: |
+      Deb--I absolutely LOVE your writing, too! Only there's so much more of yours to love! You are a lovely encouragement to me. Thank you.   :)
+  - author: "Vicki"
+    date: "2006-07-01T19:58:50"
+    text: |
+      If only men had those same fat & water retaining hormones that WE do. Life's not fair...boo hoo.
+      
+      You are so funny! Loved the post. 
+      
+      hugs,
+      V.
 ---
 
 I've been following a completely sugar-free, reduced-carb diet for approximately 2372.5 days, give or take an hour or two.

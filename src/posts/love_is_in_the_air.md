@@ -1,6 +1,24 @@
 ---
 title: "Love Is In The Air!"
 date: "2006-08-21T22:48:34"
+comments:
+  - author: "Lynn"
+    date: "2006-08-22T12:57:57"
+    text: |
+      They look happy together. =)
+      
+      
+      (nations22 - it's interesting what I get in these images)
+  - author: "Suzanne Eller"
+    date: "2006-08-22T17:01:59"
+    text: |
+      My daughter married my beautiful son-in-law a year ago. I never knew we could love another just as much as our own. What a blessing he has been to our daughter and to us.
+      
+      Suzanne Eller
+      http://momiwant2be.blogspot.com
+  - author: "lisa"
+    date: "2006-09-20T19:43:18"
+    text: "wow, two years already. happy belated ann., scott and brooke!"
 ---
 
 <a href="http://www.fallible.com/images/fallible/scott+brooke.jpg"><img src="http://www.fallible.com/images/fallible/scott+brooke2.jpg" align="left" hspace="5" vspace="5" border="0" width="79" height="100"></a>If romance is your thing, the Raymonds are your people, especially this week.

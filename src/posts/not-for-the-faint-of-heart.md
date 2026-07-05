@@ -1,6 +1,24 @@
 ---
 title: "Not For The Faint Of Heart"
 date: "2009-01-07T00:55:00"
+comments:
+  - author: "Jane Dirks"
+    date: "2009-01-07T01:50:05"
+    text: "Oh Katy, this made my day!  We have gone through so many conversations like this with my own mom.  I will miss those now that she is heading home to the Lord.  Thanks for making me laugh."
+  - author: "Katy"
+    date: "2009-01-07T03:14:27"
+    text: "Jane---You dear lady. I am privileged to be allowed to bring you a smile. Still praying!"
+  - author: "Cathy West"
+    date: "2009-01-08T18:31:02"
+    text: "Oh, dear. Hang in there. Just think about how nice it will be when you have someone caring for you when it comes your time to go off your rocker...of course if you lose all your money and your kids have no incentive we could have a problem..."
+  - author: "Katy"
+    date: "2009-01-08T18:35:28"
+    text: |
+      Cath--YES! You've identified the problem! I am afraid my own children are completely deincentivized to care for us in our dotage! In fact, they may want to off us soon, since they know how much we're worth in life insurance......no, they wouldn't do that, would they? Times aren't THAT tough.  :)
+  - author: "alison"
+    date: "2009-01-09T20:48:57"
+    text: |
+      I've told you about my Aunt June and Great Grampa's chair, haven't I. Unfortunately it turned out that GG was something of a pervert, so hearing about it every 10 minutes for about 12 hours was pretty unnerving.
 ---
 
 I don't know about you, but I'm getting really used to dementia.

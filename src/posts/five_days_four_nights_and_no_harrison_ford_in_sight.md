@@ -1,6 +1,39 @@
 ---
 title: "Five Days, Four Nights, And No Harrison Ford In Sight"
 date: "2006-09-18T15:21:45"
+comments:
+  - author: "Cindy Swanson"
+    date: "2006-09-20T00:21:14"
+    text: |
+      Katy, I'm both happy for and envious of you for going to the writer's conference--someday I want to go to one!
+      
+      As for mentioning Harrison Ford just because you can?  Well, I've been known to post pictures of Russell Crowe and Gerard Butler for that very same reason. :)
+  - author: "lisa"
+    date: "2006-09-20T19:41:01"
+    text: |
+      ...also why pics and posts about my kiddos abound at hmmm...
+      
+      best to you, katy, as you head out to your adventure in Dallas!
+  - author: "Bridget"
+    date: "2006-09-22T15:59:39"
+    text: "Katy...Have a blast!  (And I watched Six Days, Seven Nights the other night, too.  Fun flick!)"
+  - author: "Katy"
+    date: "2006-09-25T16:34:36"
+    text: |
+      Cindy, I can picture you in this crowd!! You are a fantastic storyteller and such a people person--you would love both meeting writers and being a novelist. That's what I REALLY think. And I got the idea to mention Harrison's name from your fun posts!
+      
+      Lisa, I love the pic of you and your kids at the park, I think? Very tender....Had a fantastic trip, thanks for the well wishes.
+      
+      B--Email on its way to you shortly.   :)
+  - author: "lisa"
+    date: "2006-09-26T02:20:22"
+    text: |
+      katy, we were at cocoa beach, just up the road from our current home, waiting for space shuttle atlantis to take off. well, i was..my kids were having a jump-off-the-boardwalk-as-close-to-the-same-time-as-each-other-while-whooping-it-up-to-scare-the-snowbirds-for-an-hour-contest...
+      (glad you had a ball in dallas, btw :)
+  - author: "Kath"
+    date: "2006-09-28T02:20:20"
+    text: |
+      Did you really take all those shoes?  Gimminee cricket, girlfriend.  I'm surprised you weren't the one to pay for overweight bags instead of me.  I guess your new name is Immelda.
 ---
 
 By the end of this post, you'll be wondering why I mentioned Harrison Ford in the title, so I might as well tell you now. It's because we just watched that movie with him and Anne Heche, the one where the two of them crash his plane on a deserted island (Man! I almost spelled out "desserted" island, which sounds SO much better!). It's called Six Days, Seven Nights, or Seven Days, Six Nights, or something like that.

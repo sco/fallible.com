@@ -1,6 +1,31 @@
 ---
 title: "Getting To Know Him, Getting To Know All About Him"
 date: "2007-10-28T22:01:58"
+comments:
+  - author: "Suzan"
+    date: "2007-10-29T17:25:16"
+    text: |
+      Katy,
+      I love this! Very cute.
+  - author: "galadriel"
+    date: "2007-10-29T18:51:15"
+    text: "I like being your little friend. Thanks for not being too ashamed to be seen with me!"
+  - author: "alison"
+    date: "2007-10-29T19:28:05"
+    text: "When do I get to hear some of these songs he writes?"
+  - author: "Cindy Swanson"
+    date: "2007-10-30T14:25:33"
+    text: |
+      Katy, that was awesome!  I enjoyed it a lot.  Now my question for Doug:  why don't you blog anymore?  (or do you, and I've just lost track??)
+  - author: "draymond"
+    date: "2007-10-30T23:13:35"
+    text: |
+      Allison: Do you buy Cheerios? Actually, your son-in-law asked if I could play in a fund-raising concert he is planning for December, and I said I might be able to.
+      
+      Cindy: Ouch! You're right, I've fallen off the Blogwagon. I'm think I was torturing Katy by making her look at my pained expression and my fingers hovering motionless over the keyboard, while she said, "Come on, this isn't the Gettysburg Address--just spit it out!"
+  - author: "Fast food coupons"
+    date: "2009-11-10T14:59:45"
+    text: "You do give a detail here. I have study a destiny about this on different articles written by other people, merely I must admit that you experience showed your point here!."
 ---
 
 I think you've figured out by now that Doug and I really are Empty Nesters. Not counting, of course, that we crammed upwards of 50 people in here for an OctoberFest Friday night, that is. But those were the kind of people who have the good sense to leave by, like, midnight, unlike us. We stay here, together. Just the two of us.

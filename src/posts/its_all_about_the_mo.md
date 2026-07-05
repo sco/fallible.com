@@ -1,6 +1,80 @@
 ---
 title: "It's All About The Mo"
 date: "2006-06-27T15:29:41"
+comments:
+  - author: "Robin Lee Hatcher"
+    date: "2006-06-27T16:32:29"
+    text: |
+      Great post, Katy. Hmm. Just to keep you working on the old house, maybe I should plan a visit to your place in the fall. That bed and breakfast sounds pretty nice to me.
+      
+      Robin
+  - author: "Robin Lee Hatcher"
+    date: "2006-06-27T16:39:26"
+    text: |
+      P.S. Forgot to tell you. I gave up coffee, both at home and of the Starbucks variety, last fall. At home, I drank it with Coffeemate flavored creamer, made with all the awful bad stuff that hardens your arteries and adds bunches of calories. I figured it was surely going to kill me. Now, I treat myself on Sundays to a non-fat Chai Tea latte, small, at my church's coffee bar, Holy Grounds. Costs $1.50. And I feel better these days, too.
+      
+      Robin, who is down 7 lbs since January and should get serious about losing another 9.
+  - author: "Katy"
+    date: "2006-06-27T16:58:08"
+    text: |
+      Robin--My upstairs makes a cozy, wifi-enabled retreat (when it's in its glory). I have thought of opening it up (selectively) to writer friends. Seriously. (Hey, it was Lisa S. and her fam who planned to come!) There's a good chance that my daughter will be moving home July 31, at least for the short term. With her seven-years accumulation! But after she finds an apartment, THEN I might just be open for business.
+      
+      Congrats on giving up the stuff! And losing weight, too. If my church had a coffee bar called "Holy Grounds," I would HAVE to reward them by spending my money there. That's like something out of a Jan Karon novel!
+  - author: "Deb Raney"
+    date: "2006-06-27T21:30:09"
+    text: |
+      Who needs long-term storage when youâ€™ve got a rear end?
+      
+      Oh, MY! ROFLOL! This has become my new favorite quote! And put me on the waiting list for that B&B!
+      
+      Wonderful post, Katy! I'm still laughing!
+  - author: "Katy"
+    date: "2006-06-27T23:15:16"
+    text: |
+      Deb--I am thrilled to have entertained your tiny little self!  :)  And when the Writers B&B opens, I'll make sure you're at the top of the list!
+  - author: "AC"
+    date: "2006-06-29T16:43:28"
+    text: |
+      Sent here by Jennifer at Open Book, and glad for it!
+      
+      Maybe I should move.  Here we call it "fivebucks".
+      
+      I've got mother-care issues, memories of Ireland and a daughter in college.  I've found lots to relate to here.  Oh, and a  similar *storage* problem.
+  - author: "Maria"
+    date: "2006-06-29T21:00:05"
+    text: "You go girl cuz you are on a roll.  I have felt depressed and know it has been brought on by the horribly hot weather.  Your post was an inspiration and I plan to get up, moving, and finish putting up the new curtains."
+  - author: "Katy"
+    date: "2006-06-30T15:08:05"
+    text: |
+      AC--So glad you popped in! Five bucks is just TOO MUCH! So is four. I had an old lady friend of our family. She died at age 100, around ten years ago. She was a self-made millionnaire and the first female pharmacist in the state of Missouri. A fascinating woman. But the day coffee stopped costing a dime in a restaurant, she stopped ordering it. She said 15 cents was WAY more than a cuppa should cost. She felt the very same way about pie, too!   I'm going to go read about your issues now!
+      
+      Maria--I don't get on productive rolls too often, I'm afraid. I definitely have to go with it when it happens and ride it to the end. Did you get your curtains hung? We got new curtains for the bedroom we finished redecorating, and the rest of the curtains are getting washed and rehung as the rooms get painted. It's starting to look spiffy around here!  I hate the heat, too, Maria--cannot tolerate it. I work in fits and starts, and take breaks.
+  - author: "AC"
+    date: "2006-06-30T22:02:17"
+    text: "Oh my gosh.  My issues are at their worst right now although these are MIL/SIL issues.  It is not pretty.  I hate that to be your intro to me...really, I am a fun girl.  Really."
+  - author: "Vicki"
+    date: "2006-07-01T19:54:10"
+    text: |
+      Katy, I'm still laughing and SO encouraged by your post today. Talk about needing a little mo' "mo"...hehe...I DO!
+      
+      Love your way with words. Way to go on the novel, too. I'll be first in line. Oh! But I never did care for Starbucks, per se, but Caribou? That place had me addicted for years, or maybe it was those mega death-by-chocolate muffins that taste so good with coffee. No more. Trying to shrink my bottom, too. Only 6 pounds so far. Thanks for the motivation, girlfriend.
+      
+      hugs,
+      Vicki
+  - author: "Katy"
+    date: "2006-07-02T22:08:57"
+    text: |
+      AC--My experience (and I have a lot of it....) is that VERY fun girls can get derailed (at least temporarily) by oh, so icky circumstances. I let it all hang out here, too, and sometimes think I've stopped being (and having) fun in my life, but then things make a bit of a turn, and enjoyment returns. It will happen with you, too, Fun Girl!
+      
+      Vicki--Now I wish I knew what Caribou is! (No, please. Don't tempt me!) Hey, six pounds is a lot of bottom to drop! Be proud, my friend! Yes, the mo is still working for us over here. We've got another bedroom half painted (it'll be done by the time we have company on Tuesday). We're reading the Bible together every day. I'm sticking with my eating plan, we're on a spending diet, the whole ball of very messy wax. It feels really good to put our house (actual house, financial house, physical house, spiritual house) in order! Thanks, Vicki!
+  - author: "Lorna"
+    date: "2006-07-05T19:54:32"
+    text: |
+      loved this . Glad the mo's changed ...
+  - author: "Katy"
+    date: "2006-07-06T19:41:11"
+    text: |
+      Lorna--I actually am a bit mystified by all of this. I know that Ireland and Scotland did me a world of good. I had just enough time for reflection to come to some conclusions about the way I was doing my life, and to decide upon some changes. I just didn't know there would be so many!
 ---
 
 It there's any force of nature that can work either strongly in your favor or horribly against it, it's momentum.

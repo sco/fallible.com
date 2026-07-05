@@ -1,6 +1,33 @@
 ---
 title: "A Fallible Year In Review"
 date: "2005-12-28T20:53:35"
+comments:
+  - author: "Michael Main"
+    date: "2005-12-28T22:09:55"
+    text: |
+      Well, it's certainly one of my favorite posts :)
+      
+      Happy New Year!
+      
+      -M
+  - author: "Robin"
+    date: "2005-12-28T23:06:08"
+    text: "I played. Thanks, Katy."
+  - author: "EuroYank"
+    date: "2005-12-29T02:00:29"
+    text: "You have a lot of useful ideas and suggestions. A very unique page design. Very creative!"
+  - author: "Heather"
+    date: "2005-12-30T00:39:36"
+    text: |
+      Fun.  I'm going to have to give this a try.  :)  Next year, when I've got 12 months to look back on.
+  - author: "Ame"
+    date: "2006-01-02T03:08:32"
+    text: |
+      That's really cool, Katy :)  I hope you have a wonderful 2006.  May you find joy in your endurance with caring for your mother.  May you find peace with your writing.  May you continue to love and adore your husband; may your marriage become deeper and more intimate and more meaningful this year.  May your children rise up and call you Blessed!  Happy New Year!
+  - author: "Maro"
+    date: "2009-04-09T00:56:11"
+    text: |
+      nice post :)
 ---
 
 My blogging buddy <a href="http://nnjmom.blogspot.com/2005/12/blog-year-in-review.html">Carrie K.</a>, not to be confused with my darling daughter <a href="http://flickr.com/photos/carriekray">Carrie K.</a>, did this fun idea on her site and I thought I'd give it a whirl over here.

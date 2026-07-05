@@ -1,6 +1,20 @@
 ---
 title: "Make-Up Sex?"
 date: "2009-01-20T04:16:00"
+comments:
+  - author: "Deb Raney"
+    date: "2009-01-20T18:26:14"
+    text: "I think you hit a home run with this post, Katy! ; )"
+  - author: "Cathy West"
+    date: "2009-01-20T19:41:08"
+    text: "Oh, boy."
+  - author: "Sarah Fowler"
+    date: "2009-01-27T18:13:01"
+    text: |
+      Wow, that's almost as disturbing as thinking about my parents having makeup sex. Almost.
+  - author: "montreal erotic massage"
+    date: "2010-03-12T06:38:30"
+    text: "This is such a great resource that you are providing and you give it away for free."
 ---
 
 Doug and I have been a little grouchy with each other recently. When we both got the flu at the same time over New Year's, I think it got a bit overwhelming. We'd say things to each other like, "Do you have the strength to pour the coffee?" And then the other would say, pitifully, "No. I was hoping you could raise your arm that high...." Pathetic, eh?

@@ -1,6 +1,41 @@
 ---
 title: "We Were Jesus People, Then, And Young..."
 date: "2007-07-20T12:45:37"
+comments:
+  - author: "alison"
+    date: "2007-07-20T13:58:12"
+    text: |
+      How long to sing this song?
+      How long to sing this song?
+      How long... how long... how long...
+      How long... to sing this song?
+      
+      Of course the words are not original with me.
+  - author: "Michael Main"
+    date: "2007-07-21T13:52:09"
+    text: |
+      Jesus is right there...in KC and Israel...working to help those in need. 
+      
+      When people ask if "I've seen Jesus" I always say, "Of course.
+      I see Him at work in people like you, occasionally I even catch a glimpse of Him in me.  We are the body of Christ."
+      
+      Heaven awaits, but we don't have to go there to be with Jesus, as your friends in Israel are proving...and as you and Doug have shown.
+      
+      We do await the resurrected Lord, as people have for centuries, but God never told us to stand still until that day comes. 
+      
+      We are not old...we are just wise to the reality of time and perhaps missed opportunities to see Jesus more often.
+      
+      Grace & Peace,
+      
+      M
+  - author: "Michael Main"
+    date: "2007-07-28T15:16:11"
+    text: |
+      No post in a week...just checking in. Are you doing something odd, like writing?   Or should we be praying a bit harder?
+      
+      Grace & Peace,
+      
+      Michael
 ---
 
 More than thirty years ago, when we were Jesus freaks and young, Doug and I had the privilege of knowing some wonderful people.

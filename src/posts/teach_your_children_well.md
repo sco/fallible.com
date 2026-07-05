@@ -1,6 +1,51 @@
 ---
 title: "Teach Your Children Well"
 date: "2006-07-27T13:20:32"
+comments:
+  - author: "Ginger"
+    date: "2006-07-27T14:08:48"
+    text: |
+      What a wonderful tribute!  I hope you publish that somewhere. As a teacher, my heart was touched, and I wondered what my legacy would be in the wee hours of someone's morning.
+      
+      Love the school picture, by the way.
+  - author: "Carrie K."
+    date: "2006-07-27T15:37:09"
+    text: "Beautiful post."
+  - author: "Michael #2"
+    date: "2006-07-27T16:19:58"
+    text: |
+      What a darling of a post from a darling of a lady.
+      
+      
+      Take Care
+      Michael
+  - author: "Susan"
+    date: "2006-07-28T11:48:14"
+    text: "Beautifully written, a beautiful tribute. I bet you were as much a blessing as you were blessed."
+  - author: "Katy"
+    date: "2006-07-28T13:27:47"
+    text: |
+      Thanks, you guys!
+      
+      I read this to my mom yesterday when I went to visit. She didn't remember the song she used to sing, even when I sang it to her. But she loved hearing about it. When I read her the part about my Kindergarten teacher, Miss Prendergast, she said, "She was married, with a little boy." That surprised me. "Are you sure?" I asked. "I'm sure. I gave her all of Patrick's clothes for her toddler."
+      
+      Patrick was my older brother. He died when he was four, and I was nearly two. Mom held onto those clothes for several years, and then placed them in a suit box and carried it up to school late one afternoon, after all the children had gone home. Mom said my teacher's child really needed those clothes....
+      
+      This made me cry yet again. I'd never heard this story until yesterday.
+      
+      By the way, I have Patrick's coloring books, crayons, and story books. They are my treasures.
+  - author: "lisa"
+    date: "2006-07-31T23:56:28"
+    text: "katy..you must have had a lot of fun looking back at your adorable little girl pictures when you were raising your grade schoolers..i can see each of them in that grin!"
+  - author: "Eric"
+    date: "2006-08-03T04:32:22"
+    text: |
+      To hope that I will be able to touch even one of my students in such a manner. Thank-you for helping to bring back my own "teacher" memories!
+      
+      Blessings...
+  - author: "Bridget"
+    date: "2006-08-11T04:46:49"
+    text: "Of all the things you have written through the years, this is one of my absolute favorites, Katy.  Thanks for touching me and  making me proud to be a teacher.  Love you!"
 ---
 
 When you get older, sleep becomes a commodity that can't be depended upon.

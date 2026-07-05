@@ -1,6 +1,24 @@
 ---
 title: "Concierge"
 date: "2007-11-14T15:41:51"
+comments:
+  - author: "Bridget"
+    date: "2007-11-14T18:57:11"
+    text: |
+      This is hilarious!  I can't help but wonder if the service belongs to a woman who I sell coffee with at the Chiefs' games.  She does that exact thing for people.  One of her specialities is organization.  Hey, I'd love to get paid to organize other people's stuff!
+  - author: "Suzan"
+    date: "2007-11-14T21:49:38"
+    text: |
+      This is great, Katy. 
+      
+      I can't afford to live in the neighborhood I grew up in either!
+      
+      I can't imagine anyone doing all that for me. What would I do all day? Oh yeah, I could write from sunup to sunset....LOL
+      
+      I need someone to do some heavy cleaning too! (Hey, all of us writers need that, since we're so busy listening to all those characters in our head.)
+  - author: "Chicago Party Rentals"
+    date: "2009-02-06T15:35:19"
+    text: "This was really funny, I love your writing style."
 ---
 
 We live right next door to one of the richest counties in the nation, which happens to fall in Kansas.

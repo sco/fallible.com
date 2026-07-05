@@ -1,6 +1,41 @@
 ---
 title: "That's What I'll Tell About Me!"
 date: "2007-05-09T23:02:37"
+comments:
+  - author: "Sunflower"
+    date: "2007-05-10T06:21:02"
+    text: |
+      You've written songs together with Doug? Wow! That is so cool, Katy!
+  - author: "Suzan"
+    date: "2007-05-10T21:19:49"
+    text: |
+      Loved the music info! That is soo cool. I had a huge crush on David McCallum. Huge enough to want to be a spy.
+      
+      I did this today on my blog and gave you a mention. Check it out.
+  - author: "Heather from One Woman's World"
+    date: "2007-05-11T00:02:40"
+    text: |
+      I haven't read you in awhile, because I've been on again off again with blogs, but may I remind you that I think you are a very interesting lady, and that your writing is superb.
+  - author: "Bridget"
+    date: "2007-05-13T20:21:25"
+    text: |
+      Of course David McCallum totally denies being related to us in any way.  Back when Dad was still alive, and when I was collecting autographs and The Invisible Man was still on the air, I sent for his picture and sent a letter saying how I thought we were related, etc.  I got back, and still have, the letter, saying something to the effect that "he regrets to inform me that, although he has relatives in Scotland, he is not related to me."  Interesting, huh?
+  - author: "alison"
+    date: "2007-05-14T20:04:39"
+    text: |
+      Hey, I'd fall in love with Doug like that, too. He's just that adorable. I hope that's OK for me to say. You guys are obviously perfect for each other.
+  - author: "Katy"
+    date: "2007-05-15T14:02:35"
+    text: |
+      Sunflower--It's been a while. We need to give it another go! Doug is working recording his music, though. He's got the MacPro recording stuff on his computer, and he's doing great with it.
+      
+      Suzan--As my sis Bridget points out, David McCallum hasn't acknowledged our relationship as of yet. But it is one of my goals to establish the connection with clear documentation!  :)
+      
+      Heather--So nice to hear from you! My blog reading/writing has been a bit sporadic, too. I visited yours and caught up! Blessings to you and your little family.
+      
+      Bridget--I know. It's sad when your very own blood relatives deny having anything to do with you, isn't it?? Ha. I am sure the connection is through the Baillies. I do a google search every once in a while, and I feel confident we will prove our pedigree in good time!
+      
+      alison--Doug is that adorable! And it's totally OK for you to say so. I read him your comment and he felt quite honored! :)
 ---
 
 My lovely writing buddy <a href="http://splashinginthedeepend.blogspot.com/">Cynthia Ruchti</a> has tagged me to reveal eight juicy tidbits about myself, for your edification of course.

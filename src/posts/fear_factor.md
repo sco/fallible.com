@@ -1,6 +1,21 @@
 ---
 title: "Fear Factor"
 date: "2005-08-03T19:27:01"
+comments:
+  - author: "Michael Main"
+    date: "2005-08-04T04:51:46"
+    text: |
+      Fear need not be lonely...and prayers can be widespread.
+      
+      You've named your fears...remember the praying people too.
+      
+      I am among them.
+      
+      Michael 
+      -----
+  - author: "violet"
+    date: "2005-08-11T22:27:09"
+    text: "Katy, wonderful writing. What a great metaphor!"
 ---
 
 If fear were a person, I picture it being like a good buddy who puts on about a pound per month, year after year.

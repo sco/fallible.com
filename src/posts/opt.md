@@ -1,6 +1,29 @@
 ---
 title: "O.P.T."
 date: "2008-06-02T16:35:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-06-02T19:16:25"
+    text: |
+      Katy
+      
+      Having older parents is very difficult. I was unfortunate in that both my parents were very young when they went home to be with Jesus. My Mom died very suddenly 11 years ago. I miss her a lot. So Hang in there with your mom, hard as it is, the alternative isn't better. Blessings.
+  - author: "Gracie"
+    date: "2008-06-03T00:39:22"
+    text: |
+      Well, considering how you hate toes, I think you handled it pretty well. I don't mind feet so much, but I agree with you on drawing the line about clipping others' toe-nails. (Though I was giggling when you said you "ran from the apartment, silently screaming".) Blessings!
+  - author: "alison"
+    date: "2008-06-03T16:22:36"
+    text: |
+      And all this time I thought it was Joel Olsteen. With an "l."
+  - author: "Kathryn Harris"
+    date: "2008-06-03T16:48:45"
+    text: |
+      Before you got to the part about your mother asking you to grab the toenail clippers, I wanted to say, "Well, it could be worse..."
+      
+      But nope. Nevermind. It's worse.
+      
+      Your mother sounds like a gem. The car wash? I know I shouldn't be laughing, but I am. And please tell me your mother's podiatrist isn't really named Dr. Gout.
 ---
 
 I just came from visiting Mom, and I gotta say this is the most cognizant she's been in a very long time. Cognizant and something approaching cheerful. Cognizant and cheerful and nice. I'm still reeling from the experience.

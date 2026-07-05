@@ -1,6 +1,68 @@
 ---
 title: "Lent Went"
 date: "2007-04-03T20:07:58"
+comments:
+  - author: "Carrie K."
+    date: "2007-04-03T21:47:55"
+    text: |
+      Glad you're back - I missed ya!
+  - author: "Suzan"
+    date: "2007-04-04T11:41:27"
+    text: "Hi Katy!"
+  - author: "Jeane"
+    date: "2007-04-04T14:02:25"
+    text: |
+      Katy,
+      
+      We are trying to declutter too! We run our business out of the home and organization is just key! You can do it!  Jeane
+  - author: "Katy"
+    date: "2007-04-04T14:40:15"
+    text: |
+      Carrie K--I will visit you soon!! Probably on Sunday evening....  :)
+      
+      Suzan--Hi to you, too!
+      
+      Jeane--I so enjoyed meeting you in Sept. at ACFW! (I am friends with Lisa S. and sat next to her at the banquet. She introduced us...) Oh, yeah. The home-based double-couple. That's us, too! Doug has been home (this time) for nine years. We are soon to begin weeding through his business stuff from eons ago. Time to toss it, baby!!  :)
+  - author: "Anna"
+    date: "2007-04-04T14:54:55"
+    text: |
+      Hi Katy, 
+      
+      I've been checking almost every day to see if you've written something new. I'm glad you're back. 
+      
+      Anna
+  - author: "Theresa E. Miller"
+    date: "2007-04-04T23:00:51"
+    text: |
+      I don't remember exactly how I stumbled onto your blog, but I thoroughly enjoy and am glad you'll be writing more regularly now.
+  - author: "Michael Main"
+    date: "2007-04-05T15:42:44"
+    text: |
+      What you think I'd leave and lose my status as Michael 1 of whatever?
+      
+      -M
+  - author: "Karen"
+    date: "2007-04-05T17:29:19"
+    text: |
+      Hi Katy!  I've missed reading your blogs.  Happy Easter to you and yours!
+  - author: "Tina"
+    date: "2007-04-05T20:26:04"
+    text: "Happpy Easter!!!!"
+  - author: "Katy"
+    date: "2007-04-05T21:10:01"
+    text: |
+      Anna--Well, now I'm going to keep on writing, to make your checking worthwhile!  :)
+      
+      Theresa--How nice of you to leave a comment, and how even nicer of you to read here! Thanks!
+      
+      Michael--Your Official Title is "Michael Number One of the Michaels Who Comment Here." At one point, it could be verified that seven Michaels had left comments, so Number One is QUITE an honor. Dubious, but still....  ;)
+      
+      Karen--Hey, girlfriend! Looking forward to seeing you soon, I hope! Happy Easter to your family, too. Love you!
+      
+      Tina--Thanks for popping in here, and for the encouraging email you sent me. I will keep pressing onward with my novel, and think of you!
+  - author: "Discount Pharmacy"
+    date: "2009-09-14T11:46:26"
+    text: "I thoroughly enjoy and am glad you will be writing more regularly now."
 ---
 
 Well, Lent is nearly over, and this "giving up the Internet" thing was every bit as hard as I imagined it would be. It's been fruitful in many ways, but I don't think I'll be committing to repeating it anytime soon!  :)

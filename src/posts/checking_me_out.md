@@ -1,6 +1,27 @@
 ---
 title: "Checking Me Out"
 date: "2007-10-11T14:11:57"
+comments:
+  - author: "Suzan"
+    date: "2007-10-11T17:42:49"
+    text: |
+      These young people just have no sense of the curious! LOL
+      
+      You're still a groovy chick, Katy.
+  - author: "relevantgirl"
+    date: "2007-10-13T14:18:37"
+    text: |
+      Yeah, but you're a hottie, so I'm sure the clerk was simply jealous!
+  - author: "Katy"
+    date: "2007-10-15T14:22:16"
+    text: |
+      Suzan--Sing it with me now, "Slow down, you move too fast, you got to make the morning last, just kickin' down the cobblestones, lookin' for fun and feelin' GROOVY!"
+      
+      Relevant Mary--Yeah, jealous. That's the ticket! Tee-hee.  :)
+  - author: "Bridget"
+    date: "2007-10-16T17:28:07"
+    text: |
+      Yeah, I was floored when I carded a chick at the Chiefs game this past Sunday.  She was born in 1986.  I laughed as I told her that I was in college at that point and getting ready to get married.  LOL.  Talk about feeling old....  Of course I felt a little younger later when she came back for the fourth time, after purchasing 3 of my magnificent vodka/lemonaids, asking me for Tums.  I've never needed those in my 40 years of life! Hee, hee.
 ---
 
 Yesterday I had an enlightening discussion with an eighteen-year-old teller at Bank of America.

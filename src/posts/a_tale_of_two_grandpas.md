@@ -1,6 +1,37 @@
 ---
 title: "A Tale Of Two Grandpas"
 date: "2006-04-22T14:05:34"
+comments:
+  - author: "Chris(tine)"
+    date: "2006-04-22T15:20:09"
+    text: |
+      Katy - I sure wish we lived close enough to go enjoy a latte together and chat sometimes...  Sometimes the co-incidences in your blog posts to my life are a little overwhelming!
+      
+      My maiden name is Duncan - though my family didn't come over quite as recently as yours.  And my grandpa Duncan also drowned in a river under very suspicious circumstances...
+      
+      I can't wait to hear about your trip to Scotland.  I've been to England once, but not Scotland yet.
+  - author: "Sandy"
+    date: "2006-04-22T16:38:02"
+    text: |
+      Katy
+      I love the following description you wrote:
+      Scotland is fascinating and frightening, beautiful and bleak. The memories and the might-have-beens it recalls are as jagged as the craggy mountains that cut into the mist-enshrouded landscape.
+      
+      That is beautiful!
+      
+      I've always wanted to go to Scotland as well. My husband's family is from there. I'm a huge mix of Irish, English, Cherokee, Blackfoot, and French Canadian. So, that makes me interested in a lot of stuff LOL
+  - author: "Katy"
+    date: "2006-04-24T01:27:31"
+    text: |
+      Chris(tine)--Ooooh. Suspicious circumstances are endlessly fascinating. I would love to compare notes, over coffee or not! (I will know more, I think, about my Irish grandpa when I get back from the Old Country....)
+      
+      Sandy--Thanks for commenting here! I visited your site and Wow! Your interests are amazing...Good for you!
+  - author: "Chris(tine)"
+    date: "2006-04-25T02:09:40"
+    text: |
+      Did I confuse things between Ireland and Scotland?  :)
+      
+      I've got to go back and read your posts again...  I really look forward to hearing about your trip and what you learn!!
 ---
 
 I've told you how my father's father died--the poor fellow drowned in the River Clyde in Scotland.

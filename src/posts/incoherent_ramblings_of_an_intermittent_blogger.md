@@ -1,6 +1,95 @@
 ---
 title: "Incoherent Ramblings Of An Intermittent Blogger"
 date: "2006-02-02T13:58:33"
+comments:
+  - author: "relevantgirl"
+    date: "2006-02-02T15:09:45"
+    text: "So good to hear your voice, dear Katy. Hangeth thou in there. I have no doubt Keifer and Simon are pining for you right now, eyeing that lovely optic nerve of yours and longing to accompany you in the lovely MRI tunnel of love."
+  - author: "the inimitable one"
+    date: "2006-02-02T15:11:45"
+    text: |
+      Oh, and, um, thanks. I've never been called inimitable before. Cool.
+  - author: "Liz"
+    date: "2006-02-02T15:54:47"
+    text: |
+      I hope you feel better!
+      
+      Take a break and get some rest! - I'll still read you because I subscribe to your feed so when you post I come to your site.  Right away.
+  - author: "Katy"
+    date: "2006-02-02T16:46:09"
+    text: |
+      Inimitable Mary--That laugh REALLY did my wildly infected ear for which I am now imbibing staggering milligrams of antibiotics a ton of good!!! Methinks perhaps you should try your hand at thrilling medical romance. "Three's Company In the MRI Tunnel of Love!"
+      
+      Liz--Girl, I've been too sick to even read OPBs (Other People's Blogs). But today, I repent, turn and go the other direction. I'm gonna go catch up with Liz Fierge, whose name is pronounced "Fergie," but I can't resist putting a French spin on it no matter how hard I try.  :)
+  - author: "Carrie K."
+    date: "2006-02-02T20:19:07"
+    text: |
+      Katy,
+      Get some rest! We'll miss you, but we'll be here waiting for when you get back. And I'll keep you in my prayers in the meantime.
+  - author: "Katy"
+    date: "2006-02-02T23:54:14"
+    text: "Carrie K--You are the sweetest thing. And you remind me of my sweetest-thing daughter, Carrie Kathleen. Thank you for your kind heart."
+  - author: "Ame"
+    date: "2006-02-03T00:56:18"
+    text: |
+      Oh, Katy, I'm so sorry :(
+      
+      But, I'm curious . . . I have these visions of becoming more in tune with myself, always taking care of me, resting appropriately - physically, mentally, and spiritually - when my children are older.  Is this unrealistic?  Hummm, better to know now than to get my hopes up that I won't let myself get run down someday.  I guess that moving at full-steam is either a hard habit to break or a personality type?  I think I like personality type best, don't you :)
+      
+      Either way, please do take care of yourself!!!  Let that sweet man you rave about all the time take care of you - even if you need to give him step-by-step instructions :)  And then take a spa day when you're up to it :)
+  - author: "Michael O'Connor"
+    date: "2006-02-03T07:17:50"
+    text: |
+      How is it possible that neither I or any of the other Michael have entered your dreams? 
+      
+      WE are, after all, the male lifeblood of this comments section. Without us there would be less scratching and the place would probably smell better. We make a heckuva  barbershop quartet, you know. You should hear us on Lida Rose.
+      
+      Perhaps this is just a bad case of meglamania. I have a call out to my therapist and expect to hear from her shortly. Excuse me while I brood in public silence.
+  - author: "Heather"
+    date: "2006-02-03T18:48:07"
+    text: |
+      I've got the blog block, too.  Just keep posting when you're not too pooped.  We love to read your ramblings!
+  - author: "Jeanne Damoff"
+    date: "2006-02-03T23:00:39"
+    text: |
+      I love you very, very much, too, Sweetie Pootkins. And I understand why you feel grouchy. I'd be irritated, too, if my dreams were crowded with celebrity suitors who won't take "no, I'm happily married" for an answer. (Or maybe I should ask what answer you're giving them!)
+      
+      So, here's a story to cheer you up. My daddy had major spinal surgery Wednesday. It took six hours, but went great. In fact, he's already home, with strict orders not to do any work or drive or lift anything, etc. When he called and updated me this morning I said, "This just means quality time for you and Mom." We both laughed. If you knew my mom, you'd know why. Then I said, "I wish I could be a fly on the wall," and he said, "I wish you could have been a fly on the wall during the drive home." I can only imagine. She's one of those panicky drivers who over-reacts to everything. The good news is, he feels like his chances for full recovery are great, simply because he survived that drive.
+      
+      Right before I hung up, I said, "You and Mom party down." He snorted. Ah, the beauties of love tested by time. Or, um, something like that. 
+      
+      Okay, so maybe that story won't cheer you up. Want me to tap dance?
+  - author: "Katy"
+    date: "2006-02-04T16:29:46"
+    text: |
+      Ame--I wish I knew the answer! I think one key is to avoid using the word "not." As in, "No matter what happens, I am NOT going to turn out like..." fill in the blank. Focusing on the negative, they say, is like a magnet. I have always tended to take care of others first, myself last. Now I really could be taking care of myself, time-wise, but I don't know how. I skipped that day! Maybe there's still hope...for you!!!!  :)
+      
+      Michael--I understand your dilemma completely. It must be so difficult for you and The Other Three Michaels Who Comment Here, wondering about my night life. Let me assure you once and for all that in spite of what you might imagine, I've never dreamed of anyone named Michael. OK, there WAS Michael Landon, but that was a LONG time ago. ;)
+      
+      Heather--French girls are so patient! Merci bien, ma cherie! (And yes, I'm still incredibly pooped.)
+      
+      Jeanne--POOTKINS??? 500 points for you! It has never occured to me in my dreams to say "no, I'm happily married," because those fellows don't ask permission! They presume I care, and then I call for Doug to come and defend my virtue! Doug used to dream (as an adolescent) of saving damsels in distress, so now I put his dreams to good use!
+      
+      Your story cheered me tremendously, though I can't identify quite WHY. Was it the spinal surgery? The panicky driver? The envisioned tap dancing? It's a winning combination, that's for sure....Thanks!
+  - author: "Ame"
+    date: "2006-02-05T03:09:34"
+    text: |
+      Katy - very WISE advice!  My in-laws raised their two boys NOT to be like the kids in this other family rather than to be the men God created them to be - and ohhhh, the consequences are not pretty.  And my mom would always point out the worst in other mom's and say, "Aren't you glad you don't have a mom like that?"  Made me grow up wishing I didn't have my mom.
+      
+      I am SO glad you were feeling well enough to get on the computer a little bit :)
+  - author: "Liz"
+    date: "2006-02-06T18:05:30"
+    text: |
+      I guess my name pronounciation story is kind of like "Anne spelled with an E?"   
+      
+      Hope you are still resting.
+  - author: "Maria"
+    date: "2006-02-07T01:57:23"
+    text: "Post when you can and rest when you need to.  Meanwhile, I will stop back to see how you are doing."
+  - author: "irene"
+    date: "2006-02-07T04:26:35"
+    text: |
+      Katy, we all love you too, and hope you feel better soon. Take all the rest you need and don't feel pressured to blog! (Did I just say that?!) We'll still be here after you've taken your time off. You've had a pretty rough time of it over the past half a year or so; I guess it's all catching up. Sending warm wishes your way :)
 ---
 
 I'm glad we all enjoyed first a guest-blogging fest here at fallible, then a Dave Barry celebration, and finally a two-part chat with the inimitable Mary DeMuth, because you know what? I'm pooped.

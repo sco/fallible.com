@@ -1,6 +1,11 @@
 ---
 title: "Before And After"
 date: "2005-10-25T19:31:24"
+comments:
+  - author: "Bridget"
+    date: "2005-10-26T02:14:02"
+    text: |
+      I write the names and dates on the back of all my pictures and always have.  If I ever get behind, then I always catch up on school breaks, like Christmas or Spring Break and do rolls at a time.  Usually, though, I'm totally caught up and have trained Baillie to do the same.  This is SO important.
 ---
 
 Write the names on the backs of aging photographs, even though you know perfectly well which of your children had ringlets of wispy blond hair, and wore the pale green sleeper while clutching the blanket with the embroidered rosebuds on its satin edge.

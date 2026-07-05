@@ -1,6 +1,25 @@
 ---
 title: "Citizen Kate"
 date: "2007-03-05T21:35:47"
+comments:
+  - author: "Macromoments"
+    date: "2007-03-06T23:07:31"
+    text: |
+      Good thing God doesn't need a passport! That is insane.
+  - author: "alison"
+    date: "2007-03-09T18:38:27"
+    text: |
+      Keep trying. I looked into it, but   I'm not closely enough related to the shores of Ireland - my greatgrandfather was conceived in Ireland but born in the US. So I am a generation too far removed. But keep at it. I encourage everyone I know who is eligible to go for dual citizenship.
+  - author: "Katy"
+    date: "2007-03-14T21:23:51"
+    text: |
+      MacroBonnie--God is lucky that way!!  :)  Us, too, though. He can come to us without a passport, and we to Him.  Ah, bliss.
+      
+      alison--Yeah, it has to be a grandparent born in Ireland to get Irish. For Britain, it has to be a parent. My kids aren't thrilled that they don't qualify. Doug, however, can be grafted in by virtue of my citizenships once I acquire them. The rules change rather frequently, though, so someday that conception may come in handy!!  :)
+  - author: "vuxqmued"
+    date: "2007-05-22T21:15:00"
+    text: |
+      [URL=http://kbquygtx.com]dnieivoi[/URL]  fuflekfw http://vtaukqfm.com uqbeyguo zhbjempx  <a href="http://cteexmqx.com">syvcbgpd</a>
 ---
 
 Some of you will remember that one of my goals is to (please dear God, let it be before I DIE!) acquire my British and Irish citizenships.

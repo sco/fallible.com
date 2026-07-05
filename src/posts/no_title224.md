@@ -1,6 +1,12 @@
 ---
 title: "(No Title)"
 date: "2001-01-21T23:20:05"
+comments:
+  - author: "Jhonson miami"
+    date: "2010-01-27T19:02:53"
+    text: |
+      One of my goals requires that I find the time to exercise.  Iâ€™m trying to visualize how online coaching can help me wit this goal.
+      <a href="http://www.placemats.promoedge.com.au/">placemats</a>
 ---
 
 Recently, my cousin Josephine gave me a beautiful pair of gold earrings, based on a design by a Scottish architect named MacIntosh, during the Arts and Crafts period. MacIntosh is hugely popular over there, and his work somewhat corresponds to that of Frank Lloyd Wright in this country.

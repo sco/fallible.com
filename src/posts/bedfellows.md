@@ -1,6 +1,53 @@
 ---
 title: "Bedfellows"
 date: "2006-01-21T14:41:05"
+comments:
+  - author: "Diane"
+    date: "2006-01-21T18:33:34"
+    text: |
+      Hi, this is my first time reading your web log and hey I like the way you write. :)
+      
+      I hope you'll have a great day anyway after having that nightmare. God bless you. ;o)
+  - author: "Katy"
+    date: "2006-01-21T19:58:10"
+    text: |
+      Diane--How fun to have another reader from Malaysia, to join IreneQ! Welcome here.
+      
+      I am having a lovely day, thank you. My husband and I went to Starbucks, then to visit his mother, then to an antique store where we very narrowly escaped buying a beautiful Irish sideboard, which we cannot afford. Whew!!
+  - author: "Jeanne Damoff"
+    date: "2006-01-21T19:58:52"
+    text: |
+      Interesting, Katy. You should ask my mom for an interpretation. But be warned. At the vulnerable age of 13 I told her about a nightmare I'd had. Much to my horror she spouted off a classic Freudian explanation that served only one good purpose. I was so mortified, I forgot all about the dream.
+      
+      On second thought, I don't want to know what Mom would say about your bizarre bedfellows. Here's hoping your bed is less crowded tonight, and we'll just leave it at that.
+      
+      Happy Saturday.
+      Love, Jeanne
+  - author: "Katy"
+    date: "2006-01-21T20:04:40"
+    text: |
+      Jeanne--I am well convinced that some starving psychiatrist could be putting his kids through an Ivy League school on the money I'm depriving him by not seeking help. 
+      
+      Your mother had enough training to be dangerous huh?  ;) What the heck did you dream about, snakes and tunnels and trains? Oh, my!
+      
+      Welcome Day to you too, buddy!
+  - author: "Ginger"
+    date: "2006-01-22T04:19:02"
+    text: |
+      What a funny dream.  What I can never figure out is those dreams that don't have even a remote similarity to my waking life.  
+      
+      Reader's Digest this month has an article about what dreams mean, and when you get to the end you realize that it just said, essentially, "Dreams are related to your real life, but we can't quite tell you how."  Well, duh.
+      
+      Hop outta that bed and let the old ladies have some room.  :)
+  - author: "Katy"
+    date: "2006-01-22T18:52:38"
+    text: |
+      Joyful Ginger--I think almost all my dreams have meaning for my real life. They are usually crazy and might seem random and nonsensical to someone else, but I know what they mean.
+      
+      In this case, you are probably right--I need to give the old gals their space! (Stop hovering...) And in the process, get some rest.  Thanks!
+  - author: "Maria"
+    date: "2006-01-22T22:56:56"
+    text: "I am not going to even try to interrupt that very funny dream, however an inquiry into your epicurean before bed meal seems appropriate.  What the heck did you have to eat that might trigger a dream of old ladies in your bed?"
 ---
 
 You've all heard the expression "in bed with." Right?

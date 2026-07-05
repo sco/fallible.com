@@ -1,6 +1,29 @@
 ---
 title: "Bunnies"
 date: "2008-05-12T19:41:00"
+comments:
+  - author: "Rachelle Gardner"
+    date: "2008-05-12T20:11:02"
+    text: |
+      Katy, I am SO privileged to be your agent! I can't stop laughing.
+      
+      Now go build some hutches and trap those bunnies!
+  - author: "Becoming Me"
+    date: "2008-05-12T20:48:17"
+    text: "Too funny! What is your book about?"
+  - author: "Kathryn"
+    date: "2008-05-12T21:34:36"
+    text: "Bunny trails? I love it. This post was hilarious."
+  - author: "Gracie"
+    date: "2008-05-13T01:29:33"
+    text: |
+      Laughing hard over my computer keyboard. Though I'll agree that bunny trails are hard to avoid. It's great that you have such an awesome agent. Can't wait till I can grab your book in a bookstore!
+  - author: "victoria"
+    date: "2008-05-13T13:35:24"
+    text: "This post made me smile today.. thank you!"
+  - author: "mandy"
+    date: "2008-05-14T20:19:50"
+    text: "This is such exciting news.  I am thrilled for you!"
 ---
 
 I got a call from <a href="http://cba-ramblings.blogspot.com/" title="my literary agent">my literary agent</a> this morning. It's freakish how much fun we have talking on the phone, about everything from Mother's Day, to getting lost in the big city, to not being able to keep houseplants alive.

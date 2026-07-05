@@ -1,6 +1,34 @@
 ---
 title: "Most Meetable Or Not, We've Got To Stop Meeting Like This!"
 date: "2006-02-26T00:55:38"
+comments:
+  - author: "Ame"
+    date: "2006-02-26T01:34:30"
+    text: |
+      How about I stop by your fav restaurant and pick up your fav food; stop by Starbucks; stop by your fav dessert restaurant for whatever you choose.  Bring alone a picnic basket with a bottle of whatever you choose; some music of your choice.  And we find a lonely, quiet, still place somewhere in the hospital - and maybe even with a view!?
+      
+      Gosh, Katy - you're being stretched in more ways than most know exist.  I am so very sorry.  It is your ability to find life and humor while living life without humor that makes you most meetable.
+      
+      May you find pockets of peace and joy . . . and humor, each day.  May you find youself transformed into a miraculous calm while taking a vacation in "the tunnels."  May you find the love of your life filling you with strength and covering you with love.  May you know that you are meetable because of who you are and not because of what body things are plaguing you or where you happen to spend most of your time these days :)
+  - author: "Heather"
+    date: "2006-02-26T16:43:17"
+    text: |
+      I want to meet you!  Also... I'm so sorry.  I'll pray for you and your dear mother.
+  - author: "Bridget"
+    date: "2006-02-27T00:59:54"
+    text: "It was good to see you in the cafeteria today!  We are a good team!  Love to you..."
+  - author: "Aaron"
+    date: "2006-02-27T09:03:40"
+    text: "Katy, I will remember you and your loved ones in my prayers-- that the Lord will always stay close to you and continue to bless you with courage and good humor in all circumstances. I have enjoyed reading your blog for a couple of years now. You are an inspiration!"
+  - author: "Deb Raney"
+    date: "2006-02-27T12:13:18"
+    text: |
+      Katy, I'm taking notes. I hope I can be as patient, gracious, hilarious, adorable and yes - ever so meetable - when my day of testing and trials comes. You are in my prayers today. I've got those gorgeous Anglican prayer beads to help me, you know. ; )  God bless you and I hope you get a nice break outside the tunnels.
+  - author: "Lynn"
+    date: "2006-03-02T18:13:16"
+    text: |
+      Hi Katy.  As you know, this sister-in-law of yours reads your blog most days at work (due to my unbelievably light workload these days!), and I just remembered today is "tunnel" day for you.  Hang in there... with my own recent experience with CT's and MRI's, it would be hard to classify the tests as a "break", but with the trials you've been going through with your Mom, a "break" it is!
+      My prayers are with you today. Love you...
 ---
 
 I have to admit that when I was getting ready to head to the ER this morning, I started shaking and sweating pretty violently. And kind of bawling, well...hysterically.

@@ -1,6 +1,61 @@
 ---
 title: "Aidan's Outfit"
 date: "2006-01-09T15:55:17"
+comments:
+  - author: "Ame"
+    date: "2006-01-09T20:12:31"
+    text: |
+      Mary - too funny!  My ex-husband grew up in South America where the custom when greeting one another is to kiss on the cheek.  When he came back to the states for a year in 8th grade, he was introduced to a girl.  He automatically greeted her with a kiss on the cheek, and she, in turn, slapped him!  He never made that mistake again :)
+      
+      (by the way - having grown up on the beach, some people's bathing suits truly do look like costumes they should not share with others :)
+  - author: "relevantgirl"
+    date: "2006-01-09T21:14:45"
+    text: |
+      It's weird to come back to the states, because now I'm accustomed to kissing on both cheeks!
+  - author: "Ame"
+    date: "2006-01-09T21:31:01"
+    text: |
+      :-)  I went to Argentina once - during a horrible heat wave in summer - and they don't bathe often - and I had to kiss their cheeks - and they kissed mine!  eeeeek!!!  Talk about SACRIFICE!  But I have some Arabic neighbors who greet with a kiss, and they bathe OFTEN, and it's a delightful way to greet one another :)
+  - author: "Macromoments"
+    date: "2006-01-09T21:47:32"
+    text: |
+      Hi Mary!
+      It's nice to bump into you by surprise. Your story is one of those you'll be passing down to your grandkids someday, trust me.
+      
+      I experienced something similar when we lived in Germany.  By the time we left several years later, we were experts at playing Charades.
+  - author: "relevantgirl"
+    date: "2006-01-10T16:10:57"
+    text: |
+      Macro girl,
+      
+      You should have seen me act out THANKSGIVING (the celebration, not the trait) to the poor check out lady. She must've thought I was nuts as I charaded and bought a HUGE (by French standards) turkey.
+  - author: "Katy"
+    date: "2006-01-10T20:35:46"
+    text: |
+      great story, mary! when my son did a semester in france, he went into a shop and ordered what he thought would be 1/2 lb or so of sliced meat. in francais, of course. they asked (with a smirk) if he was sure, and he said yes. positive. then they started PILING tons of meat on the scale, enough to feed every semestered student in Paris!!! he (and they) had a good laugh, very nearly at his expense!!!
+      
+      do you all know that Mary and her family are living in France? check out her sites to find out more...
+  - author: "Katy"
+    date: "2006-01-10T20:39:37"
+    text: |
+      and i'll just mention that before this day is over, i'm going to celebrate the snowy day in KC by staying indoors and baking several loaves of the beer bread Mary has a recipe for on her blog. No kneading!!! very finger friendly...  :)
+  - author: "Heather"
+    date: "2006-01-10T21:11:44"
+    text: |
+      :)  I love culture shock.
+  - author: "Heather"
+    date: "2006-01-10T21:14:38"
+    text: "Mary, tu parles franÃ§ais, alors?"
+  - author: "relevantgirl"
+    date: "2006-01-10T21:37:11"
+    text: "Oui. Je parles francais. Mais, pas tres bien."
+  - author: "Katy"
+    date: "2006-01-10T22:04:16"
+    text: |
+      Brussez vos dents! So there...  :)
+  - author: "MADDIE DUFF"
+    date: "2006-05-07T02:53:42"
+    text: "!HELLO!"
 ---
 
 <i>(Guest Blogger Mary DeMuth is standing in for Katy today. Have fun reading her story!)</i>

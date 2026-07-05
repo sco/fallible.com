@@ -1,6 +1,44 @@
 ---
 title: "Happy BrainSurgSurvivary To Me!"
 date: "2006-11-15T13:34:21"
+comments:
+  - author: "Maria"
+    date: "2006-11-15T14:56:28"
+    text: "I know well that survvivor feeling.  You have done wonders with your seven years.  Congratulations and here is to many, many more years of good health."
+  - author: "Jeanne Damoff"
+    date: "2006-11-15T14:58:28"
+    text: |
+      Great attitude, Katy! And happy anniversary. :)
+  - author: "Michael #2"
+    date: "2006-11-15T17:43:06"
+    text: |
+      Wow.
+      
+      
+      Take care
+      Michael
+  - author: "Carrie Raymond"
+    date: "2006-11-16T02:09:32"
+    text: |
+      I knew today's date sounded familiar for some reason. I don't remember a whole much about that day...I was scared. I remember that. 
+      
+      The only other thing I really remember was dad's notebook on a rope that you made him wear around his neck all day...or all week, really. What a wifey!
+  - author: "Danielle"
+    date: "2006-11-16T05:24:52"
+    text: |
+      What a wonderful post.  Congratulations on the seven years. :)
+  - author: "Suzan"
+    date: "2006-11-16T21:36:29"
+    text: "hugs, kiddo."
+  - author: "JosÃ©"
+    date: "2006-12-03T18:10:12"
+    text: |
+      It always makes me feel fabulous whenever I hear of someone else who survived brain surgery.  I survived it 16 years ago.
+      No recurrances so far . . .
+  - author: "Vicki"
+    date: "2006-12-11T18:13:08"
+    text: |
+      Wow, I didn't know that, Katy. Blessings, warm hugs, and happy congrats to you! I have a friend who also experienced brain surgery many, many years ago and is doing well. The Lord is good. Loved your post.
 ---
 
 Nobody likes to have their head messed with, right?

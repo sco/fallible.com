@@ -1,6 +1,30 @@
 ---
 title: "Dynamic"
 date: "2005-07-04T21:47:01"
+comments:
+  - author: "Katy"
+    date: "2005-07-05T06:39:23"
+    text: |
+      Carrie--I hope I did your story justice. You told it SO WELL! 
+      -----
+  - author: "Bridget"
+    date: "2005-07-05T07:50:07"
+    text: |
+      Wow.  Jim tells stories like this all the time, but he never writes them down.  Maybe I should &quot;borrow&quot; them for my blog, just as you did with Carrie's.  We may we a little crazy sometimes, but not like that. Love to you, Katy!
+  - author: "violet"
+    date: "2005-07-05T09:32:04"
+    text: "I got the chills as I read that.  Freaky man!"
+  - author: "timsamoff"
+    date: "2005-07-06T00:31:28"
+    text: |
+      Wow... Crazy... But, SO funny! :)
+  - author: "Kevin"
+    date: "2005-07-06T02:27:54"
+    text: |
+      I'm so glad to be blessed with a 'normal' family. Talk about an uncomfortable time!
+  - author: "Paula"
+    date: "2005-07-13T02:13:03"
+    text: "sounds like something from a Coen brothers movie."
 ---
 
 Just when you begin to worry that your own family dynamic might not be sufficiently functional to withstand the challenges of another parent requiring huge amounts of vigilent care, you hear a story like this.

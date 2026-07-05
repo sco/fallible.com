@@ -1,6 +1,101 @@
 ---
 title: "If You Thought The First Part Was Fun, Read Part Deux!"
 date: "2006-01-27T23:01:50"
+comments:
+  - author: "Michael O'Connor"
+    date: "2006-01-28T02:53:06"
+    text: |
+      "Katy: I AM reading it, you silly jeune fille!"
+      
+      To Katy: Did you just call Mary your "jelly filled doughnut"?
+      
+      To Mary: Superb advice about sharing your "youthful indiscetions" with our children at an age appropriate time in their lives. Thank you, great Jedi Master. May the Force keep you from too many Jerry Lewis film festivals.
+      
+      To Katy and Mary: Ummmmm . . . what's a Seahawk?
+  - author: "Katy"
+    date: "2006-01-28T04:03:01"
+    text: |
+      Michael--Surely not! I called her my "Sugar-free jelly filled doughnut"!
+      
+      And the whole Seahawk thing? What's up with that?
+  - author: "relevantgirl"
+    date: "2006-01-28T08:49:56"
+    text: |
+      OK, now, I grew up in Seattle so I am a Seahawk fan. THEY ARE THE TEAM GOING TO THE SUPERBOWL, folks!!! Come on now! :-)
+  - author: "Katy"
+    date: "2006-01-28T14:41:20"
+    text: |
+      She is right, Michael. And because of my deep fondness for her, I will again take up my new-found mantra: "Go, SEAHAWKS!"
+      Who are they playing against?
+  - author: "Ame"
+    date: "2006-01-28T15:26:55"
+    text: |
+      Oh, wow - am I isolated!  I didn't know the Seahawks were going to the Superbowl!!!  Who are they playing?
+      
+      Great interview - as always, Mary, you are authentic and real . . . and tangible.  Not out there living or selling some perceived life of perfection that we can never attain.
+  - author: "relevantgirlie"
+    date: "2006-01-28T19:48:23"
+    text: |
+      they are playing in detroit against the pittsburg steelers. So, everyone please say a cheer for them because they've never been before!
+  - author: "Michael O'Connor"
+    date: "2006-01-28T20:59:09"
+    text: |
+      I beg to differ o wise, witty, and wonderful ones of the fairer sex. The Seahawks are not playing Detroit for the dominant spot on Super Bowl Sunday. Indeed, they are pitted in a mano a mano duel to the death bloodbath against History. And given the Hawks' record in big games, I believe History kicks the Seahorses in the shins and sends them running home, crying to Mommy.
+      
+      If I'm wrong, and you know (to emulate the great Adrian Monk) "I'm not" I'll gladly send you (Mary) a signed copy of my latest (and only) book. Should you lose I would expect to see a copy of any Mary DeMuth tome you choose hitting my Los Angeles mailbox sometime in early February. 
+      
+      We could bill this epic struggle as "The Titanic Battle of the Fallible Guest Bloggers." I think we might get this onto pay-per-view.
+      
+      What do you say Mary?
+  - author: "releavntgirl"
+    date: "2006-01-29T10:16:07"
+    text: |
+      You're on. I didn't say they were playing detroit!
+      
+      But, alas, there is always something beautiful about a Cinderalla story, don't you think?
+  - author: "Michael O'Connor"
+    date: "2006-01-29T17:56:10"
+    text: |
+      Yes, there is something truly amazing about a Cinderella team with a chance to win it all. Unfortunately, you are talking to a 50 year old San Fancisco Giants fan who has suffered with his team not winning it all in his lifetime--who saw the 2002 Giants lose a five run lead with seven outs to go in the deciding Game Six that year. 
+      
+      The last time the Giants won the World Series? 1954. The year before I was born. 
+      
+      But, back to the Seahawks. I have nothing against them. It's just that history tells us they choke in the big game. This will give me some sort of reason to watch the game. Who knows? I'll probably end up rooting for the CinderHawks.
+  - author: "Amber"
+    date: "2006-01-30T16:16:18"
+    text: "Go Steelers!!! =)"
+  - author: "Jeanne Damoff"
+    date: "2006-01-30T16:37:00"
+    text: |
+      Speaking of Jerry Lewis and the CinderHawks, my son received a DVD set of old Jerry Lewis movies for Christmas. He watched CinderFella last night, and I caught snatches of it. I'd forgotten how cheesy those flicks are, but the man was a master of physical humor (which Jacob loves, so hearing him laugh with abandon is worth enduring the cheese). 
+      
+      Great interview Mary and Katy. I wish I were as hip as you two. I (finally) got my so-called pre-release copy of the book in the mail. Now I can read it and be a late-to-the-party-in-a-box cool kid wannabe. You know, the one who shows up an hour after everyone else has gone home, just in time to watch the janitor sweep up the confetti. *Cue melancholy violin music* 
+      
+      In other news, go Seahawks!
+      
+      Love, J.
+  - author: "relevantgirl"
+    date: "2006-01-30T17:01:23"
+    text: |
+      Thanks, Jeanne, for your support of our Cinderella friends. And I'm glad you finally got your book!
+  - author: "Macromoments"
+    date: "2006-01-30T19:07:20"
+    text: |
+      Loved the interview. I laughed when you both laughed. Mary shared priceless nuggets there.
+      
+      This is a great format, Katy.  I hope you'll do more of them.
+  - author: "Katy"
+    date: "2006-01-31T17:02:50"
+    text: |
+      Thanks, Macro Bonnie, Jeanne, Amber, Michael and all. I think we've just had ourselves either a successful author interview (using that term loosely...) or we've all taken up gambling. Or possibly both!  Go, Seahawks!
+  - author: "Lori"
+    date: "2006-02-14T00:34:53"
+    text: "Hi, Katy!  As someone who participated with you in some youthful indiscretions, I am gratified to see that you seem to ascribe to the same philosphy I have developed through trial and error. I think my children have benefited (somewhat) through hearing about my bad decisions. My kids are a little younger than yours, you know, and I have been feeling my way through this particularly as my youngest seems to have figured out almost every stupid and dangerous thing I ever did.  I think that he is relieved to know that I made mistakes.  HOWEVER, knowing that I made them and now consider them to be mistakes, does not seem to discourage him from doing much the same himself.  Parenting is not a precise science, is it?  Hope all is well with you.  Love, Lori"
+  - author: "Katy"
+    date: "2006-02-14T00:47:04"
+    text: |
+      Lori--Well!!! I am shocked and awed to find you here! Most of my friends in the "real" world don't know I blog, because I just haven't mentioned it. Ah...Youthful Indiscretions Backwards R Us, huh?  ;)
+      You know, Lori, I still haven't spilled every bean I could, but when it's important and hopefully helpful, I do. So far, spilling hasn't backfired too badly...yet. I love you!
 ---
 
 <i><a href="http://www.relevantblog.blogspot.com/">Mary DeMuth</a> and I finish our IM session with a bit of a meltdown, but not before Mary reveals the heart behind her latest book, "Building the Christian Home You Never Had." Enjoy!</i>

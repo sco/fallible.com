@@ -1,6 +1,27 @@
 ---
 title: "Imagine"
 date: "2006-07-11T15:49:05"
+comments:
+  - author: "Lynn"
+    date: "2006-07-12T13:06:13"
+    text: |
+      One of the things I love most is reading with Joshua so...kudos! =)
+      
+      "But our imaginations are on fire, exactly how imaginations are meant to be."
+      
+      Amen.
+  - author: "Martin LaBar"
+    date: "2006-07-13T01:51:51"
+    text: |
+      You're onto something.
+      
+      I found this through the Christian Carnival (although the link in the Christian Carnival isn't quite right, for some reason.)
+  - author: "Katy Raymond"
+    date: "2006-07-13T17:49:26"
+    text: |
+      Lynn--It's scary how our imaginations can be dulled by the creeping habit of meaningless shopping and spending. It's a drug. When you go cold turkey, things start to make sense again....Keep reading with Joshua!
+      
+      Martin--Thanks for stopping by! I don't know why the link at Christian Carnival isn't working, but glad you found your way here....
 ---
 
 Doug and I just finished reading through 1st and 2nd Corinthians together. Like out loud. Yeah, baby--that kind of together!

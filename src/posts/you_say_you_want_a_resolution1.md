@@ -1,6 +1,61 @@
 ---
 title: "You Say You Want A Resolution"
 date: "2006-01-05T02:36:05"
+comments:
+  - author: "FindingJoy"
+    date: "2006-01-05T03:23:01"
+    text: |
+      Oh, I can <i>so</i> relate!  After a few years of reading the Pentateuch I decided to just carry on where I left off rather than starting at Genesis every time.  It doesn't fit a schedule but I did get through the whole Bible a few times this way.
+      
+      Anyhoo... where is the scripture passage that instructs us to take no longer than a year to read through the 66 books?  (There are a few more books in the Catholic Bible, aren't there?)
+      
+      But I get where you're coming from about the guilt.  Guilty is my middle name.  Finding Guilty Joy.  That sounds twisted.
+  - author: "Katy"
+    date: "2006-01-05T03:37:37"
+    text: |
+      I am a former Catholic, and yes, the Protestants have it much easier! You'd think I could keep up! I've read the whole Bible, too, but in a haphazard way. I'm sure that it's been years now since I read certain books.
+      
+      OF COURSE, you're so right about there being no verse commanding we read through in a year or 90 days. But I do a lot of reading of novels, blogs, magazines, etc--I even read through my daily blogs in an organized fashion! I'm laying aside my guilt feelings to give the Bible equal time with my blog-reading. Wow. That sentence looks so pathetic when I see it in print.
+      
+      I love Jesus, though, you know? His mercies are new every morning. I'm going to funnel some of that mercy back into faithfulness toward Him and His word.
+  - author: "Liz"
+    date: "2006-01-05T04:12:43"
+    text: |
+      I'm so there - see my post <a href="http://lizfierge.blogspot.com/2006/01/bread.html">yesterday.</a>
+      
+      I'm still looking for the chapter and verse on reading it through in one year too, but I need to really focus on reading daily, not necessarily through in one year, you know?  
+      
+      It's so much fun to read through Genesis - I do fine until I get to the offerings.  I promise, Moses wished he had copy and paste!
+  - author: "FindingJoy"
+    date: "2006-01-05T04:27:37"
+    text: |
+      Katy, that's an excellent goal.
+  - author: "irene"
+    date: "2006-01-05T04:50:20"
+    text: |
+      I've only read through the Bible once, and that was when I was in my late teens... haven't been able to duplicate that feat since. I haven't read my Bible daily for... oh, do I really have to count?!
+      
+      So, from one who's just as woefully inadequate in this department -- cheering you on, Katy!
+  - author: "Macromoments"
+    date: "2006-01-05T15:08:04"
+    text: |
+      Katy, I feel the same about formal "resolutions." Your post made me think about the word <I>resolution</I>, so I looked it up in my handy-dandy book about word origins.  
+      
+      "Resolve" comes from the same root word that hatched words like "solve," "analyze," and "loosen". Interesting, huh?
+  - author: "Katy"
+    date: "2006-01-05T15:50:43"
+    text: |
+      Irene--Thanks for the good cheer! You have the advantage of youth, still. I encourage you to get back on that horse...  :)
+      
+      Bonnie--Loosen? I LOVE that. And it's just what I need. To be shaken up by immersion in God's word. "Break up your fallow ground." Resolve! Thank you...
+  - author: "Heather"
+    date: "2006-01-05T17:59:12"
+    text: |
+      So beautiful.  I've already messed up on my scripture-study goals.  I'm just trying to make it through Jeremiah, at the moment.  All I know is, it's true.  If the things I resolved to do didn't matter, then I could just move on.  But they do.  I can start again, too.  Thanks for the lift, Katy!
+  - author: "Kathryn, the daring one"
+    date: "2006-01-06T00:03:37"
+    text: |
+      I was going to say, start with the New Testament!  I always end up slowing down somewhere around Numbers.....  Then I skip forward.  I think I'd have better luck if I read it backwards.
 ---
 
 I think I'm starting to figure out the thing I really don't like about New Year's resolutions. It's the failure, of course, but it's not just that.

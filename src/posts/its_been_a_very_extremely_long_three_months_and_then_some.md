@@ -1,6 +1,46 @@
 ---
 title: "It's Been A Very Extremely Long Three Months, And Then Some"
 date: "2005-11-02T14:17:08"
+comments:
+  - author: "Pattie"
+    date: "2005-11-02T18:32:37"
+    text: |
+      I hope your mom will be happier in her new apartment. She should be very thankful for a daughter like you. We'll keep you all in our prayers.
+  - author: "Carrie K."
+    date: "2005-11-02T19:18:14"
+    text: "Praying for strength, Katy."
+  - author: "Lorna"
+    date: "2005-11-03T13:37:32"
+    text: |
+      breathe in, breathe out
+      
+      take in His goodness and allow Him to lead you in the decision making process
+      
+      (laughed about the methodist comment.)
+  - author: "Katy"
+    date: "2005-11-03T13:47:11"
+    text: |
+      Pattie--Mom's a funny girl. She's very entertaining, but she's never been happy. I do think there are levels to her unhappiness, though, and I think maybe we can upgrade a bit... Thanks for prayer!
+      
+      Carrie K--Thank you so much. It's bad when your life's goal becomes to live long enough to get the old ladies "settled," if you know what I mean.  ;)
+      
+      Lorna--And to think Mom grew up Protestant! Then she converted to Catholicism when she married Dad. When he died 21 years ago, she pretty much stopped going to church. But she sure is picky, huh?  ;)
+  - author: "Phill"
+    date: "2006-01-25T01:56:56"
+    text: "Hi guys. Really neat. Nana will get a kick out of it when I show her."
+  - author: "Sam. K"
+    date: "2006-02-01T17:09:36"
+    text: |
+      I am impressed with this page...setup really nice. Doesn't take forever to load pics, like mine... Very impressive.. http://diazepam.gottaoh.com
+  - author: "Drop"
+    date: "2006-02-02T19:06:11"
+    text: |
+      Just checking to see if any relation are out here
+      http://vintage-barbie.olddj.com
+  - author: "Pieter Bas"
+    date: "2006-02-15T16:35:58"
+    text: |
+      Nice site. Hope yoy visit http://buy-xanax-online.gottaoh.com soon. You are welcom!!!
 ---
 
 I...I...I...well, that was weird. After typing the word "I," nothing else came. For a long time, perhaps thirty seconds.

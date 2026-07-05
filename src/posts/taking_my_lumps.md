@@ -1,6 +1,50 @@
 ---
 title: "Taking My Lumps"
 date: "2007-06-23T14:15:29"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2007-06-23T15:44:56"
+    text: |
+      Aw, Katy. I'm sorry about your back. :(  Hope it's all better before the wedding. 
+      
+      If it's any consolation, you're a very cute lump.
+      
+      Love, Jeanne
+  - author: "Sunflower"
+    date: "2007-06-23T16:34:43"
+    text: |
+      Katy, I doubt you need it (well, maybe only to fit in your dress!). I wore something similar for my brother's wedding, but not as heavy-duty as yours sounds.
+      
+      I hope your back gets better, fast! You shouldn't be in pain on your only daughter's wedding day... :)
+  - author: "Suzan"
+    date: "2007-06-23T19:56:42"
+    text: |
+      "Spanx" brand of sausage-casings for-women and I are on a first-name basis. "Spanx" are the only ones that I can get on when my infamous back goes out.
+      
+      I sure hope and pray you are feeling better, girl. Remember how you took care of me when my back went out? I sure wish I could do the same for you!!
+      
+      Hugs!
+  - author: "Maria"
+    date: "2007-06-23T23:11:34"
+    text: |
+      Sending prayers that your back problems are long gone before the wedding.  
+      Good luck with the girdle.  I don't envy you getting into one of those.
+  - author: "lisa"
+    date: "2007-06-25T02:46:21"
+    text: |
+      sausage as verb. love it ;)
+      
+      (prayers your back is back by next week or even better, before that, as I'm sure you maybe have one or two things to do before the big day!)
+  - author: "tvojumat"
+    date: "2007-10-08T00:06:40"
+    text: |
+      [url=http://china.pageflakes.com/buyphentermine/12115452/]buy phentermine[/url] | [url=http://query.nytimes.com/search/query?query=viagra+site%3Adiscussions.csbsju.edu&srchst=g]Cheapest viagra[/url] | [url=http://www.washingtonpost.com/ac2/wp-dyn/admin/search/google?keywords=buying viagra site%3Adiscussions.csbsju.edu]buying viagra[/url] | [url=http://www.nowsms.com/discus/messages/1/Tantric-massage-22873.html]Tantric massage[/url] | [url=http://www.nowsms.com/discus/messages/1/Pitching-machine-22874.html]Pitching machine[/url] | [url=http://www.transplantbuddies.org/tbx/messages/7/Deep-fryer-13033.html]Deep fryer[/url] | [url=http://www.transplantbuddies.org/tbx/messages/7/Buckwheat-pillow-13034.html]Buckwheat pillow[/url]
+  - author: "aupair"
+    date: "2009-07-11T17:20:47"
+    text: |
+      Great post! Iâ€™m just starting out in community management/marketing media and trying to learn how to do it well - resources like this article are incredibly helpful. As our company is based in the US, itâ€™s all a bit new to us. The example above is something that I worry about as well, how to show your own genuine enthusiasm and share the fact that your product is useful in that case
+      Regards,
+      <a href="http://www.euraupair.com">au pair services</a>
 ---
 
 He could have just greeted me with a cheery "Good morning!", but no.

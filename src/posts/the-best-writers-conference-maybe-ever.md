@@ -1,6 +1,24 @@
 ---
 title: "The Best Writers Conference Maybe Ever!"
 date: "2008-09-15T15:40:00"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2008-09-15T18:48:53"
+    text: |
+      Have fun at the conference, Katy! I'm not going this year, so give a full report. 
+      
+      Love, J.
+  - author: "Cindy Swanson"
+    date: "2008-09-16T13:43:51"
+    text: |
+      Katy, have a fabulous time...and say hi to Nancy for me...she's one of my favorite writers!
+  - author: "alison"
+    date: "2008-09-16T14:49:28"
+    text: |
+      Have a wonderful time at the conference. And sell that book!!!! I am thinking about going to my first ever conference. I'm just really nervous about it.
+  - author: "Cathy West"
+    date: "2008-09-16T19:15:04"
+    text: "I will look forward to seeing you there!!"
 ---
 
 Well, this is the week I've been waiting for! Or, I guess I should say, the week for which I've been waiting!

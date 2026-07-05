@@ -1,6 +1,24 @@
 ---
 title: "(No Title)"
 date: "2001-11-07T14:05:46"
+comments:
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I can make you as bad as you wanna' be. Just let me know.
+  - author: "Carrie"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Oh yeah, it's kind of nice having a &quot;bad&quot; side...even if it is fictional. :)
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Why, where did you ever get the idea this was about you, girlfriend? Tee, hee. And I do know you're an angel. Is it okay if I portray you as otherwise just for literature's sake?
+  - author: "Carrie"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Mother, mother! What's this about me sneaking wine into a class retreat? You know I'm an angel. :) 
+      -----
 ---
 
 This morning's excerpt from my novel:

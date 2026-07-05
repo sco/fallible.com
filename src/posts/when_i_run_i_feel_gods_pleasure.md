@@ -1,6 +1,14 @@
 ---
 title: "When I Run, I Feel God's Pleasure"
 date: "2007-05-04T12:08:04"
+comments:
+  - author: "alison"
+    date: "2007-05-04T15:16:23"
+    text: |
+      Oh, that's a great story. I hope they get to do this many more times.
+  - author: "Suzan"
+    date: "2007-05-04T23:37:21"
+    text: "Sweet! I love the photos, too!!"
 ---
 
 Have you ever participated in or watched others run in a marathon?

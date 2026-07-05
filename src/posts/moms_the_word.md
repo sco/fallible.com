@@ -1,6 +1,16 @@
 ---
 title: "Mom's The Word"
 date: "2006-11-10T20:19:40"
+comments:
+  - author: "Danielle"
+    date: "2006-11-16T05:27:38"
+    text: "You have such a great perspective on this.  I dread the day when our parents are put in nursing homes or assisted living places.  It just seems like it would be such a hard thing to do."
+  - author: "Katy"
+    date: "2006-11-16T16:40:38"
+    text: |
+      Danielle--It's an ongoing struggle to remain as upbeat as possible. And I'm just talking about me!! ;)  My MIL actually enjoys the social aspects of living in a retirement community. She's made a lot of nice friends, likes going on field trips with the group, etc.
+      
+      My own mother, not so much. But she wasn't happy before, either. And she would NOT be happy living with one of her five children. She's not happy. That is very hard for me, but I can't fix it. I can only continue to do the right things for her, as I see it. And try to be happy myself!
 ---
 
 I haven't posted much about my mother recently because, well, she's hanging in there. By that I mean, she hasn't fallen since April or so. In addition, we've managed to wean her off 2/3 of her seizure medications and much of the narcotic prescriptions she'd accumulated. Now she's down to anti-depressants, three Valium per day, and Ultracet as requested.

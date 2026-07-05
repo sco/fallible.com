@@ -1,6 +1,19 @@
 ---
 title: "Two Writers Conferences In One Year? Woo-Hoo!"
 date: "2005-11-13T00:13:43"
+comments:
+  - author: "-"
+    date: "2005-11-15T03:58:04"
+    text: "-"
+  - author: "-"
+    date: "2005-11-22T04:57:44"
+    text: "-"
+  - author: "-"
+    date: "2005-11-24T11:24:29"
+    text: "-"
+  - author: "-"
+    date: "2005-12-13T12:35:17"
+    text: "-"
 ---
 
 I believe with all my heart that God's mercies, as it says in Psalms, are new every morning.

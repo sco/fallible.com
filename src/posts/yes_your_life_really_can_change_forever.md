@@ -1,6 +1,22 @@
 ---
 title: "Yes, Your Life Really CAN Change Forever!"
 date: "2007-10-23T18:04:55"
+comments:
+  - author: "Cindy Swanson"
+    date: "2007-10-24T16:56:01"
+    text: |
+      Oh, Katy, I admire you!  I always start off my new purses with the best of intentions...but two weeks later, it's an abyss of receipts, gum wrappers and used grocery lists.  But you've inspired me.  I'm cleaning out my purse today!
+  - author: "Katy"
+    date: "2007-10-24T19:47:21"
+    text: |
+      Cindy--To think I could have lived my whole life like this! You know what? I think, all this time, I've been too cheap to buy the make-up bags! And, honestly, the make-up bags are the key to the organization working. And they cost $1.59 each! You, too, can enjoy the freedom of knowing how to find stuff in your purse!! No, it's NOT too late! Go for it!
+  - author: "alison"
+    date: "2007-10-26T04:40:09"
+    text: |
+      The girls gave me a new purse for my birthday hoping that I would actually keep my wallet, credit cars and keys in it. So my kids haven't given up on me yet, even if my mother has. Perhaps you could introduce me to Terri??
+  - author: "Lens"
+    date: "2009-08-04T06:36:17"
+    text: "This is a good teraphy. Thank you."
 ---
 
 I couldn't be more shocked if I tried.

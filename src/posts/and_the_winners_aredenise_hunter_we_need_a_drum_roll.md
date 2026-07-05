@@ -1,6 +1,19 @@
 ---
 title: "And The Winners Are....(Denise Hunter, We Need A Drum Roll!)"
 date: "2006-09-28T13:28:27"
+comments:
+  - author: "Lori Chally"
+    date: "2006-09-28T14:52:15"
+    text: |
+      YAY! Thank you, Katy!   I'm trying to think back to when I've ever won a drawing before . . . it was. . .let's see. . . hey--  This is the first time!!!
+  - author: "Lisa"
+    date: "2006-09-29T21:03:31"
+    text: |
+      Awww, bummer. I didn't win. Oh well. Congrats to the winners! Fun contest, Katy!
+  - author: "Katy"
+    date: "2006-09-30T00:30:26"
+    text: |
+      Lisa--(Officially Lisa #3 Who Comments Here). Awww....I'm sorry. I promise do run another contest one day soon!  :)
 ---
 
 It's 8:30 am in Kansas City, and the contest is closed. What contest? you may be asking.

@@ -1,6 +1,41 @@
 ---
 title: "The Troubles"
 date: "2007-12-30T18:49:00"
+comments:
+  - author: "Suzan Robertson"
+    date: "2007-12-31T13:59:41"
+    text: "I love that movie, watched it twice!"
+  - author: "Bridget"
+    date: "2007-12-31T23:46:40"
+    text: |
+      Hope I wasn't one of the phone calls that disturbed you...  I waited and waited to feel better so I could call.  I just hope you had a wonderful birthday! Love you!
+  - author: "Michael Main"
+    date: "2008-01-01T14:13:40"
+    text: |
+      Belated Happy Birthday wishes, and  Happy New Year!
+      
+      Imagine what life would be like without answering machines?
+      
+      Then again, we might not have DVD's or remote controls..((shudder)))
+      
+      MM
+  - author: "lisa"
+    date: "2008-01-03T15:26:44"
+    text: "well....happy (belated) birthday, anyway, katy!"
+  - author: "Lynn"
+    date: "2008-01-04T20:03:31"
+    text: |
+      Usually, when I try to respond to one of your blogs, my PC doesn't let me.  But I'll try again, dear sister-in-law, because I laughed and laughed reading about Mom's phone calls to you.  She does the same to me too, and when I come home I'll find an answering machine full of sighs, grumbles "what did you say? I can't understand what you're saying" (as she talks back to my automated greeting), and then says she can't leave a message, and hangs up.  
+      I think I should've stayed home on your birthday! Or you should've gone out for that movie!
+      Lynn
+  - author: "Anne"
+    date: "2008-01-08T21:53:35"
+    text: |
+      Singing into the phone. Oh my.
+      
+      One of our Moms leaves nastygrams on the phone. At least we've learned to laugh about it. 
+      
+      All those phone calls will make you crazy. Then you'll be singing into the phone....
 ---
 
 Last night, Doug and I viewed the longest movie in all of creation.

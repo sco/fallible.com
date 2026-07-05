@@ -1,6 +1,11 @@
 ---
 title: "When Mary Met Perceival"
 date: "2005-11-08T18:40:27"
+comments:
+  - author: "Bridget"
+    date: "2005-11-09T14:52:19"
+    text: |
+      Hee, hee.  That's our Mom.  Of course I don't think "Percival" is her type.
 ---
 
 "I'm thinking about lots of people back at the nursing home," Mom said. "You know, the whole time I was there, I only made friends with one resident."

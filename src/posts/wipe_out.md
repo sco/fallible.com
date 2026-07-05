@@ -1,6 +1,22 @@
 ---
 title: "Wipe Out"
 date: "2007-01-30T22:42:27"
+comments:
+  - author: "Vicki"
+    date: "2007-02-01T00:29:12"
+    text: |
+      Sure hope you sleep well and elude thoseflu germies, too. 
+      
+      hugs,
+      Vicki
+  - author: "Katy"
+    date: "2007-02-02T15:17:10"
+    text: |
+      Vicki--Thank you! My young son, headed back to school in Switzerland, began to succumb last night. We assaulted him with prayers, vitamins, herbs, fluids, and Tamiflu. He seems better! A lot better.
+      
+      Doug and I are fine so far. And we're throwing a suprise party tomorrow night, so I hope we can fumigate and air out the house, and go forward with our plans.
+      
+      You are sweet!
 ---
 
 Tomorrow's our young son's court date. We were advised by essentially everyone in the universe to get a lawyer, so we did. He's an old friend of ours, actually, a man who regularly deals with the judges and prosecuting attorneys in the county in question. He asked us what our goals were as far as a favorable outcome. We only had two that mattered: That our kid not have a permanent blot on his record for selling a pack of cigarettes to a minor in a sting operation, and that he be allowed to leave the country in two days.

@@ -1,6 +1,44 @@
 ---
 title: "Chip Off The Old Mom!"
 date: "2005-09-08T17:09:00"
+comments:
+  - author: "janejane"
+    date: "2005-09-08T23:30:47"
+    text: |
+      hehehe...so funny!!! 
+      -----
+  - author: "Take CareMichael"
+    date: "2005-09-09T01:55:33"
+    text: |
+      I didn't read &quot;panty&quot; anywhere in the story. Did we forget a part?
+      
+      Take Care
+      Michael
+  - author: "Amber"
+    date: "2005-09-09T08:26:17"
+    text: |
+      You know, Michael, if a new reader were to stumble upon this post alone and read your comment before browsing the rest of the site . . . I bet there would be some serious eyebrow-raising going on. =P
+      
+      Katy, aren't you going to miss BlogBack?? I am!
+  - author: "Katy"
+    date: "2005-09-09T09:46:57"
+    text: |
+      JaneJane--My little girl's a corker, huh?
+      
+      TakeCareMichael--My daughter's much classier than I am. She has her father's genes. I should be so fortunate!  :)
+      
+      Amber--Only mild eyebrow-raising here! My hubby is frantically trying to get fallible set up on Expression Engine and export all the comments, etc. Hope it goes without a hitch! I sure wouldn't want to lose five years of entertaining and educational comments!!
+  - author: "Neal"
+    date: "2005-09-09T12:33:33"
+    text: |
+      Katy, if you weren't so fallabulous Doug could probably concentrate more! Just tell him I said to keep up the good work... jacque and I will have to take you up on the dinner theatre! We miss you guys!
+      
+      I'll try to darken your door soon, in the mean time, if you want to have an inteligent conversation about my condition, google &quot;inguinal hernia&quot; I want all the info I can get!It's been a long year so far! Thanks for your concern and being a friend!
+      
+      Neal
+  - author: "Lynn"
+    date: "2005-09-10T07:24:35"
+    text: "She gets her writing &quot;skillz&quot; from you."
 ---
 
 Here's the email I received from my daughter Carrie this morning. I think she should be a blogger and share this stuff with the world. I've been a good example for her, haven't I?

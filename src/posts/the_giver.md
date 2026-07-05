@@ -1,6 +1,18 @@
 ---
 title: "The Giver"
 date: "2006-12-14T20:47:40"
+comments:
+  - author: "sheri"
+    date: "2006-12-15T03:33:46"
+    text: |
+      Thank you, Katy :)
+  - author: "Suzan"
+    date: "2006-12-15T17:24:05"
+    text: |
+      What can you say? It's true, renders us speechless sometimes, huh? Great post Kay. Blessings.
+  - author: "ladysown"
+    date: "2006-12-23T03:08:28"
+    text: "true, so true."
 ---
 
 What can you say about a God who would spend eternity planning to interrupt time with the gift of His redemptive love?

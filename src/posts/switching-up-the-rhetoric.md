@@ -1,6 +1,17 @@
 ---
 title: "Switching Up The Rhetoric"
 date: "2008-09-17T14:35:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-09-19T15:25:28"
+    text: |
+      Katy, When we first in vested in mutual funds, it was for the long haul - 25 years. I don't have that kind of vision.It seems that everything is vulnerable right now, so your mattress sounds like the best place for your money, or a piggy bank.  I would like to hide it all away and make sure it is safe. Then I have to remember that is why Jesus said what he did when talking about the lillies...It doesn't sound like it will pay the bills, but isn't that what He means us to know? He'' take care of us - and we won't know what that will look like till we are in the middle of it. Very scary this faith thing.
+  - author: "Marc"
+    date: "2008-10-24T03:47:42"
+    text: "And the moment i dont invest any money too muc risk."
+  - author: "Geldanlage"
+    date: "2009-03-07T17:17:06"
+    text: "I hope it will come better time, but at the moment the risk is very high."
 ---
 
 I'm sure you've all heard the age-old wisdom just like we have.

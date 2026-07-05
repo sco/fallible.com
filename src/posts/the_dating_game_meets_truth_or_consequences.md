@@ -1,6 +1,36 @@
 ---
 title: "The Dating Game Meets Truth Or Consequences"
 date: "2005-06-25T18:51:02"
+comments:
+  - author: "Bridget"
+    date: "2005-06-26T04:10:49"
+    text: |
+      Oh, Katy, read the book before you see the movie, please!!!! 
+      -----
+  - author: "Chris(tine)"
+    date: "2005-06-26T10:10:14"
+    text: |
+      That's one articulate 5-year-old!
+  - author: "Lorna"
+    date: "2005-06-27T18:44:55"
+    text: |
+      Out of the mouths of babes :)
+  - author: "Katy"
+    date: "2005-06-28T04:02:56"
+    text: |
+      Bridget--I saw a lady my age reading the book in B&amp;N the other day. So maybe I should read the book first, huh?
+      
+      Chris(tine)--My brother's kids are all like that. This one's the baby of the three, and I think she's taken lessons!
+      
+      Lorna--Oh, yeah! If we'd just pay closer attention, we could learn so much...
+  - author: "Bridget"
+    date: "2005-06-28T06:25:24"
+    text: |
+      Oh, yes, it's a must read.  Baillie, in fact, is refusing to see the movie because she knows that they will ruin it by making it into a movie.
+  - author: "Bride"
+    date: "2009-07-18T17:12:25"
+    text: |
+      I read it and I want to weep with joy and admiration :-)
 ---
 
 My brother and his family are moving this weekend, and today I spent a few hours helping pack up a couple of the kids' rooms. When I finished the second room, I looked at my watch and gathered up my Starbucks.

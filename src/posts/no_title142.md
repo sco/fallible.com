@@ -1,6 +1,75 @@
 ---
 title: "(No Title)"
 date: "2001-11-11T22:13:52"
+comments:
+  - author: "kristen"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Mrs. Raymond, your novel excerpt is really good.  it makes me want to sing &quot;a little ditty 'bout Jack and Dian(a), two American kids growin' up in the the heartland&quot;
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: "Ugh...a double post on a _blogback comment_. How shameful."
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I think blue eyes and curly black hair are a great combination...especially if you're going for a bit daring. Brown eyes are always magnificent :).
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I think blue eyes and curly black hair are a great combination...especially if you're going for a bit daring. Brown eyes are always magnificent :).
+  - author: "madi"
+    date: "1969-12-31T18:00:00"
+    text: |
+      chocaltie/hazel eyes are good, mrs. raymond...i think long excerpts are great...it keeps readers wanting more, you know?  and thanks, perhaps one day i'll start blogging again..but do something different.   only 32,000 more words left to go!
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Madi--Thanks! I should make the excerpts shorter, for the sake of my blog readers who are &quot;making the rounds.&quot; Thanks for being patient with my obsession with inflated word counts--just because I gotta' hit 50,000 doesn't mean I have to include many at a time here. I miss your blog!
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Dee--So, not Jack? Phooey. I was really hoping to successfully portray him as imperfect, yes, but basically one of those guys who &quot;has you at hello.&quot; Would chocolate brown eyes help? Tee, hee."
+  - author: "madi"
+    date: "1969-12-31T18:00:00"
+    text: "wow..mrs. raymond..i just spent way too much time reading excerpts from your novel..though, i must say, it was time well spent.  i look forward to reading more! =)"
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: |
+      No, no, no. In love with your story writing :). Though black curls _ are _ rather nice :).
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Hey, my woman! BTW, if Erin in novel bears any resemblance to Carrie, it is purely accidental, incidental or purposeful. Love you, Cake!"
+  - author: "Carrie"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I'd just like to say that Katy is my mom. She's amazing.
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Nancy--Doug didn't pay you to say this because he's your sister, did he? Kidding. Thanks for the encouragement--I need it! See you on Thanksgiving, girl!
+  - author: "Nancy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Katy,  This is great!  I've always liked your short stories, so I know this novel will be wonderful!  You are soooo creative.  I look forward to more excerpts and blogging!  &lt;br&gt;
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Dee--In love with Jack? You might want to reserve judgment a little while longer...stay tuned. Right now, this is just an exercise to see if I can actually write something long and half-way decent--the jury's still out! But I am planning to pursue writing on a more serious basis, regardless. So nice of you to ask!&lt;br&gt;
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I think I'm in love, Mrs. Raymond. Will this be published? :)
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "BTW, I very much meant to say &quot;Jonathan.&quot;"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Jon--No, I haven't, and if you could see the tangled jumble of 14,000 words I have amassed so far, you'd know why. I had a pretty clear idea of the theme, characters and plot structure of the story when I started. 11 days later, I've got the theme, and most of the same characters, but an entirely different story! NaNoWriMo is a great event for getting your feet, and a whole lot more, throroughly drenched. Thanks, Jon, and don't be shy about your space opera! Start young is my advice!
+  - author: "jonvw"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Boy, Mrs. Raymond, your novel is a lot more readable than would be the allegorical space opera that I would be writing if I hadn't chickened out of NaNoWriMo at the last minute.  Have you written a novel before? 
+      -----
 ---
 
 A week ago, my husband Doug advised me that I needed to include some excerpts from my novel-in-progress on my blog. This morning, he advised me that I need to be blogging between novel excerpts.

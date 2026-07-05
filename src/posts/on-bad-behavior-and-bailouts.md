@@ -1,6 +1,29 @@
 ---
 title: "On Bad Behavior And Bailouts"
 date: "2008-09-30T19:25:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-09-30T20:37:12"
+    text: |
+      I thoroughly agree with you that this whole bailout idea is not a good one. More government interference in the situation that was caused by governement interference surely will not solve the problem. Our whole culture has become afrais of failure and discipline, but that is exactly what we need to get back to sanity in the financial world. Will all those CEO's who got millions be required to pay their more than fair share of the bailout price - you bet not!! They are the ones who should be coming up with the money, or they should go to jail. That is where Congress should be finding a special prosecuter for. Will they. No because somehow in all of this they will make money that has been taken from those of us who catually work for a living. And I thought I was going to be able to retire.
+  - author: "suzan"
+    date: "2008-09-30T20:47:20"
+    text: |
+      Ditto, Katy!
+      
+      I used to work on Wall Street.
+      
+      Let them bail themselves out!!!!
+  - author: "Cathy West"
+    date: "2008-10-01T00:20:31"
+    text: |
+      Okay, this is all wonderful but I think you should go back to blogging about your underway. It's so much more entertaining...
+  - author: "Cathy West"
+    date: "2008-10-01T00:23:39"
+    text: "That should be underwear..."
+  - author: "kayla"
+    date: "2008-10-06T00:52:53"
+    text: "I love your blog and your page it is so great.Keep up the good work!"
 ---
 
 I admit right here and now to knowing next to nothing about economics and how free markets work most efficiently.

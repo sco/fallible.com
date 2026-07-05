@@ -1,6 +1,14 @@
 ---
 title: "National Archives, Personal Treasure"
 date: "2007-03-14T20:36:24"
+comments:
+  - author: "alison"
+    date: "2007-03-19T16:25:46"
+    text: "Hey, about your citizenship. Did you know that an Irish Museum opened at Union Station on Saturday? That might be helpful in your continuing quest."
+  - author: "Katy"
+    date: "2007-03-21T18:24:00"
+    text: |
+      alison--Yes! The long-awaited museum! Should be great. Can't wait to check it out. Many, many of my questions were answered by meeting with a local historian in Co. Monaghan last summer. He helped us get to the bottom of a hundred years or so. Great start!! There's always more to do, it seems--more branches still to explore. I love the process, though....
 ---
 
 Another item the British Embassy is hitting me up for--which they did not request on my original application--is proof of the exact date my father became a citizen of the United States.

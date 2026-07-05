@@ -1,6 +1,34 @@
 ---
 title: "Triumph Without Tragedy?"
 date: "2007-04-06T13:43:02"
+comments:
+  - author: "Suzan"
+    date: "2007-04-06T21:21:39"
+    text: |
+      Monaghan,huh? Exactly where my book opens, sheesh.
+      
+      I wish you a truly blessed Resurrection celebration my friend.
+  - author: "Katy"
+    date: "2007-04-06T21:33:57"
+    text: |
+      Suzan--Girl, girl. I am wild about Monaghan! Spent three days there last Spring, hunting down my family with the help of a local historian. Monaghan Town itself is delightful. My folks lived a ways out of town, in the parish of Tydavnet, the townland of Feebaghbane. I think it's about five miles from what became the border between North and Republic. LOTS of skirmishes there back in the day. Grandpa was born there in 1884, so he would have been involved in "whatever" preceded the IRA. I guess the Irish Republican Brotherhood. At any rate, my father always said his father "got kicked out of Ireland and told to never return." I've stood on the property at Feebaghbane, and have stones from the crumbling ruin of a house my great-great grandfather first lived in. LOVE that place. Could live there in a Monaghan minute, except for the farms that used to be owned by English landlords are now priced WAY out of my market. If Grandpa Bernard could see the auld sod now!!
+  - author: "jenn_a"
+    date: "2007-04-09T15:09:29"
+    text: "i love that hymn."
+  - author: "Carrie K."
+    date: "2007-04-09T19:30:31"
+    text: |
+      Totally off-topic, Katy, but I read another book I thought you would love. It's called An Irish Country Doctor and it's written by Patrick Taylor. Truly un-put-down-able.
+  - author: "Katy"
+    date: "2007-04-10T15:12:56"
+    text: |
+      jenn--I'm glad I visited your blog and found out how we "know" each other!! Through that son of mine, eh? I'm glad I found you!
+      
+      Carrie K--Ooooh, girl, I love your recs!! I have not heard of this book. Thank you! I wonder if BJ Hoff has read it? She reads all the best Irish books, which, by the way, are NEVER off-topic here at fallible!!  :)
+  - author: "alison"
+    date: "2007-04-10T22:51:33"
+    text: |
+      That hymn is a favorite of mine, as well, except the last line scares me a little. It's kind of like asking for my own death sentence, because I know there are times when I am "fainting" and there will be more.
 ---
 
 Have I ever told you that I make a truly crummy Protestant?

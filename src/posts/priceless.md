@@ -1,6 +1,43 @@
 ---
 title: "Priceless"
 date: "2008-06-21T23:01:00"
+comments:
+  - author: "Bridget"
+    date: "2008-06-21T23:55:44"
+    text: |
+      My dearest sister, Katy...you will always look SO PRETTY and wonderful to me!  :)  I love you and our time together is precious.
+  - author: "Gracie"
+    date: "2008-06-22T02:05:00"
+    text: "This post was indeed priceless. Thank God that your mom is doing so well, and thank you for this writing. Blessings!"
+  - author: "Sandi Thompson"
+    date: "2008-06-22T22:46:31"
+    text: |
+      Katy,
+      
+      I'm a bit behind. Sorry to hear you Mom is in the hospital, and glad that you had that moment. I don't know you very well, but you have a sweet spirit, and I you have touched my life in the brief time I have been fortunate to have your aquaintance. Bless you!!  Sandi
+  - author: "Katy"
+    date: "2008-06-22T23:38:57"
+    text: |
+      Bridgie--Amazing that we can make "get togethers" out of ER runs and in-patient stays, eh? I have loved being with you this week. Mom had a bad time while I was there today (Sunday) but is better tonight.
+      
+      Gracie--Thank you for your kind words. Mom is doing well for someone as sick as she is! Her vital signs remain good and her spirits are up. I'm grateful.
+      
+      Sandi--I have neglected my dear commenters! I apologize for that. You are so sweet to leave encouraging words here, and yes. I am ready to run off to Ireland!!! Alas, I cannot leave my mother now and even more alas, I am broke!!  :) You have touched my life, too. Thank you.
+  - author: "christa allan"
+    date: "2008-06-23T11:11:15"
+    text: "Amazing grace moment for you and your mother. I wish I would have had more of those."
+  - author: "Alison"
+    date: "2008-06-23T16:07:56"
+    text: |
+      My mother's greatest moment of affirmation was telling me, "I know you're doing the best you can." By the way, I've missed you, Katie.
+  - author: "Sandi Thompson"
+    date: "2008-06-23T16:16:15"
+    text: |
+      My mother's greatest affirmation for me came when my oldest daughter graduated from high school. We had been home schooling for 8 yrs by then. Mom never quite knew how to take my "wild" ideas. She came for the week, met our great friends and family in the church and home schooling. 
+      As she was getting in her car to go home she said, "You have a great group here, and you have done a wonderful job with you children. I love you."  WOW so hard for her to say and so precious for me to hear. I miss her more all the time. Cherish your moments. They are never long enough...
+  - author: "Winning lottery numbers"
+    date: "2008-11-12T02:50:05"
+    text: "Thanks for sharing"
 ---
 
 So we spent lots of hours in the ER the other day before Mom finally got admitted. Completely unlike her last trip to the ER, during which she expressed her utter...um...dislike for me, Doug, the nurses and the doc, Mom was in a patient (ha!) and even pleasant mood. Who does HER meds, huh?

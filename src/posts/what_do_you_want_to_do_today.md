@@ -1,6 +1,33 @@
 ---
 title: "What Do You Want To Do Today?"
 date: "2005-05-21T14:42:02"
+comments:
+  - author: "Katy"
+    date: "2005-05-21T21:20:29"
+    text: |
+      I just asked Doug if there's anything he feels guilty about that he shouldn't. &quot;I probably do,&quot; he says, &quot;I'll think about it.&quot; He comes in again in a few seconds and says, &quot;I guess I'm not too overcome with guilt about what other people think I should be doing.&quot;
+      
+      So, Is it just me?? 
+      -----
+  - author: "lisa"
+    date: "2005-05-21T22:36:13"
+    text: |
+      i just got back from visiting my home state of michigan, and in talking with old neighbors eager to find out what i've been up to in the creative and work worlds, had to struggle with those very pangs you describe, katy. fresh out of theatre college, i've chosen to be a stay at home mom for over ten years now, and while i wouldn't trade the time i've been able to watch my kiddos grow and learn every first, to just be there for them - i have looked now and then to the other side of the fence over all this time and wondered if i ought to be out there, even just a little bit, contributing to the world outside of my own world, not to mention to the family budget. it's a tough one for me, but every time i've added up the figures, they've fallen on the side i'm on, in my case. some days i'm more ok with that than others. kudos on reaching for contentment, katy.
+  - author: "rebecca"
+    date: "2005-05-22T00:08:20"
+    text: |
+      Want the truth?
+      
+      Sometimes I feel guilty that I don't feel guilty enough about not being productive enough.
+  - author: "Bridget"
+    date: "2005-05-22T04:01:58"
+    text: "Oh, Rebecca, you sound just like me!!!"
+  - author: "Hope"
+    date: "2005-05-22T11:17:26"
+    text: "Sometimes people tried to make me feel guilty for home schooling my kids.  Said it like it must be nice to be able to stay at home while the rest of us are out there working as if my husband made a zillion bucks so that I could have the luxury of staying home.  We were around poverty level most of those years."
+  - author: "Paula"
+    date: "2005-05-23T11:20:10"
+    text: "how long I nursed my baby. like she was never gonna let go of it. (she did)"
 ---
 
 So finally it's Saturday, the one day of the week I rarely feel guilty. Well, okay, technically I don't often feel guilty on Sunday, either. Except occasionally when I skip church and I'm not sick at all but only exhausted or stressed.

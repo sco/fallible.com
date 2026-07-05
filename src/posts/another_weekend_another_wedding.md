@@ -1,6 +1,57 @@
 ---
 title: "Another Weekend, Another Wedding"
 date: "2005-07-23T21:03:01"
+comments:
+  - author: "Bridget"
+    date: "2005-07-24T13:19:08"
+    text: |
+      Now, come on, are you saying we didn't look hot tonight?  Now, really?!  Didn't you see the sweat pouring off of me?  I'd say that was pretty darn hot... LOL. :)
+      
+      By the way, Doug made my night by saying I looked &quot;beautiful.&quot;  He always knows just the right thing to say, and I love him for it. 
+      -----
+  - author: "Katy"
+    date: "2005-07-24T22:15:39"
+    text: |
+      Bridgie--We were hot, all right. Heat-strokin' hot, baby!! You looked cute on the dance floor, I must say. Aunt Peggy and I enjoyed watching you &quot;kids.&quot;
+      
+      Doug knows a babe when he see one, and I admire his good taste in women!  :)
+  - author: "Jennifer"
+    date: "2005-07-25T06:54:08"
+    text: |
+      Funny thing, but I'm figuring this out for myself. My daughter is 23. Two of her best friends from high school are getting married, back to back, this weekend and next.
+      
+      The fun's only just re-begun...
+  - author: "Katy"
+    date: "2005-07-25T21:14:55"
+    text: |
+      Jennifer--What a great line! &quot;The fun's only just re-begun.&quot; You are so right. I've been throroughly enjoying your blog this morning. Thanks for commenting here...
+  - author: "lisa"
+    date: "2005-07-27T22:20:58"
+    text: |
+      we're in a funny place regarding this..we're in our early thirties, but way ahead of the curve as far as having kiddos, it seems. our oldest just turned ten at the beginning of july.  we also have friends that run the gamut from college aged to forty something, and we can hang out with just about anyone. somehow this craziness in our social structure has evened out our getting-invitied-to-graduations-and-weddings-ness..it's generally a couple of handfuls a year, and has been that way for a long time. as far as aging through the process, we're told all the time that we look young and are just lately starting to appreciate the fact...
+  - author: "Katy"
+    date: "2005-07-28T23:30:32"
+    text: |
+      Lisa--I know there are many exceptions to my observation. You are definitely one! Bridgie is also one, I think. She's the youngest of my siblings, 13 years younger than I am, so she's been going to the weddings of her nieces and nephews for years now. Her oldest child is near 16. When Scott was 16, weddings were few and far between for us!
+  - author: "copper sinks"
+    date: "2009-08-18T17:11:20"
+    text: |
+      If your pictures looked great then don't worry about the dress. But if your dress was not the only problem then talk to your hubby about it!! Another wedding just for the dress but still got great pictures no unless you like spending money!! That just seems like a waste to me. What did you do with the first dress? Maybe you can have your dress fixed & take pictures in that?
+  - author: "wedding photographer Vadim Uvazhny"
+    date: "2009-08-24T12:10:55"
+    text: |
+      Every period of human's life is perfect in it's own way.
+      We have to be happy all the life long.
+      I think, this is the goal of whole life â€” to become happy. And to be.
+  - author: "Miami Wedding Band"
+    date: "2009-08-26T08:34:30"
+    text: |
+      I agree with copper sinks. Think about it and then make a decision. You can do it.
+      <a href="http://miamiweddingbands.org//">Miami Wedding Bands</a> to energize your special day, all you have to do is visit our site and check out the amazing service that we can give you.
+  - author: "complete tuxedos"
+    date: "2009-10-23T10:34:42"
+    text: |
+      While you're totally occupied with the raising of your own children, though, you'll find yourself invited to very few weddings. Very Very Few... You'll feel a little out of it..
 ---
 
 There's a strange period in life that starts when you're approximately thirty years old and ends around your forty-fifth birthday. Most people won't do you the favor of giving you advance notice about this phenomenon. But I'm not most people.

@@ -1,6 +1,38 @@
 ---
 title: "The Do-Unto-Others Because They've Done-Unto-You Meme"
 date: "2007-07-19T01:44:14"
+comments:
+  - author: "BJ"
+    date: "2007-07-19T03:48:10"
+    text: |
+      Gonna get you next time, Katy! Count on it. I'll have to rig up something special, just for you!
+      
+      BJ
+  - author: "lisa"
+    date: "2007-07-20T03:21:51"
+    text: "aww, a Royal manual. like Father Tim..."
+  - author: "alison"
+    date: "2007-07-20T20:52:30"
+    text: |
+      You're going to be amazed, but "Don't Call Me Katy Rose" is by my favorite author - Lenora Mattingly Weber. I still have most of her "Beanie" books and 1-2 Katie Rose books, and drag them out occasionally to read them again. Other than that, "Little Women" and "Eight Cousins." I absolutely loved the ratio of so many guys to one girl. There was also a fiction teen series by Janet Lambert about a bunch of kids growing up on army bases. Still have most of those as well. (My dad only let us buy one book a year, so these books are pretty used up.)
+      
+      And then, of course, like everyone else in our age group, it was the Royal Manual typewriter. It belonged to my sister and I rented it by the hour from her and taught myself how to type in 7th grade, so by the time I actually took typing, I was winning contests. Yep, you're talking to the 1970 Tri-State Typing Contest winner.
+  - author: "Bridget"
+    date: "2007-07-21T00:55:07"
+    text: |
+      Ahhh, who my age could possibly forget "Are You There God, It's Me, Margaret?" by: Judy Blume?  What a wonderful pre-teen classic of the '70s.  I still reread it every so often because it's just so great.
+  - author: "Galadriel"
+    date: "2007-07-25T14:51:07"
+    text: |
+      My favorite book was The Boxcar Children. I dug holes in my backyard like a crazed dog. I
+      wanted to try and cook stew in it just like the boxcar children did.
+  - author: "lisa"
+    date: "2007-07-25T16:03:02"
+    text: "danny the champion of the world by dahl. mmm..."
+  - author: "Tony"
+    date: "2010-12-13T20:08:12"
+    text: |
+      If I had a day in which to do nothing but read, I'd probably catch up on my school work so I would do well on my exams. haha. If it was a book I wanted to read it would be to finish my book on organization because I could sure use it.
 ---
 
 This is ALL author BJ Hoff's fault!

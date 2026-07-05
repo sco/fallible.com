@@ -1,6 +1,22 @@
 ---
 title: "Black Friday--Deal Or No Deal?"
 date: "2007-11-23T15:28:00"
+comments:
+  - author: "Robin Lee Hatcher"
+    date: "2007-11-23T16:19:42"
+    text: |
+      Katie, I don't do Black Friday either. I am content to do my shopping (which is very limited) during the week when the crowds are smaller.
+      
+      Of course, today I couldn't go anyway. I've got a book due on Monday and still have a ways to go.
+      
+      Robin
+  - author: "Bridget"
+    date: "2007-12-01T15:38:26"
+    text: |
+      Well, Baillie and I did our power shopping on Wednesday. I set my alarm for Friday at 3:30am, but woke up and decided it just wasn't worth it.  I'm too old to fight the crowds.  We did go out later in the day Friday and bought a big screen TV, which, remarkably was still available and still on sale.  Somehow, I'd rather pay a couple extra dollars than get trampled trying to get something that may not even be there anyway.
+  - author: "trade show displays"
+    date: "2008-02-23T00:47:08"
+    text: "nice article! thank you!"
 ---
 
 I don't do Black Friday. I just don't.

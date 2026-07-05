@@ -1,6 +1,19 @@
 ---
 title: "Ready! Aim! Charge!"
 date: "2005-12-21T21:11:12"
+comments:
+  - author: "Kathryn, the daring one"
+    date: "2005-12-23T08:15:01"
+    text: |
+      Kohl's is a wonderful horrible, suckyouinsoyoucan'thelpyourself type of place.  I love it.  Wish they were up in my neck of the woods.  Whenever I visit my mom we go nuts there.
+  - author: "Katy"
+    date: "2005-12-23T13:21:24"
+    text: |
+      Kathryn--One good thing: During the 30 minute drive over there, I realized that when I'd looked at my bank statement online the day before, the price for a gift I'd ordered (also online) hadn't been deducted.
+      
+      It turns out I hadn't "completed the transaction" by pushing one last crummy button, and I had NOT ordered the main gift for my son and his wife! So we had to order it again, and pay for two-day shipping!
+      
+      So I had to spend $80 to realize that I hadn't spent the bucks I thought I'd spent that I really WANTED to spend...Yeah. it's like that.   :)
 ---
 
 The only credit card I ever use is a Kohl's card. Other than that one, I'm debit all the way, baby.

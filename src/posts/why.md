@@ -1,6 +1,30 @@
 ---
 title: "Why"
 date: "2006-03-24T15:36:39"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-03-24T19:09:26"
+    text: "Wow, Katy. I have tears in my eyes. Beautiful."
+  - author: "relevantgirl"
+    date: "2006-03-25T09:20:17"
+    text: "Oh...you made me cry. I ache to see my mom ask that question. Your post gives me that hope."
+  - author: "Hope"
+    date: "2006-03-25T20:49:21"
+    text: "Man, you made me burst into tears. It never, ever hurts to be reminded how loved we are. Thank you."
+  - author: "lisa"
+    date: "2006-03-26T22:52:47"
+    text: |
+      mmmm...good post. i love that it's just about never too late for anybody to hear that God loves them.
+  - author: "Ginger"
+    date: "2006-03-27T14:05:29"
+    text: "How beautiful.  Sometimes you repeat the invitation over and over, and then suddenly one day it seems like it was the right timing and it clicks, for no apparent reason.  Thanks for this wonderful post!"
+  - author: "violet"
+    date: "2006-03-28T02:29:08"
+    text: |
+      Wow!  Maybe I'll send this to my friend Janyce.  She's in the same place with her mom right now - only I'm not sure her mom has the wherewithall to even say, 'I don't know why I was born.' (Of course, we can also pray for lucid moments.)
+  - author: "Barcelona apartments rental"
+    date: "2010-10-25T04:15:56"
+    text: "I just moved out of an apartment to an upstairs apartment. I was sick the whole 2 years i lived in the first apartment. I am just above that apartment now and they are blowing asbestos in the apartment below me and I am having trouble breathing and my chest hurts. Could this be because of the asbestos?"
 ---
 
 "I don't know why I was born."

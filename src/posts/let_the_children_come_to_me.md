@@ -1,6 +1,30 @@
 ---
 title: "Let The Children Come To Me"
 date: "2005-06-02T03:09:02"
+comments:
+  - author: "rebecca"
+    date: "2005-06-03T00:30:12"
+    text: |
+      Ahhh.....lovely.
+      
+      I did something really similar over a camera when I was 10ish.  The supply list for summer camp said, among everything else, &quot;camera (optional)&quot;.  Despite the &quot;optional&quot; caveat, I convinced myself that everyone would have a camera, that I'd be the only one without one (Horror of horrors!) and that I really needed one.   So I prayed earnestly--not allowing myself one iota of doubt--for a camera that didn't appear.
+      
+      I went to camp anyway.  No one had cameras.  My faith was restored, since it became obvious to me that God was way smarter than I was and he knew that no one else would have one, so he saved me from the embarassment of being  the only 10 year old girl with a camera (Horror of horrors!).
+      
+      Anyway, it's wonderful how God can work with our childish minds and childish faith to teach us.... 
+      -----
+  - author: "Mary"
+    date: "2005-06-03T01:36:22"
+    text: |
+      Since my injury I spend alot of time on the web.  On another blog I found out about an advertising scheme that gives away free computers!  I allready got one, didn't cost a thing.  So I thought I'd pass along the info for anyone else on a tight budget.  : )
+      
+      http://www.FreeMiniMacs.com/?r=15601403
+  - author: "Paul Nichols"
+    date: "2005-06-03T21:34:37"
+    text: "Very good!"
+  - author: "Lorna"
+    date: "2005-06-12T01:34:16"
+    text: "I loved this. So fresh, so honest, so inspiring."
 ---
 
 Sometimes, when I think about my childhood and how it must have affected how I look at life and relationships and faith and God, I get discouraged. But then I remember something that astounds me no end, how all through my youngest years I felt God's gentle hand on my life.

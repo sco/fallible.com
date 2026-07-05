@@ -1,6 +1,59 @@
 ---
 title: "Some Words I'd Rather Not Hear From The Lord"
 date: "2008-01-01T19:31:00"
+comments:
+  - author: "Suzan Robertson"
+    date: "2008-01-01T20:11:04"
+    text: |
+      Here's a good word: Contentment
+      
+      From there, it's a hop and skip up to serenity, and perhaps someday, joy. I tend to aim a little lower than joy. It's just the cynic in me!
+      
+      Peace,
+      Suzan
+  - author: "Katy"
+    date: "2008-01-01T20:19:10"
+    text: |
+      Suzan--Contentment is a fantastic word! How does that Scripture go? "Contentment with godliness is great gain?" Or is it "Godliness with contentment is great gain"? Either way, one could do much worse than to have Contentment as the word for 2008.
+  - author: "Stephen Pruitt"
+    date: "2008-01-01T20:27:17"
+    text: |
+      Hi there, Katy. . . great post!  When I saw the word "dough," it immediately made me think of our movie project and Mary and I losing lots of "dough," which then brought to mind that you have already said we can move into your house once we're out of "dough."  Which, of course, will lead to a decided lack of serenity and plenty of. . . well. . . "woe."
+      
+      Steve
+  - author: "Katy"
+    date: "2008-01-01T20:39:56"
+    text: |
+      Steve--See what I mean? The word dough, if adopted for 2008, could EASILY mean The Great And Awesome Year Of The Raymonds' Wealth Redistribution!!! And you and Mary must not have heard what I said when you asked to move into our basement....."WHOA!!!"   :)
+  - author: "Robin"
+    date: "2008-01-01T23:28:53"
+    text: |
+      LOL, Katy.
+      
+      As one of those who asks and receives, I was LOL at your post. My first experience was a year of Endurance. Trust me, that wasn't my favorite year. It was just like it sounded. The next year was Victory. I thought that sounded like a great improvement. Trouble was, what He wanted to teach me was that my victory is in Him, not in circumstances.
+      
+      I'll be sharing on my blog how the first day of 2008 was a sweet one for my year of Intimacy and Devotion. Hope to get it posted tonight.
+      
+      Robin
+  - author: "Katy"
+    date: "2008-01-02T13:59:22"
+    text: |
+      Robin--I am SO glad you laughed at my goofiness! I very much respect my friends who "ask and receive" (Mary DeMuth is another) but I couldn't resist having a bit of fun with it.
+      
+      Now, if anyone wants to read Robin's post about New Years's Day, click on her name! Robin is a wonderful author with a lovely blog. You will enjoy it!
+  - author: "tina"
+    date: "2008-01-02T17:25:42"
+    text: |
+      ")
+      This was such a wonderful perspective.  I always thought that I was somehow missing the memo when it came to "words."  Why didn't I have one?  How could I miss something so plain and obvious for me?  Did I?  Was I worthy of a word...or wasn't I?
+      
+      This gives me freedom to stop worrying.  And goodness knows I don't need the xanax scared out of me...
+  - author: "Anne"
+    date: "2008-01-08T22:00:13"
+    text: |
+      Very funny. Especially loved the Depends and Serenity, though it does depend on how much serenity you can stand and all that....
+      
+      I've never heard of asking for a word. Interesting concept, but one I doubt I'll follow for many of the same reasons you mention.
 ---
 
 I know quite a number of folks who annually ask the Lord to give them a word (or words) that might act as a point of spiritual focus for them during the New Year.

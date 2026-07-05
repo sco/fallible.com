@@ -1,6 +1,16 @@
 ---
 title: "Throw Mama From The Brain?"
 date: "2009-01-19T17:23:00"
+comments:
+  - author: "Christa"
+    date: "2009-01-19T23:38:34"
+    text: |
+      Okay...I haven't gotten past the title of this blog yet because I'm cleaning up the coffee I snorted all over the table from laughing. You are one funny woman!
+  - author: "Sandi Thompson"
+    date: "2009-01-20T15:46:52"
+    text: |
+      Katy,
+      None of us ever imagines that the table will turn around and we will be the one responsible to care for a parent. You are courageous beyond words, and in her heart of hearts, beneath the person she has become, the person she was knows that. She can't tell you, so I will. You are awesome! In addition, you are write a great story. So she gets a gift and the world gets a gift. Win - Win. Much Love and deep respect, Sandi
 ---
 
 I got my mom admitted to the hospital yesterday. Believe me, this is not my idea of fun. In fact, if I could----that is, if I was constitutionally able---I would pretend like I did not see a medical disaster unfolding before my eyes. I would ignore blood sugar readings that fluctuate from 70 to 420 and back again in a matter of hours.

@@ -1,6 +1,48 @@
 ---
 title: "Typical"
 date: "2007-05-29T01:02:40"
+comments:
+  - author: "Michael Main"
+    date: "2007-05-29T02:44:55"
+    text: |
+      Bless your patience, and pray to remember these days when you're a ripe old age...which I have every confidence you will be.
+      
+      Um...but just in case, keep Mom away from the cutlery...and have her taste all the kid's food at the wedding :)
+      
+      Grace & Peace,
+      
+      M
+  - author: "Alison"
+    date: "2007-05-29T06:00:59"
+    text: |
+      Friday I'm taking the train to St. Louis to see Aunt June. She won't know I'm there. If she does happen to notice me, I'll explain that I'm Eleanor's daughter, and that may ring a bell with her. Even if it doesn't, it will satisfy her that I belong there. And the next time she looks quizically at me, I will say, I'm Eleanor's daughter, and that may ring a bell with her. I'm repeating myself already, just in anticipation of my time with her. 
+      
+      Meanwhile, my mother, the aforementioned Eleanor, has me planning the soundtrack for her as yet unscheduled funeral. I thought we agreed that I would play St. Louis Blues, but she has now recanted because of the questionable lyrics, in spite of my assurances that I don't attend to sing the song, just play it. Mom has been practicing the song for 10 years, ever since Dad died, and I think her achievement should be noted at her passing.
+      
+      I've put off making the CD for many years, not wanting to anticipate my inheritance, but my sister has produced hers, and I don't want people's last memory of my mother to be loud, fast, soul-less versions of the great hymns of the faith. So I guess I will be putting something together in the next few months. I plan to record, among other songs, the Beatles' Eleanor Rigby, both to honor of my mother and because she spent the best years of my life trying to prevent me from being corrupted by the Beatles. 
+      
+      Since I don't have a blog, yet, my mother continues to be fodder for my Christmas letters. Now whenever she tells me something that borders on personal, she prefaces it by saying, Now, don't put this in your letter.
+      
+      Anyway, I'm sorry to hear of your early demise. Let me know if you would like me to make a CD.
+  - author: "alison"
+    date: "2007-05-29T06:03:44"
+    text: |
+      middle of second paragraph - attend should be intend. Also, I don't know how to spell quizically. I'm pretty sure that's wrong. Sorry.
+  - author: "Bridget"
+    date: "2007-05-29T14:30:44"
+    text: |
+      Wow...guess I better just give it up now, huh?  
+      Yeah, Mom was loopy yesterday big time.  I need to start writing down the things that she says like you do.  She told me to tell "baby Bridget...no that's not right...yes, it is...to put a note in her car not to drive at five.  Besides, she's not going to keep that little job of hers very long anyway."  
+      What the heck!
+  - author: "alison"
+    date: "2007-05-30T06:18:58"
+    text: |
+      Katy,This is an interesting read from today's Christianity Today online. I thought it was apropros (again, a word that I can't spell, but I like). Let me know if it doesn't open and I will find it for you.
+      
+      http://www.christianitytoday.com/ct/2007/mayweb-only/122-22.0.html
+      
+      
+      ALISON
 ---
 
 "Are you OK?"

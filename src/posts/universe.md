@@ -1,6 +1,17 @@
 ---
 title: "Universe"
 date: "2007-07-15T16:57:56"
+comments:
+  - author: "Deb Raney"
+    date: "2007-07-15T21:12:03"
+    text: |
+      About Robin's book, Katy: I read it recently and it's every bit as good as the cover makes it look. (Isn't that the most gorgeous cover??) Robin is one of my favorite authors (at least top 10...maybe even top 5) and this is her best novel since Beyond the Shadows and The Victory Club. 
+      
+      BTW, I'm a fellow taggee and I'm so behind on email and updating my website that I'm not sure I'll get that meme answered either, but isn't it an honor just to be tagged?
+  - author: "Lisa"
+    date: "2007-07-16T18:27:00"
+    text: |
+      I've been tagged too, twice on my Shoutlife profile, and I still haven't followed through. Sigh, I'm bad, I know. My poor blog is covered in cobwebs and dust bunnies. I admire those of you who have the discipline to blog on a regular basis. It's all I can do to read them on a regular basis. :-) Off to Robin's blog...
 ---
 
 I'll just go ahead and admit it. Why not? It's not like you haven't already figured me out. My name is Katy, and not only am I a pathetic tagger, I'm a horrible tagee, too.

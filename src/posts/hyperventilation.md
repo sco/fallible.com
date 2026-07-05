@@ -1,6 +1,71 @@
 ---
 title: "Hyperventilation"
 date: "2007-06-02T19:52:04"
+comments:
+  - author: "Michael Main"
+    date: "2007-06-02T23:23:00"
+    text: |
+      I love spur of the moment trips.
+      
+      This may seem off topic for a bit but stick with my ramblings...
+      
+      The term "Holy Spirit" I've been told has been mistranslated...or at the very least done a certain injustice.
+      In Hebrew I think the word is  ruah (although I may not be spelling it right); in Greek, the term k'numah is used. Both of these are powerful descriptions when teamed with the Lord. They literally translate to the very breath or wind of God.
+      
+      Let the Holy Spirit guide you...breathe it in.   Settle your soul and trust.
+      
+      In His hand is the life of every creature and the breath of all mankind. - Job 12:10
+      
+      Enjoy the journey...that's what it's all about.
+      
+      Grace & Peace,
+      
+      Michael
+  - author: "Suzan"
+    date: "2007-06-03T17:45:37"
+    text: |
+      In answer to your question: Yes.
+      
+      Have fun in Switzerland. Go see  Chateau de Chillon on Lake Geneva for me, okay? Take a photo for your pal.
+      
+      Breathe!
+      
+      In a month's time, it will all be over and you can relax...
+  - author: "Steve"
+    date: "2007-06-03T19:13:38"
+    text: |
+      Love the cozy feel of your blog!
+      
+      I've had panic attacks, but they always feel like intense adrenaline surges.  A couple have lasted on and off for several days keeping me up at night panting and moving.  Made my heart feel heavy and tired, like it would stop.
+      
+      Only recently had I considered the possibility of hyperventilation after reading about some research by Russian doctor Konstantin Pavlovich Buteyko.  His research was about over-breathing.  Bottom line is, when we get anxious we tend to breathe more rapidly, shallow and erratic.  The blood gets over alkaline, the body has trouble getting enough O2, calcium doesn't reach peripheral areas very well (hence, tingling feeling) and this makes you breathe harder which makes it even worse.
+      
+      This simple "breath in a paper bag" trick had never occurred to me until reading about this.  So, I read about that.  As long as you know you don't have a heart problem and have been cleared of any real diseases, this can help a lot.  It's important to make sure the O2 level in you blood doesn't get too low when breathing in a paper bag or you'll have temporary hypoxia (low blood volume!).  There are relatively inexpensive finger sensors called oximeters often used by mountain climbers and pilots that could be used for this.
+      
+      Admittedly, this could be embarrassing in public!  So I cam up with a curious alternative...breathing into a sealed water bottle with a couple holes in it.  So it looks like I'm just taking a sip of water.
+      
+      Since CO2 is heavier than air, the straw picks up the CO2 that you re-breathe with some O2 mixed in and is very calming and reverses the vasoconstriction and calms the system.
+      
+      The key is having an air tight bottle with straw, about 600ml and a couple holes the size of a pencil eraser to give you enough air, but not enough to defeat the purpose.
+      
+      I keep my breath as smooth and regular as possible because this helps in itself.
+      
+      Just be careful not to breathe this way too long, because having too like 02 in your blood for long is not good either.
+      
+      Hope this helps someone else!
+      
+      Panic / hyperventilation is HORRIBLE!
+  - author: "alison"
+    date: "2007-06-04T20:21:26"
+    text: |
+      Most of my panic attacks are in public, so Steve's suggestions wouldn't help me very much. I have a general idea what triggers them, and try to avoid those situations. I am constantly annoyed by people who liken panic attacks to "a case  of the nerves." When I'm alone, I feel like I'm going to die; when I'm in public, I hope I die.
+      
+      I like to think it's my sensitive, artistic nature.
+  - author: "Bridget"
+    date: "2007-06-06T14:30:36"
+    text: |
+      Yes, I have.  It must run in the family.  The most recent time was when I got the call about Stephen, but we weren't sure it was him or what exactly happened, and Jim refused to get off his Nintendo game in a timely fashion to call the police dept and find out for me.  I was going from room to room about to faint and literally to the point of not breathing.  
+      Have an amazing, safe and wonderful trip!!!!!!!!!  (Lots of exclamations just for you!)
 ---
 
 Have you ever really, truly hyperventilated? I'm not talking about a mildly ragged-edged breathing, what I'd call merely a respiratory hiccup.

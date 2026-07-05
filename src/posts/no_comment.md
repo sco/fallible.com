@@ -1,6 +1,47 @@
 ---
 title: "No Comment?"
 date: "2005-10-13T03:12:00"
+comments:
+  - author: "Lorna"
+    date: "2005-10-13T18:22:38"
+    text: |
+      looking forward to finding you in cyberspace somewhere .... along with all those unpaired sox. 
+      -----
+  - author: "Michael #2"
+    date: "2005-10-13T19:58:01"
+    text: |
+      Doug will make it work.
+      
+      Comments will be here as always for you.
+      
+      Take Care
+      Michael
+  - author: "michael snyder"
+    date: "2005-10-13T21:54:54"
+    text: |
+      Ah, what the heck? I needed to try at least one more time.
+      
+      Can you see me now?
+      
+      Michael #4
+  - author: "Katy Raymond"
+    date: "2005-10-13T22:18:07"
+    text: |
+      Lorna--Have you found me? I've found myself, I think. (It only took 52 years...)
+      
+      Michael 2--You are a great comfort to me, as is Doug...  :)
+      
+      Michael 4--I can see you! (But, wait, what's that you're wearing? A Katy costume? With a red curly wig? Weird!) Okay. Have you tried to post a bunch of times or something?
+  - author: "michael snyder"
+    date: "2005-10-14T03:52:16"
+    text: |
+      Katy, I've been posting every other minute for the last three weeks!
+      
+      Okay, maybe only three or four posts that have dissipated...or deleted by an angry, paranoid-about-identity-theft administrator.
+  - author: "Michael O'Connor"
+    date: "2005-10-21T01:46:00"
+    text: |
+      You mean to tell us you can't even understand a layman's explanation given by a guy with a truly unremarkable brain?
 ---
 
 Tomorrow is October 13.

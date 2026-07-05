@@ -1,6 +1,25 @@
 ---
 title: "D-Day"
 date: "2005-10-14T19:41:54"
+comments:
+  - author: "Lynn"
+    date: "2005-10-15T05:23:05"
+    text: |
+      Your mom is a strange, wonderful, entertaining woman. I think it'd be cool to meet her.
+  - author: "Bridget"
+    date: "2005-10-15T22:13:45"
+    text: |
+      If you haven't figured this one out yet, it does make sense, Katy.  It has to do with some other people back at VV.  Mom calls me some other name, too, but I can't remember now what it is.  Your response always needs to be "Love you more!"
+  - author: "Katy"
+    date: "2005-10-15T22:18:02"
+    text: |
+      I know about the "Love you more" response, but I didn't know that we were to go by assumed names! So are Donna and Diane real people? I thought that when Mom and Mary play this game, they use their real names. Not so???
+      
+      Where have I been all my life?
+  - author: "Katy"
+    date: "2005-10-15T22:19:40"
+    text: |
+      Lynn--She can be a very fun girl. She has friends going all the way back to Kindergarten, so she must be entertaining or they wouldn't have hung on for 70 years!
 ---
 
 So I've wheeled Mom into her dining room for lunch, and I'm about to say good-bye for the day. I bend down to hug her, and she leans her head against my chest.

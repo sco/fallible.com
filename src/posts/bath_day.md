@@ -1,6 +1,46 @@
 ---
 title: "Bath Day For The Moms"
 date: "2008-02-13T12:01:00"
+comments:
+  - author: "suzan"
+    date: "2008-02-13T15:43:35"
+    text: |
+      Katy,
+      Whew. You need a day at the spa to forget all this bath stuff and concentrate on relaxation.
+  - author: "Katy"
+    date: "2008-02-13T15:52:14"
+    text: |
+      Suzan--I entered a spa once. Purely for novel research, though. My protag has spaphobia and is given a gift card for a day's worth of treatments. She's completely freaked out, as I would be!!! My character survies, and actually thrives. I don't think I could handle it!!! Weird, I know. But relaxation scares me a little....  :)
+  - author: "suzan"
+    date: "2008-02-16T19:46:41"
+    text: |
+      I know what you mean. Skeptical me felt the same, but then someone gave me a gift cert for a theraputic massage. It was great, so I kept going back every month. I can feel an improvement in my Fibro symptoms. 
+      
+      So I'm letting go of my stress about it purely for medical reasons. I used to do the rest of the spa stuff like facials, etc. years ago when I thought it was important. I've since rearranged my priorities. Now I seek pain free and comfortable, not pampered and gorgeous....
+  - author: "Katy"
+    date: "2008-02-16T23:30:30"
+    text: "Suzan--If I ever submit to a massage or whatever, it will be for the reasons you describe--stress relief and fibro. I have done acupunture, on the other hand. And weirdly, I did find it relaxing."
+  - author: "tubs"
+    date: "2008-05-13T03:54:19"
+    text: |
+      A good spa is like heaven. You're like a brand new person when you are done. It works wonders for both your body and mind.
+  - author: "fuel pumps"
+    date: "2009-12-30T20:31:31"
+    text: "garage not only adds value to your property, it provides additional space without the stress of a costly move"
+  - author: "Bridges To Recovery"
+    date: "2010-01-31T05:28:41"
+    text: |
+      excercise can be a good stress reliever,especially if it is outdoors.
+      make time for yourself,and do things you enjoy,that take your mind off things,that cause you stress.
+  - author: "bilet fiyatlarÄ±"
+    date: "2010-03-25T11:18:10"
+    text: "My protag has spaphobia and is given a gift card for a dayâ€™s worth of treatments. Sheâ€™s completely freaked out, as I would be!!! My character survies, and actually thrives. I donâ€™t think I could handle it!!! Weird, I know. But relaxation scares me a little"
+  - author: "Agespots"
+    date: "2010-08-16T09:52:54"
+    text: "I know about the one website which is providing such offers that is according to your need.that is the only place where you can get online coupons for groceries and health & beauty aids.the website is kristisway2save.com.enjoy your shopping.good luck"
+  - author: "Ooty"
+    date: "2010-08-16T11:08:08"
+    text: "You have all inspired me to focus on providing more informative and resource type link building posts in the future, so stay tuned for more soon."
 ---
 
 "Who ratted me out?" It's my mom on the phone. She's furious, but I'm thinking you knew that.

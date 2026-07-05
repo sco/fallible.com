@@ -1,6 +1,23 @@
 ---
 title: "(No Title)"
 date: "2001-11-17T21:10:06"
+comments:
+  - author: "rachel"
+    date: "1969-12-31T18:00:00"
+    text: |
+      hello :)
+  - author: "lisa"
+    date: "1969-12-31T18:00:00"
+    text: |
+      hmmm...i'm going to have chad start reading your blog again...;) (btw, pilgrimhouse has been broken into by bored hackers, the pieces are literally scattered throughout cyberspace...my dustpan is not big enough, but we will rebuild! sometime, that is...)
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Steve--I was so shocked to find this has actually been studied in such specicifity by sociologists. I could have told them! Just kidding, my husband is the support of my life. Thanks!"
+  - author: "Steve"
+    date: "1969-12-31T18:00:00"
+    text: |
+      All I have to say is that that's amazing. And true, which is really rather sad. 
+      -----
 ---
 
 Here's some insight into my fallible novel characters, Erin's parents, Mr. and Mrs. Murphy. Hope you enjoy reading this excerpt as much as I did living it...ooops, writing it.  BTW, I'm over 24,000 words now--almost half-way there! Woo, hoo!

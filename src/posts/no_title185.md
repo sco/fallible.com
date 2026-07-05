@@ -1,6 +1,12 @@
 ---
 title: "(No Title)"
 date: "2001-05-22T23:31:50"
+comments:
+  - author: "Doug"
+    date: "1969-12-31T18:00:00"
+    text: |
+      inspiration wants to be free. 
+      -----
 ---
 
 Doug was frantically putting together the graphic elements for a slide presentation for a corporate client. He'd had weeks to come up with something, but efficiently condensed that adequate amount of time into one all-nighter.

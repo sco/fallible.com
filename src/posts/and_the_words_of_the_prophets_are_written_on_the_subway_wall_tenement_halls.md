@@ -1,6 +1,54 @@
 ---
 title: "And The Words Of The Prophets Are Written On The Subway Wall, Tenement Halls..."
 date: "2005-09-04T03:42:00"
+comments:
+  - author: "Angus Lewis"
+    date: "2005-09-04T21:27:06"
+    text: |
+      Appropriate reference to Simon and Garfunkle.  I expect that sometime today the eerie sound of silence will settle over New Orleans.
+      
+      The finger pointing has already begun and it will only get worse.  I'm sure that everything has not been done in the most timely fashion.  If the hearings were done for the right reasons, to learn from the mistakes, to do it better next time, they would be worth it.  But they will only be used to gain political capitol for one side or the other.
+      
+      I walked through the French Quarter once back in the seventies.  A lot of people having fun, but even then you could see the darkness behind the facade.  I've heard its gotten a lot worse since then.
+      Somewhere today there is a preacher shouting that they got what they deserved, that Katrina was the wrath of God visited on a city drenched in sin.  But why them and not Las Vegas or San Francisco.  Why not Los Angeles or Miami... or Kansas City or Little Rock or Billings, Montana or Fargo, North Dakota.
+      We forget that we all bear in us the seed of the same depravity we see in others, that the difference between me and BTK is not MY righteousness but the righeousness of God through the blood of Christ.
+      
+      Reminds me of another Paul Simon song:
+      'I have reason to believe that I will be received at Graceland.' 
+      -----
+  - author: "Kevin M."
+    date: "2005-09-04T21:36:58"
+    text: |
+      This hurricane has shown how horribly inefficient our slow moving government is. Small teams can't simply go in and start working, they have to get approval from their superior, who has to get approval from his superior, who was to get approval from her superior... there is so much bureaucratic red tape that is no surprise it took several days for good things to start happening.
+      
+      I'd seen that article earlier this week, kinda freaky. Right on target too...
+  - author: "Jeanne Damoff"
+    date: "2005-09-05T02:17:28"
+    text: |
+      Wow. That's eerie.
+  - author: "Ame"
+    date: "2005-09-06T10:03:42"
+    text: "Wow . . . . . this really made me think . . . . . has God ever done anything without warning us ahead of time?  Ever?  He has announced everything!  Does this release us from meeting their need?  NO!  We are all equally guilty of knowing the truth and not receiving the truth - at whatever level that might be for each personally.  God does not keep secrets; He tells us the truth.  And He tells us the truth well in advance to give us every opportunity to respond to that truth.  Wow . . . . .  Ann"
+  - author: "lisa"
+    date: "2005-09-06T11:14:57"
+    text: "wow. yikes."
+  - author: "Katy"
+    date: "2005-09-07T09:16:32"
+    text: |
+      Maybe the problem isn't that God doesn't warn us of the things to come, but that we don't recognize the form his warnings take. He doesn't always use pastors or evangelists or politicians. Sometimes he speaks through scientists, novelists, and engineers.
+      
+      And, of course, little children. &quot;Out of the mouths of babes Thou hast perfected wisdom.&quot;
+      
+      Passing the buck from city to state to federal is wearisome, though. And I'm thinking raising the bricks ultimately takes less energy than passing the buck.
+      
+      That said, a thorough examination of the way everything went down will happen, and needs to. Everything in its time.
+  - author: "Ame"
+    date: "2005-09-08T04:32:18"
+    text: |
+      Gosh, Katie, that's much better articulated than I had done.  The laws of physics, etc, are all ways God tells us things.  I was talking to my friend about this at lunch.  There was a business meeting at her little church one time and they were warned a tornado was heading straight for them.  Everyone responded appropriately - well, except a few, who stood outside and watched.  The woman who watched said, &quot;I don't know why everyone thought it was a big deal.  We watched it.  It just went over the church and didn't come down on the church.&quot;  Uhhhhh . . . . . hellooooooo??????
+  - author: "Paula"
+    date: "2005-09-10T12:13:30"
+    text: "This more than makes up for panty posts."
 ---
 
 For a truly forward-looking take on current events, read this:

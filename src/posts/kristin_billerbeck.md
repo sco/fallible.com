@@ -1,6 +1,89 @@
 ---
 title: "Kristin \"The Chick\" Billerbeck! And A Free Book Giveaway!"
 date: "2007-10-14T20:26:58"
+comments:
+  - author: "relevantgirl"
+    date: "2007-10-15T01:50:17"
+    text: "Great interview, chicas! So funny. Have you two thought about writing a book together?"
+  - author: "Mary Anne Green"
+    date: "2007-10-15T12:49:59"
+    text: |
+      I've never read a "chick lit" book before. Maybe this might be my chance. Katy, why don't you write a chick lit book about the girls at STA. That would be a hoot! Glad I learned about your site....at least we can keep in touch this way. Would still love to see you!
+  - author: "Katy"
+    date: "2007-10-15T13:36:40"
+    text: |
+      Relevant Mary--Ha!! You can't believe the number of emails that got shot back and forth between us--ON A COMPLETELY UNRELATED SUBJECT--while putting together this little interview. We would distract the heck out of each other--but we WOULD have fun....  :)
+      
+      Mary Anne--It's been so fun to know you're peeking in here. And I never answered your response about my weird blood test! Thank you for it. They issued my life insurance with no problem without repeating the test, so everyone in the universe EXCEPT ME must have known it was a fluke!  :)  Good luck winning Kristin's book. Chick lit is a fun genre you should try!! (And about those STA girls? I missed my own 35th reunion Saturday night. But that doesn't mean I can't write about them, eh?)
+  - author: "Bridget"
+    date: "2007-10-15T13:56:36"
+    text: |
+      What?  A chance to win a free book?!  I'm so in...  Please, oh, please, let me be lucky this time! :)
+  - author: "Nancy Wood"
+    date: "2007-10-15T16:26:49"
+    text: |
+      Great interview!  I'm always on the lookout for a new book.  Put me in the running!
+  - author: "Cindy Swanson"
+    date: "2007-10-15T16:46:28"
+    text: |
+      Great interview, Katy!  I hosted a book club during the summer, through the radio station, and "Split Ends" was our book for the month of July.  Without exception, the women loved it.  I also had the pleasure of interviewing Kristin on my radio show.
+  - author: "Diann"
+    date: "2007-10-15T17:00:03"
+    text: "Excellent interview, Katy and Kristin! Thanks for sharing. You both always make me laugh! *g*"
+  - author: "Kristin"
+    date: "2007-10-15T22:40:57"
+    text: |
+      Thank you for interviewing me!!  Although after our conversation, I saw this new SUV, and now I'm coveting.  IT's American-made, so I think that shows I'm getting realistic about life.  
+      
+      Tomorrow night is David Crowder in San Francisco.  WOOOHOOO!!!
+  - author: "Carrie"
+    date: "2007-10-16T01:40:50"
+    text: |
+      Thanks for the interview ladies. I've read all the Ashley and spa girls books. I'll get right Trophy Wives and Split Ends though to catch up!
+  - author: "Bonnie Engstrom"
+    date: "2007-10-16T04:14:34"
+    text: |
+      Hey,Kristin, are we still having our email debate about bags vs. shoes? Shoes, babe, shoes, are the best. Bags just carry "stuff." Shoes carry us.
+      
+      Love your books. Bonnie
+  - author: "Rachel Hauck"
+    date: "2007-10-16T12:53:04"
+    text: |
+      Great interview! 
+      
+      Have fun at David Crowder! 
+      
+      Rachel
+  - author: "Katy"
+    date: "2007-10-17T00:40:06"
+    text: |
+      Bridget--Your number may be up, baby sister! You will love Kristin's books....
+      
+      Nancy--Now that I've introduced you to Diann Hunt's fine novels, maybe you'll win one of Kristin's books!
+      
+      Cindy--Your job must be the best in the world! You've met and interviewed so many fascinating people, Kristin not the least of them! Thanks for commenting here!
+      
+      Diann--I think it's safe to say you always make both of us laugh, too!!  :)
+      
+      Kristin--You are hilarious! If being interviewed here at fallible can make you lust for a new car (even an American one--ha!), I have more power that I knew!!!  :)  Thank you so much for joining us. It's been tremendous fun.
+      
+      Carrie--I'm STILL not sure we've actually met. Were you in Dallas? I'll get this straight, yet. BTW, you are the third Carrie who comments here. Carrie K is a long-time reader, and Carrie Dahmer is my dear daughter....
+      
+      Bonnie--You are hilarious! Thanks for checking in. I am asking my husband to answer the more techie question you emailed me with--I honestly don't have a clue!!
+      
+      Rachel--Hey, lady! David Crowder does sound like fun, huh? I know I'm showing my age, but next week we're going to a Reunion Concert with Paul Clark and Phil Keaggy. We know both guys, so it will be a blast!!
+  - author: "Katy"
+    date: "2007-10-17T00:41:20"
+    text: |
+      OK, ladies. Tomorrow morning (Wednesday) I will have my very completely impartial husband draw a winner, and I'll announce it here. Best wishes to one and all and thanks for your entertaining comments!!
+  - author: "MT Mommy"
+    date: "2007-10-20T21:15:37"
+    text: |
+      Great interview.  I can't wait to get some reading time!  
+      
+      Thanks, 
+      
+      MT Mommy
 ---
 
 <a href="http://www.kristinbillerbeck.com" title="Kristin Billerbeck"><img src="{filedir_1}kristinb_faithchick2_thumb.jpg" border="0" alt="image" name="image" width="100" height="124" align="left" hspace="7" vspace="2" /></a>Yesterday, my author friend <a href="http://www.kristinbillerbeck.com" title="Kristin Billerbeck">Kristin Billerbeck</a> and I caught up via email.

@@ -1,6 +1,61 @@
 ---
 title: "This Is Not Your Mother's Christian Fiction!"
 date: "2008-06-28T00:52:00"
+comments:
+  - author: "Bridget"
+    date: "2008-06-30T19:09:08"
+    text: |
+      Who knows, maybe I'll win this time... :)
+      Love the book covers, by the way.
+  - author: "Mary Anne Green"
+    date: "2008-07-01T01:10:36"
+    text: |
+      I'm always up for a good book and two are even better.I haven't read a mystery probably since Nancy Drew and that's been a long time ago. How's your mother doing, by the way?
+  - author: "Kathryn"
+    date: "2008-07-01T12:58:33"
+    text: |
+      They sound like winners Claudia. Can't wait to dig in!
+  - author: "Sandi Thompson"
+    date: "2008-07-01T15:55:45"
+    text: |
+      Glad you are back. I missed you, and obviously, I have been off too. This is a new writer for me. Can't wait to read her stuff.  She is a courageous lady to confront the enemy head on. I will definitely add her to the prayer list!! Keep it up Katy!! Glad to meet Claudia.
+  - author: "Nancy Wood"
+    date: "2008-07-01T20:09:30"
+    text: |
+      Add my name to the pot for these books.  They sound great!  ....How's your mom doing?  How are you doing?  
+      Love you much,
+  - author: "Jennifer"
+    date: "2008-07-02T00:08:24"
+    text: |
+      These books sound wonderful! And I think it's hilarious the way you both describe "The Sizzle Switch." Amen.
+  - author: "Christa Allan"
+    date: "2008-07-02T18:29:37"
+    text: |
+      I found Claudia some time ago through Lisa Samson's used-to-be blog, and then lost track of her. 
+      
+      I'm so impressed with her courage to write what's in the world, then show how we struggle and rise above it, plow through it, or let it fall over us and then move on.
+      
+      Can't wait to read her books. Awesome interview. Thanks to both of you.
+  - author: "lisa"
+    date: "2008-07-02T19:08:43"
+    text: "Love this!!!"
+  - author: "Chris Anderson"
+    date: "2008-07-09T20:21:09"
+    text: |
+      I love Claudia Mair's writing!!  You probably shouldn't include me in this drawing, as I've already bought and read the first Amanda Bell book.  The next one is high on my list of books I want to purchase next.  I've shared the book I have with lot's of other people already, as well, and it's been a blessing to many!
+  - author: "Chris Anderson"
+    date: "2008-07-09T20:23:19"
+    text: |
+      And now I see that I was days late to enter the contest anyway - so I didn't need to say "don't enter me!" :)
+      
+      I'm still catching up on blog reading after being on vacation for a couple of weeks...
+  - author: "alison"
+    date: "2008-07-11T17:23:39"
+    text: "Finally!"
+  - author: "Sally"
+    date: "2008-07-22T12:13:03"
+    text: |
+      I'd love to be considered.
 ---
 
 I've got a really fun treat for you today, O ye fallible ones!

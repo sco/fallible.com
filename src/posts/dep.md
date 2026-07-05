@@ -1,6 +1,16 @@
 ---
 title: "Depending On Serenity"
 date: "2007-02-02T02:36:53"
+comments:
+  - author: "Suzan"
+    date: "2007-02-02T14:41:10"
+    text: |
+      He's in my prayers!!
+      And you too!
+  - author: "Katy"
+    date: "2007-02-02T15:13:44"
+    text: |
+      Suzan--We are sitting at the KC airport now, at 9 am. The boy is blowing his nose, but otherwise feels OK. He's gotten a written schedule of when to pop each pill and vitamin and herb. He's chugging liquids, all of them (so far) non-alchoholic. We THINK he's OK to travel, so we're putting him on a plain with the mustard seed of faith we've been allotted. I will be VERY happy to hear from him when he gets to Switzerland, to his school. Thanks for praying!!!
 ---
 
 Doug's mom called this morning, in a foul mood. She's always pretty grouchy when she places a phone call before turning her hearing aid up and then can't hear the person she called, even though he's yelling loud enough to wake the dearly departed.

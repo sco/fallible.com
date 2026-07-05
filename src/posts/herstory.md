@@ -1,6 +1,42 @@
 ---
 title: "HerStory"
 date: "2005-06-20T03:24:02"
+comments:
+  - author: "Michael Main"
+    date: "2005-06-20T12:08:26"
+    text: |
+      Maybe it happens everywhere...perhaps I didn't start looking at the obituary page as frequently as I do now when I lived in other cities - a topic I don't really wish to explore with anyone including a therapist - but here in San Antonio you'll often see obituaries featuring photographs of very young people and be sort of shocked thinking, &quot;what a shame they died so young&quot;, only to read the information and learn they were 70, 80, 90 or older when they keeled over.
+      
+      I mean it is extremely common to see a photograph of a handsome 19 year old man and then read the obituary of a guy who died in his 90's.
+      
+      I always thought this strange (not as strange as the people who put their &quot;Glamour Shot&quot; pictures in their obits - does anyone sit with their hand on their face like that in real life? But that's anothe rant) until I started thinking about my own life.  I think there is an age we all reach and kind of stay at...our bodies may grow old, our hair may turn gray, but in our minds we're 19 or 25 or 39 and holding.
+      
+      They say the music most folks claim as &quot;their music&quot; is the music they listened to while in high school, perhaps it's the same with life in general. We grasp onto an era of familiarity, popularity, comfortability...when life was good...and in our minds that's where at least a part of us always stays.
+      
+      I applaud your Mom.  Let her make sure folks she leaves behind remember what has been important to her...not to them.
+      
+      Go for it...just don't use the Glamour Shot please :)
+      
+      -M 
+      -----
+  - author: "Bridget"
+    date: "2005-06-20T13:13:47"
+    text: |
+      Oh, Katy, I thought I was gonna get the obit name thing for my blog!  She told me that after the shower yesterday!  She also wrote down that &quot;the food will come from Hi-V.  Call them first.&quot;  I laughed and told her that we'd just show up on the morning of the funeral and say we were there to get the food.  :)
+  - author: "Katy"
+    date: "2005-06-20T20:08:36"
+    text: |
+      One of my peers buried his mother fifteen or so years ago. The lady was in her 70s, but the pic they chose (or maybe she chose it in advance?) was from the 1940s. She was fabulously beautiful, and the weird thing was that she looked EXACTLY like my friend's wife!
+      
+      Evidently, he wanted a girl just like the girl that married dear old Dad!
+      
+      Right this second, Michael and Bridget, I'm a little spooked when I remember that Mom moved into the Funny Farm three years ago tomorrow. Her long term care insurance only pays for three years, and then she's on her own dime. At the time, she vowed the Funny Farm would never get a cent of her own money, that she'd be dead inside of three years, no matter what.
+      
+      I THINK she's reconsidered that point until, hopefully, it's moot. Sheesh. You never quite know with Mama!
+  - author: "Paula"
+    date: "2005-06-22T03:01:23"
+    text: |
+      Katy, I daresay you're &quot;smart enough to realize it&quot; because you just said it. I love it.
 ---
 
 My mother's still working on her obit, and while she hasn't shared it with me in its entirety, she says it's coming along nicely.

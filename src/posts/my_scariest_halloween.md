@@ -1,6 +1,11 @@
 ---
 title: "My Scariest Halloween"
 date: "2007-10-30T23:28:55"
+comments:
+  - author: "Bridget"
+    date: "2007-11-14T18:54:22"
+    text: |
+      Hey, I got pregnant on Halloween...that can be spooky... :)
 ---
 
 You might think it's weird that I celebrate the 30th anniversary of my first major surgery, but that's the kind of girl I am.

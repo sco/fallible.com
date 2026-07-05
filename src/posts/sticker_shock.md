@@ -1,6 +1,45 @@
 ---
 title: "Sticker Shock!"
 date: "2006-09-28T18:40:56"
+comments:
+  - author: "Suzan"
+    date: "2006-09-28T19:59:52"
+    text: |
+      One time I needed a pair of shoes at the last minute to wear to a wedding, and I had no money. So I bought a pair of very inexpensive black pumps. I was fine until I plopped down on a chair, crossed my legs and stared at myself in a full length mirror opposite. There it was, for all to see, a large white tag on the bottom of the shoe: Size 8, Sale, $12.99
+      
+      Those types of moments keep me humble, praise God.
+  - author: "Lisa"
+    date: "2006-09-29T21:01:44"
+    text: |
+      LOL, Katy! You can make the most mundane experiences very funny. No wonder you're such a great writer!
+      
+      Oh to be a size 7 again....
+  - author: "Katy"
+    date: "2006-09-30T00:31:39"
+    text: |
+      Lisa--Girl, I've lost 3 pounds since I got home from ACFW!!! Miracles never cease, huh?
+  - author: "BRIDGET"
+    date: "2006-10-01T01:30:04"
+    text: |
+      The funny thing is that I noticed the size before the price.  By the way I'm reading your blog on my handheld. Too cool.
+  - author: "lisa"
+    date: "2006-10-02T21:29:45"
+    text: "Love this!"
+  - author: "Katy"
+    date: "2006-10-02T21:47:35"
+    text: |
+      Bridgie--I want a hand-held!!!! Ok, I've gotten THAT little tantrum out of my system...  ;) See you on Friday!
+      
+      Suzan--How did I not reply to your comment earlier??? Weird. I should have seen a hint in your comment to make me think about this incident a little more carefully, but noooo........
+      
+      Lisa S.--Yeah, I loved it, too. Felt very affirmed, actually. Maybe "actualized" is a better word. I felt affirmed that I'm actually a size 7--who cares how cheap I am?  But then I realized I never buy junior sizes, so the tag must belong to something of my daughters, clearly more of an actual affirmation of her than of me. Sigh.
+      
+      The lowest blow of all came when I grabbed something out of my closet to put on yesterday morning. There was an identical price tag to the one I'd found on my size 7 bod. $12.99. Size 7.
+      
+      A pair of shoes, people!!! Now I feel neither affirmed, nor actualized. Phooey!!
+  - author: "Suzan"
+    date: "2006-10-05T23:59:53"
+    text: "Ah, go on and feel affirmed. Think of how thrifty you were when you purchased them!"
 ---
 
 OK, I may be a bit behind the times, but I know all about The Patch.

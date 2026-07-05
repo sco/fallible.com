@@ -1,6 +1,31 @@
 ---
 title: "Words To Avoid Living By?"
 date: "2005-10-28T18:43:38"
+comments:
+  - author: "Katy"
+    date: "2005-10-28T18:53:25"
+    text: |
+      And if mottos is spelled with an "e," I do apologize!
+  - author: "Lynn"
+    date: "2005-10-30T22:36:11"
+    text: |
+      That's a toughie, since the only mottos I really live by are from the Bible or the single "no regrets."
+      
+      I guess I don't live by the regrets one anymore, since getting saved I've seen my mistakes and I regret them... but I also know that I've been forgiving because of Christ so I don't know...)
+      
+      I'll have to keep my eye out on this!
+  - author: "Lynn"
+    date: "2005-10-30T22:37:16"
+    text: "forgiven, even. =P"
+  - author: "lisa"
+    date: "2005-10-31T03:08:54"
+    text: |
+      my husband has a shirt that says "the luckiest people marry italians" (he was coerced into buying that one instead of 'pray for me, i married an italian', but i digress..)
+       - it's not one i refuse to live by, it just doesn't apply to me (being the italian). but i do love it :).
+  - author: "edieraye"
+    date: "2005-10-31T13:13:40"
+    text: |
+      "Think before you speak" comes to mind!
 ---
 
 Any mottos you love, but refuse to live by?

@@ -1,6 +1,13 @@
 ---
 title: "It's A Jungle In Here, But Not For Long"
 date: "2007-08-13T12:17:22"
+comments:
+  - author: "thepaintman"
+    date: "2007-08-13T20:19:15"
+    text: "that is so sweet"
+  - author: "lisa"
+    date: "2007-08-14T14:12:10"
+    text: "oh, katy, you brave woman..planning to pour your energies into the relationship that it all began with. i admire that in a new empty nester. and again, i may be calling you to recall how you let go of that last one in a few years..."
 ---
 
 I don't know if I got specific here on fallible about the terms of our arrangement with the returning-from-Switzerland Kevin, when he moved back home on June 11. Basically, we told the lad that two months seemed like a reasonable amount of time for him to meet-up with all his long-lost friends, find a job, find a place to live, and hit the road.

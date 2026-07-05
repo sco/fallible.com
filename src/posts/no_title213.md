@@ -1,6 +1,12 @@
 ---
 title: "(No Title)"
 date: "2001-03-19T15:49:03"
+comments:
+  - author: "tailer"
+    date: "2010-09-09T17:23:14"
+    text: |
+      I am searching webcam chat tips on google so i found your post so this is a very interesting find indeed. I will have to check it out when I get the time though. Thanks for the nice tips.
+      <a href="http://www.adagiointeriors.com/">Wall Stickers</a>
 ---
 
 I've got to say we love our new <a href="http://www.selectcomfort.com">Select Comfort </a>queen-sized dual-control air mattress. We're able, just as they advertise, to choose our individual levels of softness and firmness. When one of us tosses and turns, therefore, the other is rarely disturbed, but remains blissfully unaware of the partner's turmoil.

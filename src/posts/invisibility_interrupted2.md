@@ -1,6 +1,67 @@
 ---
 title: "Invisibility Interrupted"
 date: "2005-09-26T18:47:00"
+comments:
+  - author: "Laurie"
+    date: "2005-09-27T03:15:25"
+    text: |
+      Thanks for your wonderful blog !
+      I found it when I searched for &quot;sandwich generation&quot;  a couple months ago, and have been a reader and admirer ever since.  [lurker]
+      Because I became a member too, taking care of my dad &amp; kids.  Also became a blogger
+      I wanted to let you know mentioned your blog in my blog today.  re: starbucks entry &amp; comments.
+      
+      Take care!
+      http://seaglasshearts.blogspot.com/ 
+      -----
+  - author: "irene"
+    date: "2005-09-27T03:35:58"
+    text: "Such a beautiful story! Thank you, Katy! It warmed my heart."
+  - author: "Lynn"
+    date: "2005-09-27T05:05:38"
+    text: "Oh how sweet!"
+  - author: "Bonnie Calhoun"
+    date: "2005-09-27T06:20:39"
+    text: "What a wonderful story. A small child and his parents saw the light of Jesus through you four. Think about it....typically adults would have been annoyed by a small child invading their space. Cudos and applause for your dinner party. Jesus was smiling down at you."
+  - author: "Alyssa"
+    date: "2005-09-27T06:29:12"
+    text: |
+      That's such a gorgeous story!
+  - author: "Ame"
+    date: "2005-09-27T08:03:50"
+    text: |
+      I love how you &quot;saw&quot; the little boy and enjoyed him.  I have a little special-needs daughter, but she doesn't &quot;look&quot; like she has special needs.  I love it when people take the time to &quot;see&quot; her - it's not often, so I cherrish each and every one.  Thank you for taking the time to &quot;see&quot; the child; what a gift you gave to him.
+  - author: "ValMarie"
+    date: "2005-09-27T08:51:41"
+    text: |
+      That was a great story! Thanks for sharing it with us. :-)
+  - author: "Annie"
+    date: "2005-09-27T09:08:40"
+    text: |
+      Annie and her antics strike a hit again! That's pretty funny Katy, you're good.
+  - author: "Bridget"
+    date: "2005-09-27T20:23:02"
+    text: |
+      I love it!  You needed some fun for a change! :)
+  - author: "Michael #2"
+    date: "2005-09-27T20:30:38"
+    text: |
+      2 Funny.
+      
+      Did I say 2?
+      
+      Take Care
+      Michael #2
+  - author: "Lorna"
+    date: "2005-09-27T20:30:53"
+    text: |
+      wow this was the best ever!!!
+      
+      thanks for sharing it. You write so well and bring Jesus into our lives in simple ways.
+  - author: "Lorna"
+    date: "2005-09-27T20:35:10"
+    text: |
+      Laurie, at seaglassshells ... 
+      Cant' leave a comment for you there, as your's is blogger only :( but I wanted you to know your cross braclet looked lovely. be blessed :)
 ---
 
 Last night, Doug and I went to the local dinner theater with our dear friends Eben and Annie. The play wasn't good, but the side show was fabulous.

@@ -1,6 +1,10 @@
 ---
 title: "Fallible Winners, Send Me Your Addresses!"
 date: "2007-12-03T13:33:01"
+comments:
+  - author: "joshua"
+    date: "2007-12-04T04:39:22"
+    text: "wow! how cool! i have not ever won anything online before so this is a milestone. thank you so much."
 ---
 
 Some weeks ago, I wrote a post called "Reader's Choice," in which I asked for your ideas about what to post. Yeah, I get desperate sometimes, and you guys are great at bailing me out!

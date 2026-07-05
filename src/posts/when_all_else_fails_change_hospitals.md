@@ -1,6 +1,28 @@
 ---
 title: "When All Else Fails, Change Hospitals?"
 date: "2006-12-19T13:25:09"
+comments:
+  - author: "Robin Lee Hatcher"
+    date: "2006-12-19T15:44:06"
+    text: |
+      Katy, the more I read your blog and the older I get, the more I pray for good health until the moment Jesus takes me home. My mom's doctor has admitting privileges, but I see a nurse practitioner, so if I have to go to the hospital, she won't be my caregiver, I'm sure. Which is too bad because she has cared for me about 20 years and knows me inside and out.
+      
+      Robin
+  - author: "Katy"
+    date: "2006-12-19T16:35:08"
+    text: |
+      Robin, I pray your prayers are answered! And I'm so happy that your mom has done so well.
+      
+      The attending doc here actually called Doug this morning after seeing Adele. She can't answer any questions about her condition or history, but the docs at the other hospital did not communicate with the family at all.
+      
+      Right now, I'm sitting here in the waiting room, while Adele has a CT scan of her head. The nurse has been kind and helpful, and when I said that the kids need to be facing facts about Adele needing more care than she can get in assisted living, she volunteered to send a social worker in still today. The other hospital, over the course of three stays in nearly as few weeks, never sent a social worker to offer advice.
+      
+      They may come to no diagnosis here. Several docs have already said as much. Sometimes, these repeated runs to the hospital with an elder simply serve to open the eyes of the family decision makers--the younger ones--us. She is "happy" where she lives, but she isn't safe--at least, not now. So--hard decisions must be made. It is, sadly, the way of things.
+      
+      Adele is a strong believer, for which we are all so grateful! Thank you, Robin, for your message here.
+  - author: "Shanky -Connecticut personal injury lawyer"
+    date: "2009-03-20T06:07:49"
+    text: "Awesome Article, Really very informative posting which provide lots of informative in all the regards.thanks for the wonderful posting."
 ---
 
 I wonder if it bodes well that two blog posts in a row have titles that end in question marks, but I digress. Wait a minute. Can I digress before I've started? I just don't know anymore. But if I can, I do. So there.

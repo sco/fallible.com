@@ -1,6 +1,51 @@
 ---
 title: "Persuasion"
 date: "2006-01-07T15:17:17"
+comments:
+  - author: "FindingJoy"
+    date: "2006-01-07T22:20:18"
+    text: |
+      I was wondering how your Mom was doing.  Now I know.  How frustrating.  My heart goes out to you.  
+      
+      Was your Mom always so... I can't think of the exact word... feisty, contrary, y'know?  I can't imagine my mother not using her walker if she needed one.  I'd be furious if I were in your shoes.
+      
+      What a devoted daughter you are!
+  - author: "Ame"
+    date: "2006-01-08T07:50:05"
+    text: |
+      Ohhhh, this sounds like a conversation with my young children!!!  I just wanna drill a hole into their heads, insert a knowledge tube, and start flowing stuff in!  But our conversation goes a little more like this:
+      
+      "I'm gonna take my new baby high chair to Daddy's house."
+      
+      "I don't think so, . . ."
+      
+      "Where is it?  Oh, here is is!  I've got it, Mom."
+      
+      "You can't take that to Daddy's.  H ..."
+      
+      "I'll just put it by the front door."
+      
+      "You might be able to take the little one in the game room.  It's smaller and will take up less spa..."
+      
+      "I can pick it up."
+      
+      "Okay, sweet, STOP!  Look at me!  I'm sorry, but you can't take your baby high chair to Daddy's without asking him first.  His apartment isn't that big.  You have to make sure he is willing to have it there."
+      
+      Light bulb flashes!  Lights come on!  Somehow she's distracted . . . then Daddy comes . . . and they're excited to see him and run to get into his car, chatting all the way, forgetting the high chair :) . . . well, till she thinks of the baby cradle next time!
+      
+      Hang in there, Katy . . . you're doing a GREAT job!!!  And, hey, it certainly isn't without humor!!!!!
+  - author: "Katy"
+    date: "2006-01-08T19:41:50"
+    text: |
+      FindingJoy--I think my mom has changed somewhat. (Maybe my sister Bridget will weigh in here...) She's still pretty angry and depressed about the loss of independence that has beset her these last four years. I think not using her walker might be her way of saying, "I'm still in charge." But I could be wrong. Maybe she's honestly forgetting.
+      
+      Ame--Your story is great! Dealing with an aging parent can be VERY much like dealing with a child. (Anywhere from toddler to teenager...) There's high emotion, immaturity, poor decision making skills, inattention to consequences of behaviors, stubbornness, non-compliance, outbursts of frustration--and those are just MY behaviors!   :)
+  - author: "Ame"
+    date: "2006-01-08T21:26:12"
+    text: |
+      Oh, Katy . . . you're just TOO honest for me!!!  HAHAHAHAHA
+      
+      And, on a serious note, I've found that my girls, going thru the divorce, feel so out-of-control all the time that they search for something they can have control over . . . what/when they eat, wearing a bathing suit outside in the winter, etc.  So, with as much margin as possible - and is SAFE - I allow them freedom to have control over something.  I wonder if giving your mom control in another area might lessen her need to demand it with the walker?
 ---
 
 My mom's been back in her assisted living apartment (after three months in a nursing home) for two months already. She's only fallen once in that time, and now her re-injured broken arm is back to being just plain old completely broken.

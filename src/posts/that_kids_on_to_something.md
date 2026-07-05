@@ -1,6 +1,13 @@
 ---
 title: "That Kid's On To Something"
 date: "2005-04-19T17:55:02"
+comments:
+  - author: "Bethany"
+    date: "2005-04-21T11:42:09"
+    text: |
+      You can't argue with that logic. 
+      
+      -----
 ---
 
 Kev has two sessions at college on Tuesdays, with a couple hours off at dinner time.

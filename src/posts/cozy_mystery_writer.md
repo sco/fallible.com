@@ -1,6 +1,29 @@
 ---
 title: "Cozy Mystery Writer?"
 date: "2007-03-26T12:53:22"
+comments:
+  - author: "Maria"
+    date: "2007-03-31T18:55:21"
+    text: |
+      I loved your post and have missed your writing so let me take this moment to welcome you back.  
+      
+      Poor Mom, but now she has double identity which should count for something.  I mean now, could she really lose both sets next time?
+  - author: "shelly"
+    date: "2007-04-02T17:43:35"
+    text: |
+      Hi.  I really like your blog. Was wondering if you want to add it to my directory? Thanks Shelly
+      
+      <a href="http://www.weblog-index.com">Weblog index</a>
+  - author: "Katy"
+    date: "2007-04-04T14:36:43"
+    text: |
+      Maria--I am looking forward on Easter evening to making the rounds of all my fave bloggers!! You are one I miss! BTW, I have hidden one entire set of my mother's cards. I am pretty sure not even God could find them.  :)
+      
+      Shelly--Thank you. I will pass for now, though.
+  - author: "Bridget"
+    date: "2007-04-23T01:06:21"
+    text: |
+      No way!  Mom found her cards!  I had no idea!!! :)
 ---
 
 I think I've mentioned here that my mother is reinventing herself. Or, I should say, I'm reinventing my mother.

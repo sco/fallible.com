@@ -1,6 +1,23 @@
 ---
 title: "The Mondegreen's English"
 date: "2008-09-09T14:09:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-09-09T15:11:21"
+    text: |
+      Don't we need audio for this Katy? Shor and begorra, Katy mi gurl or something like that.
+  - author: "Gracie"
+    date: "2008-09-11T03:55:11"
+    text: |
+      I can't pick one mondegreen -- I'm always mixing up sentences or mispronouncing words. Of course, it rarely happens when I write, but the second words flow from my mouth, they twist and writhe every which way. Sigh. Prayfully God never calls me to be a speaker.
+  - author: "alison"
+    date: "2008-09-15T16:02:07"
+    text: |
+      Jackson is learning Irish in school. His first day it was SlÃ¡n agat, goodbye, which apparently to sounds like "so long." So that works. When Jessica was very little, they were doing a musical in church with the words, "Some people call him the son of God, some people call him a fraud." Why, she asked me, do people call Jesus a frog?
+  - author: "Bridget"
+    date: "2008-09-17T22:06:51"
+    text: |
+      Dylan, at a funeral, very loudly sang (when he was about 3)..."A tisket, a tasket, who's in Santa's casket."  Not EXACTLY what you were talking about, but still so cute.
 ---
 
 When thick brogues are an essential element of a wee little first-generation American's upbringing, it's not easy to avoid poor Lady Mondegreen.

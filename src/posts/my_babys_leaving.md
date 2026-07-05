@@ -1,6 +1,43 @@
 ---
 title: "My Baby's Leaving"
 date: "2005-06-15T17:35:02"
+comments:
+  - author: "Bridget"
+    date: "2005-06-16T01:07:02"
+    text: |
+      Sweet story... 
+      -----
+  - author: "Carrie"
+    date: "2005-06-16T06:14:19"
+    text: |
+      Aww!!! Official empty nester! Well, don't worry, I'll be home for a couple days this wknd if you're feeling like you're getting too much sleep.
+  - author: "Bridget"
+    date: "2005-06-16T07:25:04"
+    text: |
+      Oh, and you did offer up your casa if I have surgery next month....hee, hee.  Be careful of what you wish for... :)
+  - author: "lisa"
+    date: "2005-06-16T10:04:40"
+    text: |
+      gol-LY, katy, you sure leave a mom nodding her head in knowing, then laughing, then pre, pre-lamenting the inevitable empty nest, approximately (probably) sixteen or so years from now. if the last decade was any prediction of things to come, that time will fly. thanks for another peek into your honest to goodness mama heart :)
+  - author: "Jeanne"
+    date: "2005-06-16T11:58:19"
+    text: "To say I can relate is a wild understatement. I cannot tell you how many nights like this my husband and I have had lately. Like you, I sit up and wait, and pray, and then call and ask. My sleeplessness has only lasted 19 years, but in a couple of weeks my son will leave and enter a demanding technical school from which he will in two years time (God willing) emerge with a good job in hand that will most likely not be in our small town. What I want to know is, will I continue to watch for his headlights when he is 1800 miles away?"
+  - author: "Cindy Swanson"
+    date: "2005-06-16T20:27:38"
+    text: |
+      Katy, you so captured the ambivalent bittersweetness of being a mom of kids who are growing up and leaving the nest.  My own baby is 18, and although she will probably stick around here for community college, I know the day is coming...
+      
+      When she graduated at the end of May, my older son and his wife came up from Texas, and my younger son is home from college.  When I hopped into bed I sighed, &quot;All my chicks under one roof!&quot;   That doesn't happen very often these days.
+  - author: "Katy"
+    date: "2005-06-17T01:57:00"
+    text: |
+      Thanks, you guys. The man Kevin just left, and I'm bawling my head off...
+  - author: "Paula"
+    date: "2005-06-22T03:13:09"
+    text: |
+      I gotta tell you that the other night my son called to tell me he hurt himself at work and he wanted to tell me about it. (He's in construction.) He has a perfectly good wife but it was like he had a boo-boo and he wanted his mommy to kiss it.
+      
+      I know I did a good job of raising them and the time comes when they're supposed to want to leave. I'm supposed to want them to leave because they need their independence. But it's difficult at first. You'll be okay and so will he. Be sure to always be available to kiss his boo-boos.
 ---
 
 I haven't slept, really slept, in 26 years.

@@ -1,6 +1,17 @@
 ---
 title: "Coming To Terms With Writing Terms"
 date: "2009-09-01T00:00:00"
+comments:
+  - author: "Hannah"
+    date: "2009-09-29T21:42:43"
+    text: "LOL! Great writing lesson, Katy. Sounds like you learned a lot from the ACFW conference. Now to go apply all of this to my WIP..."
+  - author: "Billy Coffey"
+    date: "2009-10-04T14:55:15"
+    text: "I really, really like the idea of a noble goal. Not simply a selfish one, not a NORMAL one, but a noble one. And yes, I agree that yours is the noble goal of a noble lady!"
+  - author: "violet"
+    date: "2009-10-08T03:35:00"
+    text: |
+      Why don't the conferences I attend ever give me such valuable and useful etymological info? (Katy - this was hilarious!)
 ---
 
 Today, my husband Doug and I are both writing our takes on some novel-writing terms we learned a lot about at the [American Christian Fiction Writers](http://www.acfw.com/) conference last week. For the most part, we took the same workshops. But we aren’t reading each other’s blog posts until after we hit “submit.’ Any guesses about whether or not we came away from the classes with similar understanding about the essential elements of a novel? Leave your comments here, or over at [Marginal](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html), or both.

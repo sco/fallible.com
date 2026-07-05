@@ -1,6 +1,32 @@
 ---
 title: "Sleepless In Kansas City"
 date: "2008-05-06T19:39:00"
+comments:
+  - author: "Carrie Dahmer"
+    date: "2008-05-07T02:43:33"
+    text: |
+      Oh mom (wave back)...Haiti isn't that bad.
+  - author: "Sam"
+    date: "2008-05-07T13:39:24"
+    text: |
+      Hi, Katie--
+      Enjoyed my first visit--just read to Vicki your 'Sleepless in KC' blog entry;  ver' nice, y'all.
+      
+      I was reminded of the Warren Zevon album titled "I'll sleep when I'm dead"--morbid, but funny and true!
+  - author: "Katy"
+    date: "2008-05-08T00:06:19"
+    text: |
+      Carrie--You are right. Dead bodies on the side of the road don't freak me out a BIT.  :)
+      
+      Sam and Vicki--Hi! Fun to see you here! Yeah, I've always heard it said, "There's plenty of time to sleep when you're dead," but I'm thinking we won't actually be sleeping much then, either!!!
+  - author: "Bridget"
+    date: "2008-05-08T15:16:50"
+    text: |
+      Katy...we should join a sleepless club!  I'm only going on about 18 years...but who's counting?!
+  - author: "Kimberly"
+    date: "2008-05-26T14:46:34"
+    text: |
+      This is all very depressing...I thought it couldn't get worse than a 7 month old waking to be fed 3 times a night combined with people above you washing dishes at 2 am (which is very loud in the concrete, no insulation, porcelain sink laden building we live in!)when you have just managed to fall back to sleep. I was really looking forward to sleeping again in the future! Which by the way, Jack is now 14 months old and sleeps much better, but our building is still ridiculously loud, like living in a dorm with your family, not cool :)  Thank you for getting me prepared for the sleepless future! (that was sincere not sarcastic by the way) Sorry about the complaining, we are actually doing well, I just really love to sleep.
 ---
 
 I have some relatively young readers, and I'm afraid you may be misled into believing that when you have babies and small children, you are living through the most sleepless nights of your lives. You may actually be deceived into looking forward to your later years, when you plan to snooze undisturbed.

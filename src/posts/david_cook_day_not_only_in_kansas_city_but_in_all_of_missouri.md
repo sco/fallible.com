@@ -1,6 +1,42 @@
 ---
 title: "American Idol's David Cook Homecoming In Kansas City"
 date: "2008-05-09T20:26:00"
+comments:
+  - author: "Robin"
+    date: "2008-05-09T22:34:04"
+    text: |
+      How cool that David Cook recognized greatness when he locked eyes with you. LOL!!
+      
+      Sounds like you had a blast. Too cool for school, as the old adage goes.
+  - author: "Jennifer"
+    date: "2008-05-10T16:46:20"
+    text: |
+      !!!!
+      
+      What an awesome way to spend a day! David Cook is a winner, hands down, I don't care what happens on Idol. He's got "IT". And I love that he pointed out a kindred "IT" when he saw you! ;-)
+  - author: "D'Ann Mateer"
+    date: "2008-05-11T14:03:27"
+    text: |
+      I'm happy for you, sad for us. We were all looking forward to Jason Castro day here in Rockwall, which, alas, didn't happen. But we're pretty proud of him anyway!
+      
+      How fun that you got to be a part of David Cook's celebration!
+  - author: "Bridget"
+    date: "2008-05-12T02:09:00"
+    text: "I could not be more jealous of you, but especially Doug, who got THAT CLOSE to David!!!!  What an incredible hottie!!!!"
+  - author: "Katy"
+    date: "2008-05-12T13:22:37"
+    text: |
+      Robin--I KNOW!!! Tee, hee. We truly did have a blast. I think the experience took ten years off my attitude, if not my face. But we won't go THERE.  :)
+      
+      Jennifer--Ah, yes! The "Kindred It!" I agree that David C is ready to win this competition. I do worry about how pale he looks, but hey, HE HAS A MOTHER and I'm not her!! Ha.
+      
+      D'Ann--I didn't know about Jason being from Rockwell!!! That would have been so fun for you and Mary De. I love Jason a lot, too....
+      
+      Bridget--I realize Doug is a hottie, but is this the place to talk about THAT???  Ha. So did David come to Warrensburg because of going to college there or not?? You didn't get a chance to see him? That's not right!!!
+  - author: "mandy"
+    date: "2008-05-14T20:22:35"
+    text: |
+      That's very cool.  My husband and I agree that if he does not win, we are going on strike.  From what?  I don't know, but there will be signs!
 ---
 
 David Cook, who's now arrived in the top three on American Idol for VERY good reason, was home in Kansas City today to celebrate among his peeps. And celebrate we did!

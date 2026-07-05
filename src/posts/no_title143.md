@@ -1,6 +1,16 @@
 ---
 title: "(No Title)"
 date: "2001-11-09T19:58:11"
+comments:
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Oh, I've got two Irish dolls! Hey, baby Chloe! Hope your trip was good--e me!!
+  - author: "Chloe"
+    date: "1969-12-31T18:00:00"
+    text: |
+      This is the coolest!! I always thought you would make a fantastic novelist - you go girl!!! 
+      -----
 ---
 
 From today's work, a little about Erin as a little girl. BTW, I'm up to 10,000 words, which is way under where I need to be by now, but hey, it's better than I would have done without the National Novel Writing Month shot in the arm:

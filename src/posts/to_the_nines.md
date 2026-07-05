@@ -1,6 +1,43 @@
 ---
 title: "To The Nines"
 date: "2006-10-10T14:13:23"
+comments:
+  - author: "Tess"
+    date: "2006-10-10T15:54:46"
+    text: "*stunned into silence*"
+  - author: "Bridget"
+    date: "2006-10-10T17:35:13"
+    text: |
+      Okay, Katy, this story has to be fabricated, as it's too unrealisitic to be true.  Fess up.
+  - author: "Suzan"
+    date: "2006-10-10T18:06:32"
+    text: "Wow!"
+  - author: "Katy"
+    date: "2006-10-10T18:09:50"
+    text: |
+      Tess--What? Silence from the girl whose blog is titled "Tess Talks?"  ;)
+      
+      Bridgie--Completely factual, except for no phone ever rang (at least not hat I heard). I left the store before the last two women, never knowing which one the rose belonged to--or why. My imagination supplied the reasons for the Tenth's odd behaviors.
+  - author: "Katy"
+    date: "2006-10-10T18:14:48"
+    text: |
+      Meant to write, "at least, not THAT I heard." No hats were harmed in commenting on this post!
+      
+      Suzan--That's how I feel about you!
+  - author: "Sabine"
+    date: "2006-10-10T19:52:50"
+    text: "Just riveting, Katy!  Well done!"
+  - author: "Katy"
+    date: "2006-10-11T12:01:21"
+    text: |
+      Sabine--I'm so glad you checked in here! Now I've caught up on your blog, too. Am again amazed by our similar experiences....
+  - author: "Deborah"
+    date: "2006-10-13T00:27:15"
+    text: "Glad a stopped by.  Powerful story. Thanks, Katy!"
+  - author: "Katy"
+    date: "2006-10-13T19:25:42"
+    text: |
+      Deborah--I'm glad you stopped, too! I've visited your site recently, and definitely will return. So much good stuff there.....
 ---
 
 From the time I sat down in Starbucks and took in the sight of the group of women, I had one of them pegged.

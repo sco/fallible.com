@@ -1,6 +1,42 @@
 ---
 title: "Cards"
 date: "2007-03-15T19:55:30"
+comments:
+  - author: "Liz"
+    date: "2007-03-16T00:16:44"
+    text: |
+      Would it be offensive if I said this is the best post I think you've ever written?  WELL IT IS!  it is hysterical
+  - author: "Deb Raney"
+    date: "2007-03-19T11:38:16"
+    text: |
+      LOL! I had surgery 5 years ago and my husband did the laundry for the next four years. Sadly, a move to a new house somehow jogged his memory and I got the job back. But he also hired a woman to come and clean the house once a month after my surgery and that perk is ongoing. 
+      
+      GREAT post, Katy! As always.
+  - author: "Katy"
+    date: "2007-03-19T12:19:04"
+    text: |
+      Liz--Are you kidding? I am honored!!  :)  And you're still so young, you have many years left during which to benefit from my eons of wisdom.  Enjoy!
+      
+      Deb--I love it!! You know, I've totally blown the Laundry Card, and it got dealt to me 8 years ago, when I had pneumonia. I was SO weak, that to tranfer a load from the washer to the dryer, I had to move ONE PAIR OF PANTIES at a time!!! Honestly. This went on for two months. I made the FATAL mistake of adopting a martyr complex, and the game did not end well. St. Katy still does all the laundry, life-threatening viral infections notwithstanding. Sigh.
+      
+      BUT, I have learned my lesson. Another Laundry Card will get played. Mark my words. Or my cards. Whichever......
+  - author: "Michael Main"
+    date: "2007-03-20T19:03:51"
+    text: |
+      If I knew anything about Tarot cards I'd swear you just played an evil one :)
+      
+      At least from the male perspective...
+      
+      Grace & peace,
+      
+      Michael
+  - author: "Katy"
+    date: "2007-03-21T18:20:19"
+    text: |
+      Michael--Doug says that he's realized that the men don't actually ever get to hold any cards in their fists at all, much less play them....Poor fellas!  :)
+  - author: "Tarot"
+    date: "2009-04-10T13:52:31"
+    text: "thanks you very mach"
 ---
 
 For nearly every cliche, there's an equal and opposite cliche.

@@ -1,6 +1,13 @@
 ---
 title: "Pretty Seedy If You Ask Me"
 date: "2006-11-20T17:44:40"
+comments:
+  - author: "Suzan"
+    date: "2006-11-20T19:56:32"
+    text: |
+      Sooo funny!
+      I was just thinking about you.
+      Happy Thanksgiving.
 ---
 
 "I'll need you to arrive at least fifteen minutes ahead of time to fill out a few forms," Bea, Dr. Couchonnal's nurse, said.

@@ -1,6 +1,56 @@
 ---
 title: "Playing Possum"
 date: "2006-01-11T22:15:46"
+comments:
+  - author: "Katy"
+    date: "2006-01-12T15:34:23"
+    text: |
+      Great story, Deb! What I love about living in the pseudo-country (the city edges closer to our house each day...) is the way the "wild" animals become almost domesticated. I'll never forget the morning I awakened to find a young deer asleep directly under my kitchen window. As if it thought it was a cat, or something! Fun, huh?
+  - author: "Macromoments"
+    date: "2006-01-12T15:37:44"
+    text: |
+      Deb,
+      I found a possum curled up on the step of our patio one night, with our 74-lb. dog sleeping not three feet away.  
+      
+      <I>Loved</I> your story!
+  - author: "Deb Raney"
+    date: "2006-01-12T16:32:59"
+    text: |
+      Oh, I can just picture that 74-lb. dog curled up by the possum. : )  Katy has a "dog" story that I hope she's going to tell one of these days. Right, Katy? : )
+      
+      Deb
+  - author: "Michael O'Connor"
+    date: "2006-01-12T18:57:48"
+    text: "Anybody else thinking maybe instead of a little small town excitement the cop was offering up thanks for his upcoming Sunday dinner?"
+  - author: "Doug Raymond"
+    date: "2006-01-12T18:57:57"
+    text: |
+      Deb, thanks for the fun story. At least you're in an area where the authorities will show up when called. Our neighbor fell from a ladder while painting the second story of their house, breaking ribs and puncturing a lung. It took nearly an hour for an ambulance to arrive. Maybe if they had tried the old "possum under the deck" routine, help would have come more quickly.
+  - author: "Katy"
+    date: "2006-01-12T19:04:13"
+    text: |
+      Michael has an excellent point! Doug has totalled two of our cars hitting deer. It's illegal here for a passerby to scoop up the fresh roadkill, but "out in the county" we play the game by our own rules.
+      
+      When the guys in the pick-up truck driving behind Doug witnessed the accident, they jumped out of their truck and ran to make sure he was all right BEFORE they scooped up the meat and threw it in the back of their truck.
+      
+      And then they hightailed it out of there before the sheriff showed up. Come to think of it, it was a Sunday, too. Mmm...mmmm.
+  - author: "Deb Raney"
+    date: "2006-01-12T19:05:33"
+    text: |
+      That's hilarious, Michael! You know...come to think of it, it was around Thanksgiving when this happened! Hmmm... ; )
+      
+      And amen, Doug, this is one wonderful thing about small town life. Even though the police office shuts down at five, if you need help, it arrives in a flash. And I should have added that after the policeman drove off with his Thanksgiving dinner...er, I mean, the possum (heh-heh) the neighbors came out on their porches to make sure everything was okay at our house.
+  - author: "BJ"
+    date: "2006-01-13T20:13:25"
+    text: "And some think small-town living is dull! Not with Deb!"
+  - author: "Jill Eileen Smith"
+    date: "2006-01-13T22:56:26"
+    text: |
+      Too funny, Deb! I can't imagine small town living, but wildlife do manage to explore our backyard now and then. We've had rabbits get caught in the fence (boy can they squeal!), and ducks bathing in the pool, and squirrels playing catch-me-if-you-can around the tree trunks. Both times the rabbits got stuck, Randy pulled them out from behind (wearing heavy gloves) and let them go. Never saw an animal run so fast!
+      I think God gave us animals to keep life entertaining.
+  - author: "Granite exporters in india"
+    date: "2010-10-30T06:43:04"
+    text: "It raced around the perimeter of the fenced-in backyard,with the cop on foot in hot pursuit."
 ---
 
 <i>(Please welcome fallible's guest blogger, Deb Raney. If you've never seen the movie "A Vow to Cherish," based on Deb's book, do! I bawled my head off.)</i>

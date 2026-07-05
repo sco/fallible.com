@@ -1,6 +1,65 @@
 ---
 title: "Are You a Pioneer Parent? Part One"
 date: "2006-01-27T00:43:15"
+comments:
+  - author: "Liz"
+    date: "2006-01-27T03:41:49"
+    text: |
+      Katy, thank you for sharing this interview.  I will be anxiously awaiting Part 2 and link to both on my blog, if that's okay.
+  - author: "relevantgirl"
+    date: "2006-01-27T07:06:03"
+    text: |
+      Who is this strange girl from France, anyway???? Oh, wait, it's me! 
+      
+      Thanks for posting this,Katy. I had a fun time IM-ing you.
+  - author: "Katy"
+    date: "2006-01-27T13:55:30"
+    text: |
+      Liz--That would be great! I'd really love to spread the news about Mary and this book. Thanks, Liz!
+      
+      Mary--"C'est moi!" Tee, hee. I had a VERY fun time IMing you. Thank you so much for the privilege--and for teaching me everything I know about IMing. And most of what I know about parenting! Sheesh.  ;)
+  - author: "Katy"
+    date: "2006-01-27T13:57:11"
+    text: "Hey, everybody!! Can you see the beautiful picture of Mary up there, or are you just wondering what that big ? is supposed to represent?"
+  - author: "Ame"
+    date: "2006-01-27T14:20:50"
+    text: |
+      I'm just wondering what that Big ? is supposed to represent - can't see the pic.
+      
+      Great, fun interview!  Real words from real people inspired by God . . . hummm . . . I like it!
+  - author: "Katy"
+    date: "2006-01-27T14:26:58"
+    text: |
+      Ame--Aaack! My tech guy (Doug) says that Mary's pic is visible on every computer in the house except mine. Sure, it is, fellow!
+      For now, click on the link to Mary's blog, and you will see the beautiful pic you should be seeing here! And my guy will keep working on it.....   ;)
+  - author: "Jeanne Damoff"
+    date: "2006-01-27T23:02:28"
+    text: |
+      I can see Mary's lovely, laughing face just fine. And I felt the way she looks as I read this interview. You two are a party in a box. :)
+      
+      Thanks for making my day. 
+      
+      xo
+  - author: "Katy"
+    date: "2006-01-28T00:10:28"
+    text: |
+      Doug loved your comment, Jeanne. He's walking around the house now saying, "You're a party in a box..." The poor thing...
+  - author: "Madi"
+    date: "2006-01-28T00:34:22"
+    text: |
+      a few days ago my husband and i were reading reviews about mary's book...and now i find your interview here with her, katy!  funny.  we (my husband and i) have been exploring "grace based discipline" as we look toward how we will raise our son (and lord willing, future children), who is now only six months old..but we like to get a head start on these types of things. :) i think we'll definitely need to get a copy of this book!
+  - author: "Katy"
+    date: "2006-01-28T00:42:30"
+    text: |
+      Madi--Is this my old friend Madi from Lawrence? If so, good to see you here!
+      If you are an entirely new Madi, welcome!
+      Either way, you would be well-served by Mary's excellent book. She is the real deal.
+  - author: "Suzanne Eller"
+    date: "2006-05-25T14:07:43"
+    text: |
+      Mary's book is awesome, and she is a very cool lady and a new friend. Thanks for this interview.
+      
+      Suzanne Eller
 ---
 
 <i>Please join me in welcoming author <a href="http://www.fallible.com/images/fallible/marylaugh.jpg">Mary DeMuth</a>, who's taking a whirlwind blog tour talking about her latest book, "<a href="http://www.amazon.com/gp/product/1400070317/qid=1129662264/sr=1-1/ref=sr_1_1/102-3048097-4485755?s=books&v=glance&n=283155">Building the Christian Family You Never Had: A Practical Guide for Pioneer Parents.</a>" We conducted this interview via Skypes instant messaging service, with Mary in France and me here in Kansas City, pretending like I have a CLUE how to IM. Hope you enjoy the book banter as much as Mary and I did!</i>

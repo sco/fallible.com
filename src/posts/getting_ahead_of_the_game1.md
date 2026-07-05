@@ -1,6 +1,46 @@
 ---
 title: "Getting Ahead Of The Game"
 date: "2006-01-12T19:10:37"
+comments:
+  - author: "Gloria"
+    date: "2006-01-12T22:52:11"
+    text: |
+      Oh, how I can relate to the house cleaning or the lack of. I'm trying to convince myself to get off my computer long enough to get my living environment worthy of my presence, but alas, I'm still on my computer and my environment is snubbing its nose at me. ;)
+      
+      I'm sure my friends could care less about how clean my home is, just as yours, they will love me anyway and just enjoy the time we share.
+      
+      It was a great read, thanks for sharing.
+  - author: "Deb Raney"
+    date: "2006-01-12T23:29:05"
+    text: |
+      Having been a guest at said retreat, I can vouch that Nancy's house was tidy and homey and welcoming, and I'm quite sure the sheets I slept on came straight from the linen closet (but oh, did it ever do my heart good to know that others have been tempted to pass off used-only-once guest room sheets as fresh! LOL!)
+      
+      You are so right that people never care what your house looks like if you've made them feel treasured and welcome - which you are a master at, Nancy.
+      
+      Great column!
+  - author: "Katy"
+    date: "2006-01-12T23:52:56"
+    text: |
+      I remember arriving at Nancy's house one day to find her in a flurry with her Oreck! I said, "You don't need to vacuum for ME," and she said, "I'm not. I'm being interviewed this afternoon for my new book and they're bringing cameras!"
+      
+      I'm telling you, Nancy has got her priorities in order!   :)
+  - author: "susan"
+    date: "2006-01-13T02:19:23"
+    text: |
+      Nancy, 
+      enjoyed this bit of yours about housecleaning and guests and procrastination. Have continued to kick myself for not purchasing a little sign I saw once that summed me up quite nicely: "My idea of housework is sweeping the room with a glance." 
+      
+      Thanks for the smiles.
+  - author: "Liz"
+    date: "2006-01-13T06:36:24"
+    text: "Sounds like a lovely time."
+  - author: "Ame"
+    date: "2006-01-14T04:48:22"
+    text: |
+      Ahhhhhh . . . how normal you make me feel :)
+  - author: "Marco"
+    date: "2008-12-27T05:27:50"
+    text: "Not very normal i think...;-)"
 ---
 
 <i>(Nancy Moser, who lives just ten minutes away from Katy, is today's guest blogger on fallible. Nancy is also Katy's dear, dear friend.)</i>

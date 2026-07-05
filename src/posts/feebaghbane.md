@@ -1,6 +1,20 @@
 ---
 title: "Feebaghbane"
 date: "2006-04-07T00:27:23"
+comments:
+  - author: "EolaÃ­ gan FhÃ©ile"
+    date: "2006-04-08T08:13:40"
+    text: |
+      Katy,
+      
+      I just wanted to let you know out of courtesy that I posted an entry <a href="http://irishkc.com/2006/04/kc-irish-genealogy-story.htm">tonight on IrishKC.com</a> about your Feebaghbane post. I've been following your story and as someone from Ireland now living in Kansas City, I found it quite moving. I wish you well with your trip.
+  - author: "Katy"
+    date: "2006-04-08T13:01:28"
+    text: |
+      Eolai--Wow! Thank you. I did not know about your site, and will be a regular reader from now on. We try to keep up with the Irish goings-on in KC, especially everything to do with trad Irish music and the fest. My husband is quite the whistle player, he is.  :)
+  - author: "enda mc kenna"
+    date: "2009-06-15T21:09:54"
+    text: "hi.im very proud to be a native of feebaghbane hill,son of john+mary mckenna,grandson of james and im a bit concerned about your negative comments about my birthplace.ive got nothing but fond memories of my early life there.although from a monetary perspective things were tough we were more than compensated by quality family life"
 ---
 
 You read that right: Feebaghbane. A tiny cross in the road, near the miniature village of Scotstown, in the section of the county called Tydavnet, in County Monaghan, Ireland.

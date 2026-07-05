@@ -1,6 +1,46 @@
 ---
 title: "A Soapbox Moment"
 date: "2006-01-10T21:08:24"
+comments:
+  - author: "Heather"
+    date: "2006-01-11T01:25:04"
+    text: "Thanks, Robin.  You pumped me up."
+  - author: "Ame"
+    date: "2006-01-11T04:56:01"
+    text: |
+      I think that's great advice for all of life, Robin.  Yes, there are laws we must follow.  And there are rules . . . be at work on time; work while you're at work; don't lie, etc.  But it's our whole hearts God wants.  And when He inhabits our whole hearts, He fills us with His passion for our lives, and that is what should flow from our very souls into everything we do!
+      
+      Among other things, I've always had a deep passion to be a really great Mommy.  If I'd forced myself to follow all the "rules," and God knows how many times I tried, I would have really screwed up my little girls already.  I finally had to take all the rules and advice, lay them with my children at the feet of Jesus, and ask Him to raise me up to be the Momma each of my daughters needs me to be just for her - and then enable me to be/become that person.  Works best that way every time in every area of my life :)
+  - author: "Kathryn, the daring one"
+    date: "2006-01-11T08:40:10"
+    text: |
+      That is fabu.  I think most of us bloggers are writers, "practicing" for when we really write.  We just need to dive in and do it.
+  - author: "Katy"
+    date: "2006-01-11T13:57:23"
+    text: |
+      Robin--You've managed to encourage me on this subject all over again! I think I've read every writing book and writing website until maybe I've "ruled" myself right out of the game. I know the rules, now I just need to embrace the "writes." Thank you!!
+  - author: "Jennifer"
+    date: "2006-01-11T16:09:08"
+    text: |
+      <i>Tell the story that will not let go of your thoughts and emotions.</i>
+      
+      Amen.
+      
+      Coincidentally, it so happens the ones written from this passion are the ones I love to read.
+      
+      Words of wisdom, to be sure.
+  - author: "Camy Tang"
+    date: "2006-01-12T03:42:23"
+    text: |
+      Thanks, Robin. That is TOTALLY true. I actually have a hard time writing if there isn't something vitally important to me in the story--it lets me write passionately, no holds barred. The clean-up is for the revision process later. :)
+      Camy
+  - author: "Kansas Bob"
+    date: "2006-01-12T13:48:55"
+    text: |
+      A while back I realized that being published is sometimes not about having something to say but about being famous.  I'd rather read the musings of Christian bloggers than those of Christian celebrities.
+  - author: "Paul N."
+    date: "2006-01-13T18:33:31"
+    text: "Thank you, Robin--and Katy. Good stuff."
 ---
 
 <i>(Guest blogger Robin Lee Hatcher is filling in for Katy, who is taking this blog entry with more than a grain of...soap.)</i>

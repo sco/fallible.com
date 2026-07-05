@@ -1,6 +1,31 @@
 ---
 title: "A Moment Like This"
 date: "2008-04-21T23:14:00"
+comments:
+  - author: "Patti"
+    date: "2008-04-22T00:50:25"
+    text: |
+      When is your novel based on Mom coming out? Can't wait to read it...
+  - author: "Kathryn Harris"
+    date: "2008-04-22T17:56:28"
+    text: |
+      I'm right there with you. I remember trivial details from years ago like they are nobody's business, but remembering things in the here and now ...not a chance. Somebody once told me to improve your short-term memory you need to switch up your routine often. I guess we get so used to the same-old same-old we find comfort with the pattern and blind ourselves to the small variations. 
+      On second thought, maybe that person was just trying to tell me that I'm old and set in my ways. ;-)
+  - author: "Angela"
+    date: "2008-04-22T21:58:17"
+    text: "You have such a precious personality"
+  - author: "alison"
+    date: "2008-04-24T21:09:24"
+    text: |
+      I think I cost my parents $70, but I am a couple of years older than you and it was a relatively small town. I think my parents may have gotten the clergy discount. My older sister only cost $35 but, as they say, you get what you pay for. 
+      
+      There are a lot of details about my mom's side of the family that I didn't learn until Aunt June was a good 10 years into dementia, and then for some reason she decided to unburden herself on me. So now I am the bearer of the family secrets that no one wants to talk about or even know about. Just wait until my book comes out!!
+  - author: "GodlyDads.com"
+    date: "2008-04-25T15:23:51"
+    text: |
+      Don't even get me started on trying to switch our medical insurance from a Washington account to an Idaho account (with the same company)...I should have sent them a bill for all the different phone calls WE had to make to get it done.
+      
+      Good rant!
 ---
 
 Now that I'm *ahem* the age I am, I gotta tell ya living in the moment is overrated. In fact, it's darned near impossible.

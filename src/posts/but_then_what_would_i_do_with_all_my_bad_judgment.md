@@ -1,6 +1,20 @@
 ---
 title: "But Then What Would I Do With All My Bad Judgment?"
 date: "2005-12-04T18:51:45"
+comments:
+  - author: "Ame"
+    date: "2005-12-04T20:57:17"
+    text: |
+      Ohhhh, Katy, but think of it!!!  It could be REALLY fun!  After all . . . no boundaries, right?!!  :)  And how many family members will he open his gift in front of?  Hummmmm . . . . hehehehehe :)
+  - author: "kevin"
+    date: "2005-12-06T02:26:02"
+    text: "thats one dollar already right?"
+  - author: "Michael Main"
+    date: "2005-12-06T16:37:59"
+    text: |
+      Gift cards...all around...Don't like 'em..swap 'em.
+      
+      -M
 ---
 
 The emails and phone calls have begun.

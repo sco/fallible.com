@@ -1,6 +1,13 @@
 ---
 title: "Don't Know Much About The Big Three"
 date: "2008-11-23T17:13:00"
+comments:
+  - author: "D'Ann Mateer"
+    date: "2008-11-25T03:06:16"
+    text: "Your common sense approach to economics continues to warm my heart! Hmm. Maybe you consider doing a book . . ."
+  - author: "Milka Giordano"
+    date: "2009-11-13T15:57:37"
+    text: "Yes, it seems that you know a little bit about car manufacturing too. I would like to invite you to join Freelancer.com to do more projects on manufacturing or even write a book. Use this code BUILDIT4ME to get more advantages from the site. Good luck."
 ---
 
 I've gone on record here at fallible in expressing my utter disdain for bailouts.

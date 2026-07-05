@@ -1,6 +1,55 @@
 ---
 title: "Books, Glorious Books!"
 date: "2008-01-13T20:52:00"
+comments:
+  - author: "Suzan"
+    date: "2008-01-13T21:58:20"
+    text: |
+      Atkins, yes. Trinity, yes! I read Trinity years ago and still remember Conor Larkin. It was so good. Maybe I should do a re-read! :-)
+  - author: "Katy"
+    date: "2008-01-13T22:33:29"
+    text: |
+      Suzan--Trinity and Dr. Atkins are inexorably linked in my psyche. I must have read Trinity the first time right when I started low-carbing. THE line that stands out in my mind was spoken by Conor's mother as she laid out a modest meal for him and his compatriots. "Don't be afraid of the butter." Funny line, eh? I haven't been afraid of the butter since!!  :)
+  - author: "Carrie K."
+    date: "2008-01-14T01:07:28"
+    text: "One of my favorite Christmas gifts of all time was a first edition copy of Trinity from my best friend last year."
+  - author: "Jennifer"
+    date: "2008-01-14T01:13:16"
+    text: |
+      This is a great meme. I might have to storeit away for a rainy day.
+      
+      And ... seriously ... 8 years, no sugar?! That's amazing and wonderful and envy inducing!
+  - author: "lisa"
+    date: "2008-01-14T19:32:04"
+    text: |
+      i've been meaning to read The Year of Living Biblically..what do you think abaout it so far?
+  - author: "terri"
+    date: "2008-01-15T21:24:53"
+    text: |
+      I'm curious about the Year of Living Biblically too.  I heard an interview with the author on NPR that made me think of it as some sort of grim comedy...is it a serious book or a joke?
+  - author: "Katy"
+    date: "2008-01-16T23:14:00"
+    text: |
+      Carrie K--What a treasure--and a treasured friend! Don't you love it so much when someone knows you that well?
+      
+      Jennifer--8 years on Feb 2. No kidding. I lost a boatload of weight, and have managed to keep off almost 50 pounds. Another 18 is gained and lost over and over.  ;)  When I do gain, it's because I'm eating TOO MUCH food, or have allowed too many carbs to creep in. But sugar is a complete no-no for me, and I am SO much healthier for it!!
+      
+      lisa and terri--I'm maybe 1/3 of the way through and haven't peeked at the ending to see his conclusions about his experiment. He claims at the beginning to be an agnostic Jew. He admits as he begins engaging in prayers of thanksgiving, supplication, praise, and repentance that he's starting to soften to the idea of God. But it's hard to take his experiment seriously, and neither do I very often find it LOL funny. I am looking forward to finding out whether his life was permanently changed in any way as a result of his "year."
+  - author: "D'Ann Mateer"
+    date: "2008-01-17T17:52:56"
+    text: |
+      I love how hearing about people's reading habits helps me to know them!
+  - author: "Alison"
+    date: "2008-01-17T23:32:16"
+    text: |
+      My Sister's Keeper was almost more than I could bear. She's a great writer, though. I couldn't put it down.
+  - author: "89"
+    date: "2008-02-16T21:23:42"
+    text: "Thanks for the suggestion. ;)"
+  - author: "No Sugar No White Flour Dieting"
+    date: "2008-03-04T13:55:03"
+    text: |
+      The whole list is perfect, apart from the Atkin's diet - I've heard lots of contriversy and skepticism surrounding the real benefits and dangers of it.
 ---
 
 The delightful <a href="http://www.relevantblog.blogspot.com/" title="Mary DeMuth">Mary DeMuth</a>, herself the author of both fiction and non-fiction of the life-changing variety, has tagged me to play along with a book meme, and I cannot resist.

@@ -1,6 +1,92 @@
 ---
 title: "Holidaze"
 date: "2006-12-28T14:29:47"
+comments:
+  - author: "jackie"
+    date: "2006-12-28T16:24:30"
+    text: |
+      That's sweet that you took Christmas to her.  I had to laugh though, because although I don't make New Year's resolutions, I decided that my mantra would be "Focus".  Muddle through does sound much more doable though. You're totally right about the medications too.  Good thing your family has you to watch out for them.  And happy early birthday
+  - author: "AC"
+    date: "2006-12-29T02:34:55"
+    text: |
+      Mine will be, as usual, don't be lazy.
+      
+      That was sweet, taking dinner to her.
+      Happy Birthday, I'm right behind you.
+  - author: "Michael  Main"
+    date: "2006-12-29T04:46:14"
+    text: |
+      Have a wonderful birthday! 
+      
+      You seem to already have received the gift.
+      
+      
+      God Bless,
+      
+      Michael
+  - author: "Carrie K."
+    date: "2006-12-29T19:39:23"
+    text: "Have a blessed birthday, Katy!"
+  - author: "Jeanne Damoff"
+    date: "2006-12-30T02:38:58"
+    text: |
+      Happy Birthday! You're awesome.
+      
+      Love, Jeanne
+  - author: "Lynn"
+    date: "2006-12-30T05:44:18"
+    text: "Happy birthday!"
+  - author: "Michael  Main"
+    date: "2006-12-30T13:16:36"
+    text: |
+      While I'm at it, let me wish you and Doug and the entire "family" a  glorious New Year!  Thank you for all your encouragement and support in 2006!
+      
+      Michael
+  - author: "Katy"
+    date: "2006-12-30T13:56:58"
+    text: |
+      Jackie--"Focus" would be THE most ambitious resolution I've EVER attempted! Do you have specific things you hope to focus on?
+      
+      AC--You are right behind me, age-wise? Or birthday date-wise? If it's your age, my sympathies. If it's your birthday, have a great one!!
+      
+      Michael--It is such a pleasure to "know" you and Amy. Our prayers for your missions trip, and for the orphans whose lives you'll touch.
+      
+      Carrie K--You're a doll! Thank you.
+      
+      Jeanne--Not as awesome as you, but still worth a few points.  ;)
+      
+      Lynn--Thank you so much! It's over, I'm older, but hey. I survived!
+  - author: "Suzan"
+    date: "2006-12-30T14:20:38"
+    text: |
+      Happy Birthday, Katy. We'll muddle through together.
+      Hugs
+  - author: "Sunflower"
+    date: "2006-12-30T18:36:40"
+    text: |
+      Happy birthday, Katy! You're an amazing person and so special! Hang on to your sense of humour and that muddling through will go just fine ;)
+  - author: "Macromoments"
+    date: "2006-12-30T22:53:24"
+    text: |
+      "Sometimes, Iâ€™ve found, our elders are just BEGGING for one of us to bail them out of an obviously untenable situation, without them actually having to say, â€œI am not able to make this work.â€"
+      
+      Katy,this is so true. Both my parents are gone now, but oh, how I remember...
+      
+      So glad you were able to bless Adele with a beautiful curbside Christmas.
+  - author: "jackie"
+    date: "2007-01-01T04:16:28"
+    text: |
+      Katy, that's the point, I want to focus on ONE thing. Now if I could only figure out what that is...
+  - author: "Katy"
+    date: "2007-01-01T23:05:51"
+    text: |
+      Susan--Ah, a muddling buddy. What could be better than that? Thank you.
+      
+      Sunflower--I'll tell you what. That sense of humor thing has presented its challenges in the past couple years. Where do I go to renew the darn thing?  ;)
+      
+      MacroBonnie--You sweet girl. I know you miss your Mom and Dad. I hope your Christmas was as blessed as theirs was.
+      
+      Jackie--Ain't THAT the truth!!!
 ---
 
 So. The plan was to have our little family (Scott, Brooke, Carrie, Marc and no Kevvie, 'cause of Europe calling his name) over at noon on Christmas Eve. Then, at around five, Doug's family (Mom, Lynn, Nancy and Craig) would arrive and we'd all have my homemade Christmas dinner.

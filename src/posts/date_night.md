@@ -1,6 +1,69 @@
 ---
 title: "Date Night"
 date: "2007-04-20T13:33:14"
+comments:
+  - author: "Carrie K."
+    date: "2007-04-20T17:59:34"
+    text: |
+      Katy - I know you're working on a novel, but I just have to say that your experiences with your mom would make a rip-roaring, hilarious memoir! And I would be first in line to buy it.
+  - author: "Suzan"
+    date: "2007-04-20T18:04:41"
+    text: |
+      This is hilarious, but I feel guilty laughing about it, because it's such a difficult thing to actually deal with. 
+      
+      Hang in there, girl! Give yourselves another date night this week.
+  - author: "Katy"
+    date: "2007-04-20T19:33:10"
+    text: |
+      Carrie K--I would be pleased to sell it to you! Better yet, to hand off the whole crazy experience--for free! That's how generous I'm feeling. Just kidding. My current novel has a demented aunt who is quite a riot. She will play heavily into the next book, probably pulling some of the same stunts my mother has. Gotta use this stuff somehow!
+      
+      Suzan--Please, laugh!!! The only way I can deal with it is to get whatever laughs I can out of the situations. To do otherwise would be to sink into the slough of despond, a place I'd rather not go.....  :)
+  - author: "Anna"
+    date: "2007-04-20T20:04:30"
+    text: "Can you tell us what your book is about or is it top secret? I love really good characters."
+  - author: "Aithyne"
+    date: "2007-04-22T21:17:58"
+    text: |
+      It's good you can laugh about it some! It has to be so hard. I hope things get better...*hugs*
+  - author: "Beverly"
+    date: "2007-04-23T04:41:19"
+    text: |
+      I couldn't sleep, so I started reading blogs.  I think that might finish me off.  I'm sorry I couldn't stop laughing.
+  - author: "Annette Smith"
+    date: "2007-04-23T14:06:21"
+    text: |
+      Too funny! Loved this post. Shared your site with my mom. She loved it too. You've a real gift for writing humor. Keep up the great work!
+  - author: "Katy"
+    date: "2007-04-23T14:24:17"
+    text: |
+      Anna--Nothing top secret here!! It's the story of a baby boomer whose lines of communication with her husband--wireless though they may be--are way more tangled than those of her troubled-marriage radio show callers. It's kind of a middle-age-crisis romantic comedy. I'll keep you posted!
+      
+      Aithyne--You are so sweet! We do have short reprieves in the Mama department. But bodies and minds in gradual decline do seem to keep going in the same direction. Laughing about it all really does help!!
+      
+      Beverly--I hope you slept well after your chuckle!!!  :)
+      
+      Annette--I am reading "A Bigger Life" right now!!! Love it! And very much appreciate your encouragement, especially knowing your background as a hospice nurse. Thank you!
+  - author: "alison"
+    date: "2007-04-24T20:42:06"
+    text: "This is exactly what my daughters fear for me. No matter how much they may deny it, they see themselves someday pushing their underwear-less mother around in a wheelchair, all of us wearing matching wigs. That is probably why they keep emailing me brochures from nursing homes and asking me to pick one."
+  - author: "Katy"
+    date: "2007-04-25T18:19:53"
+    text: |
+      alison--My kids are scared, too. I'll never forget the day we told my youngest son and his new bride (who's watched me deal with The Moms) that Doug and I have purchased long-term care insurance. "THANK YOU!" she said. I still laugh about that!
+  - author: "Terri"
+    date: "2007-04-26T00:55:31"
+    text: |
+      I'm dealing with just one mother, though her falls keep us plenty busy.
+      
+      She has had a mastectomy and in the days that she still wore a prosthesis, would sometimes "whip it out" and throw it across the room at some unsuspecting soul!
+  - author: "Katy"
+    date: "2007-05-01T20:48:44"
+    text: |
+      Terri--Oh, dear Lord!! I don't know if even my mother would have thought of that! She does abandon medical equipment left and right, though. Goes AMA with regularity. She was instructed to keep her broken arm in a brace thingie for the rest of her life to "stabilize" it. She got sick of it one day and tossed it. Now she's decided no more CPAP maching, which she's used for five years. That one worries me, but if she decides to be non-compliant, I don't exactly know what to do. I wish she could whip out something non-essential and throw it!
+  - author: "galadriel"
+    date: "2007-05-04T23:06:40"
+    text: |
+      That's probably one of the funniest things I've ever read. Luke would die on the spot if I said panties in the same sentence as old lady. On the spot!
 ---
 
 (Warning! Warning! Several bodily functions disgustingly discussed herein! Read on at your own risk! But don't say you weren't warned!)

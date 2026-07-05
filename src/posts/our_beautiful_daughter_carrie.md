@@ -1,6 +1,88 @@
 ---
 title: "Our Beautiful Daughter, Carrie"
 date: "2006-04-04T13:58:25"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-04-04T15:17:00"
+    text: |
+      Hmmm. What parts make you nervous. Could it be going door-to-door in the town with the highest murder rate, and driving fast on the one-lane mountain road? 
+      
+      I'll pray with you, Katy. I know exactly how you feel, because my kids do the same sorts of things. It does make you extremely proud and thankful for the compassion and character they display. But it's not so easy to let go and set them free to spread their wings and soar into a big, bad world. May the Lord shelter her under His mighty wing and guard her going out and coming in from this time forth and forever. 
+      
+      Love, Jeanne
+  - author: "Katy"
+    date: "2006-04-04T15:28:41"
+    text: |
+      Jeanne--500 extra points for you!!!! (You probably need a few since you're always passing them out so freely...)
+      
+      Yes, those indeed are the two hot spots in Carrie's email. Orphans I'm cool with, but one-lane guardrailless vertical mountain roads descending into Trenchtown, Murder Capital Of The Universe, as evidenced by the fact that they've apparently named the place for their pre-dug graves? Not so thrilled.
+      
+      Thank you for the beautiful prayer. I know your kids are out there doing likewise, and I pray for them that they will fulfill all of God's good and exciting purposes for their lives, while at the same time getting and hanging onto wisdom. Amen!!!
+  - author: "Daniel"
+    date: "2006-04-04T20:25:18"
+    text: |
+      I found it!
+      
+      "Except that their nightlight is massive, so Iâ€™ll have to sleep with a blanket over my head."
+      
+      Don't worry Katy, a little lost sleep never hurt anyone.  Just think, she could have gone to the north or south pole during their summer months and had to sleep in 24 hour daylight! 
+      
+      Have no fear, she will be used to that nightlight soon enough.  :)
+  - author: "Lynn"
+    date: "2006-04-04T23:20:53"
+    text: |
+      Oh Katy! I see why you're so proud of her. She's a complete inspiration to me and she makes this teenager burn even more to do missionary work. Let her know I'm praying, if it will give her the slightest bit of encouragement...and that I'm proud of her too. =D
+  - author: "Michael Main"
+    date: "2006-04-05T04:14:19"
+    text: |
+      I was going to guess every word after "Greetings everyone."
+      
+      I fret day to day about our kids whether they're on an adventure or simply living their lives. 
+      
+      I remember Tiffany (our eldest) calling me when she was in college saying she was driving into the interior of Mexico with her roommate whose family lived in a poor village in Mexico.  
+      
+      I've had a lot of experience in Mexico and starting warning her about driving her car into the country, something I NEVER do.  She let me get wound up pretty tight before saying, "Oh, well it's not like this is the first time...this is just the first time I've told you I'm driving into Mexico."
+      
+      We can only hold them close for so long...then we must let them go into the world.
+      
+      Sounds like Carrie is doing wondrous things, doing God's work, and making good decisions.  
+      
+      Faith and trust...in our children and in God. It's a two way street...even if there is only one lane on occasion.
+      
+      
+      Sleep well...God is awake.
+      
+      Grace and peace,
+      
+      
+      Michael
+  - author: "Cindy Swanson"
+    date: "2006-04-05T12:28:45"
+    text: "Katy, you must be so proud of Carrie.  She sounds like a remarkable young woman!"
+  - author: "Lori BB"
+    date: "2006-04-05T20:46:42"
+    text: |
+      Katy, I know that you are proud of Carrie.  My daughter, Alcyn, has spent her last 3 summer vacations in variuos places in Latin America doing community development and health related projects.  She assured me that when she was "in country", living in the rural communities in Nicarugua, Panama, and Mexico, that she was much safer than at Westport on a Saturday night; that she was welcomed and treated as family in the homes of the people in the community. Carrie wil be fine! Alcyn talked, like Carrie, of learning to get over being afraid of being a stranger (in a strange land?) and just getting to work. 
+      Our girls are so brave!  Could we have done something like that when we were that young?  Speaking for myself, NO!!
+  - author: "Katy"
+    date: "2006-04-06T16:28:35"
+    text: |
+      Daniel--You are a hoot!  :)
+      
+      Lynn--I am sure she is checking in here to read the comments! Thank you so much.
+      
+      Michael--You are so right....Sometimes, I find myself squinting at the monitor, hoping not to see the scary words, which usually come right after "Greetings..." I am such a bloomin' chicken...(But I'm getting better. I really am.) And about your girl Tiffany (the one who goes to Harvard!!!): She and Carrie would get along great!
+      
+      Cindy--She is amazing. Of course, your kids sound pretty great, too!  :)  Isn't it wonderful to get them grown and see them doing what they were made to do?
+      
+      Lori BB--So, you and I ended up raising fearless daughters? Who knew? You've done good, Lori. I am as proud of Alcyn as I am of Carrie.
+  - author: "Maria"
+    date: "2006-04-10T04:07:32"
+    text: "You have every reason to be proud of this wonderful daughter.  I know what she is doing and where she is living is very dangerous, but what a wonderful opportunity to serve. I am particularly impressed with her understanding and compassion for the children.  I do hope her career includes teaching for she is a natural."
+  - author: "Katy"
+    date: "2006-04-13T21:00:06"
+    text: |
+      Maria--I missed this comment! Sorry....Interesting that you mention teaching. It does appear that Carrie may be offered a teaching contract for next fall, here in KC. It would be a special ed position, and she couldn't be more thrilled. She has the kindest heart of just about anyone I know....
 ---
 
 I can't resisting posting the body of the email we received from our daughter Carrie last night. She's in Jamaica, volunteering at an orphanage outside of Kingston. She's into week two of a five week stay. Read her story, and let me know if you can figure out the parts that make me nervous. (Hint: All the rest of the parts make me nothing but proud!) And if you don't mind, I'd sure appreciate prayers for my little girl.

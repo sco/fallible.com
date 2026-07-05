@@ -1,6 +1,56 @@
 ---
 title: "Hot"
 date: "2006-08-22T17:20:49"
+comments:
+  - author: "Michael #2"
+    date: "2006-08-23T15:13:38"
+    text: |
+      I so like Doug...
+      
+      :) 
+      
+      
+      Take Care
+      Michael
+  - author: "Katy"
+    date: "2006-08-23T15:23:00"
+    text: |
+      "Everybody loves Raymond. Yeah, yeah, yeah."   ;)
+  - author: "Michael Main"
+    date: "2006-08-23T15:49:45"
+    text: |
+      Amy thinks she's been having hot flashes....I think I am too...but then again it's been 100+ degrees here for 30+ days...I'm having hot "months."
+      
+      -M
+  - author: "Katy"
+    date: "2006-08-23T18:08:26"
+    text: |
+      Amy will KNOW. Trust me. It's like being in labor. You kinda sorta think maybe you're in labor, but then you KNOW!
+      
+      Also, if Amy remembers what "transition" is like in labor--there's an element of that out-of-reality weirdness of transition that's included in my hot flashes. SO. MUCH. FUN.
+      No one should be denied this pleasure.
+  - author: "Anne"
+    date: "2006-08-23T23:33:51"
+    text: |
+      All I can say is that you're not alone, Katy. Well... to be truthful... that's not all I CAN say, just all I will or should say at this very warm moment in time... :)
+  - author: "lisa"
+    date: "2006-08-23T23:37:49"
+    text: |
+      i confess that i've been pointing every single air conditioning vent at my face every time i get in the car since we moved just about as far south as you can and still feel like you're on u.s. soil. don't feel bad, katy, i heard it's been pretty hot back in kansas ;)
+  - author: "joshua"
+    date: "2006-08-24T03:27:55"
+    text: |
+      a smart man knows when to keep quiet...sounds like you got a smart man there. 
+      
+      the photo series on the left is nice. very personable.
+  - author: "Katy"
+    date: "2006-08-24T14:14:52"
+    text: |
+      Anne--You are a paragon of virtue! I admire your self-control...  :)
+      
+      Lisa--It was brutal here for weeks, but we're getting a bit of a break. "We," but not "I". Ha. How are you guys doing down there? I miss you being my "neighbor"....
+      
+      Joshua--He is a very wise man. BTW, I read my husband the tribute you wrote to your father on your site. We both loved it!  Thanks about the pics. I thought it was time...  :)
 ---
 
 After six years relatively symptom-free, I'm having hot flashes from hello.

@@ -1,6 +1,48 @@
 ---
 title: "The Purpose Driven Funeral?"
 date: "2006-02-08T18:00:32"
+comments:
+  - author: "Carrie K."
+    date: "2006-02-08T22:49:34"
+    text: |
+      Katy - 
+      I complete agree - I blogged about this today, too.
+  - author: "Liz"
+    date: "2006-02-09T04:28:18"
+    text: "I think we should just read your blog out loud at your funeral.  What do you think?"
+  - author: "Katy"
+    date: "2006-02-09T13:26:46"
+    text: |
+      Carrie K--We are kindred spirits. I loved what you wrote...
+      
+      Liz--Perfect! But then, would you come? It would be like watching a repeat!
+  - author: "Jeanne Damoff"
+    date: "2006-02-09T23:59:39"
+    text: |
+      Your daddy sounds like he was a hoot! 
+      
+      The funerals that have moved me most have been the ones where people--friends, relatives, co-workers, whoever--got up one by one and shared favorite stories and memories. No one was in any hurry. People who may have nothing more in common with each other than a shared love for the deceased--all laughing and crying together.  
+      
+      That just seems right to me. Then there should be an all-night dance party. Cuz, hey, when I go, I'll be busting my moves on the golden streets, baby.
+  - author: "Katy"
+    date: "2006-02-10T00:38:59"
+    text: |
+      Jeanne the Dancing Machine--It never occurred to me to have a dance, but that's a great idea! Doing something that really represents the life of the one who died. In my family of origin, that would mean having the funeral at a casino!
+      
+      I also love it when there's an open mike at a funeral. You feel like you get to know parts of the person's life that maybe you'd never been aware of before. 
+      And yes, my dad was something else!
+  - author: "Barb"
+    date: "2006-02-16T03:36:20"
+    text: |
+      I thought the actions by some were disgraceful (Carter, Lowery ), and says a lot about them as a person. Lowery said on TV that he was sent a paper and requested to talk about what he did, although I don't believe he was requested to put down the President.  Those were cheap shots they took!  And, a funeral is no place to air those sort of things.
+  - author: "Katy"
+    date: "2006-02-16T04:47:17"
+    text: |
+      Barb--I so agree with you! And thanks for checking in here. I'm off to see your blog now.  :)
+  - author: "Eric"
+    date: "2006-02-18T00:52:33"
+    text: |
+      Sounds a bit like the Wellstone "funeral/rally". I was of the same oppinion when listening to the diatribes during a time when a celebration of a life was to be happening. After the Wellstone fiasco in MN one it was remarked that politics is the religion of the left (note: I did not say democrats). This is the be all and end all for them. They see nothing beyond this world. Oh well...just a couple of thoughts...thanks for a great post....
 ---
 
 Let me go on record: I'm all about the purpose-driven life. And The Purpose Driven Life, for that matter. What irks me is the purpose-driven funeral.

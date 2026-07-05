@@ -1,6 +1,60 @@
 ---
 title: "Exhale"
 date: "2005-08-11T22:15:01"
+comments:
+  - author: "Hope"
+    date: "2005-08-12T05:43:44"
+    text: |
+      You are doing exhausting work - work that has sacredness written all over it.  I know that doing one thing is not more sacred than another but there are times when the sacred seems to shine a bit brighter than it normally does. Keep up your courage.  If only we all had such an advocate as you are being for your mom.
+      
+      I understand your humour too - a person just has to cling to some humour so that they don't cry.  Keep up your courage - you are an inspiration to me. 
+      -----
+  - author: "Carrie K."
+    date: "2005-08-12T11:00:34"
+    text: "Rest well, Katy."
+  - author: "irene"
+    date: "2005-08-12T11:13:49"
+    text: |
+      Hang in there, Katy! Praying for you to have strength in body and spirit :) As Carrie said, rest well.
+  - author: "The Other Katy"
+    date: "2005-08-12T12:28:41"
+    text: |
+      You write wonderfully, especially for one so tired.  God bless. 
+      K.
+  - author: "violet"
+    date: "2005-08-12T21:57:40"
+    text: "Oh my.  If I ever fall into such a state as your mum, I hope I have an advocate like you!"
+  - author: "Bridget"
+    date: "2005-08-13T09:51:26"
+    text: |
+      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I'm so thoroughly exhausted from Mom that I must have fallen asleep on the exclamation point.  LOL.  :)
+  - author: "Kevin M."
+    date: "2005-08-13T10:38:55"
+    text: |
+      So, how about a joke? :)
+      
+      This is a lot better spoken, alas...
+      
+      &quot;There's a geography teacher who wets the bed...
+      
+      his only problem was in continents.&quot;
+      
+      Hope that puts a smile on everyone's face today!
+      --Kevin--
+  - author: "Katy"
+    date: "2005-08-13T20:34:25"
+    text: |
+      Oh, Kevin!!!!!!!!!! Hey, I got my strength for exclamation points back!!! That's the funniest thing I've heard all week. And yes, my mother (and mother-in-law) have a LOT of trouble with &quot;in continents.&quot; So a joke is in order before I do go a laundry load of Mom's peed on clothes.
+      
+      I'm addicted to fallible right now. Reading your wonderful comments (plus clinging to my sanity with my sister Bridget during the day and hanging on to my hubby Doug at night) has so cheered me!! I really mean it--anybody want a peanut?? Sorry...
+      
+      Mom moved to nursing home last night. She seemed fine with the move, so Bridget and I took off after she ate dinner. Today, I'm planning to take my first day off in eight.
+      
+      I sincerely hope &quot;my plan&quot; and &quot;God's plan&quot; are the same!!!!!!!!!!
+  - author: "lisa"
+    date: "2005-08-14T01:50:08"
+    text: |
+      happy day off, katy..you've earned it!
 ---
 
 Whew.

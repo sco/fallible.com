@@ -1,6 +1,10 @@
 ---
 title: "(No Title)"
 date: "2001-02-23T01:44:15"
+comments:
+  - author: "Plumbing Utah"
+    date: "2009-03-10T11:07:27"
+    text: "Plumbers install and repair pipes, fittings, fixtures, and other plumbing equipment used for water distribution, waste water disposal, and venting in residential, commercial, institutional, and industrial buildings. Many plumbers begin their careers in plumbing as helpers to established plumbers; others enter formal training institutes"
 ---
 
 It must be admitted that I was confused, caught off guard. Maybe it was the disorientation of just having driven through a blizzard to arrive at my son Scott's new apartment, where he has set up housekeeping (right!) with a couple other guys.

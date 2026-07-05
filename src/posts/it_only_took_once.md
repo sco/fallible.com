@@ -1,6 +1,17 @@
 ---
 title: "It Only Took Once"
 date: "2006-07-08T20:06:46"
+comments:
+  - author: "Katy"
+    date: "2006-07-08T22:15:55"
+    text: |
+      When I say I wore a "tiny" dress, I don't mean skimpy. I was NOT that kind of Jesus Freak! No, my dress was tiny, as in size two tiny. And snug in the kind of way that prevented voracious eating.
+  - author: "Lynn"
+    date: "2006-07-09T19:36:08"
+    text: "AWWWWWWW. Well, okay, mushy much and it makes me happy. =)"
+  - author: "Katy"
+    date: "2006-07-10T15:05:13"
+    text: "Lynn--Mush thrills me no end! Glad you enjoy it, too...."
 ---
 
 Thirty years ago tonight, I had to ask my little sister, who was celebrating her 19th birthday, if she'd excuse me from her party just that one time.

@@ -1,6 +1,38 @@
 ---
 title: "Extracts Of Essences"
 date: "2006-07-28T19:21:57"
+comments:
+  - author: "Jennifer"
+    date: "2006-07-28T19:50:30"
+    text: "You are on such a roll!! Very proud of you. Not to mention inspired!"
+  - author: "Vicki"
+    date: "2006-07-28T21:15:54"
+    text: |
+      You go, girl! Wow, 15.5 lbs! That's great. Pass me that bacon dust....
+  - author: "butch"
+    date: "2006-07-29T00:09:58"
+    text: |
+      Off-topic:
+      
+      Don't forget to vote for the Blogs of Summer Awards at <a href="http://123beta.blogspot.com">123beta</a>...
+  - author: "Donna"
+    date: "2006-07-29T06:07:25"
+    text: "Good going!"
+  - author: "Katy"
+    date: "2006-07-29T23:26:24"
+    text: |
+      You gals are so nice!
+      
+      And yes, Butch, that WAS off topic.
+  - author: "Susan"
+    date: "2006-08-03T05:23:19"
+    text: |
+      Again, I love how you express yourself - so poetically, so visually.
+      
+      I join the others in the congrats!
+  - author: "mellissa"
+    date: "2006-08-17T15:38:29"
+    text: "Bacon dust?... It may be good for you, but not for me!"
 ---
 
 Man, I've got the dieting bull by the horns this time.

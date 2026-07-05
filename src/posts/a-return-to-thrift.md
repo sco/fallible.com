@@ -1,6 +1,39 @@
 ---
 title: "A Return To Thrift"
 date: "2009-01-14T18:31:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2009-01-15T16:21:17"
+    text: |
+      Katy,
+      Can we return to the simpler and more personal times of passbook savings and S&H;green stamps. Passing on the discipline and rituals of "saving" money - not investing it with some anonymous mutual fund (though I suppose we should not abandon that practice completely, let's just change it alittle. Whenever you financial advisor thinks you should invest in something, he should come over to your house, sit down at the dining room table and explain what you might gain and/or how you might loose with this investment). I too remember the joy of passbook savings. Now I move money from checking to savings online. It does still thrill me to see those numbers rise, bit holding the book in your hand does have a certain "special" thrill to it.
+      Thanks for the flashback. And keep passbooking!!
+  - author: "D'Ann Mateer"
+    date: "2009-01-15T16:23:16"
+    text: |
+      I had passbook savings accounts, too--in fact we had one not long ago (last year) but the bank got bought and now we just get a statement. 
+      
+      My kids have savings accounts, but the receipt they get which shows their new balance when they make a deposit isn't, in my opinion, quite as cool as a passbook was--though they seem quite happy with the arrangement. Then again, they have no idea what they are missing!
+  - author: "Terri"
+    date: "2009-01-15T17:51:20"
+    text: |
+      I had one of these when I was a kid.  My baby-sitting money was sent to "Allstate" in California where my mother recalls I received 7% interest!  It accumulated throughout high school and was my start up fund when my adult life began.
+      
+      I am now a fan of face to face banking.  I make a point to get to know the faces, if not the names, of clerks in my local banks.  At times in the past this has paid off--when children tried to cash their CD's before they were old enough or to withdraw small amounts from savings funds when they were not authorized to.  Personal banking pays off.
+  - author: "violet"
+    date: "2009-01-16T05:07:10"
+    text: |
+      Ah, you do have a way with words. I love the line: "I never anticipated that a time would come again in which Iâ€™d receive so much instant gratification from deferred gratification."
+  - author: "Harry-avandia lawyer"
+    date: "2009-02-12T06:29:19"
+    text: "Really a good and interactive post, i think the post is informative and knowledge providing both in regard of current affairs and present economic Situations."
+  - author: "Adam-Victoria Mortgage Brokers"
+    date: "2009-03-19T04:59:19"
+    text: "Really a good post, Post is good in regards of meaningful information. Thanks for the post."
+  - author: "Mika"
+    date: "2009-08-15T15:02:37"
+    text: |
+      Do you know, with heightened environmental awareness, another audience has join the thrifty folks. The Eco-thrifting is a finely tuned method to reduce one's carbon footprints with positive shopping behavior. These people not only seeks to save cash but also save carbon points.
 ---
 
 There will be some of you fallible readers who have no idea what I'm talking about when I use the term "passbook savings," but maybe you'll understand after I explain the concept.

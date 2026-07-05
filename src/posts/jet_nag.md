@@ -1,6 +1,22 @@
 ---
 title: "Jet Nag"
 date: "2007-06-13T11:20:02"
+comments:
+  - author: "Suzan"
+    date: "2007-06-13T15:18:00"
+    text: "Welcome home! Photos?"
+  - author: "Bridget"
+    date: "2007-06-13T16:27:19"
+    text: |
+      Your kids can't possibly be this old.  After all, I babysat them, changed their diapers, etc. etc.  That makes ME old, and I'm not ready to consider that yet.
+      I'm so glad that you all made it home safely!
+  - author: "Sunflower"
+    date: "2007-06-14T06:35:55"
+    text: "Welcome home, Katy! That sure is a lot of transitioning all at one go... will pray for strength ;)"
+  - author: "lisa"
+    date: "2007-06-15T04:38:41"
+    text: |
+      hello again katy..you sure have been busy! i was laughing at the story of your mom and her sonic coney today after a wendy's run with our kiddos. blessings as you gear up for wedding #2 lady!
 ---
 
 We are home from Switzerland and have simultaneously exchanged one Revolving Door Kid with another.

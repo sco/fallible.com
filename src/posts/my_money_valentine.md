@@ -1,6 +1,29 @@
 ---
 title: "My Money Valentine"
 date: "2007-02-14T20:43:38"
+comments:
+  - author: "Suzan"
+    date: "2007-02-14T21:36:59"
+    text: |
+      I like it!!
+      BTW, just to show you how romantic we aren't, we're going out for burgers tonight. And Bruce got me a card and took me to Starbucks this afternoon. I got him a card. That's about it. Why celebrate "us" only one day a year, right? We celebrate every day!
+  - author: "Katy"
+    date: "2007-02-14T21:51:28"
+    text: |
+      Suzan--Not romantic by whose standards??? You two sound plenty romantic to me, especially the "best friends" part. This year is the FIRST year I have not sent cards to my hubby, three children, and our two mothers. Doug didn't buy me one, either. I've got a Rubbermaid tote full of cards. We can pull them out and go through them and say, "Them's my sentiments exactly!"
+      
+      We had a buy one/get one coupon at Caribou, where we also have several gift cards to spend. So, free coffee to celebrate the day!! (Just like yesterday!)
+      
+      I got Doug something you would like, Suzan. It's a book/CD published by Levinger's. The CD is the recorded version of Winston Churchill's "Finest Hour" speech, of 18 June 1940. The book is a facsimile of the various edited versions of the speech, with his hand-written edits. Fantastic. Can't wait to go through it with Doug. SO, SO romantic...  :)
+  - author: "Suzan"
+    date: "2007-02-15T12:24:50"
+    text: |
+      Cool about the Churchill book. I'll have to look it up.
+       
+      We enjoyed the burgers. Then we watched, "A Man Called Peter," about the life of minister Peter Marshall. It was a great evening.
+  - author: "Money Maker Ideas"
+    date: "2009-07-11T01:18:52"
+    text: "Really its a interesting post, I always enjoy reading such posts which provides knowledge based information."
 ---
 
 If you've read the advice of those who want to help you not be parted so easily from your money, you probably know this little gem:

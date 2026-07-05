@@ -1,6 +1,50 @@
 ---
 title: "Leave Of Absence"
 date: "2006-03-16T14:14:38"
+comments:
+  - author: "Carrie K."
+    date: "2006-03-16T19:39:21"
+    text: |
+      Oh, I am so jealous! But you deserve it so much after the year you've had. I can't wait to experience it vicariously through your blog posts!
+  - author: "Daniel"
+    date: "2006-03-16T20:14:59"
+    text: |
+      Did you get a chance to read any heart-dampening stories?  
+      
+      Congrats on the up-and-coming trip!
+  - author: "Maria"
+    date: "2006-03-17T01:01:40"
+    text: |
+      Count me in on the jealous list and I too am looking forward to posts from Scotland and Ireland.
+      Have a great St. Patrick's Day!
+  - author: "Katy"
+    date: "2006-03-17T01:32:43"
+    text: |
+      Carrie K--You are one of the main people I thought of when I posted this! And Cindy Swanson, too, who really wants to go to the old country, as well. I don't want to make anyone jealous, believe me. I hope I can "represent," so that you'll almost feel like you've gone, too.
+      
+      Daniel--I laughed myself to sleep last night over the book you loaned me. Hugely entertaining. See you next week!
+      
+      Maria--You and your hubby have had some great travels, too--and to places I know nothing about. You're so adventurous! Doug and I haven't gotten to travel very much, but boy are we hooked on the old country. I'll tell more about our "addiction" in the days to come.
+      
+      Happy St. Patrick's Day, everyone!
+  - author: "Daniel"
+    date: "2006-03-17T05:22:59"
+    text: |
+      To answer your question, Katy, I have been to Ireland twice.  The first time I went was back in 97 on a "mission trip."  I went with a group of about 70 other students.  Along with being my first "mission trip," it holds holds many other firsts for me.  Namely, my first bar experience, first cigar, and first, but not last, purging session behind a bar.  What can I say, I wanted to give something back to Galway. God I love Ireland.
+      
+      The second time I went was a little over two years ago.  The fam and I stayed in Dublin at a Jesuit House.  The Jesuits who we stayed with are quite famous.  Read about their famous discovery: 
+      
+      http://en.wikipedia.org/wiki/The_Taking_of_Christ
+      
+      Speaking of name dropping, Lindsay and I slept in their bed!
+  - author: "Ame"
+    date: "2006-03-17T07:36:57"
+    text: |
+      Ahhh, Katy!  Have a wonderful time!!!  I have a dear friend whose husband had a near death accident many, many years ago.  She can and does walk into any hospital as though it's home.  She handles it all so well . . . if I even end up in a similar situation, she's the first one I'm gonna call!!!
+  - author: "lisa"
+    date: "2006-03-19T02:25:02"
+    text: |
+      you go, katy! i hope you have a marvelous time. and please put me on the "i sure hope she blogs from over the big pond" list, willya?
 ---
 
 I don't know if you've noticed this, but I don't get out much.

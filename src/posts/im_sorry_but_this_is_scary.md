@@ -1,6 +1,62 @@
 ---
 title: "I'm Sorry, But This Is Scary!"
 date: "2006-01-07T22:07:08"
+comments:
+  - author: "Kathryn, the daring one"
+    date: "2006-01-08T03:33:13"
+    text: |
+      You so crack me up.  Maybe Doug should look into it, but I'm pretty sure it's not for you.
+  - author: "Ame"
+    date: "2006-01-08T07:37:46"
+    text: |
+      Tooooo Funny!!!!!!  Whew is RIGHT!  I'm with you . . . if they want to talk "Final," they need to talk YOUR language!!!
+  - author: "Katy"
+    date: "2006-01-08T19:46:33"
+    text: |
+      Kathryn--Really. It's the principle of the thing, you know?  ;)
+      
+      Ame--I'm about to send back the mailer with my own message attached. "Don't mess with me." When I read the first line of the letter to Doug, he said one word. "Great."
+      Poor baby. He's pretty resigned to his fate, I guess. But I'll go out kicking and screaming, probably about all my interim expenses that remain unpaid!
+  - author: "Ame"
+    date: "2006-01-08T21:22:55"
+    text: "You know, you could tear it all up in tiny pieces, stick them in the return envelope, seal it, and send it all back with a Big NO THANKS on the outside!!!  HAHAHAHAHA"
+  - author: "William"
+    date: "2007-11-07T23:06:14"
+    text: |
+      I got one of those today and I wasn't offended. Guess I just don't have my nose quite as high in the air as you. Careful, if it rains you may drown.
+  - author: "The EWS Financial Group"
+    date: "2007-12-24T16:35:02"
+    text: |
+      The â€œTOP 14 â€ reasons why YOU should purchase a Final Expense Planâ€¦NOW!
+      1.      YOU are in total control of how you want your final arrangements handled. 
+      
+      2.      Nursing Homes, Hospitals, and other creditors cannot attach your benefits
+      
+      3.      Special underwriting guidelines for almost every health condition
+      
+      4.      Pay off Credit Card debts, Auto loans, Mortgage balance, Medical bills, etc.
+      
+      5.      Your loved ones can use any funeral home 
+      
+      6.      FINAL EXPENSE plans take the financial burden off your loved ones.
+      
+      7.      A FINAL EXPENSE plan gives YOU and YOUR Loved Ones peace of mind
+      
+      8.      The check comes to your loved ones.   NOT to the Funeral Home.
+      
+      9.      The cash benefits are TAX FREE and go directly to your beneficiary. 
+      
+      10.  These policies can be purchased with death benefits that range from $500 - $25,000. 
+      
+      11.  Simplified underwriting make approval quick and easy. 
+      
+      12.  Typically, no exam or blood work is required. 
+      
+      13.  The life insurance coverage is permanent. 
+      
+      14.  Life insurance premiums never change . 
+      
+      For a Free Quote click here NOW!   http://www.MyFinalExpensePolicy.com
 ---
 
 Just when I thought it was safe to open the mail, I get this piece today:

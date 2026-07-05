@@ -1,6 +1,81 @@
 ---
 title: "Through Irish Eyes"
 date: "2008-05-07T22:40:00"
+comments:
+  - author: "Kelley"
+    date: "2008-05-07T23:56:21"
+    text: |
+      You know, Patrick Dempsey (ala "McDreamy") works for me as an Irish hero... count me in the drawing. I love Irish books!
+  - author: "Katy"
+    date: "2008-05-07T23:59:25"
+    text: |
+      Kelley--I don't watch the show, but I DO know who Dr. McDreamy is, and I think you might be onto something!! Now if we can just get BJ to agree....  :)
+  - author: "Gracie"
+    date: "2008-05-08T01:17:29"
+    text: |
+      This is my first comment on Fallible, but I've been reading for awhile. I loved this interview with B.J. Hoff and your musings on Ireland and her latest novel. Irish history is so fascinating (and romantic ;) Please enter me in the drawing!
+  - author: "Katy"
+    date: "2008-05-08T01:20:26"
+    text: "Gracie--Welcome here!! If you win a book, I guarantee your enjoyment of Irish history will be enhanced. Best wishes!"
+  - author: "Sandi Thompson"
+    date: "2008-05-08T20:08:55"
+    text: |
+      Thanks for your talk with BJ. She was one of the authors whose Irish books drove me to research my ancestry. Maybe we could try Val Kilmer. He's may not be Irish, but he could pull of the role.
+  - author: "BJ"
+    date: "2008-05-08T20:30:36"
+    text: |
+      Ah, Katy--I fear I shouldn't have been so quick to give a thumbs-down to your choice of Pierce Brosnan for the character of Jack Kane, but ... we can do better, sure. 
+      
+      McDreamy is ... dreamy (and I have a son-in-law who takes a terrible razzing from me because he so resembles Patrick Dempsey)--but I fear he's not quite right for Jack. We need a true Gael who's not shy of getting news ink under his nails and has a bit of brawn in his back, don't you see? That's why no one but Sir Sean has ever worked for me. Just as he was the *only* James Bond (far as I'm concerned, there hasn't been a genuine 007 since Connery stopped playing him), he seems to be the  *only* Jack Kane. Sorry, Katy--what can I do to make up for this?!
+      
+      BJ
+  - author: "Carrie K."
+    date: "2008-05-08T21:45:25"
+    text: |
+      Katy, I have to agree with BJ - I think Gerry Butler would fit the type she's describing. Plus, he's yummy. 
+      
+      I have read BJ's blog for a long time, but haven't read any of her books yet. I'd love to win!
+  - author: "Bridget"
+    date: "2008-05-08T23:36:16"
+    text: |
+      New book...you know I'm in.  Maybe I'll get lucky this time.  :)
+  - author: "Katy"
+    date: "2008-05-09T02:10:29"
+    text: |
+      Sandi--And isn't researching your ancestry so rewarding?? I have had SO much fun working on mine--and I knew next to nothing when I started. Now I've actually stood among the stones of my ancestral ruin in County Monaghan. I am glad BJ inspired you!!
+      
+      BJ--I think I just jumped on the Black Irish thing. I DO like Pierce a lot, though. But no where NEAR as much as Sean. And  then there's Colin Farrell with those eyes. I guess Liam Neeson is too old? I care rather deeply for him.  :)  I fear you've created a character in Jack Kane that can't be matched with many among the current batch of available actors--all the more reason to read your book, eh??? Romance abounds....
+      
+      Carrie K--Gerry Butler is quite the hunk, all right. He deserves top consideration. You and BJ are right about him.....And Carrie, you would really enjoy the Irish stories, with your love of all things Irish!!
+      
+      Bridget--May the luck of the Irish be with you, my dear wee sister!!
+  - author: "Nancy Wood"
+    date: "2008-05-09T16:44:00"
+    text: |
+      I have no suggestions other than good 'ole Sean, but maybe after I read the book, others will come to me!  So put me  in the drawing!
+  - author: "Mary Anne Green"
+    date: "2008-05-09T17:15:41"
+    text: |
+      I seem to keep missing out on these book give-aways. Maybe I'll have the "luck of the Irish" this time....afterall, I am half Irish. Should I try to find a four leaf clover?
+  - author: "Katy"
+    date: "2008-05-09T20:02:15"
+    text: |
+      Nancy--It is difficult not to love Sean, isn't it??? Good luck in the drawing!
+      
+      Mary Anne--I did NOT know you were half Irish! I'm only 1/4, plus 1/4 Scottish (Dad was born in Scotland, as was his mother, but his dad was born in Ireland), plus all the assorted stuff on Mom's side.  ;) Those are some nice genes you've got there!
+  - author: "Sandi Thompson"
+    date: "2008-05-12T14:44:45"
+    text: |
+      Well, Sir Sean is of course the best pick for anything, as BJ has said. Like her, there is no other 007. Hoewever, when  Pierce came along, he was a real close second.
+      
+      Katy, my mother's family is all Scots and Irish, although I could probably find some Welsh there to if I looked. Ireland is rife with Price's. I am finding the Tate line harded to track, but it has been fun and challenging. 
+      
+      I love all of BJ's books that I have read, and I think I have read them all. Keep them coming, BJ.
+      
+      Sandi
+  - author: "montreal outcalls"
+    date: "2010-05-29T11:19:16"
+    text: "nice entertainment advices. i leave behind keep successful mind those and continue your function."
 ---
 
 I will eventually read all of <a href="http://www.bjhoff.com" title="BJ Hoff's historical novels">BJ Hoff's historical novels</a>, but you probably won't be surprised to know that I've started with the Irish stories. I know, I know. I can't help myself! I have learned so much about my own heritage by reading her books that I just can't say enough good about them.

@@ -1,6 +1,44 @@
 ---
 title: "Upon The River's Shore"
 date: "2006-04-12T02:24:59"
+comments:
+  - author: "jen"
+    date: "2006-04-12T19:13:07"
+    text: |
+      katy,
+      you're wonderful!  i'm fascinated by the info you shared today.  i stumbled into your blog a couple of months ago and have read a bunch of the archives.  you seem like a friend now (a one-way friend.  enough of a friend that i'm intruiged by your family history and hope you find satisfying answers to the mysteries.)
+      
+      thanks for blogging & take care,
+      jen
+      (31-yr old wife and mom of two boys, avid reader, personal trainer, cancer survivor, team-in-training cyclist, and fallible junkie)  :)
+  - author: "Katy"
+    date: "2006-04-13T13:39:08"
+    text: |
+      Jen--Well, you've made my day! (Actually, two days, since I'm late in responding...) Welcome here, and I'm so glad you've had a chance to read back a ways. My hubby mentioned last night that he'd like to see me go back to writing more vignettes like I used to, and it got me to thinking. I guess maybe what I was writing five years ago and what "happens" now are pretty different. Ah, well...such is life!
+      
+      I am amazed by all your accomplishments and Lord knows I could use a personal trainer!!!!! I am pathetic in that department, and always manage to injure myself when I exercise. Any suggestions for a girl with herniated discs in her neck? I can only lift a couple of pounds without a problem.
+      
+      Oh, and you're also a fallible junkie???? That's a first, and I think I like it!!  :)
+      
+      Yes, we shall make fine friends.
+  - author: "jen"
+    date: "2006-04-14T02:28:25"
+    text: |
+      to be honest (i'm in the mood), as a trainer i wouldn't touch you with herniated discs. herniated anything scares me.  but i'd take you to starbucks in a heartbeat!  (well...to continue the truthfulness trend, i hate their coffee and every time i go to my favorite cafe and see the bumper sticker that says "friends don't let friends drink starbucks," i laugh. still friends?) 
+      
+      (no segue)
+      
+      we just moved from your neck of the woods last summer--we spent five years in wichita (loved it, great place).  we're back "home" in pennsylvania now, although this was move #25-ish for me:  military brat, so "home" is always in " "s.
+      
+      i'm gonna throw a quandary at you.  i was trying to access fallible at a panera (not the aforementioned favorite cafe) and their internet-police blocked the site for "hate/violence/racial something."  threw me for a sizeable loop.  any clue as to why that happened? 
+      
+      jen
+  - author: "Katy"
+    date: "2006-04-14T03:01:02"
+    text: |
+      Jen--I don't know the answer. I get a lot of comment spam of all kinds, and I try to keep up with deleting it, but I might have missed some. Also, I do use the word "panties" with some regularity, but I'm not sure that qualifies as hate/violence/racial something. Sometimes I hate particular panties with a violent vengeance, but my hatred of them has never had racial overtones that I'm aware of. If anyone else knows why fallible is banned in Panera's, please let me know! Is it something I wrote?
+      
+      Jen, I have never seen that bumper sticker! Truly hilarious!
 ---
 
 In February of 1926, my Grandpa Bernard booked a passage in steerage aboard a cattle boat called the Magpie.

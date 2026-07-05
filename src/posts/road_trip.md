@@ -1,6 +1,54 @@
 ---
 title: "Road Trip"
 date: "2005-06-07T14:16:02"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2005-06-07T22:51:21"
+    text: |
+      I love it, Katy! Heh heh. I dated a guy who couldn't ever admit to a driving mistake. Once he turned on a wrong street, and when I asked why, he said, &quot;Oh, there's a house on this street I wanted to drive by and see . . .&quot;
+      
+      Right. Like college males like nothing more than to drive by and admire the nondescript houses in an aging, middle-class neighborhood.
+      
+      One of the big ways George impressed me was the first time he visited Dallas (my city of origin), and he asked me for directions all day. Yeah, I know it's common sense to ask the person who lived in that city for 18 years, but I'm pretty sure the former boyfriend would have driven all over the city &quot;house-looking&quot; before he would have asked my assistance.
+      
+      Anyway, I loved reading this. I will always grin now when I hear or read, &quot;Abraham went out not knowing where he was going.&quot; :)
+      
+      Thanks for the chuckle. 
+      -----
+  - author: "Paula"
+    date: "2005-06-08T00:48:08"
+    text: |
+      One year we decorated the sanctuary for Father's day with 'manstuff' -- tools dangling form big orange power cords attached to the walls. It looked pretty neat. But we also had two maps of Michigan side by side on the back wall with huge block letters that said, &quot;Don't Worry, Honey...&quot; and &quot;I Know Exactly Where We Are.&quot; The pastor said it was a little unnerving to see them from where he stood trying to preach. But he got a laugh out of it.
+  - author: "Carrie K."
+    date: "2005-06-08T03:34:05"
+    text: |
+      Katy,
+      Totally off-topic, but since I know you are a fellow Irish-person, I was wondering if you have read &quot;Ireland: A Novel&quot; by Frank Delaney yet?  I just finished it last week and I still can't stop thinking and raving about it!  You should definitely read this one.
+  - author: "Katy"
+    date: "2005-06-08T05:41:45"
+    text: |
+      Jeanne--Now, see? I would have been SO impressed by George, also. Doug has no problem admitting he's lost in other ways--just when he truly, physically lost. Or misguided. Or misdirected. But he's nearly perfect in every other way! Sorry if I tainted the Holy Scripture for you...  ;)
+      
+      Paula--Hilarious! &quot;I know exactly where we are...&quot; I can see how that would unnerve your poor pastor!
+      
+      Carrie K--I saw your reference on your blog to the Irish novel, and immediately added it to my Amazon wish list (which is just a page in my journal). You made it sound too darned good to resist, and I'm taking you up on it! Thanks.
+  - author: "lisa"
+    date: "2005-06-12T22:29:05"
+    text: |
+      when we were in my hometown last month, chad insisted on driving..to learn his way around. i agreed, but don't think i wasn't gritting my teeth at the amazing amount of u-turns and exclamations -&quot;don't tell me..i think I remember this road&quot;!
+  - author: "Daddypundit"
+    date: "2005-06-14T21:56:47"
+    text: "And all this time I thought I had my wife fooled whenever I went the wrong direction. I should have known better....thanks for the great post!"
+  - author: "Katy"
+    date: "2005-06-15T08:50:57"
+    text: |
+      Lisa--Chad sounds a bit like Doug. I get dizzy just thinking about it!
+      
+      Daddypundit--It's hard to fool a good woman.  :)  Thanks for checking in here!
+  - author: "ambiance"
+    date: "2005-06-18T13:46:47"
+    text: |
+      lol...My husband's name is Doug also and I can relate.
 ---
 
 "And Abraham went out, not knowing where he was going." Genesis 12:4

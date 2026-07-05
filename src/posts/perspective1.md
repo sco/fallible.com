@@ -1,6 +1,57 @@
 ---
 title: "Perspective"
 date: "2007-05-26T14:55:59"
+comments:
+  - author: "Suzan"
+    date: "2007-05-26T19:50:56"
+    text: |
+      Oh, wow. I don't know what I would have said/done or not said/done.
+  - author: "Beverly"
+    date: "2007-05-27T00:28:34"
+    text: "I cannot begin to imagine the feelings that went through your mind."
+  - author: "Anne"
+    date: "2007-05-28T00:00:23"
+    text: |
+      Just finished "The Great Divorce" again. Perspective, perception, context and truth. Wow!  Not many get that kind of up front experience and have the grace to learn from it and leave it. I certainly never have. God bless you, Katy!
+  - author: "Vicki"
+    date: "2007-05-28T20:42:58"
+    text: |
+      Wow, this moved me. 
+      
+      I once shook hands with a noted Christian psychiatrist who ended up in prison for molesting boys. He was certainly never MY shrink, but he worked in the center where I had gone for workshops and counseling many years ago. His situation gave me the creeps, then a deep grief, for even his own wife of 30 years had not known his dark secret. At least his secret caught up with him. Maybe it was a relief---I dunno. 
+      
+      Well, I came here to tag you with a book meme and got all sidetracked with your interesting post. Katy, I love your writing. It spurs me on to write better and to keep growing in the craft.
+  - author: "Bridget"
+    date: "2007-05-28T23:01:58"
+    text: |
+      Ewww...gross...you don't need to say his name to me.  I'm thinking I would have said something, but I don't know what...especially knowing what we know about Danny...
+  - author: "Michael Main"
+    date: "2007-05-29T02:51:03"
+    text: |
+      You saw clear enough...and despite  his recent eye troubles, this man has obviously never seen clearly.
+      
+      What could you have said?
+      
+      I can only think of one thing which would be "I forgive you for the person you are...but I do it for me."
+      
+      Still sounds vengeful.
+      
+      God's clarity is 20-20.  Let Him do the speaking...and feel free to encourage Him to raise his voice when that time comes.
+      
+      Learn from the past...trust in the future.
+      
+      You now know who is worthy of being looked up to in your eyes...glasses or not.
+      
+      M
+  - author: "Bridget"
+    date: "2007-05-29T14:33:40"
+    text: |
+      Michael,
+      You are a better person, or at least in a better place, than me.  
+      Bridget
+  - author: "antique trunk"
+    date: "2008-12-03T03:14:00"
+    text: "I read a good article in your blog."
 ---
 
 I sat in the four-chair waiting area three days ago, my back to the optical showroom. Several customers milled around behind me, I knew.

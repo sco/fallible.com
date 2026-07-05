@@ -1,6 +1,41 @@
 ---
 title: "So Much Less To Be Thankful For..."
 date: "2005-11-26T21:01:48"
+comments:
+  - author: "Robin"
+    date: "2005-11-27T03:49:38"
+    text: |
+      Katy, cleaning out and ridding myself of the prison of "stuff" is one of my goals over the coming weeks and months, one drawer, one closet at a time. Your post inspired me to persevere!
+  - author: "Katy"
+    date: "2005-11-27T04:14:28"
+    text: |
+      Hang in there, Robin! It's an ongoing battle to be sure. But every time I chisel through another bar on the prison door, I'm more convinced than ever that the last thing I'll ever need is more stuff.
+      
+      The older I get, the more passionate I become about "being" and "doing," rather than "getting" and "having."
+      
+      It's a welcome change!
+  - author: "violet"
+    date: "2005-11-27T15:26:15"
+    text: |
+      Katy, you're reading my mind!!  Does this have anything to do with moving aging parents?  I know after we cleared out Mom's apartment, I looked at my accumulations in a whole new way.
+  - author: "Katy"
+    date: "2005-11-27T18:56:09"
+    text: |
+      Oh, yeah, baby! We closed down my mother's home, with its 45-year accumulation three 1/2 years ago. We moved her into assisted living, and divided the rest of the possessions. Then we moved her to an independent apartment last February. Then a few things into a nursing home in August. Then all her stuff back into assisted living a few weeks ago. And she manages to keep gathering somehow!
+      
+      We closed down my MIL's house, with its 35 year accumulation, nearly two years ago. Divided the rest of her possessions and moved her into assisted living. She, too, was (and is) an incorrigible pack-rat.
+      
+      I don't want to do the same thing to my kids! Granted, our moms were both young widows, and that makes it harder to keep up with a big home. So Doug and I are doing it NOW and on an ongoing basis. Our kids may not know enough to thank us for this later, but I'm truly thinking of them as I weed through the nonsense.
+      
+      Happy sorting!!!  :)
+  - author: "Ame"
+    date: "2005-11-28T05:16:16"
+    text: |
+      I love it, Katy :)  I sooo want to weed out MUCH of the stuff accumulated, especially the kid's stuff they've outgrown.  However, I will wait for a long time so they don't associate any of that with the divorce.  But, the day IS coming, and I cannot wait!!!
+  - author: "Jennifer"
+    date: "2005-11-29T17:39:15"
+    text: |
+      Healthy, meaningful purging. The perfect apres-Turkey Day activity. :-)
 ---
 
 Thanksgiving has come and gone and we're all stuffed to the gills. But that's no excuse for our homes to be stuffed, too.

@@ -1,6 +1,38 @@
 ---
 title: "Unto Ash We Shall Return"
 date: "2007-02-20T16:51:23"
+comments:
+  - author: "Sunflower"
+    date: "2007-02-20T20:22:39"
+    text: |
+      I hadn't thought about Lent... I don't think I've ever tried abstaining from something or making a sacrifice during Lent, ever. I'll be missing Ash Wednesday service coz I have classes in uni tomorrow night. All the best with the Internet fast... I think you're really brave ;)
+  - author: "Katy"
+    date: "2007-02-21T01:33:13"
+    text: |
+      Sunflower--I'll tell you what I am: Shaking in my slippers! Honestly, I'm a huge chicken about this stuff. I really think my (we'll just say) overuse of the Internet needs to be broken, but if God doesn't supply the grace, it ain't gonna happen.
+      
+      Isaiah 58 talks about fasting being for (among other things) "breaking bonds." That's what I'm hoping for.
+      
+      So I'm praying. And I'm scared. That's the way it works for me! Fear and commitment all tied up in one very messy package!
+  - author: "Beverly"
+    date: "2007-02-21T23:08:06"
+    text: |
+      Since it's Ash Wednesday, you might not read this for 40 days, but I so agree with you.  i came here by way of AC at Sonnets of the Hermit, and I just appreciate your expression on this season.
+      
+      I, too, have thought of the internet as an addiction.  It's hard to let go and leave it alone, especially the blogosphere.  
+      
+      Thanks.  Hallelujah for the resurrection!
+  - author: "Sunflower"
+    date: "2007-02-22T04:35:46"
+    text: |
+      Katy, fear and commitment normally go hand-in-hand with me too... I'm always like, "I'm so scared, but I HAVE to do this!" -- then I close my eyes and jump...
+  - author: "Nancy Wood"
+    date: "2007-02-22T19:19:56"
+    text: |
+      Katy, you are an inspiration! My addiction is the TV - I come home from work and "relax" for a while and soon the time flies and I've accomplished nothing while my mind has been numbed by mindless entertainment!  So, although 40 days fasting would be so good - I will go on a weekend fast first to see if I can fill the void with something that glorifies the Lord and not my flesh!  Thank you for sharing!
+      
+      much love,
+      Nancy
 ---
 
 I've spent the past two Ash Wednesdays at the hospital with my mom. I wouldn't remember that at all, of course, except for the ashes.

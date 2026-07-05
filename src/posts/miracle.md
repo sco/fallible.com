@@ -1,6 +1,44 @@
 ---
 title: "Miracle"
 date: "2006-03-23T00:17:03"
+comments:
+  - author: "rebecca"
+    date: "2006-03-23T04:49:19"
+    text: "Aaahhh!  Wonderful!"
+  - author: "Jeanne Damoff"
+    date: "2006-03-23T15:05:36"
+    text: |
+      That's awesome, Katy! And, yes, it's a miracle, which is simply anything only God can do. 
+      
+      I'm so thankful for your mother's sake and for yours.
+  - author: "Diane"
+    date: "2006-03-23T17:09:58"
+    text: |
+      That's a really powerful testimony Katy! He is truely the one who speciallizes in the impossibles!
+  - author: "Amber"
+    date: "2006-03-23T20:20:19"
+    text: |
+      oh, how i love miracles!!!
+      
+      thank you for sharing, katy.
+  - author: "Carrie K."
+    date: "2006-03-23T22:52:50"
+    text: "Katy - God is awesome! And how wonderful that you will have the peace of knowing your mom is doing well when you go on your trip."
+  - author: "Michael Main"
+    date: "2006-03-24T03:11:52"
+    text: |
+      A pastor I know wrote once,"Miracles are what happen when cowards let go and entrust their lives to God."
+      
+      Oh I believe in miracles...every day little miracles...every day giant miracles..because I have been a coward far too often...when I give it over to God my vision clears dramatically.   Bless you for your caring heart,and your devoted attention to your "Moms".
+      
+      I also believe there is a special place in Heaven forloving souls such as yourself.
+      
+      Grace & Peace,
+      
+      Michael
+  - author: "irene"
+    date: "2006-03-24T20:00:27"
+    text: "Praise God!"
 ---
 
 It's been nearly a month since I posted the entry called "Move Over."

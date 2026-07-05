@@ -1,6 +1,23 @@
 ---
 title: "On The Table"
 date: "2006-07-12T17:38:01"
+comments:
+  - author: "jen alves"
+    date: "2006-07-12T20:28:48"
+    text: |
+      Good post, Katy.  Food (or not) for thought. Got me wondering what my "non-negotiables" are in various areas of life, not just finances.  Deep thoughts on a Wednesday afternoon...
+  - author: "AC"
+    date: "2006-07-13T11:50:17"
+    text: |
+      Have you ever read or listened (daily talk radio program) to Dave Ramsey?  His "Total Money Makeover" plan certainly works.  He was on Oprah once but was edited in a very very strange way.
+  - author: "Katy Raymond"
+    date: "2006-07-13T17:53:42"
+    text: |
+      Jen--We all have non-negotiables, I guess. Situations that we think we "just can't live with." But the more I let go of stuff, the clearer I can see what I truly value. And sometimes those non-negotiables ("I'll give up sugar, white flour, rice, potato, and pasta, but I'll NEVER sacrifice my Starbucks!") are downright childish. I've decided that I want to be a grown-up woman!
+  - author: "katy Raymond"
+    date: "2006-07-13T17:56:27"
+    text: |
+      AC--We just started getting Ramsey on the radio a couple weeks ago!!! I hadn't read his books, so hearing him has been great. I love his attitude--the whole take no prisoners thing really works for me. I've become a huge fan in a short time! I will look into his Total Money Makeover. Thanks!
 ---
 
 Have you caught any of the Oprah's Debt Diet episodes? I think these are repeats, but this week she's running a few of the shows. I saw parts of Monday and Tuesday, and plan to watch again today.

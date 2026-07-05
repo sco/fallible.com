@@ -1,6 +1,16 @@
 ---
 title: "(No Title)"
 date: "2001-11-27T22:46:18"
+comments:
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Ya' think? Gosh, it's great to have kids!
+  - author: "sco"
+    date: "1969-12-31T18:00:00"
+    text: |
+      angst-erific, mom. 
+      -----
 ---
 
 I've told you something about Erin's family, the fictional Murphys. Her best friend, Diana, is part of the Bright family, but on Thanksgiving, she wasn't too happy about it. Here's what happened:

@@ -1,6 +1,31 @@
 ---
 title: "Promised Pics"
 date: "2007-06-19T00:06:41"
+comments:
+  - author: "Sunflower"
+    date: "2007-06-19T03:54:42"
+    text: "Thanks for the pictures, Katy! He definitely looks all grown-up to me ;)"
+  - author: "Suzan"
+    date: "2007-06-19T12:01:56"
+    text: "Thanks, Katy. Your son is a cutie, and Switzerland is gorgeous!"
+  - author: "lisa"
+    date: "2007-06-19T19:18:35"
+    text: |
+      he's looking almost just like his big brother these days!
+  - author: "alison"
+    date: "2007-06-21T21:23:01"
+    text: |
+      Who's that hot young chick standing next to him?
+  - author: "Katy"
+    date: "2007-06-23T15:34:58"
+    text: |
+      Aw, thanks for all your sweet comments on my darling son.
+      
+      The various hot chicks in the pics are Coral, Aziza, and a young  Katie. Then there's the old chick, Mama Katy, who WAS hot that day, as there's no AC in Switzerland!
+  - author: "alison"
+    date: "2007-06-23T17:37:54"
+    text: |
+      Yeah, the old one, that's the one I was talking about. You look great. And proud.
 ---
 
 Here are the promised pics of Switzerland and Kev's graduation. (It was hard to get a photo of Kevin not surrounded by cute chicks.)<br>

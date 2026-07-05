@@ -1,6 +1,24 @@
 ---
 title: "In The Spirit!"
 date: "2007-12-14T13:30:00"
+comments:
+  - author: "Katy"
+    date: "2007-12-14T15:08:11"
+    text: |
+      BTW, I want to credit my baby sister Bridget and her hubby Jim for suggesting we get a power washer. They got one and it changed their lives!!! As you know, I am ALL ABOUT acquiring a changed life!  :)  I always thought power washers were a tool used only by professional housepainters, etc. But we homeowners (and car owners) can use them to great advantage....
+  - author: "Bridget"
+    date: "2007-12-16T14:11:17"
+    text: |
+      Glad I could help to create a better life for you (and your cars!).  I can't wait to use ours to WASH all the vehicles when the snow departs.  :)
+      BTW...the garage looks great!
+  - author: "joshua"
+    date: "2007-12-17T16:32:02"
+    text: |
+      i use our powerwasher all the time at the ministry - it's amazing how it will make an old deck look like new or how clean a brick house will look after a few hours of high pressure water. from the cars to the boat... i love having a powerwasher. (i feel like i am writing a commercial here.) nice job on the garage!
+  - author: "Anna"
+    date: "2007-12-18T16:30:26"
+    text: |
+      I just want to say that we took 17 bags of stuff and several boxes and an old Christmas tree to the Goodwill on Saturday. We have been rooting and cleaning and organizing like mad the last few weeks. We aren't done yet, but we are well on the way. Before to long, our garage is going to look something like yours, I think. YEAH!!
 ---
 
 <img src="{filedir_1}treeIMG_2593_thumb.jpg" border="0" alt="Trees" name="image" width="80" height="106" align="left" vspace="4" hspace="4" />The ice crashed from the trees on our three-acre lot all afternoon yesterday. You should have heard the cacophonous racket! There were actually warnings on TV to "watch for falling ice!" It's a good thing most of it melted, since tonight we may end up with 4-8 inches of snow.

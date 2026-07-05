@@ -1,6 +1,30 @@
 ---
 title: "Where Has She Been All Her Life?"
 date: "2005-12-14T15:41:21"
+comments:
+  - author: "Heather"
+    date: "2005-12-14T18:20:47"
+    text: |
+      Insert sad smile here.  We'll all be in your shoes sooner or later.  :)
+  - author: "Bridget"
+    date: "2005-12-14T19:44:42"
+    text: |
+      Just don't spill the latte!  Your car already smells like coffee...
+      
+      I'll have to call her later and see how she is with me.  I'll let you know.  I really think that she's starting to lose it sometimes.  :(
+  - author: "violet"
+    date: "2005-12-15T00:48:35"
+    text: |
+      Katy, I haven't read for a while so am way behind in the latest developments. All I can say is, Oh my! 
+      
+      We've had our second adventure in this department in the weekend just past.  My husband returned yesterday from helping move his parents  to an AL place this weekend.  But that whole deal was ultra-smooth compared to what you have been and are going through!  I'll be praying for you and your family.
+  - author: "Lynn"
+    date: "2005-12-16T08:05:07"
+    text: "She sounds adorable, still, but I understand the not chuckling...*hugs* I shall pray for her, eh?"
+  - author: "Katy"
+    date: "2005-12-17T16:10:43"
+    text: |
+      Well, Mom has been very odd all week. Saying LOTS of things that don't make sense. Sleeping way too much. I understand that episodes of very low blood sugar can cause brain damage, which is a consideration. She bottomed out again yesterday. Also, she may have a concussion from the fall, although the CT of her head looked fine....   So much to think about, to pray about...Thanks, you guys!
 ---
 
 I called Mom early this morning, right after she should have finished breakfast. I hoped to catch her before she went down for her after breakfast nap, which comes right before her before lunch nap.

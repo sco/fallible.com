@@ -1,6 +1,21 @@
 ---
 title: "The Quest For Immortality, Mama-Style"
 date: "2005-06-03T18:05:02"
+comments:
+  - author: "Paula"
+    date: "2005-06-04T01:52:04"
+    text: |
+      Your mother is a gem. BTW, before my best friend moved to the country, she used to have a house she called The Mission because people were always coming and going, just dropping in at a moment's notice. Sometimes even spending a couple nights. She even took you in for short time if you needed it. As a matter of fact, it's happened at her home in the country. What a gal. 
+      
+      -----
+  - author: "Bridget"
+    date: "2005-06-04T04:13:04"
+    text: |
+      Oh, Katy...you've got to be joking...I can't get Mom to write in the &quot;To My Daughter&quot; book that I gave her years ago, but she's willing to write her obituary.  Something's not right about that woman.
+  - author: "The Complimenting Commenter"
+    date: "2005-06-04T04:28:10"
+    text: |
+      That is so funny.  At least she's spry and fiesty.  A very cool post.  Thanks for the good write up and the laughs.
 ---
 
 Just got off the phone with my mom, not to be confused with Doug's mom, although honestly some days the lines get blurred. And not only the phone lines, either...

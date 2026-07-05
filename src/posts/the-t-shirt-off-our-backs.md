@@ -1,6 +1,14 @@
 ---
 title: "The T-Shirt Off Our Backs"
 date: "2008-11-11T01:26:00"
+comments:
+  - author: "Lisa"
+    date: "2008-11-12T20:47:12"
+    text: |
+      Wow! I'm inspired! Now if only those t-shirt slogan creative juices would start flowing...
+  - author: "dora the explorer"
+    date: "2009-01-13T07:01:10"
+    text: "Fantastic!"
 ---
 
 Times are tough everywhere, and as you know, even here at fallible we've had to resort to desperate measures to make a few measly bucks.

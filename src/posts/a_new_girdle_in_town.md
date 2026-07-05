@@ -1,6 +1,29 @@
 ---
 title: "A New Girdle In Town"
 date: "2007-09-23T20:19:00"
+comments:
+  - author: "Katy"
+    date: "2007-09-24T12:29:41"
+    text: "What? Was it something I said????"
+  - author: "Suzan"
+    date: "2007-09-24T18:00:06"
+    text: |
+      This is a hoot! It's happened to me a few times, so I can relate. Glad you had a good time!
+  - author: "lisa"
+    date: "2007-09-25T04:38:55"
+    text: |
+      so...would this post be considered "breathing a word"? ;)
+      
+      (and i'm glad you had a good time, too katy!)
+  - author: "Katy"
+    date: "2007-09-25T15:10:01"
+    text: |
+      Suzan--I think there were a whole group of new-generation girdle wearers who were a tad let down.  ;)  Wish you'd been there to share our angst, and to receive your award for A Circle Game! I am proud of you....
+      
+      lisa--As long as I don't breathe the specific word of her name, I think I'm good. Besides, I ran it by her and she laughed. In addition, this experience MAY be a composite one of hers, mine, and Erma Bombeck's. It's hard to say....  :)
+  - author: "Sally Bradley"
+    date: "2007-10-05T16:01:48"
+    text: "Hilarious! I hope she made it out alive."
 ---
 
 Wow! I just got home from Dallas. The national writers group I belong to (American Christian Fiction Writers) is growing enormously. I think someone said we had 300 attendees at the annual conference last year, and 500 this year!

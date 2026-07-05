@@ -1,6 +1,27 @@
 ---
 title: "The Lowest Form Of Competition"
 date: "2006-01-11T17:37:49"
+comments:
+  - author: "Lauren"
+    date: "2006-01-11T21:12:23"
+    text: |
+      Wow, I'm with you that's just terrible of him. How competitive can one person be? ;)
+      
+      Hope you're feeling better?
+  - author: "Katy"
+    date: "2006-01-11T22:15:08"
+    text: "Lauren--am feeling good enough to put together the chicken recipe I just saw on your site! Thanks and ;) to you, too..."
+  - author: "Lauren"
+    date: "2006-01-11T22:22:54"
+    text: |
+      Shucks, I feel so noticed, you're welcome.
+  - author: "Heather"
+    date: "2006-01-11T22:41:50"
+    text: |
+      Isn't that just like a man?  :)  At least it's all for a good cause.  Hope you get better soon.
+  - author: "Kathryn, the daring one"
+    date: "2006-01-12T05:05:37"
+    text: "That man must be stopped....Hey, I know a guy.  Just give me a call."
 ---
 
 Hope you're enjoying guest bloggers Mary DeMuth and Robin Lee Hatcher! Later this evening, check back for another post by the delightful Deb Raney.

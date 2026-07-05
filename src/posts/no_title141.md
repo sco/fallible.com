@@ -1,6 +1,23 @@
 ---
 title: "(No Title)"
 date: "2001-11-13T23:39:09"
+comments:
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: |
+      I love you people so much I'm posting the next part of this part of the story now.
+  - author: "Scott"
+    date: "1969-12-31T18:00:00"
+    text: "ouch"
+  - author: "Carrie"
+    date: "1969-12-31T18:00:00"
+    text: |
+      Mom, I'm getting a little nervous over here in Manhattan.
+  - author: "Dee"
+    date: "1969-12-31T18:00:00"
+    text: |
+      *da-dum* 
+      -----
 ---
 
 Hey, I'm up to 18,000 words toward a 50,000 word goal, so I'm still somewhat on target. Thanks for all your encouragement while I attempt this crazy challenge. A piece of novel for today:

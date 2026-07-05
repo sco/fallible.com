@@ -1,6 +1,11 @@
 ---
 title: "What Jeans May Come"
 date: "2006-10-16T14:41:25"
+comments:
+  - author: "Bridget"
+    date: "2006-10-16T17:24:52"
+    text: |
+      I can relate...my jeans were doing the same thing, Katy!  I just bought two pairs yesterday.  Buck it up, my dear sis, and spend some bucks on yourself to get some new ones! :)
 ---
 
 I'm stuck between a shock and a hard case.

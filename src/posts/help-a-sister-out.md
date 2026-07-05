@@ -1,6 +1,22 @@
 ---
 title: "Help A Sister Out!"
 date: "2008-10-16T21:06:00"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2008-10-16T21:29:29"
+    text: |
+      Too funny, Katy. :)
+  - author: "Sandi Thompson"
+    date: "2008-10-17T14:57:44"
+    text: |
+      Are you selling these items to make up for what you lost in the stock market?
+      Hilarious, as usual. 
+      Here's a new song "Oh we ain't got a barrel of money, maybe we're ragged and funny, but we'll travel along, singing a song, side by side"....
+  - author: "archie"
+    date: "2008-11-28T02:34:15"
+    text: |
+      positivity personified :)
+      Eager to know how much support you get there.
 ---
 
 As you might remember, a couple of weeks ago I issued my latest release of Katy's Market Timer, as a public service to all my fallible readers.

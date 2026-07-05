@@ -1,6 +1,27 @@
 ---
 title: "Agents Are Funny People, Too"
 date: "2008-02-22T14:22:04"
+comments:
+  - author: "Rachelle Gardner"
+    date: "2008-02-22T22:46:09"
+    text: |
+      The funnier part of all this is that I have very little memory of saying that. It sort of took a little memory jogging for it all to come back. See my blog post <a href="http://rachellegardner.blogspot.com/2008/02/problem-with-getting-old.html"> here</a>.
+  - author: "christa Allan"
+    date: "2008-02-22T23:22:42"
+    text: |
+      That'll teach ya! Now, i want to read it too!
+  - author: "Carrie K."
+    date: "2008-02-23T01:33:10"
+    text: |
+      I'm remembering all of this for when I get my own agent! ;)
+  - author: "Katy"
+    date: "2008-02-24T00:55:28"
+    text: |
+      Rachelle--Yes, but you probably didn't write down everything you said, like I did!! Ha.
+      
+      Christa--At one time, I honestly did go to the Calvin Festival with the ONLY scene I'd ever written--the week before going. While there, I signed up to have 15-minute appointments with three editors and an agent. They all went fantastically well. One editor told me that it was the best thing she'd seen all day. But it was ALL I HAD. So audacious of me!!
+      
+      Carrie K--I am looking forward to that, lady!! I think you're a wonderful writer.  :)
 ---
 
 You may have noticed that there has been a veritable dearth of blogging going on here at fallible. If you are a long-time reader, you may also remember that I have referred to a "veritable dearth" of blogging on at least one other occasion in the past seven plus years. It happens, sometimes. And when it does, I love nothing better than to refer to it as exactly what it is: a veritable dearth.

@@ -1,6 +1,13 @@
 ---
 title: "International House Of.....Watch Out!"
 date: "2008-12-25T15:05:00"
+comments:
+  - author: "Joshua"
+    date: "2008-12-29T04:30:14"
+    text: "I have never been to the IHOPancakes in KC, only to the the IHOPrayer. Your mom cracks me up though ... the prayer joint! Ha! Have a happy new year."
+  - author: "Terri"
+    date: "2008-12-29T18:04:47"
+    text: "I recently took my mother out for a lunch at an IHOP in Grandview (closest to her house).  Our waiter that day was a student at IHOP (the house of prayer) and really a delightful young man."
 ---
 
 This morning, we're leaving to meet Doug's sisters and brother-in-law for breakfast out before taking presents and dessert to share with his mother.

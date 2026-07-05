@@ -1,6 +1,25 @@
 ---
 title: "The Tell-Tale Sun"
 date: "2005-11-13T19:39:34"
+comments:
+  - author: "Ginger"
+    date: "2005-11-14T05:52:20"
+    text: |
+      :)  Love the punch line!
+  - author: "Ame"
+    date: "2005-11-14T14:32:05"
+    text: |
+      Ohhhh, that's classic!!!  Gotta love it :)  If we couldn't relate so well, it wouldn't be soooooo funny :)
+  - author: "Hope Wilbanks"
+    date: "2005-11-14T19:25:51"
+    text: |
+      *slapping knees* Sounds like something I'd do. ;)
+  - author: "Pat"
+    date: "2005-11-15T06:00:03"
+    text: |
+      Years ago I managed student housing at the university. After being on the waiting list for close to three years I called in a young asian couple whose name finally came up. As we stood in the office chatting after we viewed the apt. and all the paperwork was filled out, my slip slipped off and fell around my ankles. I very nonchalantly kicked it under the desk without tripping over a single word. They never came back or returned my call.
+      
+      You are not alone!
 ---
 
 I didn't actually get dressed in the dark this morning, but I might as well have.

@@ -1,6 +1,28 @@
 ---
 title: "Mary DeMuth Is A Desperate Housewife!"
 date: "2007-06-19T12:41:31"
+comments:
+  - author: "relevantgirl"
+    date: "2007-06-19T15:50:15"
+    text: "LOL, Katy. Thanks for the mention."
+  - author: "Michael Main"
+    date: "2007-06-19T17:30:48"
+    text: |
+      If I came anywhere near close to resembling these women...you would have heard of them :)
+      
+      Mercifully, I don't.
+      
+      M
+  - author: "Michael Main"
+    date: "2007-06-19T17:31:51"
+    text: |
+      er..."wouldn't"...one dang day I'm gonna use that "preview" button.
+  - author: "Katy"
+    date: "2007-06-23T15:06:43"
+    text: |
+      Relevant Mary--Few things are more fun than mentioning you!
+      
+      Michael Number One--The stuff you say!! :)
 ---
 
 My good buddy, author Mary DeMuth, is desperate.

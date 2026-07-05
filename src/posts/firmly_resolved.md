@@ -1,6 +1,86 @@
 ---
 title: "Firmly Resolved"
 date: "2007-01-02T14:07:20"
+comments:
+  - author: "Deb Raney"
+    date: "2007-01-02T20:35:47"
+    text: |
+      Oh! Me too! Me too! Addicted to Guiding Light in the 70s. (For me it was 1976, and the excuse was, I had to sit down to nurse the baby anyway.) My addiction was broken the day my mother (who'd raised us to believe soap operas were pretty much of the devil himself) drove in and I practically threw the baby on the sofa in my haste to turn off that TV before she got to the door. Then I worried myself sick that she'd touch the top of the set, feel that it was still warm, and question me on what I could possibly be watching of value at that time of day. I didn't want to live in deceit with my own mother, so I gave up GL rather than face confessing it to her. Thanks for bringing that funny memory to mind. : )
+      
+      As for resolutions, "Write the book" was at the bottom of my short list of New Years resolutions in 1993. I wrote the prologue on New Years Day and finished the book in May of 1994. I've been writing ever since.
+  - author: "Katy"
+    date: "2007-01-02T20:56:06"
+    text: |
+      Deb!! Always so fun to see you here (or anywhere...). About the Guiding Light (waving to Josh and Reva!): I felt so darned guilty about watching it, that I actually confessed to my pastor. I told him I was involved in something horrible, and that I needed to come clean. Then I told him I was addicted to a soap opera and he said, "If that's the worst thing you ever tell me, I'll be a happy man." As far as I know, that was the worst thing I ever told him!!  :)  Boy, back in the old days, good old-fashioned guilt and shame were huge motivators, huh? (The opinions of moms meant a lot, too.)
+      
+      Deb's first book, for those who don't know, was A Vow to Cherish. It was made into a movie and the book was recently re-released for its tenth anniversary. It's a tear-jerker, in a good way. I loved it.
+      She's now written a gazillion others. Soon, I hope to discuss her soon-to-be-released Remember to Forget here on fallible!
+  - author: "Tina"
+    date: "2007-01-02T21:24:57"
+    text: "I LOVE the artwork in the sidebar of your blog!"
+  - author: "Lynn"
+    date: "2007-01-03T09:59:22"
+    text: |
+      Katy, do you know where I can find a copy of "Deb"'s (I feel akward using nicnames for someone I don't know) book? =)
+  - author: "Katy"
+    date: "2007-01-03T13:17:08"
+    text: |
+      Tina--Thank you! These are stickers that make with a box of stationery. When my hubby did my redesign a couple years ago, I knew I wanted them and the Victorian lady as the main elements. Glad you like it!
+      
+      Lynn--I saw A Vow to Cherish in Barnes & Noble just yesterday. Deb's upcoming book, Remember to Forget, releases (according to Amazon) on Feb 6, and is available to preorder. If you key in Deborah Raney at Amazon, all Deb's books will pop up. (BTW, the only reason I call Deb Deb is because Deb calls Deb Deb. Don't you, Deb? Ha.)
+  - author: "Deb Raney"
+    date: "2007-01-03T13:43:47"
+    text: |
+      LOL, I answer to Deborah, Debbie, Deb, hey you...please don't feel awkward with any of the above, Lynn. And thanks for asking about my books. They're available at any online bookstore, Barnes & Noble, Borders, etc. or for an autographed copy, go to signedbytheauthor.com.
+      
+      Tina, I love the sidebar artwork, too. I think my first comment ever to Katy was about that.  Even better is the more recent addition of photos of Katy and coffee on the opposite sidebar. : )
+  - author: "jdigdlgg"
+    date: "2007-05-21T23:59:18"
+    text: |
+      qcwzklek http://gvuxrndt.com gbzqjqqr pwpwmmzb  [URL=http://kebucfch.com]prhcpsyh[/URL]  <a href="http://psdfotop.com">uinoqrmf</a>
+  - author: "xenical"
+    date: "2007-05-23T00:27:00"
+    text: |
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=233">xenical</a> electrographic ileocolitis
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2570138">order vicodin</a> heterophagy glossoplasty
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=223">generic propecia</a> falling bract
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=228">buy zoloft</a> interrupt carminative
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18963">valium</a> underutilization herbaceous
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18966">zocor</a> penicillinate selective
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2785347">generic paxil</a> fragrance hijack
+      <a href="http://www.utpa.edu/provost/index.cfm?fuseaction=FAQ.showfaq&id=125">nasacort</a> clamshell pepperidge
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2687707">fosamax</a> bucksaw gospeller
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2322868">order diazepam</a> laicize vibrocompaction
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2944577">generic tadalafil</a> investor decry
+      <a href="http://www.utpa.edu/provost/index.cfm?fuseaction=FAQ.showfaq&id=132">buy tramadol online</a> gnostic recreate
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2753611">celecoxib</a> bidimensional markovian
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2493790">buspirone</a> misbehavior desulfurizer
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18954">buy xanax online</a> biceps coping
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18953">order carisoprodol</a> deinstrument indicate
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=231">buy fioricet online</a> retrogression hastiness
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2253814">singulair</a> aerophobia prolongate
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2791815">buy vicodin</a> dysbacteriosis breastbeam
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18957">generic sildenafil</a> ferrocart dreadge
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=215">generic valium</a> inveracity sodio
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=234">buy wellbutrin</a> supersaturated yd
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18939">buy diazepam</a> substrain mercifully
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2592140">order tramadol</a> adducted metallize
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=225">soma online</a> trigonometric satiety
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2509829">tadalafil</a> disinsection artilleryman
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18960">hydrocodone online</a> goldfieldite tautochrone
+      <a href="http://www.utpa.edu/provost/index.cfm?fuseaction=FAQ.showfaq&id=130">testosterone</a> fluoridation pseudohallucination
+      <a href="http://www.utpa.edu/provost/index.cfm?fuseaction=FAQ.showfaq&id=126">purchase vicodin</a> succinaldehyde indelicate
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18946">buy prozac</a> acryloid barylalia
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2819014">cheap hydrocodone</a> adjudicator redargue
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18964">buy nexium</a> unstuck backliner
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=224">buy viagra online</a> sacrist daf
+      <a href="http://www.utpa.edu/provost/index.cfm?fuseaction=FAQ.showfaq&id=131">purchase valium</a> angustate gallantly
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18956">buy soma online</a> pseudoparkinsonism regard
+      <a href="http://www.extension.iastate.edu/foodsafety/news/fsnews.cfm?newsid=18951">reductil</a> panblastic baseless
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2931923">prednisone</a> handmade aerotherapy
+      <a href="http://www.westshore.edu/news/newsrelease.asp?id=229">cheap cialis eurhythmics unstoppable</a> guaiacene arcual
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2338348">advil</a> berthage myxofibroma
+      <a href="http://www.umkc.edu/news/pressrelease/fullstory.asp?id=2180649">zanaflex macrocrystalline goodie</a> stoichiology impression
 ---
 
 There are a few things I must have resolved somewhere along the way that have actually stuck. They weren't New Year's resolutions, just things I determined to do or not to do, and succeeded.

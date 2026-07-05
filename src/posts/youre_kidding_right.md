@@ -1,6 +1,18 @@
 ---
 title: "You're Kidding, Right?"
 date: "2007-11-02T18:32:07"
+comments:
+  - author: "Michael Main"
+    date: "2007-11-04T19:55:35"
+    text: |
+      When I do things like that Amy tends to push her glasses up from the bridge of her nose...oddly, she always uses the middle finger when she does that...hmmm :)
+      
+      M
+  - author: "Katy"
+    date: "2007-11-07T14:52:00"
+    text: |
+      Amy and I have so much in common....  :)
+      No, really, I have a strick aversion to using my middle finger in such a vulgar manner. But CAN I HELP IT if stuff keeps happening to that finger, making it the center of attention????
 ---
 
 Some of you (many, I hope!) will remember how utterly kind, full of consolation, and accomodating I have been during Doug's ordeal involving back pain.

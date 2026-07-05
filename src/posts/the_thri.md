@@ -1,6 +1,139 @@
 ---
 title: "The Thrill Of The Hunt!"
 date: "2007-01-16T20:06:31"
+comments:
+  - author: "Chris(tine)"
+    date: "2007-01-16T20:41:13"
+    text: |
+      Can I play?
+      
+      Thanks, Katy, for introducing us to an author who sounds delightful!   
+      
+      Nice to meet you, Diann - and I look forward to reading your books!  Sounds like just the kind of thing I need about now...
+  - author: "Colleen Coble"
+    date: "2007-01-16T20:42:53"
+    text: |
+      Oh my gosh, what a great interview! You totally captured Di's personality. But you've got me craving DeBrand's and me on a diet. Sigh. It's all your fault if I have to get some.
+  - author: "Denise"
+    date: "2007-01-16T20:54:04"
+    text: "Great interview, Diann. Thanks for hosting it, Katy!"
+  - author: "Ane Mulligan"
+    date: "2007-01-16T21:15:23"
+    text: |
+      Coffee? Chocolate? That's my language you're talking, ladies! :) 
+      
+      Katy, you grabbed my girlfriend for a fun interview. However, there's one item here I take exception to. That's the age talk. Honey, cheese ages. Ladies ... hmm. What DO we do? We don't ferment. Oh forget it. Di, pass the chocolate. Katy, pour the coffee. I feel a hot flash comin' on.
+  - author: "Diann"
+    date: "2007-01-16T21:23:54"
+    text: |
+      Nice to meet you, Chris(tine)! 
+      
+      All this talk of chocolate is making me hungry. Colleen, did you bring the truffles?
+  - author: "Katy"
+    date: "2007-01-16T21:33:56"
+    text: |
+      This is shaping up to be a nice little party!! Of course, shaping up is a relative term where truffles are involved. ;) I even emailed DeBrand last fall to see if they make sugar-free truffles, you girls got me so worked up. The nice lady who emailed back said they "offer" them, but they don't actually make them themselves. They acquire them from another chocolatier and I'm sorry, that's not a risk I want to take.
+      
+      I am of all women most to be pitied.
+  - author: "Colleen Coble"
+    date: "2007-01-16T21:35:54"
+    text: |
+      I had no idea they didn't make the sugar free themselves! Diann has brought them to a conference before.
+  - author: "Diann"
+    date: "2007-01-16T21:38:08"
+    text: |
+      Yeah, I bought them there, but DeBrand's didn't make them.  You could taste the difference.
+      
+      Did I just sound like a commercial?  I'm pretty sure I did.
+  - author: "Katy"
+    date: "2007-01-16T21:41:41"
+    text: |
+      Chris(tine)--You and Diann will get along famously!
+      
+      Colleen--Aw, thanks! Di makes an awfully pleasant subject, huh? I miss seeing you!
+      
+      Denise Hunter--I still laugh when I think of the first thing I ever said to you, upon meeting: "You are SO not Diann Hunt!" You looked so...surprised!  :)
+      
+      Ane--Cheese ages! Ha. OK, so ladies don't sweat, they perspire. Ladies don't age, they....WHAT??? Crinkle? Crease? Dimple? Droop? OK, I need an attitude adjustment, huh?  ;)
+  - author: "Katy"
+    date: "2007-01-16T21:44:49"
+    text: |
+      Colleen and Diann--I'm glad you verified what I suspected. The sugar-free aren't as good. Not that I've ever tasted a sugar-full DeBrands, since I ditched all sugar seven years ago. But by golly, if I'm gonna "pretend," I wanna do it with the real deal! I'll live vicariously through you. And Colleen, I'll accept the blame if you cave. I've been blamed for less!!  :)
+  - author: "Diann"
+    date: "2007-01-16T21:48:47"
+    text: |
+      I prefer to think we crinkle. It reminds me of sprinkle, which makes me think of those colored little toppings that we lavish on a hot fudge sundae. :-)
+  - author: "Katy"
+    date: "2007-01-16T21:57:10"
+    text: |
+      I like crinkle, too! WAY better than wrinkle. (EEEeeewwww.) Crinkle also reminds me of crinoline, that petticoat staple of those of us who are "crinkly" enough to remember.
+      
+      I also like to say, instead of "aging gracefully," that I'm "gracing agefully." I don't know WHY I like it, but I do. Hanging on to what dignity I have left, I guess!
+  - author: "Amber"
+    date: "2007-01-16T21:59:28"
+    text: |
+      Loved the interview.  It made me salivate too.  I'm eating hershey's chocolate kisses as I type - not the same as DeBrands's but it still stimulates the hormones it's supposed to. =) Being pregnant - I can use all of the happy hormones I can get!
+  - author: "Katy"
+    date: "2007-01-16T22:10:03"
+    text: |
+      Amber--Happy hormones make happy babies!!  :)  Have you visited here before? I have had an Amber among my readers, I know. At any rate, welcome and hope you have a wonderful pregnancy, no matter which chocolate you consume!
+  - author: "Colleen Coble"
+    date: "2007-01-16T22:12:06"
+    text: |
+      That has to be our Amber who is carrying Diann's fifth grandchild! Hey sweetie!
+  - author: "Diann"
+    date: "2007-01-16T22:19:33"
+    text: |
+      Hey, Amber!!!  This is my daughter, everybody! Whoohoo!!  And yes, she's carrying our FIFTH grandchild!! Isn't that nice of her? ;-) We have mother/daughter talks on a daily basis, eat chocolate together, drink coffee, all those mother/daughter bonding type things. :-) Thanks for popping in!
+  - author: "Katy"
+    date: "2007-01-16T22:24:20"
+    text: |
+      Happy to meet you, Amber! And it's so nice for we crinkled ladies that you young girls are willing to do so much of the "heavy lifting." I'm jealous of your mother! I want grandkids! (No pressure to Scott and Brooke, or to Carrie and Marc. I'm just sayin'.)
+  - author: "Katy"
+    date: "2007-01-16T22:25:50"
+    text: |
+      Self-editing mode kicks in here: Should read, "it's so nice for us crinkled ladies..."
+      Sheesh.
+  - author: "Katy"
+    date: "2007-01-16T22:26:51"
+    text: "I think."
+  - author: "Anna"
+    date: "2007-01-17T16:03:12"
+    text: |
+      You all write with such spirit. I love reading about real women (and their very real need for chocolate). Having never laid eyes on DeBrands, I guess I don't know what I'm missing, huh? Keep up the great posts, Katy.
+  - author: "Vicki"
+    date: "2007-01-17T17:52:08"
+    text: |
+      What a GREAT interview! You have the neatest friends, Katy. Aren't Diann's book titles a hoot? I need to scoot out the door and grab a few titles....any friend of yours who writes and loves chocolate is a friend of mine, you hear?:-)
+      
+      hugs,
+      Vicki
+  - author: "Kelley Mathews"
+    date: "2007-01-17T18:11:09"
+    text: |
+      Never met you, Katy, but love keeping up with you on your blog. Diann sounds like an author I'd like to get to know, too. Coffee and chocolate--yum! I heard my 2-yr-old say just yesterday "Mommy yikes coffee!" Observant little tyke! Thanks for the fun interview.
+  - author: "Nancy Wood"
+    date: "2007-01-17T18:18:16"
+    text: |
+      I'm always in the mood for chocolate, white chocolate mocha (as close as I come to coffee drinking) and a good book!  Great interview and great comments!  
+      
+      Much love, Nancy
+  - author: "Katy"
+    date: "2007-01-18T02:42:42"
+    text: |
+      Anna--I've never seen a DeBrand, either! I know you can buy them online, but I don't know where their stores are. Not around here, I'm afraid! Welcome here!
+      
+      Vicki--I am glad to share my writing buddies! Hugs to you, too, sweetie. :)
+      
+      Kelley--Mommy yikes coffee! Hilarious. "Yikes!" definitely happens if I drink too much! Glad to make your acquaintance!
+      
+      Nancy--Yeah, the combo special can't be beat! Good luck in Thursday's drawing!
+  - author: "Lynn"
+    date: "2007-01-18T16:07:58"
+    text: |
+      I'm probably in the wrong age genre - my mom is the one in the 50s neighborhood - but the books sound interesting to me, so I'm going to check them out, then pass them on to her. =)
+      
+      Thanks for the recommendation, Katy, and it's very nice to "meet" you Diann!
 ---
 
 <a href="http://www.diannhunt.com/"><img src="http://www.diannhunt.com/images/site/DiannPhoto.gif" align="right" hspace="5" vspace="3"></a>When you're an aspiring author, you get to meet THE most fun people ever. You can participate in local and online writers groups and you may even venture farther afield and attend a large national conference now and then. These days, if you're trying to break in, these networking opportunities are invaluable, almost essential.

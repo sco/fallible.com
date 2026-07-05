@@ -1,6 +1,12 @@
 ---
 title: "Thumbnail Sketch"
 date: "2007-01-01T22:06:09"
+comments:
+  - author: "home decor"
+    date: "2009-10-28T05:11:37"
+    text: |
+      Sorry for the late response, but I a happy Spring to you as well. It is time to act on home
+      <a href="http://www.homeinteriorszone.com/">home decor</a>
 ---
 
 All the retail shops are open on New Year's Day, you know. I guess I didn't quite realize that, until now.

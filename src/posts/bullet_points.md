@@ -1,6 +1,15 @@
 ---
 title: "Bullet Points"
 date: "2007-10-02T14:17:03"
+comments:
+  - author: "Carrie K."
+    date: "2007-10-02T20:13:30"
+    text: |
+      I'm glad you're sending your book out! I'll be excited to hear when you get your publisher.
+  - author: "lisa"
+    date: "2007-10-05T21:43:24"
+    text: |
+      oooh, a new blog. can't wait to see that. my hubby's been working on one, too..he has been perusing not only my hmmm... archives, but several years of family pictures, too. and i haven't been allowed one peek! i'll let you know when there's a grand unveiling, and i''l watch here for yours as well.
 ---
 
 I really am alive. Doing well, too. Just so goofily busy!

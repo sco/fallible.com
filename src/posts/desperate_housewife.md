@@ -1,6 +1,32 @@
 ---
 title: "Desperate Housewife"
 date: "2005-05-03T13:35:02"
+comments:
+  - author: "Carrie"
+    date: "2005-05-05T03:52:41"
+    text: |
+      hmm, were you in Belton, by any chance? 
+      -----
+  - author: "Lynnell"
+    date: "2005-05-06T00:33:12"
+    text: |
+      I can't believe the teller actually said that. You should have said &quot;Yes actually, I plan to go to my villa in Fiji. I'll send you a postcard B!&quot; Pardon my language, sometimes the word just applies. Anyway, I have carrie pics up on my flickr site. www.flickr.com/photos/lynnell/
+  - author: "Porkgod"
+    date: "2005-05-09T23:19:50"
+    text: |
+      It isn't crack, it is meth.
+  - author: "Katy Raymond"
+    date: "2005-05-11T19:50:28"
+    text: |
+      Carrie--Girl, I was in Leawood! But I looked too shabby to be in that neighborhood with any legitimate business, I'm afraid.  :)
+      
+      Lynnell--I couldn't get to your pics, for some reason. I'll try again! Hey, will you be at Carrie's grad party? Hope so.
+      
+      Pork--You are so right. I knew that, but I misspoke. Thanks.
+  - author: "Lynnell"
+    date: "2005-05-13T04:51:51"
+    text: |
+      yes I will be at carrie's grad party. The site again is www.flickr.com/photos/lynnell
 ---
 
 I'm not the kind of woman who puts on make-up to make a run to the grocery store, even if I'm crossing the state line into Kansas, into one of the most prosperous counties in the nation.

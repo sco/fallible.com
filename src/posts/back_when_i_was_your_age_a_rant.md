@@ -1,6 +1,60 @@
 ---
 title: "Back When I Was Your Age--A Rant"
 date: "2008-03-24T16:23:00"
+comments:
+  - author: "Mary DeMuth"
+    date: "2008-03-24T17:56:15"
+    text: |
+      Alas, we put 20% down because we had to. But, as one without consumer or car debt (thank You Jesus), I'm glad to have some equity.
+  - author: "Michael #2"
+    date: "2008-03-24T18:02:34"
+    text: |
+      Nothing specific. I do remember that when we were house hunting 20 years ago we got disgusted looks from our lender and from our real estate agent because we would only look at houses 1/2 the amount that we qualified at. 
+      We knew what we could afford. I am glad we did. Nobody warned you that taxes would go up 15% a year and now be a larger % of our mortgage than our principle.
+      
+      Take Care
+      Michael
+  - author: "Katy"
+    date: "2008-03-24T18:07:03"
+    text: |
+      Mary--I can't imagine a scenario in which you'll be sorry you made a hefty down payment!! (And believe me, I can imagine LOTS of scenarios--ha.) You are in a terrific situation, all things considered!!
+      
+      Take Care Michael #2--How are you, sir? You and your wife sound like us. We did stretch ourselves on our starter home, but on the next two, we purchased WAY less that we were qualified for. We wanted to put our kids through Christian schools, and that goal was not compatible with ginormous house payments. Congrats on making a sound fiscal decision!!!
+  - author: "joshua"
+    date: "2008-03-25T19:50:58"
+    text: |
+      katy - with my first and only house i was not hip to the concept of saving first then putting a decent downpayment, so i paid the least i could to get into a house - because, after all, everyone told me that owning is always waaaayyyy better than renting, right? 
+      
+      i sold the house after a few years and i didn't make anything but i didn't lose either. looking back, i wish i would have done it differently but i have learned a lot about finances and debt (aka slavery) since then. 
+      
+      i do hope though that this whole housing thing levels out - for the sake of people like you and many others who are trying to live responsibly and reasonably. in a day where life is lived on plastic, it is a rare thing to read a post like this.
+  - author: "Kathryn Harris"
+    date: "2008-03-25T21:10:09"
+    text: |
+      I'm just curious about how closing costs looked when you  all purchased your first home? When my husband and I purchased our first home a few years back, we were astonished by how the closing costs on a mortgage took a huge chunk of the 20 percent we had saved to put down on our home. Obviously, I live in an area where housing is still incredibly affordable, and the real estate market here is quite good. I'm still taken aback by those loan and title fees, though. Wow.
+  - author: "Jennifer L. Griffith"
+    date: "2008-03-26T19:46:18"
+    text: |
+      I totally agree with all that you have to say. Debt is an enemy to peace. If you can't afford it, don't buy it. Wow, what a concept.
+      
+      Praise God our eternal home is "paid in full."
+  - author: "Katy"
+    date: "2008-03-27T14:15:08"
+    text: |
+      Joshua--"I was not hip to the concept" made me laugh. It's hard to fault young people for accepting the terms of moneylending as they are currently practiced. It's just that it's SO much easier to become "enslaved to the lender" now than in the old days. In the old days, you couldn't borrow money unless you had some type of collateral. A steady job, stable income, possessions that could be repossessed if necessary, and character references!!! Now? What's your FICO score, baby? It's not fair to you guys....
+      
+      Kathryn--I think I still have the paperwork from our home purchase of 1979, but it would be buried in the basement somewhere. I do believe, though, that when we assumed the loan of a veteran, there were very little if any closing costs involved. But I'm not sure this type of loan even exists anymore. However, our two refinances on our current home (which we did to get a lower interest rate while ratcheting down from a 30-year to a 15-year fixed rate) were obtained with no points or closing costs, which actually just means that costs are rolled into the loan. No free lunches as far as I know.....
+      
+      Jennifer--I appreciate your comment!! My two married kids and their spouses and doing SO WELL getting out of debt and living on what they make. I don't know when I've ever been so impressed with anyone's discipline as I am with theirs!! It's hard to do when you're young--shouldn't the whole world be your oyster???  :)  But they actually seem to get the concept of deferred gratification, which fills ME with instant gratification!!  
+      
+      Our eternal home is "paid in full"--I love it!!
+  - author: "Toronto condo"
+    date: "2009-03-09T11:02:43"
+    text: "Would Real Estate and Mortgage Fraud make employnment worse? I just read incredible article in local Florida newspaper of a police roundup of dozens of real estate, mortgage, appraisars, accountants, attorneys, etc. in two different cases. And many more of these arrests for different companies and individuals is expected.So I wonder, been the market the way it is now, with wall street being thankfully helped by the U.S. Government, due to the real estate mess, how about the thousands of people who are left jobless once their bosses go to jail, or while the trials go on. People only tend to think of the homes not being sold, which is pretty bad in itself. But there are apparently thousands of people around the country who made those loans illegally to start with. And now the poor employees for those companies will have no job."
+  - author: "square one condos"
+    date: "2009-07-25T15:53:23"
+    text: |
+      I've never cut grass. I grew up in apartments for the most part so no yard work for me. Now, <a href="http://www.mississaugacondominium.com/neighbourhood/SquareOne ">square one condos</a>I won't do it unless someone is willing to fork over half the money in the world. I am so allergic to grass, and freshly cut is the worst for me. No thanks.
 ---
 
 Dang. That title is one I didn't think I'd ever write in this lifetime. And yet, there it is. And with good reason, I might add. For today I'd like to talk about how homes used to be purchased back in the old days.

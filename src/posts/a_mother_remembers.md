@@ -1,6 +1,38 @@
 ---
 title: "A Mother Remembers"
 date: "2008-05-21T15:14:00"
+comments:
+  - author: "Photo Buffet"
+    date: "2008-05-21T15:45:28"
+    text: |
+      Katy,
+      
+      My husband and I were coming home from a trip to Montana and stopped in a little Ma-Pa cafe for breakfast. One table over sat a little old man and his good friend, who kept adjusting their hearing aids. They talked loud enough to enterain the whole place, and my writer's ear perked up.
+      
+      "Did you hear about ol' Ed?"
+      
+      "Nope."
+      
+      "Got them cataracts taken off."
+      
+      "No kiddin'."
+      
+      "Says he can hear better than he has in years."
+  - author: "alison"
+    date: "2008-05-21T17:29:33"
+    text: "I hope you guys are feeling better. I miss you."
+  - author: "anne"
+    date: "2008-05-21T19:08:37"
+    text: |
+      awww, Katy, it's no secret that life on this planet is a tragicomedy. If we're not laughin', we're cryin'. I prefer to laugh. Thanks for being one of those who can see and then tell the humor in the ordinary and the trying events of life.
+  - author: "Gracie"
+    date: "2008-05-22T03:41:59"
+    text: |
+      Oooh, hope Doug doesn't get bursitis in another area -- or pleurisy. Though thanks for the good laugh over the connection between dude ranches and illnesses.
+  - author: "joshua"
+    date: "2008-05-26T00:41:56"
+    text: |
+      i am not sure what either of those maladies are and i haven't taken the time to google them... but i sure enjoyed a good chuckle over this post. not at doug mind you, but the stories of your mother really crack me up. thanks for the laugh and quick healing for doug!
 ---
 
 First of all, I hope you all know that I am NOT the type of chick to laugh at my husband's misfortune. Okay, maybe occasionally if he loses a golf game to his sisters or his 14-year-old nephew, but that's different.

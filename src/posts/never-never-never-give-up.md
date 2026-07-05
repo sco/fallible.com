@@ -1,6 +1,28 @@
 ---
 title: "Never, Never, Never Give Up"
 date: "2009-01-16T17:19:00"
+comments:
+  - author: "Terri"
+    date: "2009-01-17T00:33:37"
+    text: |
+      I've had a curious experience with this...I tend to lose my patience with clerks, but if I get a female clerk I will often turn it over to my husband (who sounds like Jimmy Stewart on the phone).  They will work with him.  Vestiges of sexism.  :)
+  - author: "marcia"
+    date: "2009-01-18T02:07:24"
+    text: |
+      The doctors led you to believe they were in the network? If they do that, how can we be expected not to make mistakes? And did they expect they'd keep you as a patient when you found out they weren't?
+  - author: "San Diego Personal Injury Lawyers"
+    date: "2009-02-04T11:32:41"
+    text: "Thanks for the great article, do you have any additional resources you can point us to to learn more?"
+  - author: "elisha-Alaska Personal Injury Lawyer"
+    date: "2009-03-07T12:21:49"
+    text: "Really a educative and informative post, the post is good in all regards,I am glad to read this post"
+  - author: "San Diego Movers"
+    date: "2009-03-11T22:16:31"
+    text: |
+      In my experience, dealing with the insurance companies is always a battle. You can't just go by the first thing they tell you if it's not to your satisfaction. Keep pushing and you are likely to get through to them one way or another. I'm glad you found that Sarah and it's good to know there are still people like her who actually care about helping and fairness.
+  - author: "Insurance reviews"
+    date: "2010-09-02T17:29:23"
+    text: "Beautiful blog with great informational content and Thanks for this great sharing."
 ---
 
 Call me perverse and paranoid, but I have this theory, and here it is: Once you get a single letter denying your claim for health services rendered, you can expect to begin to get a steady flow of such denials----IF you do not make prompt and consistent contact with the insurance company to argue your case.

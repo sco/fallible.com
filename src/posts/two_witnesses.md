@@ -1,6 +1,11 @@
 ---
 title: "Two Witnesses"
 date: "2006-05-27T01:48:47"
+comments:
+  - author: "Bridget"
+    date: "2006-06-10T05:36:18"
+    text: |
+      I LOVED the movie, and I went the first day that it came out!  It has gotten wonderful reviews, which is great, but it's too bad that it has not really gotten the publicity that it needs to do well.  I am a huge fan of the yearly Scripps Howard spelling bee, but this movie is not only about that, it's so much more.  It's about community spirit, not giving up, and working towards a common goal.  I will be first in line to get my copy on DVD and can't wait to show it to all my 7th graders next year in class!
 ---
 
 There's a Scripture verse that says something like, By the word of two witnesses let everything be established. I'll tell you this: that's just what I did.

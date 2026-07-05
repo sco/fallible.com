@@ -1,6 +1,42 @@
 ---
 title: "Suspicious Mind"
 date: "2006-09-11T19:18:28"
+comments:
+  - author: "Kath"
+    date: "2006-09-11T21:21:24"
+    text: |
+      Ahhh - now that's a funny Katy.  Or is it a funny Doug?  Do I need to bring my "peri" or "Meno" talk to the airport with me this year, Girlfriend?  I can heal what ails ya'.  
+      
+      (I love the photo you added on the left here.  Now I really do feel like I'm having coffee with you.  How fun. We should try that in real life sometime, huh?  Since we live 15 miles apart.  Kind of silly.)
+  - author: "Carrie"
+    date: "2006-09-12T23:23:07"
+    text: "Dad, Dad, Dad..."
+  - author: "anne"
+    date: "2006-09-13T18:19:25"
+    text: |
+      HA!  That is very funny.  I can imagine the sheepish look.
+      
+      Hello, I'm Anne - not a regular commenter, obviously... just a lurker.  Not creepily... just quietly.
+  - author: "Katy"
+    date: "2006-09-17T18:59:00"
+    text: |
+      Kath--You have to be a super friend to think this is funny when you've actually been in a car with us!! Poor Doug--he takes a lot of heat, huh? Ah, well. He's holding up pretty well so far....  :)
+      
+      Carrie--You can say that again!
+      
+      Anne--Well, you've offically delurked. And I think you are the third (or possibly fourth) Anne who comments here! (Even if you lurked creepily, I'd be fine with that, but I LOVE comments....) Welcome!
+  - author: "Lisa"
+    date: "2006-09-29T21:14:11"
+    text: "hahahahahahahahahahahahahahahahahahahahahaaaaa....~wipes away tears~...hahahahahahahahahaha"
+  - author: "Katy"
+    date: "2006-09-30T00:24:25"
+    text: |
+      Lisa--Now, see! YOU'VE got a sense of humor!
+  - author: "jessica"
+    date: "2008-11-28T13:14:52"
+    text: |
+      This article sounds funny.As far as my concern ,People those who have suspicious mind would never succeed in their life.so It is better to give up that mind.
+      http://bosworthinteriors.com
 ---
 
 OK, it's like this: I did the dishes a couple of hours ago. There are only two of us in the house, and we haven't eaten since the kitchen was last cleaned.

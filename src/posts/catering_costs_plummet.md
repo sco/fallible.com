@@ -1,6 +1,11 @@
 ---
 title: "Catering Costs Plummet?"
 date: "2007-05-16T12:45:15"
+comments:
+  - author: "Sunflower"
+    date: "2007-05-17T07:16:49"
+    text: |
+      I don't know about dates, but I've noticed that when they write about other things involving numbers, they always put the numerical symbols in brackets: "One (1) pot of gold". I always wondered why, but now I guess I know! heeheehee
 ---
 
 Besides the stuff going on with The Moms, we've got some really fun stuff happening, too.

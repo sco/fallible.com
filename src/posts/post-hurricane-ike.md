@@ -1,6 +1,11 @@
 ---
 title: "Post Hurricane Ike"
 date: "2008-09-13T17:59:01"
+comments:
+  - author: "wcoqquhu"
+    date: "2008-11-03T23:48:22"
+    text: |
+      otvwhftq http://qrtkojdx.com jqorzwjk pfnbuxdl
 ---
 
 At around noon today, with untold damage in Galveston and Houston, and with at least three million customers out of power, I decided to click on the Weather Channel online to catch up on the news.

@@ -1,6 +1,38 @@
 ---
 title: "Twinkling"
 date: "2005-04-16T16:40:02"
+comments:
+  - author: "Bridget"
+    date: "2005-04-17T00:40:16"
+    text: |
+      I wa thinking of you this morning.  It was a beautiful day to play tribute to a wonderful group of men. 
+      -----
+  - author: "Bridget"
+    date: "2005-04-17T00:40:36"
+    text: "was.."
+  - author: "Lydia"
+    date: "2005-04-17T03:27:48"
+    text: "That was beautitful Katy. I loved seeing you today."
+  - author: "Bridget"
+    date: "2005-04-17T09:53:07"
+    text: |
+      Okay..I obviously couldn't write this morning.  I meant to say &quot;pay&quot; tribute.  Duh.
+  - author: "edieraye"
+    date: "2005-04-18T00:21:39"
+    text: "Beautifully written and utterly heart wrenching.  I think you should have a kleenex alert in front of some of your entries."
+  - author: "mr john"
+    date: "2005-04-19T10:15:10"
+    text: |
+      Hello,
+      my name is mr john i am intrested in buying your
+      (item)  so i will like 
+      to know all the following details your full name and address
+       and  your phone number i mean the condition and the available pics  at hand and the last price so  that i can proceed on the payment immediately by cashiers check  and i look 
+      forward to read from you. have a nice 
+      mr john ...........
+  - author: "Hope"
+    date: "2005-04-23T21:30:34"
+    text: "I need that line tatooed on my brain - &quot;God has shown my that I must love my life.&quot;  Words I need to keep close to my heart right now.  Beautiful post.  Beautiful blog."
 ---
 
 "They went so fast..."

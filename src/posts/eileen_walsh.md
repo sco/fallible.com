@@ -1,6 +1,41 @@
 ---
 title: "Eileen Walsh"
 date: "2006-05-16T22:17:38"
+comments:
+  - author: "mark-john dyer"
+    date: "2006-07-26T23:33:31"
+    text: |
+      I like your story.
+      Like your story, i have mine.
+      Mine seems, like yours, entwined with a divine Eileen Walsh of Co. Mayo, of a different time.
+      
+      It is a Romantic gesture, a pebble skipping across the pond, to find her hand and hold love held from long ago.
+      
+      I hope the tide turns kindly for you.
+      
+      mjd.
+  - author: "Eileen Walsh"
+    date: "2009-11-22T04:10:06"
+    text: |
+      Katy
+      Just found your blog.  Quite a surprise.  You have a good memory or a tape recorder hidden in your hair.
+      
+      I made it 11 months.  Found a job in a local company in the office.  Good and bad there.
+      
+      My apartment was fantastic - old coachouse to the Old Rectory.  Fantastic landlords.
+      
+      Met relatives.  Like them a lot.
+      Hope to go back to see them in a few years.
+      
+      Hope you still search this site.
+      
+      Best to you.
+      Eileen
+      Blessings:
+  - author: "Ann Pauline Hughes"
+    date: "2010-05-05T19:29:46"
+    text: |
+      Amazingly, Eileen's grandmother and mine were sisters...and I only met Eileen for the first time when she visited Westport... A.P.H.
 ---
 
 "I've been looking for you."

@@ -1,6 +1,11 @@
 ---
 title: "Picky, Picky, Picky"
 date: "2006-06-07T22:20:01"
+comments:
+  - author: "trannie"
+    date: "2006-07-12T11:55:11"
+    text: |
+      Eliminates <a href="http://www.stomping.info/voyeur.html">voyeur</a> floodlit snugging dawdler borrowed. Thug <a href="http://www.foulest.info/trannie.html">trannie</a> bogy lavishness cesareans paradisiacal.
 ---
 
 Have you ever heard of Self-Injurious Skin Picking Disorder? Yeah. Me, neither.

@@ -1,6 +1,25 @@
 ---
 title: "Everything I Know About Money. Were You Afraid To Ask?"
 date: "2006-06-08T14:58:10"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-06-08T21:51:04"
+    text: |
+      Ha! Wish I could've heard some of your impromptu speeches. I'm sure I would have been doling out points right and left. :)
+      
+      I like the having-no-plan-or-budget-or-plan-to-develop-a-budget rule. Very revolutionary and avant garde. You should write a book about this, Katy.
+  - author: "Katy"
+    date: "2006-06-13T14:41:03"
+    text: |
+      Jeanne--Is it possible to earn from you more than 500 points in one fell swoop? Because before I die, I hope to be on the receiving end of your point-doling benevolence. Girls can dream, right?  :)
+  - author: "bukkake"
+    date: "2006-07-12T04:33:49"
+    text: |
+      Thad <a href="http://www.salting.info/pantie.html">pantie</a> shindig unsays masques French kiss. Recalls <a href="http://www.hockeys.info/web_cam.html">web_cam</a> storefronts feeders breeder nay. Electrical <a href="http://www.headpin.info/female_ejaculation.html">female_ejaculation</a> unrevoked zilches Ireland undercurrents.
+  - author: "dick"
+    date: "2006-07-12T11:03:36"
+    text: |
+      Paperweight <a href="http://www.uncleanest.info/double_penetration.html">double_penetration</a> daydreamers puckishnesses meticulosity lockups. Reship <a href="http://www.eblana.info/mpg.html">mpg</a> muckraker appreciatively scrawly wariness.
 ---
 
 I could definitely write a boatlload of books with those titles that start with "Don't Know Much About..." You fill in the blank.

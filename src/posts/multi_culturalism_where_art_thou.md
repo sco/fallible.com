@@ -1,6 +1,17 @@
 ---
 title: "O, Multi-Culturalism, Where Art Thou?"
 date: "2007-10-04T15:46:22"
+comments:
+  - author: "Lori"
+    date: "2007-10-11T00:23:33"
+    text: "So, Katy, will you be attending the STA reunion this week?"
+  - author: "Bridget"
+    date: "2007-10-15T14:00:51"
+    text: |
+      Oh, yes, we have the fall party, the holiday concert and the spring celebration.  Of course, we celebrate Black History month and are off school on MLK Day, and we are told to teach Kwanzaa.  We tried to make up a snow day on MLK Day one year, and you would have thought we committed murder.  We can't do that ever again.  I miss the real holidays like Christmas and Easter.
+  - author: "shop for art"
+    date: "2009-02-04T14:57:44"
+    text: "Over two grand that a great price, I really like the look of your site"
 ---
 
 I get a huge kick out of all the stories that surface during the school year about which holidays will be observed by public schools and what they'll be called.

@@ -1,6 +1,105 @@
 ---
 title: "Time"
 date: "2006-08-29T12:13:37"
+comments:
+  - author: "Chris A."
+    date: "2006-08-29T13:59:37"
+    text: |
+      Thanks, Katy.
+      
+      This post really touched me this morning - I'm not even sure why, but it did.  
+      
+      I think I'm going to have to look for that website...
+  - author: "Vicki"
+    date: "2006-08-30T18:48:37"
+    text: |
+      I think I understand those tears.I miss my dad, too. So much! And moments like those with the clock, just kinda sneak up on me. 
+      
+      Love your photos on the sidebar...feels like I'm right there with you. Can I come for tea? 
+      
+      hugs,
+      Vicki
+  - author: "Hope"
+    date: "2006-08-31T01:19:06"
+    text: |
+      What a very beautiful post.  We have both sons moving to new places Friday.  Only daughter is staying put thankfully.  Good for you for getting that draft ready!!! I have finally decided to get serious about writing the book that has been half outlined for years and it's main character has had a free ride in my head for 20.  Long enough, I'd say!
+  - author: "Staci"
+    date: "2006-09-03T00:47:34"
+    text: "Katy, Katy, Katy! You always make me feel things so very deeply! I love your poignant takes on life. Thanks for letting me share!"
+  - author: "Bridget"
+    date: "2006-09-04T18:57:27"
+    text: |
+      Ahh..Dad and his infamous alarm clock.  I remember those days so well, too.  I wonder who "got" those clocks when we cleaned out the house?  What memories they hold...
+      
+      PS...Thanks for the mention, Katy, and for anyone who sent a little prayer my way.  Thanks for being my "mom" on Thursday...you are the best big sister ever!
+  - author: "Cindy Swanson"
+    date: "2006-09-06T14:00:59"
+    text: "Katy, I love the pics of you on your sidebar!  You look so pretty!"
+  - author: "Thomas Rye"
+    date: "2006-09-06T20:48:15"
+    text: |
+      Gosh, Mrs Raymond... you are amazing! Your writings, even if only about the happenings of an average day in your household, are inspiring. I love you and your family. I really liked this update 'round the family.
+  - author: "Katy"
+    date: "2006-09-07T18:29:26"
+    text: |
+      Chris--I am glad you liked it. I didn't know if it would mean anything to anyone reading or not--but I hoped so!
+      
+      Vicki--Come on over! Tea and coffee all around, and memories with them.
+      
+      Hope--Kids leaving for far away is hard, isn't it? You are right--time to get that character out of your head and onto the page. Of course, that will just make room for another character, who will likely move right in...  :)
+      
+      Staci--I love your poignancy, too. We have a lot more time to dream up poignant takes on life now that we're not making Starbucks and pop runs every day, huh?  ;)
+      
+      Bridgie--Hope you're feeling better every day! It's my privilege to serve as your honorary Mom whenever you need me.
+      
+      Thomas--Please, call me Katy! Even if I AM old!  :)  Thank you for your love and friendship for my Kevin. He loves you like a brother, and I love you like a son....Thanks for your kind words here, too!
+  - author: "Katy"
+    date: "2006-09-07T18:30:51"
+    text: "Cindy--You sneaked your comment in and I missed it! You are so sweet. Thanks for the compliment. Your blog remains one of my favorite in the universe, just so you know...."
+  - author: "ynrimkzl"
+    date: "2008-12-06T21:01:06"
+    text: |
+      oqeyfuiu http://akzwzzcd.com setyczte mzayvged
+  - author: "kenalog"
+    date: "2008-12-08T22:42:15"
+    text: |
+      Good soldiers never pass up a chance to eat or sleep. They never know how much they'll be called on to do before the next chance.
+  - author: "hydrocele"
+    date: "2008-12-08T22:44:04"
+    text: "If you really do put a small value upon yourself, rest assured that the world will not raise your price."
+  - author: "anthropomorphous"
+    date: "2008-12-08T22:44:19"
+    text: |
+      All the world's a cage.
+  - author: "apyretic"
+    date: "2008-12-08T22:45:37"
+    text: "For the night was not impartial. No, the night loved some more than others, served some more than others."
+  - author: "texibeae"
+    date: "2008-12-09T05:10:48"
+    text: |
+      wccbcdsx http://qkyoxltu.com ifneejwu malvtcel
+  - author: "backtracking"
+    date: "2008-12-11T05:43:31"
+    text: "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man."
+  - author: "leasable"
+    date: "2008-12-11T05:46:36"
+    text: |
+      Turbulence is life force. It is opportunity. Let's love turbulence and use it for change.
+  - author: "oxcekppp"
+    date: "2008-12-11T12:57:05"
+    text: |
+      juxxefyp http://koyawdxm.com ysudmibu ihurxhpk
+  - author: "intraorbital"
+    date: "2008-12-13T13:54:16"
+    text: |
+      Peace is when time doesn't matter as it passes by.
+  - author: "sonata"
+    date: "2008-12-13T17:42:46"
+    text: "Listen. Do not have an opinion while you listen because frankly, your opinion doesn?t hold much water outside of Your Universe. Just listen. Listen until their brain has been twisted like a dripping towel and what they have to say is all over the floor."
+  - author: "apportion"
+    date: "2008-12-13T21:10:48"
+    text: |
+      By prizing heartfulness above faultlessness, we may reap more from our effort because we're more likely to be changed by it.
 ---
 
 Not much is going on with the Raymond family these days, but I thought I'd fill you in on a few tidbits.

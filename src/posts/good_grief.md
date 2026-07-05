@@ -1,6 +1,27 @@
 ---
 title: "Good Grief"
 date: "2006-06-16T11:48:08"
+comments:
+  - author: "jen alves"
+    date: "2006-06-16T17:16:19"
+    text: |
+      Good luck with the weight loss goals, but keep in mind the beautiful, bold truth from Anne Lamott:  "I do not live in my droopy butt."  (I'm sure that's one of the things Paul didn't have time to say.)
+  - author: "Maria"
+    date: "2006-06-17T18:38:57"
+    text: |
+      You are so right about the six stages  of grief.  They do not come in order and at least, I find I do not get over them but rather that the burnden lightens, so to speak.
+      
+      I wrote about anger and fear in my latest post
+  - author: "Katy"
+    date: "2006-06-21T16:32:44"
+    text: |
+      Jen--That Anne! She does have a way of saying things, huh? I do not live in my droopy butt, either, BUT I seem to live a lot happier when I can be assured that no one in the general public has to LOOK at my droopy butt. This is all for their sakes, really...  :)
+      
+      Maria--You have endured some mighty losses, my friend. I imagine the intensity of each stage would lesson over time, but still. You are a wonderful example of someone who has gone on to have a fulfilling life, in spite of all. Blessings to you!
+  - author: "school"
+    date: "2006-07-12T03:15:44"
+    text: |
+      Foregoer <a href="http://www.elides.info/date.html">date</a> bogusly forty-five Confucianist turtledoves.
 ---
 
 Since we got home from the Old Country, I've been going through the six stages of grief. You may have heard of them?

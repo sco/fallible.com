@@ -1,6 +1,55 @@
 ---
 title: "Late Bloomer?"
 date: "2005-10-20T18:35:20"
+comments:
+  - author: "Bridget"
+    date: "2005-10-20T22:44:26"
+    text: |
+      Or maybe, just maybe, it's Mom who's getting the drugs! :)
+  - author: "Ame"
+    date: "2005-10-21T02:41:46"
+    text: |
+      The first year of our marriage twenty years ago my husband's grandfather died, and we ended up moving his 89 year-old grandmother to a teacher's retirement center in the town we lived in.  His parents were career missionaries in another country, and his aunt was in another state.  We then ended up caring for her till her daughter decided to move her closer to her home. 
+      
+      She was an amazing woman.  She had a master's degree and played woman's basketball in college, and she still, at that time, exercised every day!
+      
+      She would call us for the craziest things.  One day she called and said, or rather commanded was more her normal tone, "Tell him to put on his Sunday suit and get up here."
+      
+      "Why Grandma?  Is something wrong."
+      
+      "Just tell him he has to put on his Sunday suit and get up here right away!"
+      
+      My husband her back.  "Grandma, what's going on?"
+      
+      "You have to put on your Sunday suit right now and get up here right away!"
+      
+      "Grandma, I'm not going anywhere wearing a suit until you tell me why."
+      
+      "Well . . . . . they just put this black woman at my table, and you HAVE to put on your Sunday suit and come up here and tell them to move her!"
+      
+      "Grandma, I am NOT going to put on my Sunday suit and come up there and tell them to move her.  She is going to sit at your table with you."
+      
+      Shortly after there was some kind of an "occasion" at the teacher's retirement center, and my husband and I attended.  We met the beautiful "black" woman.  Honestly, she was truly more beautiful than any of the other men or women at that place.  And she was certainly more kind and delightful and well-mannered and polite and confident than any of her retired teacher peers!
+      
+      We laughed with sorrow.  How sad that his grandmother short-changed her life by not getting to know such a beautiful and intelligent woman.
+  - author: "eija"
+    date: "2005-10-21T11:00:52"
+    text: |
+      Katy, will you do me a favour? Next time you go to see your Mom, please give her a huge hug. Tell her that it's from an absolute fan of her's, from Finland! :D
+      (I need to stop reading your blog at work. We have an open office, so it's a bit awkward sitting here and laughing at my pc...)
+  - author: "Bridget"
+    date: "2005-10-21T13:08:05"
+    text: |
+      Jim says that to people on cocaine seven days IS seven weeks.  Don't you know that?  (spoken just like the DARE officer that he is...)
+  - author: "Pattie"
+    date: "2005-10-21T13:08:47"
+    text: "That was hilarious! Your mom is cute."
+  - author: "Brenda Coulter"
+    date: "2005-10-22T00:50:16"
+    text: |
+      Katy, I've been here several times, but I don't think I've ever left you a comment.
+      
+      I just wanted to say that I like your writing and...um, your blog smells pretty. (All that soap, you know.)
 ---
 
 "Have you finished your therapies for today?" I ask my mom on arriving for a morning visit.

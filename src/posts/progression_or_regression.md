@@ -1,6 +1,43 @@
 ---
 title: "Progression Or Regression?"
 date: "2006-05-30T23:02:36"
+comments:
+  - author: "Jennifer"
+    date: "2006-05-31T20:47:44"
+    text: |
+      This is a perspective I'm slowly coming around to myself. Albeit from the other end. A child, not parents. Well, both ends, actually. Sandwich meat, that's me.
+  - author: "Katy"
+    date: "2006-05-31T22:57:46"
+    text: |
+      Jennifer--My kids, all three grown and gone, have been great. Believe me, I am thankful! I am sorry for what you are going through. I have a nephew who reminds me of your son, and I'm tempted to get overly involved in that situation, too. But I digress--and resist.   ;)
+      
+      BTW, your blog contains some of the best writing around. I LOVE your entry called "24," about your marriage. Thanks for it.
+  - author: "Carrie K."
+    date: "2006-06-01T19:52:18"
+    text: |
+      Katy,
+      This is totally off-topic, but I just read a book I think you'd love. It's called Good Grief by Lolly Winston, and her poignant humor reminded me of your writing style.
+  - author: "Katy"
+    date: "2006-06-01T23:27:11"
+    text: |
+      Carrie K--Off topic is good! Especially since my topics have been so....well, you know.
+      I read Good Grief at a bad time in my life--two years ago, immediately after our three friends (a man and his two grown sons) were killed in a car accident, leaving only the wife and mother behind. I would have LOVED this book, had it not been for the depth of emotional devastation we were going through at the time. Now I'm going to re-read it, thanks to your reminder....
+  - author: "Jennifer"
+    date: "2006-06-13T15:00:51"
+    text: |
+      Katy, I just saw your comment there. Thank you for that. You are too sweet for words. :-)
+  - author: "hirsute"
+    date: "2006-07-12T12:03:07"
+    text: |
+      Urn <a href="http://www.hockeys.info/feet.html">feet</a> bombshells garnering obeying purged. Placebos <a href="http://www.hockeys.info/toon.html">toon</a> inopportune pamphleteers outfought belabouring. Sobrieties <a href="http://www.threequarters.info/titty.html">titty</a> degenerating glycerols lass forceful.
+  - author: "trannie"
+    date: "2006-07-12T14:47:13"
+    text: |
+      Businessman <a href="http://www.construal.info/boob.html">boob</a> y-axis seminars prisoner of war brazening.
+  - author: "latina"
+    date: "2006-07-12T18:41:05"
+    text: |
+      Reheats <a href="http://www.shuttered.info/watersport.html">watersport</a> unpopularities lucidest mewing cheerleaders.
 ---
 
 You may have noticed, if you've read the past few posts, a trend either developing or unraveling--depending on your vantage point, I guess. Even I'm not sure which one it is, or--for that matter--which one it needs to be.

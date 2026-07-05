@@ -1,6 +1,28 @@
 ---
 title: "BFF"
 date: "2007-09-18T15:56:54"
+comments:
+  - author: "Mary Anne Green"
+    date: "2007-09-18T16:40:18"
+    text: |
+      Katy, I have to admit, you got a good one. I'm anxious to hear more about your book. You and Doug have always been a good twosome, but I think you may be coming into your prime!
+  - author: "Beverly"
+    date: "2007-09-18T18:01:35"
+    text: |
+      I don't often stop by, but I'm so glad I did today.  What a wonderful post.
+  - author: "Lisa Jordan"
+    date: "2007-09-19T14:14:55"
+    text: |
+      Awww, Katy, what a sweet tribute to your BFF hubby. You're very fortunate to have that kind of support. The men in my house think it's cool that I write, but they're not interested in reading my words until they're published.
+      
+      You're right about writers being  changed once a novel is finished. My recently-completed novel showed me how important communicating with those you love is so vital for lasting relationships.
+  - author: "Cindy Swanson"
+    date: "2007-09-19T15:18:03"
+    text: "That is an AWESOME post."
+  - author: "Stanik"
+    date: "2007-11-06T00:17:33"
+    text: |
+      [url=http://tb.dp.ua/tricor.html]Tricor[/url] | [url=http://tb.dp.ua/Avapro.html]Avapro[/url] | [url=http://tb.dp.ua/glyburide.html]Glyburide[/url] | [url=http://tb.dp.ua/hyzaar.html]Hyzaar[/url] | [url=http://tb.dp.ua/relafen.html]Relafen[/url] |  Help! Save [url=http://savevasilenko.eamped.com/]Three Babies[/url]  HIGH PROFILE CRIMINAL CASE. THREE BABIES LOOSE THEIR MOTHERS.
 ---
 
 I've always believed that a person can't write a novel all the way to the end and not be changed by the experience.

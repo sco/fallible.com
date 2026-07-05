@@ -1,6 +1,13 @@
 ---
 title: "Freedom"
 date: "2008-07-04T14:46:00"
+comments:
+  - author: "Kathryn"
+    date: "2008-07-07T16:33:45"
+    text: |
+      I am soooooo jealous. St. Louis is my most favoritest ;) city in the whole wide world. (But you're right on about the traffic.)
+      
+      My novel is set in St. Louis. The hero grew up on the Hill. I love that place. It's like home.
 ---
 
 Doug and I are in the St. Louis area, looking forward to the wedding of a dear friend's daughter tomorrow. In the meantime, though, we decided to avoid the traffic and stay in the outlying historic town of St. Charles, in a beautiful inn right on Main Street.

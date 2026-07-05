@@ -1,6 +1,17 @@
 ---
 title: "Vanished"
 date: "2005-06-08T20:21:02"
+comments:
+  - author: "Pattie"
+    date: "2005-06-09T23:39:20"
+    text: |
+      What a wonderful story.
+      With having two little ones I can completely relate to that sinking feeling when you can't find your child. Mine did a similar thing not too long ago at the park. I had taken my eyes off of her for about 10 seconds and she was gone. She was found wandering not too far away looking for me. (She was only a few feet from me before she started her search!) 
+      -----
+  - author: "Lorna"
+    date: "2005-06-12T01:26:07"
+    text: |
+      This was beautiful. You have a real gift. Keep writing :)
 ---
 
 Kevvie is on the east coast with three friends, on his ten-day summer road trip. Yesterday he called from his beach-towel perch at Virginia Beach. I did not realize the beach was on the agenda, which is probably just as well.

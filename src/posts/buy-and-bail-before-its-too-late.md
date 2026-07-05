@@ -1,6 +1,124 @@
 ---
 title: "Buy And Bail, Before It's Too Late!"
 date: "2008-10-06T20:32:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-10-07T20:48:14"
+    text: |
+      Katy, I think the leave your house to the bank is what I would consider bad behavior. 96% of all homeowners in America are on time and uop to date with their mortgages. A measly 4% and the bank betting commodities people have put us in this mess. The real estate market is vital to our economy and this little tantrum will keep things in bad shape longer. If you can by all means buy that other house, but keep yours and use it as an investment. Even in these days of mortgage meltdown, real estate is a very good investment. Sorry for the soap box, but this is my field and it makes me mad when the news makes it sound like millions of people aren't paying when that is NOT true. Just mostly the people who shouldn't have been given a mortgage, or borrowed their equity everytime the values increased. Bad idea. Keep as much equity as possible. Forever. Period
+  - author: "Internet Marketing company in india"
+    date: "2009-07-27T09:56:34"
+    text: "I encourage it.Read articles in the Wall Street Journal and at ABC online."
+  - author: "apartments in dallas"
+    date: "2009-07-28T20:39:34"
+    text: "people better think about buying soon. When interest rates go up it may not matter what kind of deal you can get"
+  - author: "Condominiums Mississauga"
+    date: "2009-08-06T20:27:56"
+    text: "If the a person found guilty , court given verdict and punishment , still how persons can come out On bail. What is the loop hole or facility."
+  - author: "convert psd to xhtml"
+    date: "2009-08-21T06:50:25"
+    text: "We have been told that the number one reason folks lose their homes is because of catastrophic medical bills,and in the past, that might very well have been true."
+  - author: "Spa Treatments"
+    date: "2009-08-28T15:24:47"
+    text: "very nice indo at this post thanks!!!!!!"
+  - author: "commercial space rent noida"
+    date: "2009-09-04T08:08:52"
+    text: "nice blog. but how much time more do you think will take for real estate market to recover properly?"
+  - author: "relief of hemroids"
+    date: "2009-09-13T09:22:34"
+    text: |
+      Your tips on 'buy-and-bail' are really nice. Anybody who wants to get new home, your tips will be helpful to them.
+  - author: "gurgaon property on rent"
+    date: "2009-09-17T11:29:17"
+    text: "Investment in real estate is always a good option. You can buy another house but i would suggest to keep yours too."
+  - author: "office space rent gurgaon"
+    date: "2009-10-22T10:11:14"
+    text: "nice post. can anyone suggest how this can be displayed on personal website?"
+  - author: "it space rent gurgaon"
+    date: "2009-10-22T11:06:43"
+    text: "great post. really enjoyed reading it."
+  - author: "stop fibromyalgia pain indonesia"
+    date: "2009-10-22T11:20:53"
+    text: "What a well written great piece of information. I remember that I was looking for something like this from a couple of months. I am glad that I found my way here by coincidence!"
+  - author: "Toronto apartments for rent"
+    date: "2009-10-24T18:30:31"
+    text: "This is exactly what I was looking for. Thanks for sharing this great article! That is very interesting smile I love reading and I am always searching for informative information like this! You are bookmarked!"
+  - author: "stop fibromyalgia pain indonesia"
+    date: "2009-12-23T13:15:06"
+    text: |
+      This is just another reason why I like your website. I like your style of writing you tell your stories without out sending us to 5 other sites to complete the story.
+      <a href="http://www.painrelief.com.sg/">stop fibromyalgia pain indonesia</a>
+  - author: "education"
+    date: "2010-01-09T07:32:48"
+    text: |
+      Hello,
+      
+      Thanks for provide good information.sunil agrawal and associates have created landmarks in Marketing and Branding of some of the most successful commercial and housing projects in Indore. Success in building a larger than life image for Real Estate projects has bestowed upon us the hard earned experience and expertise in marketing dream destinations to the people.
+      
+      Thanks again
+  - author: "wisconsin land"
+    date: "2010-03-18T15:08:13"
+    text: |
+      Hi Katy,Great post.Very interesting post You have.Thanks for sharing with us <a href="http://www.buywisconsinland.com/">land wi</a>
+  - author: "ilan ver"
+    date: "2010-04-12T18:20:33"
+    text: "I remember that I was looking for something like this from a couple of months thanks.."
+  - author: "Firma"
+    date: "2010-04-18T18:04:13"
+    text: "Awesome post i liked it much.."
+  - author: "Online Shopping Coupons"
+    date: "2010-06-29T20:13:31"
+    text: "I think they will do everything to get their hands on that extra cash..."
+  - author: "Square Peg Web"
+    date: "2010-06-30T06:54:28"
+    text: "In recession lot of companies are lose their revenues.Mortgage companies were affected heavily.They didnt get funds fully.."
+  - author: "Pull behind mower"
+    date: "2010-07-04T16:52:42"
+    text: "nybody who wants to get new home, your tips will be helpful to them."
+  - author: "spray foam"
+    date: "2010-07-16T03:47:44"
+    text: "I think this is a good year to buy real estate."
+  - author: "facebook backgrounds"
+    date: "2010-07-24T07:52:35"
+    text: |
+      Hi
+      Move your furnishings into said home and immediately after you close on the new place, let your previous home slide into foreclosure. Thanks
+  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ð¾Ð´ÐµÑÑÑ‹"
+    date: "2010-08-17T06:35:03"
+    text: "Ð—ÐÐ¼ÐµÑ‡Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ð¹ ÑÐ°Ð¹Ñ‚.ÐœÐ°Ð»Ð¾ Ñ€ÐµÐºÐ»Ð°Ð¼Ñ‹,ÑƒÐ²Ð°Ð¶Ð°ÑŽ Ñ‚Ð°ÐºÐ¸Ñ… Ð°Ð´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€Ð¾Ð²."
+  - author: "villash"
+    date: "2010-08-19T05:52:33"
+    text: |
+      I guess it depends on how you look at life. Anyway, two years later your house-formerly-known-as-â€œdreamâ€ is now your constant nightmare...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
+  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ð»ÑŒÐ²Ð¾Ð²Ð°"
+    date: "2010-08-21T13:26:27"
+    text: "Ð¥Ð¾Ñ€Ð¾ÑˆÐ¾ Ð¿Ð¸ÑˆÐ¸Ñ‚Ðµ.ÐœÐ¾Ð¶Ð½Ð¾ ÑƒÐ·Ð½Ð°Ñ‚ÑŒ Ð²Ð°ÑˆÐ¸ Ñ€ÐµÐºÐ²ÐµÐ·Ð¸Ñ‚Ñ‹? Ð¥Ð¾Ñ‡Ñƒ Ð¿Ñ€Ð¸Ð¾Ð±Ñ€ÐµÑÑ‚Ð¸ Ñƒ Ð²Ð°Ñ Ð¿Ð»Ð¾Ñ‰Ð°Ð´ÐºÐ¸ Ð´Ð»Ñ Ð±Ð°Ð½Ð½ÐµÑ€Ð¾Ð²."
+  - author: "Stack Exchange Updates"
+    date: "2010-09-09T16:06:34"
+    text: "Above discussed tips are some of the things you have to consider when you buy investment properties. Having a good knowledge and understanding on all of these important matters will lead you to a successful investment property venture although there might be various options for novice investors."
+  - author: "laran"
+    date: "2010-09-10T12:03:34"
+    text: |
+      Iâ€™ll probably be sneaking over here when I get a chance, but for the next few weeks Iâ€™ve got to focus on getting some strong material ready to take with me to Denver. Weâ€™ll be privileged to sit in on the teaching of Donald Maass, a great agent who wrote Writing the Breakout Novel and The Career Novelist. Iâ€™ve only ever heard five-star reviews of his workshops, so weâ€™re really looking forward to that...
+      
+      <a href="http://www.11plustrainer.co.uk/">Eleven Plus </a>
+  - author: "Insurance reviews"
+    date: "2010-09-15T18:19:11"
+    text: "Finally, when you have followed the aforementioned tips closely, you will succeed and could then delight in the fruits with this success from these property investment talks! You can be somewhat bit happy with yourself and self-satisfied! You achieved what you set out to seek and achieved! Savor the sweet flavor of achievements! Now enjoy it!"
+  - author: "Best Bank Interest Rates"
+    date: "2010-09-16T09:47:40"
+    text: |
+      Hi,
+      Is not the present credit crunch actually caused by greedy bankers in the first place?Lending money to people who did,not have a chance of paying it back.Or are they just plain stupid and can,t do their math?Or is it caused by us/we who have to bail the banks out with our hard earned cash?
+  - author: "Ð¸Ð½Ð´Ð¸Ð²Ð¸Ð´ÑƒÐ°Ð»ÐºÐ¸ Ñ‚Ð°Ð³Ð°Ð½Ñ€Ð¾Ð³Ð°"
+    date: "2010-10-01T16:19:01"
+    text: "Ñ Ð¿Ð»Ð¾Ñ…Ð¾ Ð·Ð½Ð°ÑŽ Ð·Ð°Ñ€ÑƒÐ±ÐµÐ¶Ð½Ñ–Ð¹ ÑÐ·Ñ–Ðº Ð½Ð¾ Ð¿Ñ€Ð¾Ð±ÐµÐ¶Ð°Ð»ÑÑ Ð³Ð»Ð°Ð·Ð°Ð¼Ð¸ Ð¿Ð¾ Ð²Ð°ÑˆÐ¸Ñ‚ ÑÑ‚Ð°Ñ‚ÑŒÑÐ¼, Ð²Ð¿ÐµÑ‡Ð°Ñ‚Ð»Ð¸Ð»Ð¾ Ð½Ð° ÑÐ°Ð¼Ð¾Ð¼ Ð´ÐµÐ»Ðµ! Ð£ Ð²Ð°Ñ ÐµÑÑ‚ÑŒ Ñ‚Ð°Ð»Ð°Ð½ÑŒ, Ñ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð»ÑÑ Ð² Ñ€ÑÑ"
+  - author: "Office space for rent in chennai"
+    date: "2010-10-11T07:44:20"
+    text: "You have all inspired me to focus on providing more informative and resource type link building posts in the future,so stay tuned for more soon."
+  - author: "world trade investment"
+    date: "2010-11-23T19:06:08"
+    text: "Interesting post. Aside from that, I also enjoyed reading the discussions about the subject. Thanks for sharing this."
 ---
 
 I thought I'd heard everything.

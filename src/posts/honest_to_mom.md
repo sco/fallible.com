@@ -1,6 +1,30 @@
 ---
 title: "Honest To Mom"
 date: "2005-06-11T21:25:02"
+comments:
+  - author: "Bridget"
+    date: "2005-06-12T07:19:51"
+    text: |
+      So, Carrie SHOULD have eaten the scumptious Lunchable for dinner tonight, after the M and Ms were gone, of course!  I'll bet I've got you beat in the Lunchable race...Baillie and Dylan still like them, especially since they came out with the healthier (lol!) sub sandwich version.  I pack two lunches every day still.... 
+      -----
+  - author: "Bridget"
+    date: "2005-06-12T07:20:22"
+    text: |
+      I swear I can't spell anymore...SCRUMPTIOUS!!!
+  - author: "Katy"
+    date: "2005-06-12T08:05:53"
+    text: |
+      Are you sure &quot;scum&quot; wasn't a Freudian? Just kidding!! I guess Lunchables came out during our extremely poor phase, because I still can't get used to the idea of them. I didn't even know they had a sub-sandwich variety, so clearly I haven't kept up with the market...
+  - author: "Blogin Idiot"
+    date: "2005-06-12T09:16:37"
+    text: |
+      My son likes them. It's got to be one of the biggests scams however. Have you ever figured out the cost per pound? Or figure out that the packaging weighs more than the food?
+      
+      Take Care
+      Michael
+  - author: "Bridget"
+    date: "2005-06-12T09:56:05"
+    text: "Oh, yes, it is a total scam, I agree.  But I have to admit, I love the pizza ones!"
 ---
 
 I've got a big food-prep week ahead of me. Scott turns 26 tomorrow, and of course next Sunday is Father's Day. Besides that, I'm throwing a bridal shower for my niece Erin next Saturday.

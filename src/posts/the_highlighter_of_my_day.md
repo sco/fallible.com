@@ -1,6 +1,76 @@
 ---
 title: "The Highlighter Of My Day"
 date: "2005-11-22T15:48:21"
+comments:
+  - author: "Ginger"
+    date: "2005-11-23T01:03:34"
+    text: |
+      Oh my.  It's like a conversation from a completely different universe, isn't it?
+  - author: "Katy"
+    date: "2005-11-23T02:53:53"
+    text: |
+      Ginger--Yeah. And it was so shocking that she wanted my life based completely on the fact that I spent ONE MINUTE looking at the arts section of the New York Times.
+      
+      I learned a long time ago not to want anyone's life but my own--no matter how funky it may be. Every time I wonder whether I'd like to trade mine in for someone else's, I think no, that's all right. God knows what He's doing!
+  - author: "Chris(tine)"
+    date: "2005-11-23T06:11:14"
+    text: |
+      Wow. That's unreal - except I can almost picture it, I've met young women who I could envision actually talking to me like that - though usually they're coming to the door trying to get me to buy a magazine subscription so they can win a trip to Europe, which of course they claim they'd like me to go on with them...
+      
+      I have a friend who started having her kids a little before I did, and who couldn't work anyway because she was from out of the country and didn't have a work permit.  We laugh now about how I finally confessed a few years ago that I used to have such a hard time understanding why it was so hard for her to find the time to get together with me - after all, she wasn't "working"!
+      
+      Parenting - elder care - or both at the same time, like we've faced in varying doses - why is it that our society doesn't really acknowledge or teach about the huge commitment, time and energy involved?  How come so many of us end up so surprised?
+  - author: "Katy"
+    date: "2005-11-23T13:33:45"
+    text: |
+      Chris(tine)--You raise a great question: Why are we so surprised? I've read that there are over 40 million part or full time caregivers in the US, and a huge number of those (8 million?) are minors! Children taking care of their parents, grandparents, or other elders.
+      
+      I never pictured this happening to me, either. My father died when he was only 62. And although he'd been on disability for some years by then, he died before he required a lot of assistance. My grandparents also died without long situations demanding a lot of care. (Grandma was very ill for four months, but that sounds short to me.) So I'd never really witnessed a family member in the caretaking role.
+      
+      Suprise, suprise! I'd heard stories of such things, of course, and how sometimes the caregiver was "never the same" after the elder's death, but I thought it only happened to other families.
+      
+      Anyway, I didn't have the heart to burst the young girl's bubble. And I briefly enjoyed having my life be a source of so much envy!!!  :)
+  - author: "Katy"
+    date: "2005-11-23T13:37:54"
+    text: |
+      It came as an enormous surprise to me that I managed to spell suprise wrong TWICE! Yikes! Sorry. Haven't had even one sip of coffee yet...
+  - author: "Katy"
+    date: "2005-11-23T13:39:22"
+    text: "Oh my gosh! That makes three times that I spelled wrong that word that I refuse to attempt again because even I still have a small amount of dignity left...."
+  - author: "Hope"
+    date: "2005-11-23T19:35:34"
+    text: |
+      I think we end up surprised because  we've got the message that to be able to do it all simultaneoulsy is somehow tied to that word "success".
+      
+      The hardest thing to do is to be present to anyone, even ourselves some days.  Society gives us accolades for being busy instead of present. Sigh.
+  - author: "Ame"
+    date: "2005-11-24T06:13:50"
+    text: |
+      Wow . . . wow.  I often say, and I believe it with all of me, "I'm glad I don't have to choose my own hell, because how would I choose?  We all have a 'hell,' and this is mine."  Perhaps that's wisdom learned only from experience and age - welp - got that one down!!!  hehehehehe
+      
+      I love what Hope said - being "present" and not busy.  Very well spoken.  Busy seems to be revered and seems to raise one's status.  Present denotes an intimacy with oneself and with God.  Absolutely Present would be much more attractive than Busy, don't you think?  Present is a place; Busy is a calender.
+  - author: "Katy"
+    date: "2005-11-24T13:09:07"
+    text: |
+      Hope and Ame--500 points each (OK, my friend Jeanne usually passes out "points," but I couldn't resist...) for writing profound truth on Thanksgiving. Thanks to you both! I feel more present already...
+  - author: "KMulligan"
+    date: "2005-11-30T05:25:10"
+    text: |
+      ...
+      
+      Pray for those who need it, and do not pass judgement...
+      
+      But...
+      
+      COME ON... she wants to be a CFP and doesn't know what a zero coupon is?! Or how to not say "really" a lot? Eeesch... God's grace to whomever decides to become her client...
+      
+      Okay, back to not judging again...
+  - author: "Katy"
+    date: "2005-11-30T13:27:45"
+    text: |
+      Kevin--Tee, hee. Yes, I'm afraid in her case it might be wise to ask to see her own financial statements. You know that old advice: Never take finincial advice from someone who's got less money than you do!
+      
+      OK, back to not judging. Only observing.  :)
 ---
 
 "I wish I had your life."

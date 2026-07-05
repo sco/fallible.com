@@ -1,6 +1,33 @@
 ---
 title: "Mail At Year's End"
 date: "2006-12-22T02:01:33"
+comments:
+  - author: "Suzan"
+    date: "2006-12-22T12:35:21"
+    text: |
+      Merry Christmas, Katy. God bless you.
+      
+      And hey, next year I want one of those whole wheat loaves, okay?
+      
+      Love ya
+  - author: "kevin"
+    date: "2006-12-22T14:12:46"
+    text: |
+      merry christmas mom!
+      see you in jan.
+  - author: "Katy"
+    date: "2006-12-23T15:24:02"
+    text: |
+      Suzan--OK! I'll trade you one whole wheat for one of your Irish Soda loaves. But, we have to spend at least one entire day making the trade. These things take time. :)
+      
+      Kevvie!! See you in Jan, too. Are you in Austria by now? Call us, like on the 24th, if you can!! Love.
+  - author: "Lynn Raymond"
+    date: "2007-01-11T02:59:03"
+    text: |
+      Katy,
+      I just read your story and relived the whole incident again!  I had to stop laughing and dry my eyes before writing this comment!  Thanks for giving me the opportunity to laugh all over again!
+      
+      I don't comment much (maybe once?), but just know that I read your blog all the time, and love how you capture the family stories!
 ---
 
 Doug's mother got home from the hospital today, for the second time since Monday. I'm watching the clock, since she's been back in her assisted living place for about six hours, and that's how long she made it the last time before they found her blood pressureless and non-responsive, still holding the newspaper in a death grip in front of her face.

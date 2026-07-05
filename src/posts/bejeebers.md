@@ -1,6 +1,26 @@
 ---
 title: "Bejeebers"
 date: "2006-07-29T14:33:02"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-07-29T15:20:21"
+    text: |
+      That is scary, Katy. I'll be praying for you.
+  - author: "Carrie K."
+    date: "2006-07-29T17:30:45"
+    text: "Ditto what Jeanne said..."
+  - author: "Chris A."
+    date: "2006-07-29T17:53:49"
+    text: |
+      Don't things like that always happen on a Friday night, when you can't even try to call a doctor for an appointment for at least two days?
+      
+      Praying for you Katy - for health, for peace, and for a quick doctor's appointment.
+  - author: "Katy"
+    date: "2006-07-29T22:16:55"
+    text: |
+      Thank you for the prayers, ladies. I haven't had a recurrence of this goofiness in the daylight hours. Man, I hope I imagined the whole thing! But I am particularly attuned to ear probs, cause I want to hang on to what remains. The tumor I had is called an acoustic neuroma. There's a condition in which a person sprouts these tumors on both sides of the head, called Neurofibromatosis Type 2. Once you've had one, they watch you closely for another to develop, as NF2 has other "stuff" associated with besides hearing nerve tumors.
+      
+      Chris, you are so right! I spent half my Saturday getting back up to speed on my situation (thank you, google), in case I need to revisit it. While the good old otoneurologist is on the golf course!!! Sheesh.
 ---
 
 "Did you hear that?" I'd been drifting off to sleep when the knocking happened. Who would be arriving at our house at nearly midnight?

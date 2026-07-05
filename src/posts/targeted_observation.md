@@ -1,6 +1,31 @@
 ---
 title: "Targeted Observation"
 date: "2006-08-01T20:02:46"
+comments:
+  - author: "Mary Briggs"
+    date: "2006-08-01T21:27:15"
+    text: |
+      Hi Katy,
+      
+      What a great post.  You always get right to the heart of the matter.  So many people today rest their 'values' in their stuff, not even knowing what their real values are. I hope more people will soon 'wake up' to the realization that life is so much more prescious than the petty material things they own.
+  - author: "Susan"
+    date: "2006-08-03T05:19:15"
+    text: |
+      Nicely put.
+      
+      We talked about this in SUnday School class last week.
+      One observation was if we studied our checkbook and daytimer, what would it say about our priorities?
+      
+      Sometimes not a whole lot of good, in my case.
+  - author: "lisa"
+    date: "2006-08-03T23:51:09"
+    text: "i agree with you about the avoidance factor, katy. great point!"
+  - author: "Mei"
+    date: "2006-08-19T16:14:24"
+    text: |
+      Today, I went out from the hotel to get some fresh air and momentarily wanted to shop. But then, I really felt that it's a waste of time.. my husband told me not to be too hard on myself, but somehow, our life is redeemed by Jesus on the cross and wasting time (like watching tv shows that i've watched before) seems hard to justify...
+      
+      I ended up blogging christian cartoons and reading my blogrolled sites, including yours. :)
 ---
 
 Here's something else I've discovered: When I'm wrapped up in a consumption-based lifestyle, a casual shopping trip--even if I don't have any needs or any particular wants--is always justifiable.

@@ -1,6 +1,35 @@
 ---
 title: "Four And A Half Months"
 date: "2006-10-13T18:57:33"
+comments:
+  - author: "Michael Main"
+    date: "2006-10-17T01:35:57"
+    text: |
+      And you've been incredibly generous in the process. 
+      
+      You want to write a best seller?
+      
+      Maybe non-fiction, Christian stewardship from the perspective of reality not judgment.
+      
+      Those books sell...and think what good you could do with that money :)
+      
+      Bless you both...you are Christian witnesses of the best kind...You walk the walk.
+      
+      Michael
+  - author: "Katy"
+    date: "2006-10-20T15:29:24"
+    text: |
+      Michael--You've got me curious. What do you have in mind when you say, "from the perspective of reality not judgment"?
+      
+      Non-fiction in general does better sales-wise than fiction, I think. I've got some non-fiction ideas--one is really good. Who knows?  ;)
+      
+      Bless you both, too.
+  - author: "irene"
+    date: "2006-10-21T04:38:19"
+    text: |
+      Congratulations on the weight loss, Katy! I need some inspiration on that score...
+      
+      And congratulations on being able to cut down on the expenses. Also another one of my 'thorns in the flesh'...
 ---
 
 It's been a while since I updated you on the frugality efforts of the Raymonds, and on my personal weightloss efforts. I didn't quite realize that both of these lifestyle we'll-just-call-them adjustments happened within the same week or so, at the beginning of June.

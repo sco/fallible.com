@@ -1,6 +1,19 @@
 ---
 title: "She Speaks, Therefore I Blog"
 date: "2005-07-18T15:44:01"
+comments:
+  - author: "Bridget"
+    date: "2005-07-19T00:18:23"
+    text: |
+      I always thought I was her favorite!  At least that's what she always tells me!!! :) 
+      -----
+  - author: "Lynn"
+    date: "2005-07-19T02:10:30"
+    text: |
+      It's strange when your mother knows you oh-so-well, yet fun too.
+  - author: "Hope"
+    date: "2005-07-19T05:01:17"
+    text: "I laughed right outloud.  Oh that is too funny.  Your mom knows you - that is pretty cool - not all moms know their adult children so well."
 ---
 
 I haven't kept in very good touch with my own siblings these past few weeks, because of Doug's mom being so ill. I do, however, talk to my mother every other day, and she fills me in on who's doing what.

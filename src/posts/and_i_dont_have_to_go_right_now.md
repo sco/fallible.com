@@ -1,6 +1,80 @@
 ---
 title: "And I Don't Have To Go Right Now"
 date: "2005-07-27T13:39:01"
+comments:
+  - author: "Elizabeth"
+    date: "2005-07-27T21:29:52"
+    text: |
+      Thanks for sharing your embarrasment and giving me my laughs for today.  I'm glad your day ended with laughter as well. 
+      -----
+  - author: "lisa"
+    date: "2005-07-27T22:11:29"
+    text: "katy, you must learn to be more vulnerable in your blogging..it would help make the rest of us able to smile that knowing smile and not feel so alone... ;)"
+  - author: "Bridget"
+    date: "2005-07-27T22:52:45"
+    text: |
+      Sonograms are the absolute worst, and I think you and I have seen a lot of tests, my dearest sis.  They always tell me I don't have enough water in me, either.  And then when I'm flowing like the Pacific, they let me &quot;pee just a little&quot;, too.  I'll have to try the Depends route the next time.
+  - author: "Katy"
+    date: "2005-07-28T23:27:17"
+    text: |
+      Elizabeth--I'm glad I could give you your laughs! And best wishes with your mother's wonderful anniversary...
+      
+      Lisa--I am trying to become more transparent (that's the word we used before &quot;authentic&quot; gained popularity), but these things take time...  :)
+      
+      Bridgie--Medical-Tests-Backwards R-Us! Yesterday Scotty asked me what the tests were for. &quot;Just routine?&quot; he said. &quot;Oh, yeah. Routine. Checking for brains tumors and stuff.&quot; He nodded and then I said, &quot;Oh, I guess to other people checking for brain tumors wouldn't seem routine...&quot; We got a chuckle out of that!
+  - author: "Susan"
+    date: "2005-07-29T10:41:15"
+    text: |
+      Yeahhh, and I keep wondering why they can't make a mamo machine that's like Madonna's big ol' rocket-cone bra thangy. You know, you could just put on the mamo-bra and just like a CAT scan thing it would whirl around each breast and take the dang picture! What is up with all the mashing?!
+  - author: "Paula"
+    date: "2005-07-31T09:16:28"
+    text: |
+      Practice up for a mamo by slamming them in the refrigerator door a few times! hey, I get claustrophobic too. man, I hate those things.
+      
+      I'd say your post made me laugh so hard I wet my pants, but I got up and went just before I blogged over here. Didn't want to spoil my Depends. : ) Thanks, Katy.
+  - author: "The Other Katy"
+    date: "2005-07-31T14:51:14"
+    text: |
+      Katy, you brought tears to my eyes. :D
+  - author: "Katy"
+    date: "2005-08-02T21:57:56"
+    text: |
+      Susan--That's the BEST idea ever!! The whole Madonna thing might work for the rest of us chicks, too... The Conical Mammo Bra--quick, get a patent!  :)
+      
+      Paula--It's scary how much we think alike. Depends aren't cheap! You gotta save them whenever you can! I've passed on your refrigerator line to a few ladies. If you're prepping for a mammo and having a hot flash at the same time, you could stick your head in the freezer while you're slamming the fridge...
+      
+      The Other Katy--I'm so glad you popped in here! I've been reading your blog, too, and really enjoying it. (I'm a Kathleen, also...)
+  - author: "Samantha"
+    date: "2005-11-04T13:53:08"
+    text: |
+      I'm only 15 and my bladder has become so stretched (permanantly) that one of these days, if I hold my pee just for a short time, it will burst. If I even LIVE through that, I'll be on dialasis 3x a week for the rest of my life. It scares me, but there's only so much I can do! I'm just glad I've had the wonderful opportunity to read this thing. Now I know someone else feels as if they might need to wear Depends! Hee, Hee! So long!
+  - author: "cat urine smell remove"
+    date: "2009-08-21T13:31:42"
+    text: "WOw! I caused not know that. That is unbelievable, but phonograph records shows it is manageable. I just jargon imagine if that will encounter attendant. Its threatening. Tanks for the information."
+  - author: "stainless steel sinks"
+    date: "2009-09-09T12:27:02"
+    text: |
+      What do they check for during medical test in a company?
+      How can i know ,am i medically fit?are there any self tests?
+  - author: "dehydration symptoms"
+    date: "2009-09-10T19:52:26"
+    text: |
+      Sonograms are the absolute worst, and I think you and I have seen a lot of tests, my dearest sis.  They always tell me I donâ€™t have enough water in me, either.  And then when Iâ€™m flowing like the Pacific, they let me "pee just a little", too.  Iâ€™ll have to try the Depends route the next time.
+  - author: "montreal massage parlor"
+    date: "2010-05-21T15:17:43"
+    text: "I accept bookmarked you page, hopefully you add some added advice for us to use."
+  - author: "villash"
+    date: "2010-08-20T06:56:16"
+    text: |
+      I love alot of thing and do some things that are looked down upon by the world. I'm very open minded and a free spirit...<a href="http://www.transfertests.co.uk/">Transfer Test Northern Ireland</a>
+  - author: "John robert"
+    date: "2010-09-25T10:04:59"
+    text: |
+      This is really good information about drinking water.You know doctors are advised to drink 3lit in everyday.We can reduce the weight through water therapy...
+      <a href="http://www.medical-billing.com/">medical billing</a>
+  - author: "Georgio"
+    date: "2010-11-22T00:04:13"
+    text: "Man all those crazy medical tests, that sucks."
 ---
 
 Yesterday was Cram-All-The-Medical-Tests-Into-One-Long-Session Day.

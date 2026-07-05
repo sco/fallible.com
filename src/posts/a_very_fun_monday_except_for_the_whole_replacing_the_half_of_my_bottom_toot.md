@@ -1,6 +1,33 @@
 ---
 title: "A Very Fun Monday, Except For The Whole Replacing The Half Of My Bottom Tooth That Broke Off Thing"
 date: "2007-07-16T21:28:29"
+comments:
+  - author: "Suzan"
+    date: "2007-07-17T03:01:35"
+    text: |
+      I hate tooth problems and I don't have insurance. So I've given up eating almonds and have switched to almond butter because I'm afraid....
+      
+      Kudos for the baby clothes.
+  - author: "Michael Main"
+    date: "2007-07-17T16:45:01"
+    text: |
+      And one day you and those lil' babies will have something more in common than just reduced price clothing...of course their teeth wlll be growing in...
+      
+      Truly a wonderful ministry...
+      
+      Doing God's work isn't that hard, if we just allow God to work through us :)
+  - author: "Lisa"
+    date: "2007-07-18T11:54:16"
+    text: "Sorry to hear about your tooth, Katy, but it does sound like you made a fun adventure out of it. What a blessing you are to the Mercy & Truth ministry!!"
+  - author: "lisa"
+    date: "2007-07-18T16:14:23"
+    text: |
+      that's a lot of something, imo.
+  - author: "jessica"
+    date: "2008-12-03T03:39:34"
+    text: |
+      The way you compared the tooth with your mom looks aesthetic.But at the same time the disturbance given by mother is totally the care that she keeps on her child.It is an invaluable thing.
+      http://www.brushandfloss.com/
 ---
 
 If it's not one thing, it's your mother, right?

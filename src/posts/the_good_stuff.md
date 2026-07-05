@@ -1,6 +1,55 @@
 ---
 title: "The Good Stuff"
 date: "2005-10-19T12:57:44"
+comments:
+  - author: "Katy"
+    date: "2005-10-19T14:37:51"
+    text: |
+      Doug says he thinks he gave the coffee can of marbles to one of the kids....Ummm...Scott, Carrie or Kevin--We've lost our marbles! Either return them to us no questions asked, or plan on supporting us in our declining years.  Hello? Can you hear me now?   :)
+  - author: "Ame"
+    date: "2005-10-19T15:43:47"
+    text: |
+      I love your stories of your childhood - makes stories like that real for me knowing someone who lived them :)  My childhood was marked with abuse, so I don't remember much.  But, I do remember having very little money for anything extra and being very grateful for two or three simple presents at Christmas.  I'm sure I behaved in public, but I don't remember.  
+      
+      As a mom, I have an ADHD child with other medical issues on meds, and her behavior would not "measure up" to that which some would expect it should many times.  I've learned to focus only on my child and not on what others may or may not be thinking or on their "looks" at us :)
+      
+      I've found that my girls "wants" are fleeting.  If I fulfill their "wants," it's almost always wasteful.  They enjoy things more when they earn the money to purchase them or when they earn the privalege for Mommy to purchase them. :)
+      
+      I love your previous story about the matching dresses with full skirts!  My girls LOVE dresses that can twirl and float on the breeze - it's so fun watching little, feminine girls in their pretty things!!!!!
+  - author: "Lynn"
+    date: "2005-10-19T20:16:27"
+    text: |
+      Wow...all four of those...my dad bought me silly putty too, for my birthday (oh I miss him)...my grandfather carved me a slingshot and those paddleballs (how I wish he had the strength to carve now)...I could never get enough of the magic sketch pads (my mother would probably love to keep buying them for me now)...
+      
+      Wow. And yes, I got them because I was very very good. Being horrid only got me a bad picture day (my mother's favourite punishment was to snap a photo of my tantrum and show it to her family...eventually, whenever she pulled out the camera I became a pleasure child...) or a much needed spanking.
+      
+      Speaking of which, I heard those were "bad parenting skills" nowadays. I don't know, they sure shaped me up when a talking-to didn't work!
+  - author: "Ame"
+    date: "2005-10-20T00:44:18"
+    text: |
+      Gosh, I LOVE the "bad picture days," Lynn - I might try that :)  Especially for my 8 year old - she is so vain!  hehehehehe :)
+  - author: "Kevin"
+    date: "2005-10-20T13:00:56"
+    text: |
+      When my Mom used to take me to the Food City down the road on Saturday mornings, all she'd have to do would be to park me in front of the magazine rack on the pet food aisle. I would sit there for however long reading comic books -- Sonic the Hedgehog, Superman, Superboy, Star Wars adventures, you name it -- without so much of a peep until it was time to go. Of course when that time rolled around, I had already preselected the best in class of the comic books. How could they be left behind? They were a continuation of the story from last week! I must have them!
+      
+      Last year I donated a large amount of those old comic books to the Goodwill down the street from our house. I hope someone else enjoys them...
+  - author: "Bridget"
+    date: "2005-10-20T17:09:54"
+    text: |
+      First off, Katy...you MUST put this in the Star Magazine (with some revisions, of course).  What great memories of the A&P!!!
+      
+      I was the spoiled youngest, I know.  I got a Golden Book every time I went to A&P with Mom.  My collection was a vast one...too bad Mom made me give them away to Liz when she had Erin.  (Why would I need them anymore, she asked..) I can still see how ripped and drawn-on they became.  It broke my heart.  
+      
+      I also remember getting coloring books and crayons a lot, not only from there but also from TG&Y.  
+      
+      Great memories...you made me smile.
+  - author: "Hope"
+    date: "2005-10-26T16:00:41"
+    text: "Oh what a lovely memory trip you took me on this morning.  I remember all those treats.  My mom would phone in our grocery order every Thursday and my dad would bring it home that night.  Up until we could read we got some candy every week. I still remember the week I got a comic book instead of candy. I was little enough that I still wanted the candy but I love the rhythm that those comic books gave to my life."
+  - author: "ZOJIRUSHI Bread Maker"
+    date: "2009-09-25T10:16:53"
+    text: "Really interesting article about her great stuff.its amazing.In this article Magic Slates almost like my daily bread. I loved etching intricate pictures on the filmy panel has been good.."
 ---
 
 When I was a little kid, we wouldn't have dreamed of throwing a tantrum in the A&P.

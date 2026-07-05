@@ -1,6 +1,69 @@
 ---
 title: "Share Wear"
 date: "2008-10-07T13:14:00"
+comments:
+  - author: "Cathy West"
+    date: "2008-10-07T14:36:25"
+    text: |
+      Oy vey. This is my fault??
+      I hope your stay in hospital was short-lived and you returned home without those disposables. But look at it this way, at least she didn't bring you Depends...
+      Don't make any more trips to the hospital!!
+  - author: "Katy"
+    date: "2008-10-07T14:41:17"
+    text: |
+      Cath--I believe in "no-fault" blogging!  :)
+      I cannot make trips to the hospital on my own behalf now, as my MIL was admitted 24 hours after I got sprung. So we're making trips, all right.....and there are definitely Depends involved! Love you!
+  - author: "Sandi Thompson"
+    date: "2008-10-07T20:51:37"
+    text: |
+      Katy, There definitely is a theme her ergo the panties. Glad your stay was short lived. Cathy mentioned Depends. WEll, they work. They're not pretty but they work. Sorry to hear about your MIL. My mother always said to put on clean panties when you go out because you never know what might happen. Now we have to have extras because you don't know how long it might be happening. Yikes. It's enough to make you agrophobic.
+  - author: "Christa Allan"
+    date: "2008-10-08T04:49:17"
+    text: |
+      I'm impressed at the lengths you will travel for a blog topic! 
+      
+      So, whatever caused you to go to the hospital is better, I pray.
+      
+      Perhaps stand-up comedy is your forte?
+  - author: "Bridget"
+    date: "2008-10-15T13:45:05"
+    text: |
+      Hmmm...wishful thinking on Doug's part?!  :)  You know, all men are the same.  LOL.
+      Miss and love you always.
+  - author: "Shar"
+    date: "2008-10-16T19:55:16"
+    text: |
+      I enjoy anyone willing to share an underwear story and I greatly appreciate the introduction to the word 'pantyless', which I have now added to my vocabulary.
+  - author: "Jack"
+    date: "2009-01-09T18:10:57"
+    text: "What is the nature of your mortgage?   The nature of your mortgage, compared with refinancing a subprime mortgage, the kind of guarantees and the current and future value of the guarantees. Subprime Refinancing is similar to the release of a new loan. The agreement assumes that the offer and acceptance skills. What do you recommend? Only mortgage! It should be in good shape, and aims to invest in them. Further investments in the capacity building mortgage with equity and increase the value of the collateral. Therefore you need to look more like a demand for refinancing subprime mortgages for investments in mortgages.   What is your credit score?   It is the conviction that you want your depositors can be used to you. They come with a good credit record. Show proof of something that might affect your handling of finances. Refinancing the subprime mortgage is similar to the administration of any financial problems. If your credit result is negative, there is no need to be disturbed about this. There are always ways to get out of the situation, if you have the right to investigate. Subprime Mortgage refinancing solutions would be possible if you really your case to a potential creditor. Normally, a creditor existing situation, you the best.   Online Shop   Online shopping for subprime mortgage refinancing is the best option for comparing free estimates."
+  - author: "Mark"
+    date: "2009-01-29T03:56:15"
+    text: |
+      Lmao..! Looks like you need to buy your stuff alone.<a href="http://www.remusexhauststore.com/">Remus Exhaust</a>
+  - author: "Melissa"
+    date: "2009-02-09T01:41:52"
+    text: |
+      Hi, Katy. Nice to read your experience. Thanks for sharing. I couldn't bear the hospital underwear and bras either. They seem so creepy. No one can tell whether they are new or used. But if the nurse asks me to wear hospital gown, that's OK. So the doctors don't have to continually cut my clothes into pieces if something goes wrong with me.
+  - author: "James Bower"
+    date: "2009-02-13T19:10:50"
+    text: |
+      Hospital gowns make me really uncomfortable. Hell, I never want to be in a hospital anyway. I'd rather wear <a href="http://www.cafepress.com/mondotshirts">Movie Shirts</a> if ever I'll be in a hospital. Everything inside it just creeps me..
+  - author: "hosted exchange"
+    date: "2009-02-24T15:06:36"
+    text: "Well you have written really great review it shows your blogging experience . and i like the way you put all your personal experience . thanks"
+  - author: "Dave Mason Fan Club"
+    date: "2009-02-26T19:39:04"
+    text: "I am really fond of reading your blogs."
+  - author: "Baseball Handicappers"
+    date: "2009-03-14T00:18:23"
+    text: "Your talent shines through on these blogs. They are always interesting. Keep up the good work."
+  - author: "Curved Millwork"
+    date: "2009-04-01T19:25:11"
+    text: "Your experience in writing sure helps out on these blogs."
+  - author: "Stock Update"
+    date: "2010-11-10T17:12:13"
+    text: "All great stock market operators know how to properly observe, interpret, and then execute trades with the odds strongly in their favor. Money management is another important part of the equation. Keep all losses small. Learn to be wrong small and right big."
 ---
 
 I've written a couple of posts since I told you the story of my panty escapades during my writers conference trip.

@@ -1,6 +1,67 @@
 ---
 title: "Getting My Act Together"
 date: "2005-08-24T20:57:01"
+comments:
+  - author: "Tonya Roberts"
+    date: "2005-08-25T06:32:04"
+    text: |
+      Your entry had me chuckling hard today!  I used to be one of those recreation therapist who worked with folks like your mom.  Our patients favorite sport was bowling.  As fun as it was for them...it was a LOT of work for me!  First you had to set up the pins by hand...then bring the next bowler up to the ramp and help them adjust it &quot;just right&quot;.  Everyone got two shots.  So when the ball went down the ramp I had to go chasing it and fetch it...then let them roll it again...then bend over and start setting all those pins back in place!  Your blog brought back some real memories for me today!  God bless those hard working therapists!  Thanks for sharing! 
+      -----
+  - author: "Kevin M."
+    date: "2005-08-25T07:21:37"
+    text: |
+      Katy,
+      I don't have an e-mail address to get in contact with you, so here is an unrelated comment...
+      
+      Have you heard of PaperbackSwap.com? http://www.paperbackswap.com/index.php
+      
+      A guy that graduated from my college last year started this and it seems to be taking off. He came to my Small Bus. Mgt class today and presented.
+      
+      Strangely enough, you were the first person I thought about... as I do believe you have posted about having tons of books laying around and needing to find a home for them. I think you'd enjoy it, and I hope you don't see this as spamming. I have no connection to the site... and sincerely did think of the books laying around your house! :)
+      
+      Cheers,
+      Kevin
+  - author: "violet"
+    date: "2005-08-25T08:34:12"
+    text: |
+      Katy, keep these wonderful pre-Alzheimerian posts coming.  They've got to have a future somewhere,  secured together in a book!
+  - author: "Mary"
+    date: "2005-08-25T18:59:06"
+    text: "Wheelchair volleyball?  ACK!  I hate volleyball!  It hurts my delicate little forearms.  I guess beach balls would at least be a little gentler, but still...the mere idea of it kind of makes one hope to die young."
+  - author: "lisa"
+    date: "2005-08-26T04:00:44"
+    text: |
+      great post, katy..that 100 year old had me laughing, too ;)
+      
+      As for the side comment..in the same spirit, i've discovered 'freecycling'..run a google search, find a group near you, and share the love! (not to mention the stuff...)
+  - author: "Bridget"
+    date: "2005-08-26T07:35:56"
+    text: |
+      Thank the Lord I excel at volleyball.  :)  (I'll bet Miss Reardon loves it, too.  Hee, hee...
+  - author: "Katy"
+    date: "2005-08-26T19:58:37"
+    text: |
+      Tonya--My hat is off to anyone who works with the elderly--for pay or otherwise. Those old folks really keep us hopping, don't they? I lose weight every time one of my ladies is in a bad way...the best exercise program in the world is keeping up with our elders!
+      
+      Kevin M--How could I mistake you for a spammer??? Call me crazy, but I imminently trust guys with names like Kevin Mulligan. Tee, hee. I will check out your link--it DOES sound like something I need! You are so nice to think of your book-hoarding blog buddy...thanks!  :)
+      
+      Violet--Well, one thing about blogging we know for sure: Themes happen. I added up all the nutty posts I've written about our moms, and I think it came to 45. That's a small book! Eventually, I will self-publish a book of McKenna stories for my siblings, based on blog entries. But who knows what else might happen???  Love to you!
+      
+      Mary--I'd forgotten about the forearm pain! Volleyball is pure torture, isn't it? And yet, in the end we must all face it. Let's just hope we're on the same team....
+      
+      Lisa--My daughter told me about freecycling! She's been doing it in Columbia. I am going to check into it--I'm almost too old to learn new tricks, but not quite...  :)
+      
+      Bridget--Tee, hee! Who knew my old PE teacher would end up in the same nursing home as Mom? But she hated me and LOVED you!! Hey, you and Miss Reardon can play volleyball to your heart's content... (I didn't see her at the net, by the way!)
+  - author: "Jennifer"
+    date: "2005-08-29T04:24:40"
+    text: |
+      I used to laugh when I heard the term &quot;Sandwich Generation&quot;. That was until I realized I'd become the grape jelly in the PB&amp;J of life. It's so nice to come here and read your tales. Kindred spirits are the nice tall glass of cold milk that  makes the peanut butter go down so much easier. Thanks for that.
+      
+      And bless your heart.
+  - author: "Bridget"
+    date: "2005-08-29T08:45:43"
+    text: |
+      Love the book idea about Mom.  Between your stories and mine, we'd probably have a bestseller! :)
 ---
 
 When you spend as much time with old folks in hospitals, doctor's offices, and nursing homes as I do (by my conservative estimate, 67 days so far this year...) you start to figure out a few things. Up until these past few weeks, though, it hadn't sunk in with me how in-shape I'll need to be when I'm an official geezerette.

@@ -1,6 +1,52 @@
 ---
 title: "For Your Monday Morning Entertainment"
 date: "2006-10-16T16:08:24"
+comments:
+  - author: "Sabine"
+    date: "2006-10-16T16:40:59"
+    text: |
+      And I thought my name was a cross to bear (as a child).  Sorry, I have no ideas for the story of Dympna Shayne but I can't wait to see what you and others come up with!  Thanks for the entertainment.
+  - author: "Carrie K."
+    date: "2006-10-17T00:47:21"
+    text: |
+      Ooo, please continue! I don't have any ideas, but I definitely want to read it. And, incidentally, I knew a girl in high school named Shane.
+  - author: "Suzan"
+    date: "2006-10-17T14:18:49"
+    text: |
+      I can so relate. :-)
+  - author: "Tess"
+    date: "2006-10-17T17:03:39"
+    text: |
+      I'm intrigued - why?
+  - author: "Kcaarin"
+    date: "2006-10-18T16:11:57"
+    text: "I know a family who lost a daughter named Shayne to cancer.  She was between 16-18 years old."
+  - author: "Kcaarin"
+    date: "2006-10-18T16:43:54"
+    text: |
+      Point of interest; (regarding Shayne and her family)  the family was very rich from having started a garbage business but fell apart after Shayne died.  The father went into drugs (I don't know if he had a problem before or not)  the mother went deeper into her faith.  They ended up in a divorce.  The one son followed after his father and got into drugs (he was about 15-16) the other daughter retreated into herself, the other son followed his mother and found a deeper faith and the oldest son had a schizophrenic breakdown.  (there were 5 children altogether)  The interesting thing now is after a long battle of fighting the Lord, the 16 year old son is now following the Lord and free from drugs, although he still fights with a wicked temper.  It's a great story of how the Lord, in His great Sovereignty allowed pain for His glory.
+  - author: "Suzan"
+    date: "2006-10-20T12:44:42"
+    text: |
+      Katy, what are you planning for this story? It sounds like an interesting start. I'm personally out of ideas, but do let us know how it progresses.
+      
+      I can relate to the heroine, having grown up in an Irish Catholic neighborhood.
+  - author: "Katy"
+    date: "2006-10-20T14:44:56"
+    text: |
+      Sabine--I absolutely love your name. Is there a Saint Sabine?
+      
+      Carrie K--Your encouragement is a treasure! :)
+      
+      Tess--I wish I knew!!  ;)
+      
+      Kcaarin--So sad about Shayne and her family and all they went through. My current novel (not the thing I've posted here) deals with the death of a child and how it affects the family long-term. I am glad in your story, there is redemption!
+      
+      Suzan--You know what? I picture the heroine about 30 years old, but she looks like you! Although I wrote this before we reconnected at ACFW....The title of this story is Citizen Shayne, about a woman who goes to Ireland--mad at the whole country because of the Dympna thing but needing some answers--and ends up pursuing her Irish citizenship (for a specific reason unknown to me at this time). The story is about the longing for  belonging--I think.  :)  But, hey. I'm hoping NaNo will get the ideas flowing.....
+  - author: "Skin Pigmentatio"
+    date: "2010-09-01T08:45:15"
+    text: |
+      When the outer layers of skin shed (as they do continuously), the dead skin cells left behind may become 'glued' together by the sebum. This causes the blockage in the pore, especially when the skin becomes thicker at puberty. The sebaceous glands produce more sebum which builds up behind the blockage,
 ---
 
 Here's a piece of fiction I've started. I'm posting it here just for fun. If you have any ideas about where the story might go from here, let me know. Hope you enjoy it!

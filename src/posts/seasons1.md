@@ -1,6 +1,15 @@
 ---
 title: "Seasons"
 date: "2006-08-21T00:03:36"
+comments:
+  - author: "Michael Main"
+    date: "2006-08-21T20:19:32"
+    text: |
+      um...you could give them keys. :)
+      
+      Enjoy the short seasons, and the long ones.
+      
+      Michael M
 ---
 
 It shocks me that in any given season--this summer, for instance--we can experience enough change to make it feel like we've gone through several years' worth of transitions.

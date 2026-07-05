@@ -1,6 +1,12 @@
 ---
 title: "Droppin' Gs"
 date: "2008-10-20T13:37:00"
+comments:
+  - author: "Sandi Thompson"
+    date: "2008-10-20T21:27:25"
+    text: |
+      Katy, 
+      Droppin' the consonants is very Southern. Some of us can't help it (or is that canna? help it.) But only on certain words, and mostly the Gs (Isn't that interestin'. Guess we been gettin' ready to loose all those Gs and never knew it.) Y'all know that right? SAndi
 ---
 
 It's bad enough that millions of us have watched our retirement accounts drop thousands (Gs for short) in the blink of an eye. I mean, the indignity of hitting "refresh" on Scottrade's marketwatch page and seeing the market lose 300 points in 20 seconds is more than a little unnerving.

@@ -1,6 +1,57 @@
 ---
 title: "Most Treatable In Real Life?"
 date: "2006-02-23T14:23:14"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-02-23T15:31:36"
+    text: |
+      You're extremely meetable, Katy. I'd even go so far as to say few people surpass your meetability. 
+      
+      Glad to hear you're also treatable. And equally glad to know it's your colon, not mine. May the tunnels treat you kindly, dear one. 
+      
+      Love, Jeanne
+  - author: "relevantgirl"
+    date: "2006-02-23T17:08:58"
+    text: |
+      Just picture those tunnels as tunnels of healing! Jesus will hold your hand.
+      
+      So glad to hear the colon stuff is not contagious in the blogosphere.
+      
+      m
+  - author: "Katy"
+    date: "2006-02-23T18:08:03"
+    text: |
+      Jeanne--You are likewise supremely meetable! :)  I too am happy it's my colon and not yours. Wouldn't wish it on a good buddy like you!
+      
+      Mary--I believe Jesus will hold my hand. Hopefully He will also slip me a couple Xanax. Also, none of my illnesses are common to man or womankind. I specialize in the exotic.  ;)
+  - author: "lisa"
+    date: "2006-02-23T19:40:16"
+    text: |
+      katy, i agree..you're very meetable..congrats on the props. i did go and vote..i feel like someone should email me a little oval sticker that says so, but - ah, well.
+      
+      i'd make one more category to vote for fallible in if i could..most likely to make me smile..you just about never fail :)
+      
+      -lisa in topeka
+  - author: "Ame"
+    date: "2006-02-24T14:14:23"
+    text: |
+      I hope you endured the tunnels okay.  Thinking about you and praying for you.  You're doin good forging ahead :)
+  - author: "Kathryn, the daring one"
+    date: "2006-02-24T22:27:16"
+    text: |
+      I am so glad you're in those categories.  I would LOVE to meet you in real life.
+  - author: "Macromoments"
+    date: "2006-02-25T00:38:23"
+    text: |
+      Katy, been meaning to ask for a translation of the french below your title up there.
+      
+      Now...I'm off to cast that vote.
+  - author: "shpilman"
+    date: "2006-04-04T15:52:48"
+    text: "Jeg hilser til klovnen. Jeg liker klovner veldig godt! Jeg har vört põ sirkus og sett klovner."
+  - author: "Mississauga Condominiums"
+    date: "2009-07-14T18:38:45"
+    text: "Fallibilism is the philosophical doctrine that all claims of knowledge could, in principle, be mistaken. Some fallibilists go further, arguing that absolute certainty about knowledge is impossible"
 ---
 
 First the good news, and then the so-far-so-good news.

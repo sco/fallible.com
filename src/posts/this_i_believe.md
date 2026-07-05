@@ -1,6 +1,61 @@
 ---
 title: "This I Believe"
 date: "2008-04-27T18:26:00"
+comments:
+  - author: "Doug Raymond"
+    date: "2008-04-27T19:31:02"
+    text: |
+      I believe that no matter how low the needle goes, there is always enough gas to run one more errand before bothering to fill up.
+      
+      I believe if I kill all the dandelions in a bare patch on my lawn, that grass will spring up without additional seed or water.
+      
+      I believe that in spite of past performance, I will wake up at the proper time without setting the alarm.
+  - author: "Katy"
+    date: "2008-04-27T19:35:08"
+    text: |
+      Doug--Ha! You also believe, in spite of evidence to the contrary, that this year the chain saw will start right up.   :)
+  - author: "Becoming Me"
+    date: "2008-04-27T20:32:44"
+    text: "That was too funny. I love your wit"
+  - author: "Christa"
+    date: "2008-04-27T21:40:00"
+    text: |
+      I believe that consuming gallons of Blue Bell ice cream, especially King Cake and Double Brownie Overload, will prevent writer's block.
+      
+      I believe I would laugh less if you did not have this blog.
+  - author: "Katy"
+    date: "2008-04-27T22:16:20"
+    text: |
+      Becoming--Aw, thanks! Feel free to share what you believe, too....   :)
+      
+      Christa--Do they have those flavors in sugar-free? 'Cause, girl, I could seriously love me some Double Brownie Overload, and I DO believe what you said. I also believe I get a LOT more writing done in coffee shops that have free wifi.
+  - author: "Katy"
+    date: "2008-04-27T22:47:08"
+    text: |
+      I just found out that my husband believes if he's punching the correct buttons on the remote, it shouldn't matter that the batteries are dead.
+  - author: "joshua"
+    date: "2008-04-30T03:15:14"
+    text: "And I believe that one day I will find the mate to this missing sock that somehow eluded me. From 1991 (when I first began doing my laundry in college) until 2007, I had NEVER lost a sock. I was rather proud of that fact. Too proud perhaps... And you are so right about the toothpaste! (You have to squeeze like a wild person when you pay $6 a tube for that organic stuff.) Thanks for the laugh this morning!"
+  - author: "Cindy Swanson"
+    date: "2008-05-01T15:35:54"
+    text: |
+      This is an instant classic, Katy!  I'm linking to this one! :)
+  - author: "Katy"
+    date: "2008-05-03T16:54:21"
+    text: |
+      Joshua--Pride goeth before the mall, where you might have to go for more socks!
+      
+      Cindy--I love you!!! Thanks.
+  - author: "Bridget"
+    date: "2010-04-27T15:21:44"
+    text: |
+      I believe that chocolate, when stressed, has no calories.
+      
+      I believe that the dust will still be there tomorrow.
+      
+      I believe that the rain is as good a car wash as the real thing.
+      
+      I believe teachers often know children more than their parents.
 ---
 
 I BELIEVE in the sanctity of sock marriage. Socks are, by their very nature, knit together in monogamy. If the clothes dryer perchance puts them asunder, a pair of socks never pursues divorce. The missing mate is merely vacationing somewhere, such as on the vast white beach of that new sheet I got on sale at Target. Therefore, the sock which languishes in loneliness waiting for its partner's return must never be cast away, for then it would surely lose hope.

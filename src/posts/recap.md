@@ -1,6 +1,39 @@
 ---
 title: "Recap"
 date: "2006-03-06T14:19:20"
+comments:
+  - author: "Michael Main"
+    date: "2006-03-06T17:54:52"
+    text: |
+      First off glad you're alive...and I hope you are...glad too that is :)
+      
+      It sure sounds like medications out of control...is Mom in charge of her meds making sure she's only taking the prescribed amounts?
+      
+      It's so much easier with children...when kids start going crazy on ya, you simply diagnose a cold coming on...and a healthy dose of something that puts their little butts to sleep :)
+      
+      Just kidding...don't write me about child abuse...when our kids acted up I was the one reaching for the bottle...and I wasn't sharin' :)
+      
+      Finding a doctor who actually takes the time to "care" is a wonderful feeling.    I hope you can keep him/her "on board" even after your Mom moves back.
+      
+      In the interim...we're praying for ya...and not just for the ability to cope with "the moms."
+      
+      -M
+  - author: "Carrie K."
+    date: "2006-03-06T20:23:21"
+    text: "Praying, Katy."
+  - author: "Katy"
+    date: "2006-03-09T15:52:11"
+    text: |
+      Carrie K--You are sweet! Thank you.
+      
+      Michael--Ha! Some days, I am indeed glad to be alive, but I have to admit: Not all days. On the bad days, the only reason I am happy to give it another try is because I really want to see how the story--or at least my small part of it--is supposed to end. Wouldn't want to frustrate the Author by circumventing His plot!
+      
+      On a VERY happy note, my mother is much better!!! The hospital neglected to give her one of her prescribed drugs for the six days she was there--they took her off Neurontin cold turkey, by accident. Could VERY well explain why she was a lunatic, and also why now she's so much saner. We shall see!
+      
+      I appreciate you and Amy so much!
+  - author: "Candace Pfau"
+    date: "2006-04-04T18:35:25"
+    text: "Oh my goodness, Katy.  I have been experiencing all this.  My mother moved here for the winter and it was a nightmare.  One day, she told her cousin and I (her cousin was visiting her) that she was dying and to call an ambulance. Well, it seemed she had a drug overdose.  She is on Catapres, muscle relaxers, and mobic.  And when she talks to me, it is in the third person. As if the me she is talking about is not in the room.  My brother just flew back home with her to Colorado.  I hope he can cope with this.  She is not the Mama I grew up with."
 ---
 
 "It does not do to leave a live dragon out of your calculations, if you live near him." - J. R. R. Tolkien

@@ -1,6 +1,65 @@
 ---
 title: "And A Lifetime's Not Too Long...To Live As Friends"
 date: "2007-01-08T00:23:23"
+comments:
+  - author: "Katy"
+    date: "2007-01-08T02:24:36"
+    text: |
+      Patty--Correct if I'm wrong about the date of the last pic. That's Beth B. lying down in the boat with us. I THINK it was late spring, 1968, but could it have been in high school? I bet you'll remember!
+  - author: "Patty"
+    date: "2007-01-08T17:11:33"
+    text: |
+      I don't remember, but it looks more like grade school than high school.  Seems like I also might have had a shorter 'do at St. T's.  Thanks for the good memories.  It was great to see you!
+  - author: "Macromoments"
+    date: "2007-01-11T22:49:29"
+    text: "What a precious gift, to have a friend that long. I loved this post, Katy."
+  - author: "Katy"
+    date: "2007-01-13T22:56:54"
+    text: |
+      MacroBonnie--Sometimes, we have to low down long enough to see what's right in front of us, huh? Lifelong friendships have truly been a blessing from God, and I need to show these ladies (and a few men) some love. They are precious gifts, indeed.
+  - author: "Cufflink"
+    date: "2009-09-12T04:07:16"
+    text: "Yes... some friends come as true blessings...though their number is very low. You are one of those lucky persons who have real friends...."
+  - author: "personal injury lawyer houston"
+    date: "2009-09-23T09:19:23"
+    text: "had an accident where a cyclist rode into my car and now he is trying to claim of my insurance. he is trying to claim for tissue damage,concusion anmd cuts and brusies."
+  - author: "Acupuncture Tampa FL"
+    date: "2009-09-29T08:08:54"
+    text: |
+      well, you are promoting a personal injury lawyer, why dont you try him? otherwise, i can suggest you a better one if he's incompetent
+  - author: "AION KINA"
+    date: "2009-10-05T08:59:30"
+    text: |
+      Pretty good post. I just came across your site and wanted to say
+      that I have really liked reading your posts. Any way
+      Iâ€™ll be subscribing to your feed and I hope you post again soon!
+  - author: "Discount cat supplies"
+    date: "2009-10-21T18:31:26"
+    text: "You are lucky to have lifetime friendship.  Nice story."
+  - author: "car accident insurance claim"
+    date: "2009-11-05T18:57:07"
+    text: "Courteous posting,very advisory.Thank you, very absorbing to read, you should be astonishing of your blog. I was truly relishing to check your subject matters from meter to time. We are depending forward to your potential posts."
+  - author: "Funny Pictures"
+    date: "2010-04-14T17:24:48"
+    text: "Great story! Very thought provoking."
+  - author: "square peg web"
+    date: "2010-06-18T07:54:55"
+    text: "To have people in my life who go back as far as I go with Patty, well. It grounds me, it gives me a rootedness that makes me happier than any material possession."
+  - author: "sansuya"
+    date: "2010-09-10T14:22:46"
+    text: |
+      If the Lord's the Lord of themAnd a friend will not say neverCause the welcomewillnotendThoughit'shardtolet you goIn the Father's hands we knowThat a lifetime's not too long to live as friends...
+      
+      <a href="http://www.11plustrainer.co.uk/">Eleven Plus </a>
+  - author: "11plus"
+    date: "2010-09-20T11:12:09"
+    text: |
+      Packing up the dreams God planted,
+      In the fertile soil of you.
+  - author: "Alex"
+    date: "2010-09-28T20:55:40"
+    text: |
+      <a rel="dofollow" href="http://www.onlinebestbets.com/" rel="dofollow"> Real Money Poker</a>
 ---
 
 By now, we all know that nothing lasts forever, except, well...forever.

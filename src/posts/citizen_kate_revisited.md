@@ -1,6 +1,15 @@
 ---
 title: "Citizen Kate, Revisited"
 date: "2007-05-30T19:43:20"
+comments:
+  - author: "Bridget"
+    date: "2007-05-31T13:38:34"
+    text: |
+      Oh, goodnees.  So, did Mom have the copy of your baptism certificate for real?  Was it in your baby book?  Wasn't your birth certificate in there, too?  I want details...
+  - author: "alison"
+    date: "2007-05-31T22:40:25"
+    text: |
+      I'm confused. Didn't you have a birth certificate when you got your passport. How about the vital records in the state where you wre born. I do have my original birth certificate tucked away, but it really does me know good. I'm rooting for you, Katy.
 ---
 
 As some of you will remember, I am in the middle (hopefully, moving toward the end!) of attempting to acquire my British passport.

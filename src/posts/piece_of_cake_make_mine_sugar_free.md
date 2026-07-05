@@ -1,6 +1,26 @@
 ---
 title: "Piece Of Cake--Make Mine Sugar-Free"
 date: "2005-06-27T01:58:02"
+comments:
+  - author: "Blogin Idiot"
+    date: "2005-06-27T20:39:52"
+    text: |
+      We laughed too. I love the show.
+      
+      Take Care
+      Michael 
+      
+      -----
+  - author: "Jeanne Damoff"
+    date: "2005-06-28T03:16:29"
+    text: |
+      Didn't see the show, but definitely livin' the life. ;)
+  - author: "Katy"
+    date: "2005-06-28T04:00:40"
+    text: |
+      Take Care Michael--I've had almost no experience with Jeff Foxworthy, but he really is hilarious. And sometimes comic relief is such a, well...relief.
+      
+      Jeanne--I'm glad that you, too, are livin' the life! It's a good one, isn't it? The comments your guy makes to you when you're sitting across the breakfast table in your funky pjs sound so familiar. Where do they come up with this stuff?  :)
 ---
 
 Comedy Central has a crazy show on called Blue Collar TV. Jeff Foxworthy just did a routine in which he described how wives train their husbands.

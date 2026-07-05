@@ -1,6 +1,55 @@
 ---
 title: "Buying Time"
 date: "2005-08-04T15:03:01"
+comments:
+  - author: "Ann"
+    date: "2005-08-04T23:17:33"
+    text: |
+      I wonder . . . when we get to heaven and Jesus sets fire to our life and all the hay and straw is finally gone . . . I believe these are the experiences we are going to see in the purified silver and precious stones.  Thank you for taking the time to stop letting it be about you and choosing for it to be about her. 
+      
+      -----
+  - author: "Jason"
+    date: "2005-08-05T04:37:17"
+    text: "This is so well written and moving.  Oh that we might be able to see how God uses slow moving lines, cold cups of water, and nails and wood for His glory!  What a soveriegn God!"
+  - author: "cmhl"
+    date: "2005-08-05T10:03:12"
+    text: "sounds like you were in the right line after all!"
+  - author: "Angus Lewis"
+    date: "2005-08-05T20:12:58"
+    text: |
+      I was getting all primed to share my clever comments about the violators of checkout line etiquette till I got to the end of your story.
+      We like to think God has a special plan for us, that we are destined for some great purpose that we are esppecially gifted for.  The truth is that love, what you did for that girl, is our purpose, the calling that oerarches and supercedes any other destiny we are called to.
+      You have humbled me.
+  - author: "Paula"
+    date: "2005-08-07T07:51:32"
+    text: "this began to sound like one of my Omnibus posts. then it ended sounding like one of my Omnibus posts. thanks."
+  - author: "Rachael"
+    date: "2005-08-08T16:48:00"
+    text: |
+      Thanks for sharing this experience!
+      It really made me think.
+  - author: "Lindsey"
+    date: "2005-08-08T23:00:15"
+    text: |
+      this was so nice to read- what a good reminder.  Thanks! :)
+  - author: "Lorna"
+    date: "2005-08-10T16:15:21"
+    text: |
+      thanks
+      
+      had to laugh though about the female cashier v male cashier and lingerie... brings back a funny but embarrasing memory :)
+      
+      be blessed!
+  - author: "Jami"
+    date: "2005-08-10T22:35:22"
+    text: "What a blessing, thank you for sharing.  I look forward to reading more of your posts."
+  - author: "Monika"
+    date: "2005-08-11T06:23:48"
+    text: |
+      that's lovely. thank you for reminding me to always look to beauty.
+  - author: "suzan"
+    date: "2010-11-26T17:13:58"
+    text: "This post made me bawl. I love you, my friend!"
 ---
 
 When I get stuck waiting behind a long line of customers, I don't usually think happy thoughts. Nor do I do those inconspicuous bun-tightening exercises the magazines advise for my spare time. I don't peruse gossip rags to see what's up with Jen and Brad and the various Desperate Housewives. And I only rarely drool over the candy bars.

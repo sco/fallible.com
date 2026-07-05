@@ -1,6 +1,26 @@
 ---
 title: "Follow"
 date: "2006-07-29T22:42:21"
+comments:
+  - author: "jen alves"
+    date: "2006-07-30T02:22:43"
+    text: |
+      Go often enough and the people at Panera WILL know your name.  AND they'll come to know that you prefer the skinny straws.  They'll even eventually remember that no lid shouldst EVER come between you and the whipped cream on your IC mocha when it's presented to drooling you.  (I've heard...)  ;)
+  - author: "joshua"
+    date: "2006-07-30T20:53:12"
+    text: |
+      katy - it is so encouraging to read of how your are changing your lifestyle - in a culture of entitlements and consumption, how refreshing to read of people who are tired of excess "stuff" and doing something about it. i love it! i just wrote of this issue today and after reading this entry about personal responsibility (or proper stewardship?), i had to add a little plug for your site since you are on the path of living lean. it's awesome, and i encourage you and doug to stay the course! be blessed.
+  - author: "Donna"
+    date: "2006-07-31T14:20:20"
+    text: "You continue to inspire me."
+  - author: "Katy"
+    date: "2006-08-01T20:32:53"
+    text: |
+      Jen--Oh-oh! We will hold Panera's down to once or twice per month, and hit different locations.  If they ever know my name or my order? I'm OUT of there!!  :)
+      
+      Joshua--What you blogged was cool! Here's something I never imagined: That anyone would every link to me as an example of someone attempting to be a good steward over God's gifts! Thank you.
+      
+      Donna--Some days, I just make myself tired! So I'm glad to have such a nice effect on someone!  You're sweet.  :)
 ---
 
 I'm pretty sure that Doug and I have unlimited credit available at our disposal.

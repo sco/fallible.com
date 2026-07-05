@@ -1,6 +1,23 @@
 ---
 title: "Shock And Awe"
 date: "2007-11-28T16:50:00"
+comments:
+  - author: "Peter Walsh"
+    date: "2007-11-30T23:45:33"
+    text: "Katy - I am so thrilled that the Oprah Shows got you motivated to clear the clutter.  I really enjoyed reading your blog and wish you the best.  Peter"
+  - author: "Katy"
+    date: "2007-12-01T00:35:40"
+    text: |
+      Peter!! Talk about "Shock and Awe"! I don't know how you found fallible, but I am super-thrilled to think you'd stop in and leave a comment. You are one of my biggest heroes. If you ever happen through Kansas City, I'll give you a tour of my clutter-free (well, almost...) house. And take you out for the best BBQ on the planet to thank you for your inspiration! I hope you noticed that I've written three posts on this subject, starting with when Oprah aired. I love my copy of "It's All Too Much" and now can't wait for "Does This Clutter Make My Butt Look Fat?" Although, ahem, I already know the answer to THAT one.   :)  Thanks again for making my day!
+  - author: "Bridget"
+    date: "2007-12-01T15:31:35"
+    text: |
+      Wow...I'm so jealous that Peter Walsh commented on your site!  Clean Sweep is one of my all-time favorite shows (it's on right now, as a matter of fact), and it just makes SO MUCH SENSE.  I'm not at the place where you are yet, but it's my goal.  It's not as easy with Jim and both the kids being pack rats, too.  Sometimes I don't even know where to start.  Anyway, Peter, if you're reading this, you're welcome in Warrensburg any time, too.  You rock!  (And of course, my wonderful sister, so do you!)
+  - author: "Angie"
+    date: "2008-01-02T05:31:32"
+    text: |
+      I'm really looking for ways I can live with for decluttering. My biggest problem is dealing with the mountains of paper that are for not only me, but all the kids and businesses. There isn't enough filing room and no, I can't handle each one only once. I'd spend all day everyday just handling paper. But this is inspiring me to try.
+      Angie
 ---
 
 It's been two full weeks since Oprah aired her episodes about the hoarding couple. Two full weeks since I witnessed <a href="http://www.peterwalshdesign.com/1home/1_1whatsnew/1_1whatsnew.html">Peter Walsh</a>, who wrote "It's All Too Much," go through that house with a nit-picking comb, subjecting himself to a fungal infection that spread from his leg up to his scalp.

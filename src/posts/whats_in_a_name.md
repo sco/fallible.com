@@ -1,6 +1,58 @@
 ---
 title: "What's In A Name?"
 date: "2006-01-20T18:54:04"
+comments:
+  - author: "Michael #2"
+    date: "2006-01-20T20:41:28"
+    text: |
+      So it's your fault your baby sister Bridget turned out so well!
+      
+      Take Care
+      Michael
+  - author: "Jeanne Damoff"
+    date: "2006-01-20T22:53:18"
+    text: |
+      Actually, I think Welcome Day is an intriguing name. Maybe you should use it in a story?
+      
+      I know it's hard with your mom, Katy, but I hope you know you're an inspiration to many the way you serve her and manage to tell about it with humor. 
+      
+      Grace for your journey, friend.
+      
+      Love, Jeanne
+  - author: "Katy"
+    date: "2006-01-20T23:09:54"
+    text: |
+      Michael #2--Hey! You know what I think? I think we should prevail upon that girl to BLOG! She's a slacker, but a mighty cute one. And I AM very proud of the baby!  :)
+      
+      Jeanne--All of life is fodder for the writer, eh? We both know it's true. Thank you for the grace. I needed it. These really are our jouneys, aren't they? The ones God's given us. No matter what, I've never been tempted to trade trips with anyone else. "She who endures to the end..." and all that. Love to you, too!
+  - author: "Lauren"
+    date: "2006-01-21T03:40:52"
+    text: |
+      Katy,
+      You do have an amazing way of recounting the tales of your journey with an aging parent. And all the while giving encouragement to those of us who are bound to come upon those same checkpoints in our journeys all too soon.
+  - author: "Hannah (a random reader)"
+    date: "2006-01-22T05:58:13"
+    text: |
+      I thought of you today when I was looking at a list of baby names and came across the name Welcome in the W's section. ;) It's an English name, and it means... *drum roll* "Welcome, Guest."
+  - author: "Katy"
+    date: "2006-01-22T18:48:33"
+    text: |
+      Lauren--Thank you. I hesitate sometimes to post another entry regarding Mom, but what can I say? This is the road I'm travelling now--with her. I hope my experiences will somehow hearten others who, as you say, will face this sooner or later.
+      
+      Hannah--Wonderful! I love counting upon my readers to make my mother seem a little more "mainstream" than I fear she is. I've posted things she's said before that I don't "get," and a reader will come to her defense and say, "I knew exactly what she was going for!" (Like when she referred to Tuesday and Wednesday as "a two and a three"--their position in the five-day work week.) You've made me feel a lot better!  :)
+  - author: "Bridget"
+    date: "2006-01-26T17:57:18"
+    text: |
+      Katy,
+      I have to admit I have always loved my name!  I wouldn't want to have any other...I mean, how Irish can you get with Bridget Colleen McKenna?!  
+      Thanks for the vote, and for being a great sister!  :)
+  - author: "Katy"
+    date: "2006-01-26T18:04:04"
+    text: "Bridgie--Your name is perfect for the bonny Irish lass you are! Happy Birthday, baby girl."
+  - author: "sexy_thing"
+    date: "2006-02-16T10:31:25"
+    text: |
+      <a href="http://www.kalu-gay-webcam.jouluruno.com">kalu gay webcam</a> ## <a href="http://www.gay-webcam-kalu.jouluruno.com">gay webcam kalu</a> ## <a href="http://www.kalu-gaychat.jouluruno.com">kalu gaychat</a> ## <a href="http://www.gaychat-kalu.jouluruno.com">gaychat kalu</a> ## <a href="http://www.kalu-gaychat-jyvaskyla.jouluruno.com">kalu gaychat jyvaskyla</a> ## <a href="http://www.gaychat-jyvaskyla-kalu.jouluruno.com">gaychat jyvaskyla kalu</a> ## <a href="http://www.kalu-gaysex.jouluruno.com">kalu gaysex</a> <a href="http://www.nakenbilder-masturbating.xpule.com">nakenbilder masturbating</a> ## <a href="http://www.masturbating-nakenbilder-av-jenter.xpule.com">masturbating nakenbilder av jenter</a> ## <a href="http://www.nakenbilder-av-jenter-masturbating.xpule.com">nakenbilder av jenter masturbating</a> ## <a href="http://www.masturbating-nakene.xpule.com">masturbating nakene</a> ## <a href="http://www.nakene-masturbating.xpule.com">nakene masturbating</a> ## <a href="http://www.masturbating-nakene-damer.xpule.com">masturbating nakene damer</a> ## <a href="http://www.nakene-damer-masturbating.xpule.com">nakene damer masturbating</a> <a href="http://www.prostituert-tjejbilder.heste-sex.com">prostituert tjejbilder</a> ## <a href="http://www.tjejbilder-prostituert.heste-sex.com">tjejbilder prostituert</a> ## <a href="http://www.prostituert-tjejsex.heste-sex.com">prostituert tjejsex</a> ## <a href="http://www.tjejsex-prostituert.heste-sex.com">tjejsex prostituert</a> ## <a href="http://www.prostituert-torrdrakt-fetish.heste-sex.com">prostituert torrdrakt fetish</a> ## <a href="http://www.torrdrakt-fetish-prostituert.heste-sex.com">torrdrakt fetish prostituert</a> ## <a href="http://www.prostituert-trange-sma-fitter.heste-sex.com">prostituert trange sma fitter</a>
 ---
 
 Thirty-nine years ago, I was finally given the vote.

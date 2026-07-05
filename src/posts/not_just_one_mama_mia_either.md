@@ -1,6 +1,21 @@
 ---
 title: "Not Just One Mama Mia, Either"
 date: "2006-12-13T12:52:12"
+comments:
+  - author: "joshua"
+    date: "2006-12-14T19:07:27"
+    text: |
+      i usually don't comment on two entries in a row, but the story of the deer made me laugh. i just did the very same thing the other night. my friend, riding with me as i yanked the wheel of the truck to the right, stared at me in confusion as to why i was swerving at a large stump. "i thought it was a deer," i said lamely. moments later, a real deer jumped across the road and i didn't even slow down. is this a guy thing?
+  - author: "AC"
+    date: "2006-12-14T20:37:00"
+    text: |
+      You certainly made a harrowing evening sound entertaining.  My mom lives on the ceiling too, when she is not in the basement's basement.
+  - author: "make a photo mug"
+    date: "2009-02-28T06:19:25"
+    text: "I like your story. I think that even in older age people want something crazy. My grandma is 72 years old and she really like to share gifts on every occasion. I love her too much."
+  - author: "Erik Moore"
+    date: "2009-03-01T01:14:50"
+    text: "Great story, really reminds me of my Mom, God rest her soul"
 ---
 
 Carrie just popped into our bedroom to say good-bye. Hard to believe she's already lived with us for over four months, but it's true. It's lovely having her here.

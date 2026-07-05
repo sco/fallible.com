@@ -1,6 +1,22 @@
 ---
 title: "We Take A Break From Our Regularly Scheduled Blogging..."
 date: "2006-01-08T23:48:39"
+comments:
+  - author: "Liz"
+    date: "2006-01-09T14:32:42"
+    text: "So sorry for your hiatus, but will definitely look forward to reading your guests."
+  - author: "Heather"
+    date: "2006-01-09T17:58:14"
+    text: |
+      So sorry you're having trouble keeping up with the crocheting.  I crochet baby blankets.  If you email me at mmeclark at yahoo dot com, maybe I can help out with the need.  Also, hope you get to feeling better!
+      
+      :)
+  - author: "Katy"
+    date: "2006-01-09T18:36:30"
+    text: |
+      Liz--Yea! I hope you enjoy my writer friends as much as I do. They're a lovely bunch, and so talented.
+      
+      Heather--Email has been sent! Thank you!
 ---
 
 Some of you may remember that late in 2004, I went on a crazed baby-afghan-making mission.

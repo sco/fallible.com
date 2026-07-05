@@ -1,6 +1,21 @@
 ---
 title: "(No Title)"
 date: "2001-11-08T13:39:56"
+comments:
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Rich, please comment away. Thanks."
+  - author: "Rich Clark"
+    date: "1969-12-31T18:00:00"
+    text: "Yay, comments!"
+  - author: "Katy"
+    date: "1969-12-31T18:00:00"
+    text: "Sheryl--You doll, you! xxxAmerican Mum"
+  - author: "Sheryl"
+    date: "1969-12-31T18:00:00"
+    text: |
+      katy Raymond you really are full of surprises. Keep up the good work.&lt;br&gt;Love one of your Irish girls,&lt;br&gt;Sherylxx 
+      -----
 ---
 
 Another piece of what will hopefully be a 50,000 word novel by the end of November:

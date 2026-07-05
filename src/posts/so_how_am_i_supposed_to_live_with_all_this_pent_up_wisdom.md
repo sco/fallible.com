@@ -1,6 +1,44 @@
 ---
 title: "So How Am I Supposed To Live With All This Pent-Up Wisdom?"
 date: "2007-08-14T14:27:12"
+comments:
+  - author: "Katy"
+    date: "2007-08-14T15:15:54"
+    text: |
+      Doug just read this and said, "Didn't you hear what Kevin said when he came home in the middle of the night?" Um...that would be no. "He's not moving out until the first..." This makes me feel MUCH better, as he'll have a bit more money ahead. Now, back to my Policy Of Non-Interference, already in progress....  :)
+  - author: "Maria"
+    date: "2007-08-14T15:57:03"
+    text: |
+      Oh shades of my own experience.  Know what for me it didn't get better for at least ten years. . .then by degrees, I began to worry less and now that my oldest is fifty, I am beginning to think it is time for him to start worrying a little about me.  In fact, I have noticed an increase in the advice handed to me by all my kids.  Must have something to do with age.
+  - author: "Cindy Swanson"
+    date: "2007-08-14T16:33:20"
+    text: |
+      Wow, Katy...this really rings true for me!  My 24 year old...my middle child, second son...is moving out of state, having snagged his first really good job.  I'm going to miss him terribly, of course. But I also have to deal with trusting him to go out there and be an adult.  "My work here is done."  How true!
+  - author: "Michael Main"
+    date: "2007-08-14T17:51:24"
+    text: |
+      Not done yet.
+      
+      This is the phrase I use, "Renter's insurance is the only really good deal in the insurance industry....get it.  Now, may I have our key?"
+      
+      
+      Heck the doorbell works..
+      
+      M
+  - author: "Suzan"
+    date: "2007-08-14T19:25:40"
+    text: |
+      Be a non-interventionist. Good for you, good for the country. :-)
+      
+      He'll be okay. You raised him right.
+  - author: "alison"
+    date: "2007-08-14T22:44:47"
+    text: |
+      I think it's different for every parent and for every kid. Since it's only been the 3 of us for 22 years, every decision was a 3-way decision. Even our finances were comingled - Jessica and I helped put Karen through college - so it's been a little hard for me to sort things out now that they're both adults and spreading their wings in wider circles. I just want to be sure I have an up-to-date passport and enough money to buy a plane ticket in case someone needs me (and by enough money, I mean enough on my credit card). I'm all for Jessica going back to Belfast - I know she can make it there - but when she asked last week what I thought about her applying for a job in Chicago, my stomach was in a knot. And Katy, I will say this - as a daughter, a mother and a grandmother - there are some things that it's better that you don't know.
+  - author: "Terri"
+    date: "2007-08-17T03:40:50"
+    text: |
+      methinks I can recall my late 20's when I came asking for the advice I'd ignored in my early 20's...
 ---
 
 It's hard being as smart as I am.

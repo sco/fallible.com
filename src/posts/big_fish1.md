@@ -1,6 +1,11 @@
 ---
 title: "Big Fish?"
 date: "2006-12-18T19:59:09"
+comments:
+  - author: "Katy"
+    date: "2006-12-19T01:59:03"
+    text: |
+      Adele's been home all of four hours. We just got the call that the ambulance is on its way to pick her up. Now they can't find a blood pressure reading on her at all. See what I mean?
 ---
 
 You know what I think?

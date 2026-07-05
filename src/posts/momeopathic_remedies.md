@@ -1,6 +1,31 @@
 ---
 title: "Momeopathic Remedies"
 date: "2006-02-17T18:58:24"
+comments:
+  - author: "Jeanne Damoff"
+    date: "2006-02-17T21:41:25"
+    text: |
+      "I think if you were to have an altercation, your ear would be cured." 50 points for Mom. :)
+      
+      My grandmother used to say these sorts of things all the time, leaving us speechless, groping for a response. My favorite was the one about the "poultry." Did I ever tell you that story? Let me know if I didn't, and I will. 
+      
+      You often make me laugh from the heart, Katy. Thanks for the good medicine.
+  - author: "Sandy"
+    date: "2006-02-17T21:57:43"
+    text: "Great story. Thanks for sharing. I did the vote thing. Chose you in all categories you were listed!"
+  - author: "relevantgirl"
+    date: "2006-02-18T13:10:37"
+    text: "You make me want to go to Kansas City for the first time ever just so I could laugh with you. (and wear ear cuffs)"
+  - author: "Kathryn, the daring one"
+    date: "2006-02-18T23:10:51"
+    text: |
+      I love the term "momeopathic."  I will definitely be using that one.
+  - author: "X4F2Tt0SC9"
+    date: "2006-03-12T02:09:17"
+    text: "KLLup4G8T6p Bnr5XlQa98 jXtt3eATaBbyJ"
+  - author: "ObtyYwcDP3"
+    date: "2006-03-12T20:24:44"
+    text: "oBC81U8Yoh Ryg8RekodUAtVU DS858hncSKFpq"
 ---
 
 Today is the first time I've seen my mom since Sunday. I've just been too sick to get there, but I don't think I'm contagious, so I finally decided to haul my sorry behind over to pay a visit.
