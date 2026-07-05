@@ -5,6 +5,7 @@ comments:
   - author: "Burberry"
     date: "2012-06-07T06:26:00"
     text: "This really is genuinely excellent news. Thank you for sharing it with us!"
+attitude: true
 ---
 
 ![image](/images/uploads/fallible.com-weight-bearing_.jpg)

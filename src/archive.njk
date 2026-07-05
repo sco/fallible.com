@@ -12,7 +12,7 @@ title: Fallible Archive
 </form>
 
 {% set currentYear = "" %}
-{% for post in collections.posts %}
+{% for post in collections.mainPosts %}
         {% set postYear = post.date.getFullYear() %}
         {% if currentYear != postYear %}
             {% set currentYear = postYear %}

@@ -10,6 +10,12 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob("src/posts/*.md")
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
+  eleventyConfig.addCollection("mainPosts", function (collectionApi) {
+    return collectionApi
+      .getFilteredByGlob("src/posts/*.md")
+      .filter(p => !p.data.attitude)
+      .sort((a, b) => (b.date || 0) - (a.date || 0));
+  });
   eleventyConfig.addFilter("olderPost", (collection, url) => {
     const i = collection.findIndex(p => p.url === url);
     return i < collection.length - 1 ? collection[i + 1] : null;
