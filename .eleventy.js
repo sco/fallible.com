@@ -1,6 +1,8 @@
 const { DateTime } = require("luxon");
+const markdownIt = require("markdown-it");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setLibrary("md", markdownIt({ typographer: true }));
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy({"original-site-mirror/images": "images"});
   eleventyConfig.addCollection("posts", function (collectionApi) {
