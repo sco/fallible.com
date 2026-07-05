@@ -5,6 +5,12 @@ title: Fallible Archive
 
 <h2>All Fallible Posts</h2>
 
+<form action="https://www.google.com/search" method="get" style="margin: 1em 0 2em"
+      onsubmit="this.q.value = 'site:fallible.com ' + this.q.value">
+  <input type="search" name="q" placeholder="Search posts…" style="padding: 4px 8px; font-size: 0.95em; width: 200px;">
+  <button type="submit" style="padding: 4px 10px; font-size: 0.95em;">Search</button>
+</form>
+
 {% set currentYear = "" %}
 {% for post in collections.posts %}
         {% set postYear = post.date.getFullYear() %}
