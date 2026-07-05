@@ -9,12 +9,6 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
-    // HTTP → HTTPS
-    if (url.protocol === 'http:') {
-      url.protocol = 'https:';
-      return Response.redirect(url.href, 301);
-    }
-
     // www → bare domain
     if (url.hostname === 'www.fallible.com') {
       url.hostname = 'fallible.com';
