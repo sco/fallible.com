@@ -107,6 +107,38 @@
                 color: #555;
             }
         }
+
+        .print-layout { display: none; }
+
+        @media print {
+            .desktop-layout { display: none; }
+            .mobile-layout { display: none; }
+            .print-layout {
+                display: block;
+                font-family: Georgia, serif;
+                font-size: 12pt;
+                color: #000;
+                line-height: 1.6;
+                max-width: 6in;
+                margin: 0 auto;
+            }
+            .print-layout .print-header {
+                margin-bottom: 1.5em;
+                border-bottom: 1px solid #ccc;
+                padding-bottom: 0.5em;
+            }
+            .print-layout img {
+                max-width: 100%;
+                height: auto;
+            }
+            .print-layout a {
+                color: #000;
+                text-decoration: none;
+            }
+            .print-layout nav {
+                display: none;
+            }
+        }
     </style>
 
   </head>
@@ -185,6 +217,17 @@
       </div>
       <div class="mobile-footer">
         <a href="/">Home</a> &middot; <a href="/archive">All Posts</a><br>
+        Copyright 2011&ndash;2026 Katy McKenna Raymond
+      </div>
+    </div>
+
+    <!-- Print layout -->
+    <div class="print-layout">
+      <div class="print-header">
+        <img src="/images/fallible.gif" alt="Fallible" width="350" height="120">
+      </div>
+      {{ content | safe }}
+      <div style="margin-top: 2em; padding-top: 0.5em; border-top: 1px solid #ccc; font-size: 10pt; color: #555;">
         Copyright 2011&ndash;2026 Katy McKenna Raymond
       </div>
     </div>

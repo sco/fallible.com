@@ -4,8 +4,8 @@ layout: base.njk
 
 <article>
   <h2 class="title">{{ title }}</h2>
+  <p style="margin-top: 0; margin-bottom: 1.5em;"><em>{{date | postDate}}</em></p>
   {{ content | safe }}
-  <p><em>Posted {{date | postDate}}</em></p>
 </article>
 
 {% if comments and comments.length > 0 %}
@@ -21,7 +21,7 @@ layout: base.njk
 {% endif %}
 
 {% set older = collections.mainPosts | olderPost(page.url) %}
-<nav style="margin-top: 4em; font-size: 0.95em; display: flex; justify-content: space-between; align-items: baseline;">
+<nav style="margin-top: 4em; font-size: 1.2em; display: flex; justify-content: space-between; align-items: baseline;">
   <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title }}</a>{% endif %}</span>
   <a href="/archive">All Posts</a>
 </nav>
