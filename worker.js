@@ -3,6 +3,8 @@
 const REDIRECTS = [
   // /fallible/comments/SLUG  →  /posts/SLUG/
   [/^\/fallible\/comments\/([^/]+)\/?$/, (m) => `/posts/${m[1]}/`],
+  // /index.php/fallible/comments/SLUG/*  →  /posts/SLUG/
+  [/^\/index\.php\/fallible\/comments\/([^/]+)/, (m) => `/posts/${m[1]}/`],
 ];
 
 export default {
