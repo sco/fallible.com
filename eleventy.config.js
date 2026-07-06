@@ -29,7 +29,13 @@ module.exports = function (eleventyConfig) {
     return i > 0 ? collection[i - 1] : null;
   });
   eleventyConfig.addFilter("excerpt", (content) => {
-    const text = content.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+    const text = content
+      .replace(/<h[1-6][^>]*>[\s\S]*?<\/h[1-6]>/gi, "")
+      .replace(/<p style="margin-top: 0; margin-bottom: 1\.5em;"><em>[^<]*<\/em><\/p>/g, "")
+      .replace(/<nav[\s\S]*?<\/nav>/gi, "")
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
     return text.length > 160 ? text.slice(0, 157) + "…" : text;
   });
   eleventyConfig.addFilter("postDate", (dateObj) => {
