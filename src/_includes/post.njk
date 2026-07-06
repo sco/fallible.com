@@ -3,7 +3,7 @@ layout: base.njk
 ---
 
 <article>
-  <h2 class="title">{{ title }}</h2>
+  <h2 class="title">{{ title | typTitle }}</h2>
   <p style="margin-top: 0; margin-bottom: 1.5em;"><em>{{date | postDate}}</em></p>
   {{ content | safe }}
 </article>
@@ -22,6 +22,6 @@ layout: base.njk
 
 {% set older = collections.mainPosts | olderPost(page.url) %}
 <nav style="margin-top: 4em; font-size: 1.2em; display: flex; justify-content: space-between; align-items: baseline;">
-  <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title }}</a>{% endif %}</span>
+  <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title | typTitle }}</a>{% endif %}</span>
   <a href="/archive">All Posts</a>
 </nav>

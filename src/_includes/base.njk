@@ -4,7 +4,7 @@
   <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ title }}</title>
+	<title>{{ title | typTitle }}</title>
 
 	<meta name="description" content="Personal blog of christian writer & fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong." />
     <meta name="keywords" content="fallible, fallible.com, blog, blogger, bloggers, blogs, Katy Mckenna Raymond, Katy McKenna, Katy, stories, women, women's, family, kansas city, missouri, writer, writing, writers, journal, humor, inspiration, inspirational, christian, treasure, earthen vessels" />
@@ -13,13 +13,13 @@
     <meta name="DC.title" content="Fallible.com" />
 
 	<meta property="og:site_name" content="Fallible">
-	<meta property="og:title" content="{{ title }}">
+	<meta property="og:title" content="{{ title | typTitle }}">
 	<meta property="og:type" content="article">
 	<meta property="og:url" content="https://fallible.com{{ page.url }}">
 	<meta property="og:description" content="{{ content | excerpt }}">
 	<meta property="og:image" content="https://fallible.com/assets/katy1.jpg">
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="{{ title }}">
+	<meta name="twitter:title" content="{{ title | typTitle }}">
 	<meta name="twitter:description" content="{{ content | excerpt }}">
 	<meta name="twitter:image" content="https://fallible.com/assets/katy1.jpg">
 

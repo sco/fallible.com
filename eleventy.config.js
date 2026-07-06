@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob("src/marginal/posts/*.md")
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
+  eleventyConfig.addFilter("typTitle", (s) => s ? s.replace(/--/g, "—") : s);
   eleventyConfig.addFilter("olderPost", (collection, url) => {
     const i = collection.findIndex(p => p.url === url);
     return i < collection.length - 1 ? collection[i + 1] : null;
