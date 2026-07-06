@@ -30,7 +30,7 @@ Today, my husband Doug and I are both writing our takes on some novel-writing te
 
 **Epilogue:** Back in the day, I owned an “Epilady’ depilatory system. You know what I’m talking about, right? It’s not just an electric shaver for women, it’s one of those torture gadgets that yanks (or burns, not sure which) the hairs out at the root level, so that you don’t have to shave again for a few weeks or longer. In many ways, an Epilogue is just like an Epilady. Once you read it, at the very end of the novel, you feel like the story is finally blessedly over and you won’t have to think about it again for a long time, if ever. The Epilogue nicely ties up any loose threads (hairs...), and may even cause you to look forward to the Prologue in the series’ next title. But for the time being, you’re just happy it’s finished. You can unplug the darned thing and shove it in the closet, or add it to the pile being donated to the library. Whatever.
 
-So, dear fallible ones, tell me: Which one of us, [Doug]([http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html]) or me, got the most out of the writing conference? Think we got our money’s worth?
+So, dear fallible ones, tell me: Which one of us, [Doug](/marginal/terms-of-endearment/) or me, got the most out of the writing conference? Think we got our money’s worth?
 
   
-[Check out the Doug’s “Marginal’ take on these terms.](http://marginal.typepad.com/marginal/2009/09/terms-of-endearment.html)
+[Check out the Doug’s “Marginal’ take on these terms.](/marginal/terms-of-endearment/)
