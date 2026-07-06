@@ -23,12 +23,19 @@ export default {
       }
     }
 
-    const response = await env.ASSETS.fetch(request);
+    let response = await env.ASSETS.fetch(request);
+    let status = response.status;
+
+    if (status === 404) {
+      const archiveUrl = new URL('/archive', url);
+      response = await env.ASSETS.fetch(new Request(archiveUrl.href));
+    }
+
     const headers = new Headers(response.headers);
     headers.set('Content-Security-Policy', 'upgrade-insecure-requests');
     return new Response(response.body, {
-      status: response.status,
-      statusText: response.statusText,
+      status,
+      statusText: status === 404 ? 'Not Found' : response.statusText,
       headers,
     });
   },
