@@ -21,7 +21,7 @@ comments:
     text: "wow, two years already. happy belated ann., scott and brooke!"
 ---
 
-<a href="http://www.fallible.com/images/fallible/scott+brooke.jpg"><img src="http://www.fallible.com/images/fallible/scott+brooke2.jpg" align="left" hspace="5" vspace="5" border="0" width="79" height="100"></a>If romance is your thing, the Raymonds are your people, especially this week.
+<a href="http://www.fallible.com/assets/scott+brooke.jpg"><img src="http://www.fallible.com/assets/scott+brooke2.jpg" align="left" hspace="5" vspace="5" border="0" width="79" height="100"></a>If romance is your thing, the Raymonds are your people, especially this week.
 
 Two years ago tonight, on the twenty-eighth anniversary of the day Doug asked me to marry him, our oldest son Scott married the girl we now think of as our second daughter, Brooke. I blogged about their engagement and about their wedding, too, but I don't think I've posted any pics of this beautiful couple.
 

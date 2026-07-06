@@ -27,6 +27,6 @@ Nothing, however, prepared me for what happened in the furnace filter department
 
 "What else is on your list?" I asked. I hoped for a brief but fruitful fling through housewares, crafts, groceries, car parts, home decor, electronics, DVDs, and maybe even--if he was feeling lucky--lingerie, with the man of my shopping dreams by my side.
 
-<img src="/images/fallible/list.gif" width="81" height="89" align="right">He crammed his hand into his pants pocket and rooted around for awhile. Finally, his face registered success and he pulled out a comprehensive list of all his earthly needs. You know that saying, "Objects in mirror are larger than they appear"? Forget about it! This image of Doug's fallible list is EXACTLY the size it appeared in real life.
+<img src="/assets/list.gif" width="81" height="89" align="right">He crammed his hand into his pants pocket and rooted around for awhile. Finally, his face registered success and he pulled out a comprehensive list of all his earthly needs. You know that saying, "Objects in mirror are larger than they appear"? Forget about it! This image of Doug's fallible list is EXACTLY the size it appeared in real life.
 
 A smidge more paper, and he'd have had room to add "nightie" to his list. Ah, well. Times are tough everywhere.

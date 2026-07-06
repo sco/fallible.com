@@ -229,13 +229,13 @@ Have I mentioned how much I love my husband?
 
 But then I got to the front of the line, shook hands with Dave, and proceeded to show him this keepsake hand-written postcard he sent me ten years ago. Back then, I'd found a headline I thought he would enjoy, since he collects such things and writes about them. It said, "Net Bank Bucks Stock Sag." I'd also enclosed a copy of an article he wrote, published face-to-face in the Kansas City Star Magazine with one of my own humor articles.
 
-<a href="/images/fallible/davebarrycard2.jpg"><img src="/images/fallible/davebarrycard1.jpg" width="103" height="70" hspace="5" vspace="5" border="0" align="left" /></a>I was shocked when I received a note back from him. In case you can't read the words, it says, "Katy, Thanks. That headline bucked my stock sag for sure. From your fellow published writer, Dave Barry."
+<a href="/assets/davebarrycard2.jpg"><img src="/assets/davebarrycard1.jpg" width="103" height="70" hspace="5" vspace="5" border="0" align="left" /></a>I was shocked when I received a note back from him. In case you can't read the words, it says, "Katy, Thanks. That headline bucked my stock sag for sure. From your fellow published writer, Dave Barry."
 
 Today, Dave looked at my framed postcard and his internal editor kicked in. "Look. I spelled headline with a 'd' on the end. Do you want me to fix it?"
 
 "I'd never even noticed!" I said. "And no, I want it just the way it is."
 
-<a href="/images/fallible/dave-laughing2.jpg"><img src="/images/fallible/dave-laughing1.jpg" width="100" height="78" hspace="5" vspace="5" border="0" align="right" /></a>We laughed and chatted and I totally forgot to look over at Doug so that he could take our picture. So he took a couple of pics that turned out looking like, frankly, no one I'd ever seen before. How would I ever be able to prove to you my loyal and expectant readers that yes, I really HAD gotten my pic snapped with the Man?
+<a href="/assets/dave-laughing2.jpg"><img src="/assets/dave-laughing1.jpg" width="100" height="78" hspace="5" vspace="5" border="0" align="right" /></a>We laughed and chatted and I totally forgot to look over at Doug so that he could take our picture. So he took a couple of pics that turned out looking like, frankly, no one I'd ever seen before. How would I ever be able to prove to you my loyal and expectant readers that yes, I really HAD gotten my pic snapped with the Man?
 
 Doug and I went down twelve flights to the lobby of the newly-renovated and gorgeous Hilton President Hotel and looked at the digital pics and used the restrooms and I was sad but not too sad because migraine notwithstanding, people, I had a plan.
 
@@ -247,7 +247,7 @@ I had a feeling that the line would be subsiding, and I was right. We got back u
 
 "Sure!" he said, and then he and I posed and grinned like goofballs.
 
-<a href="/images/fallible/katy-dave2.jpg"><img src="/images/fallible/katy-dave1.jpg" width="100" height="97" hspace="5" vspace="5" align="left" border="0" /></a>"This is the VERY happiest day of my life!" I said, and honestly in that moment, I sincerely meant it. Even now, I wouldn't take it back.
+<a href="/assets/katy-dave2.jpg"><img src="/assets/katy-dave1.jpg" width="100" height="97" hspace="5" vspace="5" align="left" border="0" /></a>"This is the VERY happiest day of my life!" I said, and honestly in that moment, I sincerely meant it. Even now, I wouldn't take it back.
 
 "That's a dangerous thing to say in front of your husband," Dave said.
 

@@ -93,13 +93,13 @@ comments:
       Great post Thanks for sharing with us.to know more about cemetry visit here: <a href="http://www.skyviewmemorialpark.com/">SCHUYLKILL COUNTY CEMETERY</a>
 ---
 
-<img src="/images/fallible/lowlands.jpg" align="right" hspace="4" vspace="4" width="100" height="146">Whose Celtic heart doesn't thrill at the very thought of the mystical, misty highlands of Scotland? I know mine does. But when <a href="http://www.lizcurtishiggs.com">Liz Curtis Higgs</a>, the premiere author of Scottish historical novels, published a non-fiction book called "<a href="http://www.amazon.com/My-Hearts-Lowlands-Days-Bonny-Scotland/dp/1400072972/ref=pd_bbs_sr_1/002-2927207-8553613?ie=UTF8&s=books&qid=1176242310&sr=8-1">My Heart's In The Lowlands</a>," I had to know more.
+<img src="/assets/lowlands.jpg" align="right" hspace="4" vspace="4" width="100" height="146">Whose Celtic heart doesn't thrill at the very thought of the mystical, misty highlands of Scotland? I know mine does. But when <a href="http://www.lizcurtishiggs.com">Liz Curtis Higgs</a>, the premiere author of Scottish historical novels, published a non-fiction book called "<a href="http://www.amazon.com/My-Hearts-Lowlands-Days-Bonny-Scotland/dp/1400072972/ref=pd_bbs_sr_1/002-2927207-8553613?ie=UTF8&s=books&qid=1176242310&sr=8-1">My Heart's In The Lowlands</a>," I had to know more.
 
 This book is an armchair travel guide, but after reading it, I'm taking it one step further. I'm calling it A Travelogue With A Passenger's Side. Liz designed the book with you in mind, and I do mean YOU. The two of you, sitting side-by-side, in a tiny hired (rental) car, galavanting in the most fantastic country on the planet.
 
 "Lowlands" reads like a ten-day-long road trip in which you're soaking up atmosphere with the friendliest author ever. She's chatting you up, pointing out the landmarks she's seen before, and exclaiming over new ones. You're begging for a wee little bathroom break, and she's saying, "Can you wait, dearie, till I check out the six-hundred-year-old headstones in this cemetery over here?" You agree to hold on, and are richly rewarded with scones and tea at the next stop.
 
-<img src="http://www.fallible.com/images/fallible/scottishlass.jpg" align="left" width="100" height="123" vspace="4" hspace="4">By the end of your bookish travels, you realize what wonderful meandering chums you and Liz make. If you can't hop on a real plane bound for Scotland right then (which I highly recommend), you can always turn back to Page One and imagine your sublime journey with Liz all over again.
+<img src="http://www.fallible.com/assets/scottishlass.jpg" align="left" width="100" height="123" vspace="4" hspace="4">By the end of your bookish travels, you realize what wonderful meandering chums you and Liz make. If you can't hop on a real plane bound for Scotland right then (which I highly recommend), you can always turn back to Page One and imagine your sublime journey with Liz all over again.
 
 I recently visited with Liz about her Scottish novels, her trips to Caledonia, and "My Heart's In The Lowlands."
 

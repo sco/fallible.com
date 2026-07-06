@@ -45,6 +45,6 @@ Dad wasn't talking, and a ten-year-old kid can only get so far with the Golden B
 
 County Monaghan? Just over the border into the Republic from the county Dad specified, a border whose blood-drawn lines were disputed during my grandfather's time, one of the three counties of Ulster which ended up in the Irish Free State at the end of a very long day.
 
-<img src="http://www.fallible.com/images/fallible/john_mckenna_th.jpg" height="100" width="84" hspace="4" vspace="4" align="left">I left a message for John McKenna four years ago, and with a few tentative emails, the family mysteries began both to unravel and to profoundly deepen.
+<img src="http://www.fallible.com/assets/john_mckenna_th.jpg" height="100" width="84" hspace="4" vspace="4" align="left">I left a message for John McKenna four years ago, and with a few tentative emails, the family mysteries began both to unravel and to profoundly deepen.
 
 And now, finally, I've met the man.<br clear="all">

@@ -3,7 +3,7 @@ title: "Charity Began at Home"
 date: "2004-12-31"
 ---
 
-<p>"Dear children, let us stop just saying we love each other; let us really show it by our actions."</p><div align="right">John 3:18 NLT</div><hr><img src="/images/marginal/dollar40.jpg" width="90" height="69" border="0" align="right" vspace="6" hspace="6">My mom dropped a dollar in the collection plate at church each week. But this was not the total of her giving. Before the offering began, she rifled through the spare change at the bottom of her purse in order to let the three kids in on the act. A quarter for the oldest, a dime for me, and a nickel for the youngest.<p></p>
+<p>"Dear children, let us stop just saying we love each other; let us really show it by our actions."</p><div align="right">John 3:18 NLT</div><hr><img src="/assets/dollar40.jpg" width="90" height="69" border="0" align="right" vspace="6" hspace="6">My mom dropped a dollar in the collection plate at church each week. But this was not the total of her giving. Before the offering began, she rifled through the spare change at the bottom of her purse in order to let the three kids in on the act. A quarter for the oldest, a dime for me, and a nickel for the youngest.<p></p>
 
 <p>Even at a young age, I could understand the wisdom of this investment. So much for so little—the three-story cathedral, ornate altar, numerous employees, an unlimited supply of doughnuts in the fellowship hall after service. All this for a buck-forty a week.</p>
 

@@ -5,7 +5,7 @@ date: "2007-03-22T17:23:09"
 
 I haven't blogged much during Lent, but people. If you'd just this morning finished reading Lisa Samson's <a href="http://www.amazon.com/Quaker-Summer-Lisa-Samson/dp/1595542078/ref=pd_bbs_sr_1/002-2927207-8553613?ie=UTF8&s=books&qid=1174585842&sr=8-1">Quaker Summer</a>, you'd have to blog about it, too.
 
-<img src="http://ec1.images-amazon.com/images/P/1595542078.01._AA240_SCLZZZZZZZ_V43502523_.jpg" align="left" hspace="5" vspace="3">Quaker Summer is the story of Heather Curridge, who--for many years--has exhibited more courage in the mall, plunking down huge chunks of change for stuff she and her hubby and son don't really need or want, than she has anywhere else.
+<img src="http://ec1.images-amazon.com/assets/1595542078.01._AA240_SCLZZZZZZZ_V43502523_.jpg" align="left" hspace="5" vspace="3">Quaker Summer is the story of Heather Curridge, who--for many years--has exhibited more courage in the mall, plunking down huge chunks of change for stuff she and her hubby and son don't really need or want, than she has anywhere else.
 
 But all that changes when circumstances force her hand. Heather finds herself face-to-face with "the least of these," the homeless, the addicted, the criminal. Slowly--and to the great consternation of the mothers at her son's privileged Christian school, who just want her to head up the next tea--Heather begins spending more and more time with people whose needs will never be quenched, if what Jesus says about the poor being always with us is true.
 

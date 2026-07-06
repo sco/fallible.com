@@ -111,7 +111,7 @@ Nancy suggested a number of authors to me, but the one whose name stuck all the 
 
 "You'll love her," Nancy said. "She's funny and quirky and...just trust me, you'll love her."
 
-<img src="/images/fallible/lisaandkaty.jpg" width="120" height="98" align="left" hspace="6" vspace="3" />Of course, little did I know that I would eventually be privileged to know Lisa in person. First we emailed, then we became blog buddies, then we met in Baltimore with our hubbys for a lovely night in Little Italy. Last month, we reunited at the American Christian Fiction Writers Conference in Dallas. Here's the two of us, looking gorgeous.
+<img src="/assets/lisaandkaty.jpg" width="120" height="98" align="left" hspace="6" vspace="3" />Of course, little did I know that I would eventually be privileged to know Lisa in person. First we emailed, then we became blog buddies, then we met in Baltimore with our hubbys for a lovely night in Little Italy. Last month, we reunited at the American Christian Fiction Writers Conference in Dallas. Here's the two of us, looking gorgeous.
 
 I've read every Lisa book out there now (except the early romance novels because, well, I'm just not into romance novels) and last night I finished perhaps the most ambitious one of them all--<a href="http://www.amazon.com/exec/obidos/ASIN/1578568862/willsamsoncom-20" target="_blank">Straight Up</a>.
 

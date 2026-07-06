@@ -3,7 +3,7 @@ title: "Around the Block"
 date: "2005-01-04"
 ---
 
-<p><img src="/images/marginal/excuses.gif" width="85" height="98" hspace="6" vspace="3" border="0" align="right">As a free public service to bloggers and writers, I am extending an invitation to begin the year by confessing your darkest reasons for succumbing to writer’s block. </p>
+<p><img src="/assets/excuses.gif" width="85" height="98" hspace="6" vspace="3" border="0" align="right">As a free public service to bloggers and writers, I am extending an invitation to begin the year by confessing your darkest reasons for succumbing to writer’s block. </p>
 
 <p>Here is a list of who I blame, I mean... a list of my own pathetic excuses:</p>
 

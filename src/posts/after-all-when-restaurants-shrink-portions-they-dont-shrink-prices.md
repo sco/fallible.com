@@ -8,4 +8,4 @@ comments:
 attitude: true
 ---
 
-![image](/images/uploads/fallible.com-restaurants_.jpg)
+![image](/assets/fallible.com-restaurants_.jpg)

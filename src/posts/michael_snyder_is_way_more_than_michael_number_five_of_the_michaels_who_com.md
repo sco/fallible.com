@@ -96,7 +96,7 @@ comments:
       Alison--I am sorry to report that Mike is indeed married and has four kiddos. BTW, I think a lot of us novelists who are targeting the Christian market "struggle." And so do our characters. The days of so-called Christian novels being populated by nearly-perfect characters seem long gone. "Real" Christians are not perfect, and fiction is reflecting the struggles that are common to believers and unbelievers alike. Your story may very well fit right in.....
 ---
 
-<img src="/images/snyder.jpg" border="0" width="100" height="121" hspace="6" align="left">I'm betting a few of you know about debut fiction author Michael Snyder and his wonderful novel, My Name Is Russell Fink.
+<img src="/assets/snyder.jpg" border="0" width="100" height="121" hspace="6" align="left">I'm betting a few of you know about debut fiction author Michael Snyder and his wonderful novel, My Name Is Russell Fink.
 
 Let me say, first of all, that when I met Mike at an American Christian Fiction Writers Conference in Nashville a couple of years ago, I was instantly smitten. Not in a weird-crush kind of way, but in an excited-to-see-what's-gonna-happen-with-him kind of way. Mike has one of my all-time favorite personalities: a well-proportioned mix of LOL funny, self-deprecating, humble, and audacious. He says and writes stuff no one else could get away with, and does it with aplomb.
 
@@ -112,7 +112,7 @@ Then, as you know, my mother became critically ill, which meant I needed a bit l
 
 Some of my interview questions actually refer to the death-of-a-sibling thread that runs through his novel, since I have also had a brother die and have been deeply affected by it my whole life long. As you read our interview, please know that I asked the questions without knowing about Mike's brother, and he answered them with grace, compassion, and his trademark wit.
 
-<a href="http://www.amazon.com/Name-Russell-Fink-Michael-Snyder/dp/0310277272/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200893382&sr=8-1"><img src="/images/my-name-is-russell-fink.jpg" border="0" width="100" height="146" hspace="6" align="right"></a>Katy: I am not a fan of discussion questions in the backs of novels. Reading them only makes me want to discuss how awful they are. But your discussion questions ALONE are worth the price of the book. Here is your own Discussion Question Number Two. Please answer it for us: "If someone told you to quit your current job to do something you really love (like Dr. K. advises Russell in your book), would you do it? What if the thing you really love to do is to scam people in the name of God?"
+<a href="http://www.amazon.com/Name-Russell-Fink-Michael-Snyder/dp/0310277272/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200893382&sr=8-1"><img src="/assets/my-name-is-russell-fink.jpg" border="0" width="100" height="146" hspace="6" align="right"></a>Katy: I am not a fan of discussion questions in the backs of novels. Reading them only makes me want to discuss how awful they are. But your discussion questions ALONE are worth the price of the book. Here is your own Discussion Question Number Two. Please answer it for us: "If someone told you to quit your current job to do something you really love (like Dr. K. advises Russell in your book), would you do it? What if the thing you really love to do is to scam people in the name of God?"
 
 Mike: I guess one could argue that my job as a novelist for a Christian publisher<i> really is</i> to scam people in the name of God, right? I mean, I’m trying to get people to believe a made-up story.
 

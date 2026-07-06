@@ -46,7 +46,7 @@ comments:
       I love growing old together with my college sweetheart.
 ---
 
-<img src="/images/fallible/kiss.jpg" width="120" height="113" align="left" hspace="5" vspace="3">Doug and I just had one of our very loveliest wedding anniversaries ever--it's our 30th today!
+<img src="/assets/kiss.jpg" width="120" height="113" align="left" hspace="5" vspace="3">Doug and I just had one of our very loveliest wedding anniversaries ever--it's our 30th today!
 
 By 11 this morning, we blew out of the house and into the movie theater. What's showing for the young and in love these days? One of the best romantic comedies to come down the pike in a LONG time, in our shared opinion--"Music and Lyrics."
 

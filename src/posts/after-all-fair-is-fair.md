@@ -4,4 +4,4 @@ date: "2012-05-25T17:19:00"
 attitude: true
 ---
 
-![image](/images/uploads/fallible.com-weight-bearing_.jpg)
+![image](/assets/fallible.com-weight-bearing_.jpg)

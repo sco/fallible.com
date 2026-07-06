@@ -58,7 +58,7 @@ comments:
       dealsglobe.com/valentine/valentines-day-deals-coupons.html
 ---
 
-<a href="http://www.fallible.com/images/fallible/katy+doug2.jpg"><img src="http://www.fallible.com/images/fallible/katy+doug1.jpg" alt="Mary Demuth" align="left" hspace="5" vspace="3" width="69" height="100" border="0"></a>I know Valentine's Day isn't for another week yet, but today I just can't help myself.
+<a href="http://www.fallible.com/assets/katy+doug2.jpg"><img src="http://www.fallible.com/assets/katy+doug1.jpg" alt="Mary Demuth" align="left" hspace="5" vspace="3" width="69" height="100" border="0"></a>I know Valentine's Day isn't for another week yet, but today I just can't help myself.
 
 Thirty years ago, I stopped asking random loser guys to Be My Valentine. It was the smartest decision I've ever made.
 

@@ -62,9 +62,9 @@ comments:
       Suzanne Eller
 ---
 
-<i>Please join me in welcoming author <a href="http://www.fallible.com/images/fallible/marylaugh.jpg">Mary DeMuth</a>, who's taking a whirlwind blog tour talking about her latest book, "<a href="http://www.amazon.com/gp/product/1400070317/qid=1129662264/sr=1-1/ref=sr_1_1/102-3048097-4485755?s=books&v=glance&n=283155">Building the Christian Family You Never Had: A Practical Guide for Pioneer Parents.</a>" We conducted this interview via Skypes instant messaging service, with Mary in France and me here in Kansas City, pretending like I have a CLUE how to IM. Hope you enjoy the book banter as much as Mary and I did!</i>
+<i>Please join me in welcoming author <a href="http://www.fallible.com/assets/marylaugh.jpg">Mary DeMuth</a>, who's taking a whirlwind blog tour talking about her latest book, "<a href="http://www.amazon.com/gp/product/1400070317/qid=1129662264/sr=1-1/ref=sr_1_1/102-3048097-4485755?s=books&v=glance&n=283155">Building the Christian Family You Never Had: A Practical Guide for Pioneer Parents.</a>" We conducted this interview via Skypes instant messaging service, with Mary in France and me here in Kansas City, pretending like I have a CLUE how to IM. Hope you enjoy the book banter as much as Mary and I did!</i>
 
-<img src="http://www.fallible.com/images/fallible/marylaugh.jpg" alt="Mary Demuth" align="left" hspace="4" vspace="3" width="108" height="125">Katy: Mary, Mary? Are you there?
+<img src="http://www.fallible.com/assets/marylaugh.jpg" alt="Mary Demuth" align="left" hspace="4" vspace="3" width="108" height="125">Katy: Mary, Mary? Are you there?
 
 Mary: Oui.
 

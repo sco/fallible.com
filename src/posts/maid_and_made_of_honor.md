@@ -27,7 +27,7 @@ comments:
       Yes, my "made of honor" is one terrific woman, and her hubby was a great friend, too.
 ---
 
-![Kellam's](/images/kellams.jpg)I haven't blogged about Terri Schiavo, and I'm not exactly going to now. Instead I want to tell you about my friends, the Kellams. I feel like I almost know Terri because I knew Tim Kellam. And it hurts to think about what's happening to her right now.  
+![Kellam's](/assets/kellams.jpg)I haven't blogged about Terri Schiavo, and I'm not exactly going to now. Instead I want to tell you about my friends, the Kellams. I feel like I almost know Terri because I knew Tim Kellam. And it hurts to think about what's happening to her right now.  
   
 Maybe you've never been privileged to care for a person with a traumatic brain injury, but if you haven't, you've missed something beautiful.  
   

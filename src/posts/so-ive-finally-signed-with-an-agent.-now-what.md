@@ -68,7 +68,7 @@ comments:
     text: "I've probably missed the giveaway but just want to let you know how much I enjoyed your detailed responses to these questions. Writing conference meetings and the recommendation of a peer seem to be top ways to find an agent, but that's not how it happened for me. I tend to go at things backwards for some reason, and landing an agent after being offered a book contract was the route I took."
 ---
 
-![image](/images/uploads/IMG_1542_thumb.jpg)When I signed on the undotted line to become a client of WordServe Literary, dozens of people began asking me the very questions that were reverberating through my own mind, and contributing their commentary to my interior monologue. As it turned out, thinking through these questions and comments helped me understand some of what might--or might not--happen next.
+![image](/assets/IMG_1542_thumb.jpg)When I signed on the undotted line to become a client of WordServe Literary, dozens of people began asking me the very questions that were reverberating through my own mind, and contributing their commentary to my interior monologue. As it turned out, thinking through these questions and comments helped me understand some of what might--or might not--happen next.
 
 **”I really don”t know what it means to have an agent.”**
 
@@ -102,4 +102,4 @@ What happens after you sign with an agent? Plenty! Not the least of which is tha
 
 You may need to keep track of all those questions and correspond with your questioners. A randomly (after this post has been up for 2 days) chosen commenter will win a Mary Engelbreit journal and a set of Mary Engelbreit notecards. Good luck and Happy Answering!
 
-![image](/images/uploads/journal.jpg)![image](/images/uploads/cards.jpg)
+![image](/assets/journal.jpg)![image](/assets/cards.jpg)

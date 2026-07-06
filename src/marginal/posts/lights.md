@@ -3,7 +3,7 @@ title: "Lights of My Life"
 date: "2004-12-23"
 ---
 
-<p><img src="/images/marginal/lithouse.jpg" alt="Merry Christmas from the Raymond&#39;s" width="120" height="89" hspace="4" vspace="4" border="0" align="right">I thought I would have fewer lights this year. </p>
+<p><img src="/assets/lithouse.jpg" alt="Merry Christmas from the Raymond&#39;s" width="120" height="89" hspace="4" vspace="4" border="0" align="right">I thought I would have fewer lights this year. </p>
 
 <p>For the past several years I would take advantage of the after-Christmas near give-away deals to add to our indoor and outdoor lighting inventory. Only when the next season rolled around did I feel a tinge of regret as the time required to wire and decorate expanded to more than I bargained for.</p>
 

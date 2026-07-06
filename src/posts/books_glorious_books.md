@@ -66,7 +66,7 @@ The delightful <a href="http://www.relevantblog.blogspot.com/" title="Mary DeMut
 
 My French Bible. It's perfect for wiling the hours away, languishing over a solitary phrase and mining it for meaning, or even an approximation of an accurate translation! Also, "My Utmost for His Highest," by Oswald Chambers, or any excellent daily reading/devotional. While I'm not a fan of devotionals per se, if they are theologically sound and spiritually challenging, I love them. Plus, on that desert island, they sure would help me keep track of how many days had passed since I'd gotten stuck with only Wilson to talk to.
 
-<a href="/images/fallible/katy-dave2.jpg"><img src="/images/fallible/katy-dave1.jpg" width="100" height="97" hspace="5" vspace="5" align="left" border="0" /></a>4. Two books that made you laugh.
+<a href="/assets/katy-dave2.jpg"><img src="/assets/katy-dave1.jpg" width="100" height="97" hspace="5" vspace="5" align="left" border="0" /></a>4. Two books that made you laugh.
 
 I am a lifelong fan of anything by Erma Bombeck. And Dave Barry. As some of you will remember, <a href="http://www.fallible.com/index.php/fallible/comments/i_am_not_making_this_up/" title="affectionate encounter">I met Dave</a> and had our affectionate encounter photographed. It was truly a highlight of my life. Maybe that doesn't say too much for my life, but after that, I could honestly die happy.
 

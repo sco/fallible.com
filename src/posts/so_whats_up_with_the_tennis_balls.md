@@ -95,7 +95,7 @@ I googled "walker tennis balls" to see if I could gain any insight, and instead 
   
 All I know is, unless Mom ponies up, she may not be part of the in crowd for long.  
   
-![](/images/tennisballs.jpg)*   Longer lasting than fixed tennis ball or traditional plastic cap.  
+![](/assets/tennisballs.jpg)*   Longer lasting than fixed tennis ball or traditional plastic cap.  
     
 *   Court-Side Glides snap right onto walker in seconds.  
     

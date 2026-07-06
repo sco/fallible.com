@@ -4,4 +4,4 @@ date: "2012-06-02T22:35:00"
 attitude: true
 ---
 
-![image](/images/uploads/fallible.com-borrowed-time_.jpg)
+![image](/assets/fallible.com-borrowed-time_.jpg)

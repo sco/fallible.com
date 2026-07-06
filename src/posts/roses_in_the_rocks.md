@@ -55,7 +55,7 @@ comments:
       I have a diamond and I want to buy a diamond ring solitaire setting to set it in. Where is the best place to go?Can anyone please tell me?
 ---
 
-<a href="/images/fallible/carrie-marc.jpg"><img src="/images/fallible/carrie-marc2.jpg" width="100" height="90" hspace="5" vspace="5" align="left"></a>Eight dozen altogether, ninety-six roses placed by strong, gentle hands into the craggy rocks.
+<a href="/assets/carrie-marc.jpg"><img src="/assets/carrie-marc2.jpg" width="100" height="90" hspace="5" vspace="5" align="left"></a>Eight dozen altogether, ninety-six roses placed by strong, gentle hands into the craggy rocks.
 
 Made to look as though they'd sprung up there spontaneously in the summer twilight, as though planted by God Himself, in the rough but discernable shape of a tender heart.
 

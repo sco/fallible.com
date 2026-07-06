@@ -80,7 +80,7 @@ comments:
       Sunflower--You sweetie! Who says I didn't fall asleep???  :)   Hey, it beats drugs! The thing that keeps me awake when I look at the physical book in my hands is the acknowledgments page! He very graciously gave the nod to his old Mom and Pops, by name. Quite an honor! Thanks.
 ---
 
-<a href="http://www.amazon.com/Ajax-Rails-Scott-Raymond/dp/0596527446/sr=1-1/qid=1168880716/ref=pd_bbs_sr_1/002-2927207-8553613?ie=UTF8&s=books"><img src="http://ec1.images-amazon.com/images/P/0596527446.01._AA240_SCLZZZZZZZ_V37018616_.jpg" align="right"></a>I've been waiting a good long while to make this announcement. If not for the virtue of patience, gracefully refined in me lo these fifty-three years, I would not have been able to keep my blog shut. Ha.
+<a href="http://www.amazon.com/Ajax-Rails-Scott-Raymond/dp/0596527446/sr=1-1/qid=1168880716/ref=pd_bbs_sr_1/002-2927207-8553613?ie=UTF8&s=books"><img src="http://ec1.images-amazon.com/assets/0596527446.01._AA240_SCLZZZZZZZ_V37018616_.jpg" align="right"></a>I've been waiting a good long while to make this announcement. If not for the virtue of patience, gracefully refined in me lo these fifty-three years, I would not have been able to keep my blog shut. Ha.
 
 I'm proud to announce that <a href="http://www.scottraymond.net">Scott Douglas Raymond</a> (my beloved son, in whom I am well pleased) is now a published author! He was approached by O'Reilly Publishers to write a book entitled "Ajax on Rails," which--contrary to what many of you fallible readers are thinking right now--has NOTHING to do with the diligent, abrasive scrubbing of filthy train tracks.
 

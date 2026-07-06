@@ -93,7 +93,7 @@ comments:
 
 Thirty-two years ago this morning---yes, we had an eleven o’clock wedding---Doug Raymond and I exchanged vows that would determine the course of the rest of our lives.
 
-[![image](/images/uploads/wedding-small.jpg)](/images/uploads/wedding-large.jpg)And, of course, the rest of my life with this man has been the stuff of dreams. The one thing that has amazed me day after day, year after year, is that he is a man of integrity. I believed I knew his character when I agreed to be his wife, but who can know for certain? As it turns out, Doug is still the man I married, a man whose constant kindness and compassion have made all the difference in my life.
+[![image](/assets/wedding-small.jpg)](/assets/wedding-large.jpg)And, of course, the rest of my life with this man has been the stuff of dreams. The one thing that has amazed me day after day, year after year, is that he is a man of integrity. I believed I knew his character when I agreed to be his wife, but who can know for certain? As it turns out, Doug is still the man I married, a man whose constant kindness and compassion have made all the difference in my life.
 
 Now, just for fun and (at our ages, it must be said) for posterity, I’m going to share 32 Things About Our Fallible Wedding Day, most of which our own children probably don’t know. And in a very real sense, I write this for them: Scott and his bride Brooke, Carrie and her husband Marc, and Kevin. Everything about our marriage pointed to the family we would raise together, to the joy God had in mind for us when He planned to give us these children. So kids, this one’s for you!
 

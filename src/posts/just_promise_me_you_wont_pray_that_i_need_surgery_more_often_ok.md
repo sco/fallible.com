@@ -31,7 +31,7 @@ comments:
       Jennifer--Michael Main is a character. Also, he knows my family history of prescription drug attachment (hi, Mom!) and is hoping to save me from myself. It worked. I took the last pain pill yesterday afternoon.  :)  Healing is much quicker than I anticipated! Thank you!
 ---
 
-<img src="/images/fallible/bandage.jpg" alt="Not exactly a sports injury" width="120" height="95" hspace="6" vspace="2" align="left">it's a quandry, huh?
+<img src="/assets/bandage.jpg" alt="Not exactly a sports injury" width="120" height="95" hspace="6" vspace="2" align="left">it's a quandry, huh?
 
 you get kind of hooked on comong here and then that fallibel chick announces a short hiatus. not to worry, she sayd, there will be some oonderufl authors guest blogging for a whole weed!
 

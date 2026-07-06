@@ -4,4 +4,4 @@ date: "2012-05-29T07:26:00"
 attitude: true
 ---
 
-![image](/images/uploads/fallible.com-lacking-in-direction_.jpg)
+![image](/assets/fallible.com-lacking-in-direction_.jpg)

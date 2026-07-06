@@ -13,7 +13,7 @@ comments:
       I wouldn't know an alarming symptom which should be reported to my primary doctor from a hangnail..<a href="http://zerodollartrials.com/services/meet-your-suitable-singles-today-at-singlesnetcom/">Singlesnet.com trial</a>
 ---
 
-<img src="http://www.fallible.com/images/notebook.jpg" alt="" width="95" height="110" hspace="5" vspace="5" border="0" align="right">I have a modest-sized 5x7 spiral notebook that I carry with me to my doctor's appointments.
+<img src="http://www.fallible.com/assets/notebook.jpg" alt="" width="95" height="110" hspace="5" vspace="5" border="0" align="right">I have a modest-sized 5x7 spiral notebook that I carry with me to my doctor's appointments.
 
 When I was younger and not nearly as organized about medical records, I just folded up a single sheet of looseleaf paper with my questions and concerns penned on it and stuffed it in my purse. When those sheets failed to find their way to an appropriate binder after the appointment, though, I moved on to the spiral notebook method.
 

@@ -52,7 +52,7 @@ I exaggerate, people. I don't LIE.
 
 As for pain meds, my pains are sharp and to the point, and that's the way I like my medications, too. None of this slow and steady delivery system for me. What a snoozer! I don't have that many good years left.
 
-<img src="/images/fallible/sticker.gif" width="120" height="116" align="left" hspace="5">Since I am completely patch-free, imagine my surprise when last night I laid my hand on my jammie-covered abdomen and felt something scratchy under the fabric, adhered to my skin. It didn't jump, crawl, bite, or sting as scratchy things in the country are often wont to do, so that was good.
+<img src="/assets/sticker.gif" width="120" height="116" align="left" hspace="5">Since I am completely patch-free, imagine my surprise when last night I laid my hand on my jammie-covered abdomen and felt something scratchy under the fabric, adhered to my skin. It didn't jump, crawl, bite, or sting as scratchy things in the country are often wont to do, so that was good.
 
 But, still, what could it be? I raised my top and ventured a few fingers that direction. I peeled that sucker from the space above my belly button and held it up to the lamp.
 

@@ -4,4 +4,4 @@ date: "2012-06-18T16:47:00"
 attitude: true
 ---
 
-![image](/images/uploads/womans-train-of-thought.jpg)
+![image](/assets/womans-train-of-thought.jpg)

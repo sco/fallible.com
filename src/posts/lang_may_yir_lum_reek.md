@@ -48,7 +48,7 @@ comments:
     text: "I have a friend from Scotland, sure are some nice people."
 ---
 
-<a href="/images/fallible/quinns2.jpg"><img src="/images/fallible/quinns1.jpg" width="96" height="120" align="left" border="0" vspace="4" hspace="8"></a>Yesterday, I received my traditional Fourth of July email greeting from my cousin-by-marriage across the pond, Frank Quinn. Frank is married to Mary, one of my seven girl cousins in Scotland.
+<a href="/assets/quinns2.jpg"><img src="/assets/quinns1.jpg" width="96" height="120" align="left" border="0" vspace="4" hspace="8"></a>Yesterday, I received my traditional Fourth of July email greeting from my cousin-by-marriage across the pond, Frank Quinn. Frank is married to Mary, one of my seven girl cousins in Scotland.
 
 Frank is a man of few words, email-wise, though he can talk your ear off in person. Not that you'd understand a word of it, mind you, though he may very well claim with a grin (as my father used to) that he speaks the King's English.
 
@@ -72,7 +72,7 @@ So guess what? I think Frankie likes me!
 
 It's a good thing, too. As it turns out, the whole lot of them are stuck with me on BOTH sides of the pond.
 
-<a href="/images/fallible/passport2.jpg"><img src="/images/fallible/passport1.jpg" width="88" height="120" align="right" border="0" vspace="4" hspace="6"></a>Yes, it's official! I GOT MY BRITISH PASSPORT!!
+<a href="/assets/passport2.jpg"><img src="/assets/passport1.jpg" width="88" height="120" align="right" border="0" vspace="4" hspace="6"></a>Yes, it's official! I GOT MY BRITISH PASSPORT!!
 
 If any of you fallible readers want to drop by to help me celebrate, please do! But remember, in July there's really no need to bring a piece of coal. Really.
 

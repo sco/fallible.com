@@ -27,7 +27,7 @@ Feebaghbane? Plunkett had already told us he didn't know how to find the tiny pi
 
 "Get in the car. She'll be happy to meet you."
 
-<a href="/images/fallible/katy-catherine2.jpg"><img src="/images/fallible/katy-catherine.jpg" hspace="5" vspace="5" border="0" align="left" width="100" height="77"></a>Catherine McKenna opened her door to us and served us tea and brown bread till we were stuffed. She told us stories of all the different branches of McKennas, and who lived where in Feebaghbane.
+<a href="/assets/katy-catherine2.jpg"><img src="/assets/katy-catherine.jpg" hspace="5" vspace="5" border="0" align="left" width="100" height="77"></a>Catherine McKenna opened her door to us and served us tea and brown bread till we were stuffed. She told us stories of all the different branches of McKennas, and who lived where in Feebaghbane.
 
 "We've figured out," Plunkett said, "that Katy isn't a Red Paddy Frank McKenna at all." The first thing I learned when I got over there is that if you can't establish your McKenna family's nickname, you won't get anywhere in finding your ancestors. "I thought she was at first," he continued, "because of her flaming red hair."
 
@@ -47,12 +47,12 @@ As soon as she offered this bit, I knew we were talking about my family. Edward 
 
 She gave him a sideways glance and pointed out her window. "Right over there. Did you bring your wellies?"
 
-<a href="/images/fallible/katy-podge2.jpg"><img src="/images/fallible/katy-podge.jpg" hspace="5" vspace="5" border="0" align="right" width="100" height="77"></a>Just then, her nephew Podge came in from working in the fields and said he'd be happy to drive us around the land in his truck. Podge now owns 50 acres of Feebaghbane, including the sixteen acres that would have been farmed by my great-great-grandfather Edward and my great-grandfather Bernard before passing to the Jimmy Ned.
+<a href="/assets/katy-podge2.jpg"><img src="/assets/katy-podge.jpg" hspace="5" vspace="5" border="0" align="right" width="100" height="77"></a>Just then, her nephew Podge came in from working in the fields and said he'd be happy to drive us around the land in his truck. Podge now owns 50 acres of Feebaghbane, including the sixteen acres that would have been farmed by my great-great-grandfather Edward and my great-grandfather Bernard before passing to the Jimmy Ned.
 
-<a href="/images/fallible/grandpas_house2.jpg"><img src="/images/fallible/grandpas_house.jpg" hspace="5" vspace="5" border="0" align="left" width="100" height="71"></a>Podge drove us through his 300-sheep farm and straight to the remaining walls of the Ned's cottage. "This is the place," he said, as if he got requests from Americans to see their ancestral lands every day of the week--and I feel certain that he doesn't.
+<a href="/assets/grandpas_house2.jpg"><img src="/assets/grandpas_house.jpg" hspace="5" vspace="5" border="0" align="left" width="100" height="71"></a>Podge drove us through his 300-sheep farm and straight to the remaining walls of the Ned's cottage. "This is the place," he said, as if he got requests from Americans to see their ancestral lands every day of the week--and I feel certain that he doesn't.
 
-<a href="/images/fallible/backyard2.jpg"><img src="/images/fallible/backyard.jpg" hspace="5" vspace="5" border="0" align="right" width="100" height="70"></a>We took a lot of pictures that day, of Podge and Catherine and Plunkett and us. And especially of the stones that are piled up in remembrance of the Neds and of the walls that still stand as a testament to their lives.
+<a href="/assets/backyard2.jpg"><img src="/assets/backyard.jpg" hspace="5" vspace="5" border="0" align="right" width="100" height="70"></a>We took a lot of pictures that day, of Podge and Catherine and Plunkett and us. And especially of the stones that are piled up in remembrance of the Neds and of the walls that still stand as a testament to their lives.
 
-<a href="/images/fallible/katy-rocks2.jpg"><img src="/images/fallible/katy-rocks.jpg" hspace="5" vspace="5" border="0" align="left" width="79" height="90"></a>I carried home two rocks that had become loosened from the mortar. There were a hundred more I could have taken, because who knows how long Podge will leave the structure standing? But somehow I couldn't--I just couldn't.
+<a href="/assets/katy-rocks2.jpg"><img src="/assets/katy-rocks.jpg" hspace="5" vspace="5" border="0" align="left" width="79" height="90"></a>I carried home two rocks that had become loosened from the mortar. There were a hundred more I could have taken, because who knows how long Podge will leave the structure standing? But somehow I couldn't--I just couldn't.
 
 Leave them lie, I thought. But even so, make sure you tell the others.

@@ -4,4 +4,4 @@ date: "2012-05-26T08:53:00"
 attitude: true
 ---
 
-![image](/images/uploads/fallible.com-occasional-splurge_.jpg)
+![image](/assets/fallible.com-occasional-splurge_.jpg)

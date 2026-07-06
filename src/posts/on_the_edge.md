@@ -75,5 +75,5 @@ When this life is done, I'll be on the very edge of beginning.
 And I'll be thrilled that Jesus knew just where to push the envelope.  
   
 
-[![Read His, Read Hers](/images/hishers.gif)  
+[![Read His, Read Hers](/assets/hishers.gif)  
 Read the Marginal take on this quote...](http://www.marginalcomments.com/2004/11/on-edge.html)

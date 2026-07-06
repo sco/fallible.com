@@ -3,7 +3,7 @@ title: "From A Lullaby To Goodbye...."
 date: "2011-02-21T11:56:00"
 ---
 
-[![From A Lullaby To Goodbye](/images/uploads/from-a-lullaby-to-goodbye.jpg)](http://www.lullabytogoodbye.com/)I don’t remember how I first came to follow Patti McKenna on Twitter. Maybe her name attracted me because, well, I’m always up to meet a McKenna.
+[![From A Lullaby To Goodbye](/assets/from-a-lullaby-to-goodbye.jpg)](http://www.lullabytogoodbye.com/)I don’t remember how I first came to follow Patti McKenna on Twitter. Maybe her name attracted me because, well, I’m always up to meet a McKenna.
 
 But I think it was more than that, more than just a chance meeting based on a shared last name. I soon found out she was in the beginning stages of a book project meant to offer hope and healing to anyone who’s lost a child. I approached her, not because I’ve had two miscarriages, but because I’ve lost a sibling--Patrick McKenna, who died when he was four and I was nearly two.
 
