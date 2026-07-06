@@ -11,6 +11,7 @@
     <meta name="blogchalk" content="United States, Missouri, Kansas City, English, French, Katy, Female, 46-50" />
     <meta name="ICBM" content="38.814765, -94.598218" />
     <meta name="DC.title" content="Fallible.com" />
+	{% if pagination and pagination.pageNumber > 0 %}<meta name="robots" content="noindex">{% endif %}
 
 	<meta property="og:site_name" content="Fallible">
 	<meta property="og:title" content="{{ title | typTitle }}">
