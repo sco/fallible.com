@@ -27,7 +27,7 @@ comments:
       I wish you were here too. Tomorrow I'm heading towards Westport and my first driving experience. Jessica tells me most accidents in Ireland are caused by "excessive speed" and "drink driving." I'll try to avoid both. And, yes, the election was better from a distance.
       
       Feel better.
-  - author: "chris123jameÂ f"
+  - author: "chris123jame f"
     date: "2010-10-17T05:42:39"
     text: |
       <a >Reverse Phone Lookup</a> Thanks:)<a >Weight Loss</a><a >CZ Rings</a>

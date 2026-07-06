@@ -26,26 +26,26 @@ comments:
     text: "Candace, You are so kind! Thank you, my friend."
 ---
 
-RememberingÂ nothing,Â   
-IÂ amÂ hisÂ keeper.Â   
-FeatheryÂ wisp,Â tingedÂ withÂ faintestÂ auburn,Â   
-YellowedÂ cellophane,Â   
-FadedÂ page,Â   
-MildewedÂ book.Â   
-OneÂ   
-FingerÂ   
-TremblesÂ   
-TouchingÂ hisÂ hair,Â   
-LongÂ decadesÂ unmussed.Â   
-TuggingÂ itÂ onceÂ more,Â   
-LikeÂ theÂ babyÂ IÂ was.Â   
-DidÂ heÂ laugh?Â OrÂ cry?Â   
-OrÂ payÂ meÂ back?Â   
-HeÂ died.Â   
-OneÂ   
-TearÂ   
-FallsÂ   
-Glistening,Â shimmering,Â   
-OntoÂ myÂ brother'sÂ lock.Â   
-OntoÂ this,Â   
-MyÂ inheritance.Â
+Remembering nothing,   
+I am his keeper.   
+Feathery wisp, tinged with faintest auburn,   
+Yellowed cellophane,   
+Faded page,   
+Mildewed book.   
+One   
+Finger   
+Trembles   
+Touching his hair,   
+Long decades unmussed.   
+Tugging it once more,   
+Like the baby I was.   
+Did he laugh? Or cry?   
+Or pay me back?   
+He died.   
+One   
+Tear   
+Falls   
+Glistening, shimmering,   
+Onto my brother's lock.   
+Onto this,   
+My inheritance.
