@@ -1,9 +1,12 @@
 # Fallible.com
 
-This is the source code for [https://fallible.com/](Fallible), the personal weblog of Katy Raymond (active 2000-2012). It also contains Doug Raymond's blog, [https://fallible.com/marginal/](Marginal Comments).
+[Fallible.com](https://fallible.com/) is a personal weblog archive for Katy Raymond (active 2000–2012), which also hosts Doug Raymond's blog, [Marginal Comments](https://fallible.com/marginal/). The stack:
 
-The original site was managed with Expression Engine. In 2026,
-it was migrated to this codebase, managed with the static-site generator [Eleventy](https://www.11ty.dev/). When pushed to Github, the site is built and deploy to Cloudflare, which runs `worker.js` to handle legacy redirects, then serves the static build.
+- **Eleventy** static site generator, building from `src/` into `_site/`
+- **Cloudflare** for hosting, with a `worker.js` that handles legacy URL redirects
+- **GitHub Actions** for CI/CD — push triggers a build and deploy
+
+The content lives in `src/posts/` as Markdown files, with Nunjucks templates (`base.njk`, `post.njk`) and generated pages for the home, archive, and 404. Originally managed with Expression Engine, the site was migrated to this codebase in 2026.
 
 
 ## Usage
