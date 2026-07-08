@@ -1,150 +1,29 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ title | typTitle }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title | typTitle }}</title>
 
-	<meta name="description" content="Personal blog of christian writer & fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong." />
-    <meta name="keywords" content="fallible, fallible.com, blog, blogger, bloggers, blogs, Katy Mckenna Raymond, Katy McKenna, Katy, stories, women, women's, family, kansas city, missouri, writer, writing, writers, journal, humor, inspiration, inspirational, christian, treasure, earthen vessels" />
-    <meta name="blogchalk" content="United States, Missouri, Kansas City, English, French, Katy, Female, 46-50" />
-    <meta name="ICBM" content="38.814765, -94.598218" />
-    <meta name="DC.title" content="Fallible.com" />
-	{% if pagination and pagination.pageNumber > 0 %}<meta name="robots" content="noindex">{% endif %}
+    <meta name="description" content="Personal blog of christian writer & fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong." />
+    {% if pagination and pagination.pageNumber > 0 %}<meta name="robots" content="noindex">{% endif %}
 
-	<meta property="og:site_name" content="Fallible">
-	<meta property="og:title" content="{{ title | typTitle }}">
-	<meta property="og:type" content="article">
-	<meta property="og:url" content="https://fallible.com{{ page.url }}">
-	<meta property="og:description" content="{{ content | excerpt }}">
-	<meta property="og:image" content="https://fallible.com/assets/katy1.jpg">
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="{{ title | typTitle }}">
-	<meta name="twitter:description" content="{{ content | excerpt }}">
-	<meta name="twitter:image" content="https://fallible.com/assets/katy1.jpg">
+    <meta property="og:site_name" content="Fallible">
+    <meta property="og:title" content="{{ title | typTitle }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://fallible.com{{ page.url }}">
+    <meta property="og:description" content="{{ content | excerpt }}">
+    <meta property="og:image" content="https://fallible.com/assets/katy1.jpg">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ title | typTitle }}">
+    <meta name="twitter:description" content="{{ content | excerpt }}">
+    <meta name="twitter:image" content="https://fallible.com/assets/katy1.jpg">
 
-	<link rel="stylesheet" type="text/css" media="all" href="/assets/fallible.css" />
-	<link rel="icon" type="image/jpeg" href="/assets/favicon.jpg" />
-
-    <style type="text/css">
-        h1.tagline {
-            font-size: .9em;
-            padding: 0;
-            margin: 0;
-            font-weight: normal;
-            color: #333;
-            font-style: italic;
-        }
-        #sidebarInsert {
-            position: relative;
-            left: 0;
-            top: 240px;
-            text-align: center;
-            width:163px;
-            background-color: #a2a0ba;
-            padding: 8px 0 0 0;
-            line-height: 1.2em;
-            font-family: arial;
-        }
-        #sidebarInsert img {
-            width: 150px;
-            height: auto;
-            margin: 0;
-        }
-
-        .mobile-layout { display: none; }
-
-        @media (max-width: 719px) {
-            .desktop-layout { display: none; }
-            .mobile-layout {
-                display: block;
-                background: #a2a0ba;
-                min-height: 100vh;
-            }
-            .mobile-layout .mobile-header {
-                background: #a2a0ba;
-                padding: 12px 16px;
-                border-bottom: 2px solid #7a6a8a;
-            }
-            .mobile-layout .mobile-header a {
-                display: block;
-            }
-            .mobile-layout .mobile-header img {
-                max-width: 100%;
-                height: auto;
-            }
-            .mobile-layout .mobile-content {
-                background: #fff;
-                margin: 12px;
-                padding: 16px;
-                line-height: 1.6;
-                font-family: system-ui, sans-serif;
-                font-size: 16px;
-                color: #333;
-            }
-            .mobile-layout .mobile-content a {
-                color: rgb(122, 10, 10);
-            }
-            .mobile-layout .mobile-content h2 {
-                font-size: 1.2em;
-                margin-bottom: 0.5em;
-            }
-            .mobile-layout .mobile-content h2 a {
-                color: #333;
-            }
-            .mobile-layout .mobile-content h3 {
-                font-size: 1em;
-                margin: 1.5em 0 0.5em;
-            }
-            .mobile-layout .mobile-content img {
-                max-width: 100%;
-                height: auto;
-            }
-            .mobile-layout .mobile-footer {
-                text-align: center;
-                padding: 16px;
-                font-size: 0.8em;
-                color: #555;
-            }
-        }
-
-        .print-layout { display: none; }
-
-        @media print {
-            .desktop-layout { display: none; }
-            .mobile-layout { display: none; }
-            .print-layout {
-                display: block;
-                font-family: system-ui, sans-serif;
-                font-size: 12pt;
-                color: #000;
-                line-height: 1.6;
-                max-width: 6in;
-                margin: 0 auto;
-            }
-            .print-layout .print-header {
-                margin-bottom: 1.5em;
-                border-bottom: 1px solid #ccc;
-                padding-bottom: 0.5em;
-            }
-            .print-layout img {
-                max-width: 100%;
-                height: auto;
-            }
-            .print-layout a {
-                color: #000;
-                text-decoration: none;
-            }
-            .print-layout nav {
-                display: none;
-            }
-        }
-    </style>
-
+    <link rel="stylesheet" href="/assets/fallible.css">
+    <link rel="icon" type="image/jpeg" href="/assets/favicon.jpg">
   </head>
 
-  <body bgcolor="#a2a0ba" style="zoom: 1.2">
+  <body>
 
     <!-- Desktop layout (original design) -->
     <div class="desktop-layout">
@@ -168,14 +47,12 @@
             <img src="/assets/sidebar_top4.jpg" alt="" width="170" height="100" hspace="0" vspace="0" border="0">
             <div align="center">
               <h1 class="tagline">Personal blog of christian<br/>writer & fallible mom<br/>Katy McKenna Raymond<br/>in Kansas City, Missouri</h1>
-              <img src="/assets/katy1.jpg" alt="" width="132" height="150" hspace="0" vspace="3" border="0" alt="Katy McKenna Raymond christian novelist" title="Katy McKenna Raymond"><br/>
+              <img src="/assets/katy1.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br/>
               <p style="text-align: center; margin:8px 0;padding:0;"><a href="/archive">All Posts</a></p>
-              <p style="text-align: center; margin:0 0 4px 0;padding:0;"><a href="http://twitter.com/KatyMcKenna">Follow Katy on Twitter</a></p>
-              <p style="text-align: center; margin:0 0 4px 0;padding:0;"><a href="http://www.facebook.com/katymckenna">Follow Katy on Facebook</a></p>
-              <img src="/assets/katy2.jpg" alt="" width="132" height="150" hspace="0" vspace="3" border="0" alt="Katy McKenna Raymond christian novelist" title="Katy McKenna Raymond"><br>
-              <img src="/assets/katy3.jpg" alt="" width="132" height="150" hspace="0" vspace="3" border="0" alt="Katy McKenna Raymond christian novelist" title="Katy McKenna Raymond"><br>
-              <img src="/assets/katy4.jpg" alt="" width="132" height="150" hspace="0" vspace="3" border="0" alt="Katy McKenna Raymond christian novelist" title="Katy McKenna Raymond"><br>
-              <img src="/assets/katy5.jpg" alt="" width="132" height="150" hspace="0" vspace="3" border="0" alt="Katy McKenna Raymond christian novelist" title="Katy McKenna Raymond"><br>
+              <img src="/assets/katy2.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
+              <img src="/assets/katy3.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
+              <img src="/assets/katy4.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
+              <img src="/assets/katy5.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
             </div>
             <div id="sidebar">
               <p><a href="mailto:kckatyrose@gmail.com">kckatyrose@gmail.com</a></p>

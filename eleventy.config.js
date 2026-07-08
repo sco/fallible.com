@@ -1,8 +1,5 @@
-const { DateTime } = require("luxon");
-const markdownIt = require("markdown-it");
-
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setLibrary("md", markdownIt({ typographer: true, html: true }));
+  eleventyConfig.amendLibrary("md", mdLib => mdLib.set({ typographer: true, html: true }));
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi
@@ -40,10 +37,8 @@ module.exports = function (eleventyConfig) {
     return text.length > 160 ? text.slice(0, 157) + "…" : text;
   });
   eleventyConfig.addFilter("postDate", (dateObj) => {
-    const dt = dateObj instanceof Date
-      ? DateTime.fromJSDate(dateObj, { zone: "utc" })
-      : DateTime.fromISO(dateObj, { zone: "utc" });
-    return dt.toLocaleString(DateTime.DATE_FULL);
+    const date = dateObj instanceof Date ? dateObj : new Date(dateObj);
+    return new Intl.DateTimeFormat("en-US", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" }).format(date);
   });
   return {
     dir: {
@@ -53,4 +48,3 @@ module.exports = function (eleventyConfig) {
     }
   };
 };
-
