@@ -5,19 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ title | typTitle }}</title>
 
-    <meta name="description" content="Personal blog of christian writer & fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong." />
+    {% if date %}
+    <meta name="description" content="{{ content | excerpt }}">
+    {% else %}
+    <meta name="description" content="Personal blog of christian writer &amp; fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong.">
+    {% endif %}
     {% if pagination and pagination.pageNumber > 0 %}<meta name="robots" content="noindex">{% endif %}
 
     <meta property="og:site_name" content="Fallible">
     <meta property="og:title" content="{{ title | typTitle }}">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="{% if date %}article{% else %}website{% endif %}">
     <meta property="og:url" content="https://fallible.com{{ page.url }}">
+    {% if date %}
     <meta property="og:description" content="{{ content | excerpt }}">
+    {% else %}
+    <meta property="og:description" content="Personal blog of christian writer &amp; fallible mom Katy McKenna Raymond in Kansas City, Missouri. I find these truths to be self-evident. But, then again, I could be wrong.">
+    {% endif %}
     <meta property="og:image" content="https://fallible.com/assets/katy1.jpg">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ title | typTitle }}">
-    <meta name="twitter:description" content="{{ content | excerpt }}">
-    <meta name="twitter:image" content="https://fallible.com/assets/katy1.jpg">
 
     <link rel="stylesheet" href="/assets/fallible.css">
     <link rel="icon" type="image/jpeg" href="/assets/favicon.jpg">
@@ -88,13 +93,16 @@
     <!-- Mobile layout -->
     <div class="mobile-layout">
       <div class="mobile-header">
-        <a href="/"><img src="/assets/fallible.gif" alt="Fallible" width="350" height="120"></a>
+        <a href="/"><img src="/assets/fallible.gif" alt="Fallible"></a>
+        <nav class="mobile-nav">
+          <a href="/">Home</a>
+          <a href="/archive">All Posts</a>
+        </nav>
       </div>
       <div class="mobile-content">
         {{ content | safe }}
       </div>
       <div class="mobile-footer">
-        <a href="/">Home</a> &middot; <a href="/archive">All Posts</a><br>
         Copyright Katy McKenna Raymond
       </div>
     </div>

@@ -29,7 +29,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("excerpt", (content) => {
     const text = content
       .replace(/<h[1-6][^>]*>[\s\S]*?<\/h[1-6]>/gi, "")
-      .replace(/<p style="margin-top: 0; margin-bottom: 1\.5em;"><em>[^<]*<\/em><\/p>/g, "")
+      .replace(/<p class="post-date">[\s\S]*?<\/p>/g, "")
       .replace(/<nav[\s\S]*?<\/nav>/gi, "")
       .replace(/<[^>]+>/g, " ")
       .replace(/\s+/g, " ")

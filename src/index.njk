@@ -7,14 +7,15 @@ pagination:
 ---
 
 {% for post in pagination.items %}
-  <article style="margin-bottom: 4em">
+  <article class="post-summary">
     <h2 class="title"><a href="{{ post.url }}">{{ post.data.title | typTitle }}</a></h2>
-    <p style="margin-top: 0; margin-bottom: 1.5em;"><em>{{post.data.date | postDate}}</em></p>
+    <p class="post-date"><em>{{post.data.date | postDate}}</em></p>
     {{ post.content | safe }}
   </article>
 {% endfor %}
 
-
-{% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Newer</a> &nbsp; {% endif %}
-<a href="/archive">All Posts</a>
-{% if pagination.href.next %} &nbsp; <a href="{{ pagination.href.next }}">Older &rarr;</a>{% endif %}
+<nav class="pagination-nav">
+  {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}">&larr; Newer</a> &nbsp; {% endif %}
+  <a href="/archive">All Posts</a>
+  {% if pagination.href.next %} &nbsp; <a href="{{ pagination.href.next }}">Older &rarr;</a>{% endif %}
+</nav>
