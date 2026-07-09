@@ -1,12 +1,12 @@
 ---
-title: "Archeological--But Not Logical--Dig"
+title: "Archeological—But Not Logical—Dig"
 date: "2004-02-26T15:15:00"
 comments:
   - author: "Carrie"
     date: "2004-02-27T05:56:00"
     text: |
       And how CAN I resist chiming in when I know that you have had all of those UNUSED bath and hand towels sitting in your linen closet for most of my 22 years?  
-      \-----
+      \——-
   - author: "Bridget"
     date: "2004-02-27T06:36:00"
     text: "I must take after Mom...mine's gotta be hotel and Harrah's pens. We have hundreds and hundreds of them. (BTW...we musn't forget Mom's hoards of restaurant napkins and plastic silverware! God, that woman amazes me sometimes...I'll bet she has a new stash in her apartment!)"
@@ -48,7 +48,7 @@ comments:
     text: |
       You guys will be the bane of your childrens' existence! Of the things mentioned here, I also collect leftover paper plates and cups from birthday parties (too bad Cabbage Patch kids aren't the rage), every personal letter and card I've ever received, YARN (Oh, yeah, Kelly...), love letters, UNOPENED BILLS (eeeewww) and hair dye (love the story, Heather.). I quit coloring my hair five years ago (after a 30 year habit), and haven't gotten rid of a dozen boxes of dye yet. ;)  
         
-      I forgot to mention my MIL's other fetish, which no one here admits to. Shoe laces-----at least a hundred new pairs of shoe laces, all colors and lengths. I don't know about you, but I rarely break a shoe lace. With my family of five, perhaps a total of five have ever needed to be replaced. So what's up with that, do you think, for an 82 year old lady?  
+      I forgot to mention my MIL's other fetish, which no one here admits to. Shoe laces——-at least a hundred new pairs of shoe laces, all colors and lengths. I don't know about you, but I rarely break a shoe lace. With my family of five, perhaps a total of five have ever needed to be replaced. So what's up with that, do you think, for an 82 year old lady?  
         
       Thanks for the laughs, you guys. You're great!
   - author: "bethany"

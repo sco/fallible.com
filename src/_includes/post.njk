@@ -3,7 +3,7 @@ layout: base.njk
 ---
 
 <article>
-  <h2 class="title">{{ title | typTitle }}</h2>
+  <h2 class="title">{{ title }}</h2>
   <p class="post-date"><em>{{date | postDate}}</em></p>
   {{ content | safe }}
 </article>
@@ -20,8 +20,8 @@ layout: base.njk
 </section>
 {% endif %}
 
-{% set older = collections.mainPosts | getNextCollectionItem %}
+{% set older = collections.posts | getNextCollectionItem %}
 <nav class="post-nav">
-  <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title | typTitle }}</a>{% endif %}</span>
+  <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title }}</a>{% endif %}</span>
   <a href="/archive">All Posts</a>
 </nav>

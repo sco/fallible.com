@@ -4,11 +4,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob("src/posts/*.md")
-      .sort((a, b) => (b.date || 0) - (a.date || 0));
-  });
-  eleventyConfig.addCollection("mainPosts", function (collectionApi) {
-    return collectionApi
-      .getFilteredByGlob("src/posts/*.md")
       .filter(p => !p.data.attitude)
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
@@ -17,7 +12,6 @@ module.exports = function (eleventyConfig) {
       .getFilteredByGlob("src/marginal/posts/*.md")
       .sort((a, b) => (b.date || 0) - (a.date || 0));
   });
-  eleventyConfig.addFilter("typTitle", (s) => s ? s.replace(/--/g, "—") : s);
   eleventyConfig.addFilter("excerpt", (content) => {
     const text = content
       .replace(/<h[1-6][^>]*>[\s\S]*?<\/h[1-6]>/gi, "")

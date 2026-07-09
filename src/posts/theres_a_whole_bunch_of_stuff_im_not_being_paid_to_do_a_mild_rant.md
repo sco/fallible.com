@@ -1,5 +1,5 @@
 ---
-title: "There's A Whole Bunch Of Stuff I'm Not Being Paid To Do--A Mild Rant"
+title: "There's A Whole Bunch Of Stuff I'm Not Being Paid To Do—A Mild Rant"
 date: "2008-04-23T19:30:01"
 comments:
   - author: "Bridget"
@@ -30,7 +30,7 @@ comments:
 
 My husband and I are both self-employed, working from home. It's been eight years since either of us worked for Someone Else's Company, which suits us just fine. We even, usually, enjoy the fact that we're together almost 24-7. If we can ever afford to retire, we'll already have made THAT adjustment.
 
-We've also gotten plenty used to the fact that we're frequently called upon to handle duties that are difficult for those who must keep regular 9-5 hours. It's not easy--since we are only paid for the hours we actually work, and not necessarily for all of <i>those</i>--but we deal. We really <i>are</i> the ones most available to handle the needs of The Moms during the work day, and in the middle of the night, too.
+We've also gotten plenty used to the fact that we're frequently called upon to handle duties that are difficult for those who must keep regular 9-5 hours. It's not easy—since we are only paid for the hours we actually work, and not necessarily for all of <i>those</i>—but we deal. We really <i>are</i> the ones most available to handle the needs of The Moms during the work day, and in the middle of the night, too.
 
 But what I'm coming to increasingly resent is the attitude out there in the world that not only should we be doing our own jobs and taking care of extended family responsibilities, but we should also be doing bits and pieces of the work of every clerk, salesperson, repairman, server, and admin assistant on the face of the planet.
 

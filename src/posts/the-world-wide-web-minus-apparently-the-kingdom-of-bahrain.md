@@ -1,10 +1,10 @@
 ---
-title: "The World-Wide Web, Minus---Apparently---The Kingdom Of Bahrain"
+title: "The World-Wide Web, Minus—Apparently—The Kingdom Of Bahrain"
 date: "2009-01-24T09:51:00"
 comments:
   - author: "Becky"
     date: "2009-01-24T17:53:00"
-    text: "Seriously, Katy, this--while \"highly unfortunate,\" as my dear mother would say--is truly hilarious! I mean, I knew you were pretty spicy, but banned in an entire country? That's pretty impressive."
+    text: "Seriously, Katy, this—while \"highly unfortunate,\" as my dear mother would say—is truly hilarious! I mean, I knew you were pretty spicy, but banned in an entire country? That's pretty impressive."
   - author: "Suzan"
     date: "2009-01-24T19:42:00"
     text: "Wow Katy. I'm truly impressed. :-)"

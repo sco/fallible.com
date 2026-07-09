@@ -1,5 +1,5 @@
 ---
-title: "Back When I Was Your Age--A Rant"
+title: "Back When I Was Your Age—A Rant"
 date: "2008-03-24T16:23:00"
 comments:
   - author: "Mary DeMuth"
@@ -17,9 +17,9 @@ comments:
   - author: "Katy"
     date: "2008-03-24T18:07:03"
     text: |
-      Mary--I can't imagine a scenario in which you'll be sorry you made a hefty down payment!! (And believe me, I can imagine LOTS of scenarios--ha.) You are in a terrific situation, all things considered!!
+      Mary—I can't imagine a scenario in which you'll be sorry you made a hefty down payment!! (And believe me, I can imagine LOTS of scenarios—ha.) You are in a terrific situation, all things considered!!
       
-      Take Care Michael #2--How are you, sir? You and your wife sound like us. We did stretch ourselves on our starter home, but on the next two, we purchased WAY less that we were qualified for. We wanted to put our kids through Christian schools, and that goal was not compatible with ginormous house payments. Congrats on making a sound fiscal decision!!!
+      Take Care Michael #2—How are you, sir? You and your wife sound like us. We did stretch ourselves on our starter home, but on the next two, we purchased WAY less that we were qualified for. We wanted to put our kids through Christian schools, and that goal was not compatible with ginormous house payments. Congrats on making a sound fiscal decision!!!
   - author: "joshua"
     date: "2008-03-25T19:50:58"
     text: |
@@ -41,13 +41,13 @@ comments:
   - author: "Katy"
     date: "2008-03-27T14:15:08"
     text: |
-      Joshua--"I was not hip to the concept" made me laugh. It's hard to fault young people for accepting the terms of moneylending as they are currently practiced. It's just that it's SO much easier to become "enslaved to the lender" now than in the old days. In the old days, you couldn't borrow money unless you had some type of collateral. A steady job, stable income, possessions that could be repossessed if necessary, and character references!!! Now? What's your FICO score, baby? It's not fair to you guys....
+      Joshua—"I was not hip to the concept" made me laugh. It's hard to fault young people for accepting the terms of moneylending as they are currently practiced. It's just that it's SO much easier to become "enslaved to the lender" now than in the old days. In the old days, you couldn't borrow money unless you had some type of collateral. A steady job, stable income, possessions that could be repossessed if necessary, and character references!!! Now? What's your FICO score, baby? It's not fair to you guys....
       
-      Kathryn--I think I still have the paperwork from our home purchase of 1979, but it would be buried in the basement somewhere. I do believe, though, that when we assumed the loan of a veteran, there were very little if any closing costs involved. But I'm not sure this type of loan even exists anymore. However, our two refinances on our current home (which we did to get a lower interest rate while ratcheting down from a 30-year to a 15-year fixed rate) were obtained with no points or closing costs, which actually just means that costs are rolled into the loan. No free lunches as far as I know.....
+      Kathryn—I think I still have the paperwork from our home purchase of 1979, but it would be buried in the basement somewhere. I do believe, though, that when we assumed the loan of a veteran, there were very little if any closing costs involved. But I'm not sure this type of loan even exists anymore. However, our two refinances on our current home (which we did to get a lower interest rate while ratcheting down from a 30-year to a 15-year fixed rate) were obtained with no points or closing costs, which actually just means that costs are rolled into the loan. No free lunches as far as I know.....
       
-      Jennifer--I appreciate your comment!! My two married kids and their spouses and doing SO WELL getting out of debt and living on what they make. I don't know when I've ever been so impressed with anyone's discipline as I am with theirs!! It's hard to do when you're young--shouldn't the whole world be your oyster???  :)  But they actually seem to get the concept of deferred gratification, which fills ME with instant gratification!!  
+      Jennifer—I appreciate your comment!! My two married kids and their spouses and doing SO WELL getting out of debt and living on what they make. I don't know when I've ever been so impressed with anyone's discipline as I am with theirs!! It's hard to do when you're young—shouldn't the whole world be your oyster???  :)  But they actually seem to get the concept of deferred gratification, which fills ME with instant gratification!!  
       
-      Our eternal home is "paid in full"--I love it!!
+      Our eternal home is "paid in full"—I love it!!
   - author: "Toronto condo"
     date: "2009-03-09T11:02:43"
     text: "Would Real Estate and Mortgage Fraud make employnment worse? I just read incredible article in local Florida newspaper of a police roundup of dozens of real estate, mortgage, appraisars, accountants, attorneys, etc. in two different cases. And many more of these arrests for different companies and individuals is expected.So I wonder, been the market the way it is now, with wall street being thankfully helped by the U.S. Government, due to the real estate mess, how about the thousands of people who are left jobless once their bosses go to jail, or while the trials go on. People only tend to think of the homes not being sold, which is pretty bad in itself. But there are apparently thousands of people around the country who made those loans illegally to start with. And now the poor employees for those companies will have no job."
@@ -65,7 +65,7 @@ You may not remember this, or even realize that this is the way the world used t
 
 No bank on earth allowed you to fall in love with a $40,000 house (as we did in 1979) and then borrow $8000 from dear old Mom and Dad as your very first act of long-term indebtedness. If your bank statements showed a recent and unexplained (read: unearned) infusion of $$$$$, you were of all unsavory characters most to be suspected.
 
-To top it off, in 1979 the prevailing interest rate on home mortgages had risen to something like 12%, and would keep rising over the next couple of years to more than 15%. Now, if you were a saver back then--and there were actually people still committed to saving 10% of their income as a matter of course--you could really pile up some cash with interest rates like that. But if you just wanted to move from a too-small apartment into a starter home, it was going to cost you.
+To top it off, in 1979 the prevailing interest rate on home mortgages had risen to something like 12%, and would keep rising over the next couple of years to more than 15%. Now, if you were a saver back then—and there were actually people still committed to saving 10% of their income as a matter of course—you could really pile up some cash with interest rates like that. But if you just wanted to move from a too-small apartment into a starter home, it was going to cost you.
 
 We got in on a great deal, though. We were able to "assume" the loan of a veteran, paying a down payment ($8000) and then taking over his payments for the remaining 28 years of his loan. We locked in his interest rate, which was 8%, plus we did not have to qualify income-wise like we would have with a regular loan. At the time, I was due to give birth to Scotty. Doug was making $600 per month and our house payment was a shocking $300.
 
@@ -77,7 +77,7 @@ Another thing that only people on the margins would consider back then was takin
 
 "Never, ever take out a second mortgage," Dad said. "Not even to do home improvements. You could lose your house!"
 
-These days? Home equity lines of credit are how people fund their vacations, pay for their children's educations, finance weddings, and buy stocks which are all but guaranteed to go higher. And why not?? EVERYONE KNOWS that home values only go one direction--up! Why not use some (or all) of that equity to provide yourself and your loved ones with all the advantages a line of credit against your one-and-only home can provide?
+These days? Home equity lines of credit are how people fund their vacations, pay for their children's educations, finance weddings, and buy stocks which are all but guaranteed to go higher. And why not?? EVERYONE KNOWS that home values only go one direction—up! Why not use some (or all) of that equity to provide yourself and your loved ones with all the advantages a line of credit against your one-and-only home can provide?
 
 OK, so technically it might not BE your one-and-only home. You MIGHT have taken the equity out of your primary residence to put minuscule down payments on any number of rental homes, because that's the American way, right?
 
@@ -85,11 +85,11 @@ It might be the American way, but it's really, really not smart. Really. Trust m
 
 Now that I'm my age, I look around and see nothing but fall-out from the terrible lending practices that have resulted in consumers with nutty entitlement mentalities overextending themselves with little to no margin on which to fall back.
 
-Doug and I own a lovely home which we built 13 years ago. At the time, we not only put down the required 20%, but we also borrowed scores of thousands of dollars less than the bank begged to lend us. We did not WANT to borrow the maximum allowed by law, because if something--anything--went wrong, our home would be at risk.
+Doug and I own a lovely home which we built 13 years ago. At the time, we not only put down the required 20%, but we also borrowed scores of thousands of dollars less than the bank begged to lend us. We did not WANT to borrow the maximum allowed by law, because if something—anything—went wrong, our home would be at risk.
 
 Now, our home's value is being undermined by the foreclosures of a number of houses in our area. Evidently, even in the high-end neighborhood adjoining ours, borrowers were allowed to put almost no money down and to take out jumbo loans with terms that could only be described as "easy credit." Then when they lost their jobs at Sprint or wherever, or their adjustable mortgages, umm, adjusted, they could no longer make the payments on their McMansions.
 
-Two houses near us, recently valued at 1.5 million each, sold for paltry sums like $850,000. What if you, a responsible borrower with a significant amount of home equity you hoped not to lose, wanted to sell your own home--but lived next door to one selling for half the price you should have been able to get?
+Two houses near us, recently valued at 1.5 million each, sold for paltry sums like $850,000. What if you, a responsible borrower with a significant amount of home equity you hoped not to lose, wanted to sell your own home—but lived next door to one selling for half the price you should have been able to get?
 
 Of course, disasters like health crises happen which sometimes force homeowners into foreclosure. But the articles I've read about this situation indicate these homeowners borrowed WAY more than they could afford, at terms which were ridiculously liberal to the extreme. Unless the housing market had gone STRAIGHT UP, they were doomed from the beginning to lose their shirts.
 
