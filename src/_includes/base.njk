@@ -32,57 +32,57 @@
 
     <!-- Desktop layout (original design) -->
     <div class="desktop-layout">
-      <table border="0" cellspacing="0" cellpadding="0" width="719" align="center">
+      <table>
         <tr>
-          <td valign="top" height="2"><img src="/assets/pix_background.gif" alt="" width="1" height="1" border="0" /></td>
-          <td valign="top" height="2"><img src="/assets/pix_background.gif" width="7" height="1" border="0" alt="" /></td>
-          <td valign="top" height="2"><img src="/assets/pix_background.gif" width="371" height="1" border="0" alt=""/></td>
-          <td valign="top" height="2"><img src="/assets/pix_background.gif" width="8" height="1" border="0" alt="" /></td>
-          <td valign="top" height="2"><img src="/assets/pix_background.gif" width="163" height="1" border="0" alt="" /></td>
+          <td class="td-spacer"><img src="/assets/pix_background.gif" alt="" width="1" height="1"></td>
+          <td class="td-spacer"><img src="/assets/pix_background.gif" width="7" height="1" alt=""></td>
+          <td class="td-spacer"><img src="/assets/pix_background.gif" width="371" height="1" alt=""></td>
+          <td class="td-spacer"><img src="/assets/pix_background.gif" width="8" height="1" alt=""></td>
+          <td class="td-spacer"><img src="/assets/pix_background.gif" width="163" height="1" alt=""></td>
         </tr>
         <tr>
-          <td colspan="4"><img src="/assets/top.jpg" width="556" height="88" hspace="0" vspace="0" border="0" alt="Katy McKenna Raymond" title="Katy McKenna Raymond" /></td>
-          <td background="/assets/right_sidebar.jpg" rowspan="6" valign="top">&nbsp;<br/></td>
+          <td colspan="4"><img src="/assets/top.jpg" width="556" height="88" alt="Katy McKenna Raymond"></td>
+          <td class="td-right-sidebar" rowspan="6">&nbsp;<br></td>
         </tr>
         <tr>
-          <td colspan="4"><a href="/" title="Personal blog of christian writer & mom Katy McKenna Raymond in Kansas City, Missouri"><img src="/assets/lady.jpg" width="177" height="120" hspace="0" vspace="0" border="0" alt="Personal blog of christian writer Katy McKenna Raymond in Kansas City, Missouri" /></a><a href="/" name="fallible" id="fallible" title="I find these truths to be self-evident. But, then again, I could be wrong."><img src="/assets/f.jpg" alt="" width="28" height="120" hspace="0" vspace="0" border="0"/><img src="/assets/fallible.gif" alt="" width="350" height="120" hspace="0" vspace="0" border="0" /></a></td>
+          <td colspan="4"><a href="/" title="Personal blog of christian writer &amp; mom Katy McKenna Raymond in Kansas City, Missouri"><img src="/assets/lady.jpg" width="177" height="120" alt="Personal blog of christian writer Katy McKenna Raymond in Kansas City, Missouri"></a><a href="/" id="fallible" title="I find these truths to be self-evident. But, then again, I could be wrong."><img src="/assets/f.jpg" alt="" width="28" height="120"><img src="/assets/fallible.gif" alt="" width="350" height="120"></a></td>
         </tr>
         <tr>
-          <td valign="top" background="/assets/paper.jpg">
-            <img src="/assets/sidebar_top4.jpg" alt="" width="170" height="100" hspace="0" vspace="0" border="0">
-            <div align="center">
-              <h1 class="tagline">Personal blog of christian<br/>writer & fallible mom<br/>Katy McKenna Raymond<br/>in Kansas City, Missouri</h1>
-              <img src="/assets/katy1.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br/>
-              <p style="text-align: center; margin:8px 0;padding:0;"><a href="/archive">All Posts</a></p>
-              <img src="/assets/katy2.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
-              <img src="/assets/katy3.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
-              <img src="/assets/katy4.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
-              <img src="/assets/katy5.jpg" alt="Katy McKenna Raymond" width="132" height="150" hspace="0" vspace="3" border="0"><br>
+          <td class="td-left-sidebar">
+            <img src="/assets/sidebar_top4.jpg" alt="" width="170" height="100">
+            <div class="sidebar-photos">
+              <h1 class="tagline">Personal blog of christian<br>writer &amp; fallible mom<br>Katy McKenna Raymond<br>in Kansas City, Missouri</h1>
+              <img src="/assets/katy1.jpg" alt="Katy McKenna Raymond" width="132" height="150"><br>
+              <p><a href="/archive">All Posts</a></p>
+              <img src="/assets/katy2.jpg" alt="Katy McKenna Raymond" width="132" height="150"><br>
+              <img src="/assets/katy3.jpg" alt="Katy McKenna Raymond" width="132" height="150"><br>
+              <img src="/assets/katy4.jpg" alt="Katy McKenna Raymond" width="132" height="150"><br>
+              <img src="/assets/katy5.jpg" alt="Katy McKenna Raymond" width="132" height="150"><br>
             </div>
             <div id="sidebar">
               <p><a href="mailto:kckatyrose@gmail.com">kckatyrose@gmail.com</a></p>
             </div>
           </td>
-          <td background="/assets/sidebar_shadow.gif" valign="top"></td>
-          <td bgcolor="#ffffff" valign="top">
+          <td class="td-sidebar-shadow"></td>
+          <td class="td-content">
             <div id="blog">
               {{ content | safe }}
             </div>
           </td>
-          <td background="/assets/paper_shadow.gif"></td>
+          <td class="td-paper-shadow"></td>
         </tr>
         <tr>
-          <td background="/assets/paper.jpg"></td>
-          <td background="/assets/sidebar_shadow.gif"></td>
-          <td bgcolor="#ffffff" colspan="2" align="right" valign="bottom"><img src="/assets/paper_corner.gif" width="42" height="35" hspace="0" vspace="0" border="0"></td>
+          <td class="td-left-sidebar"></td>
+          <td class="td-sidebar-shadow"></td>
+          <td class="td-corner" colspan="2"><img src="/assets/paper_corner.gif" width="42" height="35"></td>
         </tr>
         <tr>
-          <td background="/assets/paper_bottom_shadow.gif" colspan="4" align="right"><img src="/assets/paper_corner_shadow.gif" width="42" height="5" border="0"></td>
+          <td class="td-paper-bottom" colspan="4"><img src="/assets/paper_corner_shadow.gif" width="42" height="5"></td>
         </tr>
         <tr>
-          <td colspan="4" valign="top">
+          <td colspan="4">
             <div id="footer">
-              Copyright Katy McKenna Raymond<br/><br/>
+              Copyright Katy McKenna Raymond<br><br>
             </div>
           </td>
         </tr>
@@ -113,7 +113,7 @@
         <img src="/assets/fallible.gif" alt="Fallible" width="350" height="120">
       </div>
       {{ content | safe }}
-      <div style="margin-top: 2em; padding-top: 0.5em; border-top: 1px solid #ccc; font-size: 10pt; color: #555;">
+      <div class="print-footer">
         Copyright Katy McKenna Raymond
       </div>
     </div>
