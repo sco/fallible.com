@@ -235,6 +235,10 @@ body {
     zoom: 1.2;
 }
 
+.desktop-layout td img {
+    vertical-align: bottom;
+}
+
 h1.tagline {
     font-size: .9em;
     padding: 0;
