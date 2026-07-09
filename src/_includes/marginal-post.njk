@@ -8,8 +8,8 @@ layout: marginal-base.njk
   {{ content | safe }}
 </article>
 
-{% set older = collections.marginalPosts | olderPost(page.url) %}
-{% set newer = collections.marginalPosts | newerPost(page.url) %}
+{% set older = collections.marginalPosts | getNextCollectionItem %}
+{% set newer = collections.marginalPosts | getPreviousCollectionItem %}
 <nav class="mc-nav">
   <span>{% if older %}&larr; <a href="{{ older.url }}">{{ older.data.title | typTitle }}</a>{% endif %}</span>
   <a href="/marginal/">All Posts</a>

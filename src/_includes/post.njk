@@ -20,7 +20,7 @@ layout: base.njk
 </section>
 {% endif %}
 
-{% set older = collections.mainPosts | olderPost(page.url) %}
+{% set older = collections.mainPosts | getNextCollectionItem %}
 <nav class="post-nav">
   <span>{% if older %}Previous: <a href="{{ older.url }}">{{ older.data.title | typTitle }}</a>{% endif %}</span>
   <a href="/archive">All Posts</a>
