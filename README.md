@@ -57,10 +57,24 @@ To run it hourly on **Mac**, create `~/Library/LaunchAgents/com.fallible.sync.pl
 
 Then load it: `launchctl load ~/Library/LaunchAgents/com.fallible.sync.plist`
 
-On **Linux**, add to crontab (`crontab -e`):
+To unload/disable: `launchctl unload ~/Library/LaunchAgents/com.fallible.sync.plist`
+
+On **Linux** (systemd), two unit files are included in `.config/systemd/user/` — `fallible-sync.service` and `fallible-sync.timer`. Enable and start with:
 
 ```
-0 * * * * /path/to/your/clone/sync.sh
+systemctl --user enable --now fallible-sync.timer
+```
+
+Disable with:
+
+```
+systemctl --user disable --now fallible-sync.timer
+```
+
+Run a one-off sync at any time with:
+
+```
+systemctl --user start fallible-sync.service
 ```
 
 
