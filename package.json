@@ -8,6 +8,11 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",
+    "@tinacms/cli": "^2.5.3",
+    "@types/node": "^26.1.1",
     "wrangler": "^4.107.0"
+  },
+  "dependencies": {
+    "tinacms": "^3.10.0"
   }
 }
