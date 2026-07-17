@@ -61,6 +61,4 @@ And yet, he prayed. Until he heard from his servants that his son had finally di
 
 By the time David finished praying, I’m thinking his hands were empty of everything but the one thing God still wanted to give him: A clean heart.  
 
-  
-[![Read His, Read Hers](/assets/hishers.gif)  
-Read the Marginal take on this quote...]([http://marginal.typepad.com/marginal/2005/04/just_say_yes.html](https://fallible.com/marginal/just_say_yes/)](https://fallible.com/marginal/just_say_yes/))
+[Check out the Doug’s “Marginal’ take on this quote.](/marginal/just_say_yes/)
