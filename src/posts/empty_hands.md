@@ -63,4 +63,4 @@ By the time David finished praying, I’m thinking his hands were empty of every
 
   
 [![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/2005/04/just_say_yes.html)
+Read the Marginal take on this quote...]([http://marginal.typepad.com/marginal/2005/04/just_say_yes.html](https://fallible.com/marginal/just_say_yes/)](https://fallible.com/marginal/just_say_yes/))
