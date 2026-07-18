@@ -63,3 +63,5 @@ By the time David finished praying, I’m thinking his hands were empty of every
 
 <img src="/assets/hishers.gif" alt="His/Hers">
 [Check out the Doug’s “Marginal" take on this quote.](/marginal/just_say_yes/)
+![Check out the Doug’s “Marginal’ take on these terms.](/marginal/terms-of-endearment/)
+<a href="/marginal/just_say_yes/">Check out the Doug’s “Marginal" take on these terms.</a>
