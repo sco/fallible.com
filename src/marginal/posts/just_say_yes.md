@@ -33,5 +33,5 @@ date: "2005-04-04"
 
 <p>So if you see me sitting on my hands when the right choice is clearly right in front of me, feel free to kick the chair out from under me. (Just to clarify, I was talking to God in that last sentence.)<br></p><p></p>
 
-<a href="/posts/empty_hands/"><img src="/assets/hishers.gif" alt="His/Hers" align="center"></a></br clear="all">
+<a href="/posts/empty_hands/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
 Check out <a href="/posts/empty_hands/">Katy’s “Fallible" take</a> on this quote.</br>
