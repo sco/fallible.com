@@ -32,3 +32,6 @@ date: "2005-04-04"
 <p>You’d think I would have learned by now, but still the smallest of barriers often keeps me from doing the most important things. How many times have I stubbornly resisted or ignored God’s gifts that were just a decision away?</p>
 
 <p>So if you see me sitting on my hands when the right choice is clearly right in front of me, feel free to kick the chair out from under me. (Just to clarify, I was talking to God in that last sentence.)<br></p><p></p>
+
+Check out <a href="/posts/empty_hands/">Katy’s “Fallible" take</a> on this quote.</br>
+<a href="/posts/empty_hands/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
