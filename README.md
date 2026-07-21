@@ -18,64 +18,11 @@ The content lives in `src/posts/` as Markdown files, with Nunjucks templates (`b
 The simplest way to update the content of the site is to use the Github UI to browse the contents of `src/posts/` and modify the Markdown files. To update the site templates, see `src/_includes/base.njk` and `src/_includes/post.njk`. To change the generated pages, see `src/index.njk` and `src/archive.njk`.
 
 
-## Editing posts with Typora
+## Editing posts with the admin page
 
-[Typora](https://typora.io) is a clean visual Markdown editor that works well for browsing and editing the posts in `src/posts/`.
+`/admin.html` is a minimal browser-based editor for the posts in `src/posts/` and `src/marginal/posts/`. It's a static single-file Preact app that talks directly to the GitHub API — saving a post commits it to `main`, which triggers a rebuild and deploy.
 
-**Install:** Download and install Typora from typora.io, then open the `src/posts/` folder via File → Open Folder.
-
-**Fix the file limit:** Typora's Article view defaults to showing only 500 files. Since this archive has 1200+ posts, increase the limit by editing `~/.config/Typora/conf/conf.user.json` (Linux) or `~/Library/Application Support/abnerworks.Typora/conf/conf.user.json` (Mac) and setting:
-
-```json
-"maxFetchCountOnFileList": 2000
-```
-
-Restart Typora after saving.
-
-**Auto-sync to GitHub:** The script `sync.sh` at the root of this repo commits and pushes any changes automatically. It only runs if there are actual edits — no changes, no commit.
-
-To run it hourly on **Mac**, create `~/Library/LaunchAgents/com.fallible.sync.plist`:
-
-```xml
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-    <key>Label</key>
-    <string>com.fallible.sync</string>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/path/to/your/clone/sync.sh</string>
-    </array>
-    <key>StartInterval</key>
-    <integer>3600</integer>
-    <key>RunAtLoad</key>
-    <true/>
-</dict>
-</plist>
-```
-
-Then load it: `launchctl load ~/Library/LaunchAgents/com.fallible.sync.plist`
-
-To unload/disable: `launchctl unload ~/Library/LaunchAgents/com.fallible.sync.plist`
-
-On **Linux** (systemd), two unit files are included in `.config/systemd/user/` — `fallible-sync.service` and `fallible-sync.timer`. Enable and start with:
-
-```
-systemctl --user enable --now fallible-sync.timer
-```
-
-Disable with:
-
-```
-systemctl --user disable --now fallible-sync.timer
-```
-
-Run a one-off sync at any time with:
-
-```
-systemctl --user start fallible-sync.service
-```
+To use it, create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens) scoped to this repo with **Contents: read/write** permission, then open `/admin.html` and paste it in. The token is stored only in that browser's localStorage.
 
 
 ## Contents
