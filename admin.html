@@ -94,6 +94,33 @@ async function gh(path, opts = {}) {
   return res.json();
 }
 
+async function ghGraphQL(query) {
+  const res = await fetch('https://api.github.com/graphql', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${getToken()}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ query }),
+  });
+  if (!res.ok) throw new Error(`GitHub GraphQL ${res.status}: ${res.statusText}`);
+  const data = await res.json();
+  if (data.errors) throw new Error(`GitHub GraphQL: ${data.errors[0].message}`);
+  return data.data;
+}
+
+// Frontmatter is YAML, but these posts only use simple scalar values,
+// so regex extraction of title/date is sufficient.
+function parsePost(text) {
+  const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  const fm = m ? m[1] : '';
+  const body = m ? text.slice(m[0].length) : text;
+  const title = (fm.match(/^title:\s*(.+)$/m)?.[1] || '')
+    .trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
+  const date = (fm.match(/^date:\s*["']?([^"'\n]+)/m)?.[1] || '').trim();
+  return { title, date, search: `${title}\n${body}`.toLowerCase() };
+}
+
 // UTF-8-safe base64 helpers (atob/btoa alone mangle non-ASCII)
 function b64decode(b64) {
   const bin = atob(b64.replace(/\s/g, ''));
@@ -124,22 +151,28 @@ function TokenForm({ onSave }) {
     </div>`;
 }
 
-function FileList({ files, onOpen, onNew }) {
+function FileList({ files, loaded, onOpen, onNew }) {
   const [filter, setFilter] = useState('');
-  const shown = files.filter(f => f.path.toLowerCase().includes(filter.toLowerCase()));
+  const q = filter.toLowerCase();
+  const shown = files.filter(f =>
+    f.name.toLowerCase().includes(q) || (f.search && f.search.includes(q)));
   return html`
     <div>
       <div class="toolbar">
-        <input type="text" placeholder="Filter posts…" value=${filter}
+        <input type="text" placeholder="Filter posts by title or text…" value=${filter}
           onInput=${e => setFilter(e.target.value)} autofocus />
         <button onClick=${onNew}>New post</button>
       </div>
-      <p class="muted">${shown.length} of ${files.length} posts</p>
+      <p class="muted">${shown.length} of ${files.length} posts${
+        loaded < files.length ? ` · loading contents ${loaded}/${files.length}…` : ''}</p>
       <ul class="files">
         ${shown.map(f => html`
           <li key=${f.path}>
             <a href="#" onClick=${e => { e.preventDefault(); onOpen(f.path); }}>
-              ${f.name} <span class="dir">${f.dir}</span>
+              ${f.title || f.name}
+              <span class="dir">
+                ${f.date ? f.date.slice(0, 10) : ''}${f.dir.includes('marginal') ? ' · marginal' : ''}
+              </span>
             </a>
           </li>`)}
       </ul>
@@ -177,7 +210,7 @@ function Editor({ path, isNew, onBack, onSaved }) {
       });
       setSha(data.content.sha);
       setStatus(`Saved ${new Date().toLocaleTimeString()}`);
-      onSaved(target);
+      onSaved(target, text);
     } catch (err) {
       setStatus(''); setError(err.message);
     }
@@ -206,8 +239,11 @@ function Editor({ path, isNew, onBack, onSaved }) {
 function App() {
   const [token, setToken] = useState(getToken());
   const [files, setFiles] = useState(null);
+  const [loaded, setLoaded] = useState(0);
   const [view, setView] = useState({ name: 'list' });
   const [error, setError] = useState('');
+
+  const byDateDesc = (a, b) => (b.date || '').localeCompare(a.date || '');
 
   async function loadFiles() {
     setError('');
@@ -224,9 +260,32 @@ function App() {
         }))
         .sort((a, b) => a.name.localeCompare(b.name));
       setFiles(posts);
+      setLoaded(0);
+      await loadContents(posts);
     } catch (err) {
       if (String(err).includes('401')) { localStorage.removeItem('gh_token'); setToken(''); }
       setError(err.message);
+    }
+  }
+
+  // Bulk-fetch post contents in chunks of aliased GraphQL blob queries,
+  // enriching the list with title/date/search text as each chunk arrives.
+  async function loadContents(posts) {
+    const CHUNK = 100;
+    for (let i = 0; i < posts.length; i += CHUNK) {
+      const chunk = posts.slice(i, i + CHUNK);
+      const fields = chunk.map((f, j) =>
+        `f${j}: object(expression: "${BRANCH}:${f.path}") { ... on Blob { text } }`);
+      const data = await ghGraphQL(
+        `query { repository(owner: "${OWNER}", name: "${REPO}") { ${fields.join(' ')} } }`);
+      const parsed = new Map(chunk.map((f, j) => {
+        const text = data.repository[`f${j}`]?.text;
+        return [f.path, text != null ? parsePost(text) : {}];
+      }));
+      setLoaded(n => n + chunk.length);
+      setFiles(prev => prev
+        .map(f => parsed.has(f.path) ? { ...f, ...parsed.get(f.path) } : f)
+        .sort(byDateDesc));
     }
   }
 
@@ -246,12 +305,21 @@ function App() {
         : view.name === 'list'
           ? files === null
             ? html`<p>Loading posts…</p>`
-            : html`<${FileList} files=${files}
+            : html`<${FileList} files=${files} loaded=${loaded}
                 onOpen=${path => setView({ name: 'edit', path })}
                 onNew=${() => setView({ name: 'new' })} />`
           : html`<${Editor} path=${view.path} isNew=${view.name === 'new'}
               onBack=${() => setView({ name: 'list' })}
-              onSaved=${() => loadFiles()} />`}
+              onSaved=${(path, text) => {
+                const entry = {
+                  path,
+                  name: path.split('/').pop(),
+                  dir: path.split('/').slice(0, -1).join('/'),
+                  ...parsePost(text),
+                };
+                setFiles(prev => [...prev.filter(f => f.path !== path), entry].sort(byDateDesc));
+                setLoaded(n => n + (files.some(f => f.path === path) ? 0 : 1));
+              }} />`}
     </div>`;
 }
 
