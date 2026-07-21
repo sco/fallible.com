@@ -3,7 +3,7 @@ layout: base.njk
 ---
 
 <article>
-  <h2 class="title">{{ title }}</h2>
+  <h2 class="title" data-pagefind-meta="title">{{ title }}</h2>
   <p class="post-date"><em>{{date | postDate}}</em></p>
   {{ content | safe }}
 </article>

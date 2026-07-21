@@ -5,11 +5,89 @@ title: Fallible Archive
 
 <h2>All Fallible Posts</h2>
 
-<form class="search-form" action="https://www.google.com/search" method="get"
-      onsubmit="this.q.value = 'site:fallible.com ' + this.q.value">
-  <input type="search" name="q" placeholder="Search posts…">
-  <button type="submit">Search</button>
-</form>
+<div class="post-search">
+  <input type="search" placeholder="Search posts…" aria-label="Search posts">
+  <div class="ps-status" hidden></div>
+  <div class="ps-results"></div>
+  <button class="ps-more" hidden>Load more results</button>
+</div>
+<script type="module">
+  // The base layout renders page content once per layout variant (desktop/
+  // mobile/print), so this inline module runs multiple times and
+  // .post-search exists in each variant. Guard, then init each visible one.
+  if (!window.__searchInit) {
+    window.__searchInit = true;
+    const pagefind = await import('/pagefind/pagefind.js');
+    for (const root of document.querySelectorAll('.post-search')) {
+      if (!root.closest('.print-layout')) initSearch(root);
+    }
+
+    function initSearch(root) {
+      const input = root.querySelector('input');
+      const status = root.querySelector('.ps-status');
+      const results = root.querySelector('.ps-results');
+      const more = root.querySelector('.ps-more');
+      const PAGE = 10;
+      let queue = [];
+      let terms = [];
+
+      // Pagefind trims characters off an unmatched term until anything
+      // matches ("xcvxcv" matches pages containing an "x…" word), with no
+      // option to disable. Reject results whose highlighted words don't
+      // share a real prefix with any query term.
+      async function relevant(data) {
+        const marks = [...data.excerpt.matchAll(/<mark>([^<]*)<\/mark>/g)]
+          .map(m => m[1].toLowerCase());
+        if (!marks.length) return true;
+        return terms.some(t => {
+          const prefix = t.length <= 2 ? t : t.slice(0, 3);
+          return marks.some(w => w.startsWith(prefix));
+        });
+      }
+
+      async function renderMore() {
+        let added = 0;
+        while (queue.length && added < PAGE) {
+          const data = await queue.shift().data();
+          if (!await relevant(data)) continue;
+          const item = document.createElement('div');
+          item.className = 'ps-result';
+          const heading = document.createElement('h3');
+          heading.className = 'title';
+          const link = document.createElement('a');
+          link.href = data.url;
+          link.textContent = data.meta.title || data.url;
+          heading.append(link);
+          const excerpt = document.createElement('p');
+          excerpt.innerHTML = data.excerpt;
+          item.append(heading, excerpt);
+          results.append(item);
+          added++;
+        }
+        more.hidden = queue.length === 0;
+        status.hidden = results.children.length > 0;
+        status.textContent = 'No matching posts.';
+      }
+
+      input.addEventListener('input', async () => {
+        const q = input.value.trim();
+        if (!q) {
+          queue = []; results.innerHTML = '';
+          status.hidden = true; more.hidden = true;
+          return;
+        }
+        const res = await pagefind.debouncedSearch(q);
+        if (res === null) return; // superseded by newer keystroke
+        terms = q.toLowerCase().split(/\s+/);
+        queue = res.results.slice();
+        results.innerHTML = '';
+        await renderMore();
+      });
+
+      more.addEventListener('click', renderMore);
+    }
+  }
+</script>
 
 {% set currentYear = "" %}
 {% for post in collections.posts %}

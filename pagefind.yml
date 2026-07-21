@@ -1,0 +1,4 @@
+# Only index post pages; listing pages (home, archive, marginal index)
+# would otherwise duplicate every post in the results.
+site: _site
+glob: "{posts,marginal}/*/index.html"

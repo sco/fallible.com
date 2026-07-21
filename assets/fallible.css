@@ -481,3 +481,19 @@ h1.tagline {
         display: none;
     }
 }
+
+/* Post search (archive page) */
+.post-search input[type=search] {
+    width: 100%;
+    max-width: 320px;
+    padding: 4px 6px;
+    border: 1px solid #999;
+    font: inherit;
+    margin-bottom: 10px;
+}
+.ps-result { margin: 0 0 14px; }
+.ps-result h3 { margin: 0; }
+.ps-result p { margin: 2px 0 0; }
+.ps-result mark { background: #dedde9; }
+.ps-status { margin: 6px 0 14px; font-style: italic; }
+.ps-more { margin: 6px 0 16px; font: inherit; }
