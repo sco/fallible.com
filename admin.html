@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fallible Admin</title>
+<meta name="robots" content="noindex">
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    background: #a2a0ba;
+    color: #000;
+  }
+  .app { max-width: 900px; margin: 0 auto; padding: 1rem; }
+  h1 { font-size: 1.3rem; }
+  h1 a { color: inherit; text-decoration: none; }
+  input, textarea, button, select {
+    font-family: inherit;
+    font-size: 14px;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #666;
+  }
+  button {
+    padding: 6px 14px;
+    cursor: pointer;
+  }
+  .toolbar { display: flex; gap: 8px; margin-bottom: 8px; align-items: center; }
+  .toolbar input { flex: 1; }
+  ul.files {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+    border: 1px solid #666;
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+  ul.files li a {
+    display: block;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: #223;
+    border-bottom: 1px solid #eee;
+  }
+  ul.files li a:hover { background: #eef; }
+  .dir { color: #888; font-size: 0.85em; }
+  textarea.editor {
+    width: 100%;
+    height: 65vh;
+    padding: 10px;
+    border: 1px solid #666;
+    font-family: ui-monospace, Menlo, Consolas, monospace;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .status { margin-left: auto; font-size: 0.9em; }
+  .status.error { color: #a00; font-weight: bold; }
+  .muted { color: #555; font-size: 0.9em; }
+  .token-form { background: #fff; border: 1px solid #666; padding: 1rem; max-width: 500px; }
+  .token-form p { margin-top: 0; }
+</style>
+</head>
+<body>
+<div class="app" id="app"></div>
+<script type="module">
+import { html, render, useState, useEffect } from 'https://esm.sh/htm/preact/standalone';
+
+const OWNER = 'sco';
+const REPO = 'fallible.com';
+const BRANCH = 'main';
+const POST_DIRS = ['src/posts', 'src/marginal/posts'];
+
+const getToken = () => localStorage.getItem('gh_token') || '';
+
+async function gh(path, opts = {}) {
+  const res = await fetch(`https://api.github.com${path}`, {
+    ...opts,
+    headers: {
+      'Authorization': `Bearer ${getToken()}`,
+      'Accept': 'application/vnd.github+json',
+      ...(opts.body ? { 'Content-Type': 'application/json' } : {}),
+      ...opts.headers,
+    },
+  });
+  if (!res.ok) {
+    const body = await res.json().catch(() => ({}));
+    throw new Error(`GitHub ${res.status}: ${body.message || res.statusText}`);
+  }
+  return res.json();
+}
+
+// UTF-8-safe base64 helpers (atob/btoa alone mangle non-ASCII)
+function b64decode(b64) {
+  const bin = atob(b64.replace(/\s/g, ''));
+  return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0)));
+}
+function b64encode(str) {
+  const bytes = new TextEncoder().encode(str);
+  let bin = '';
+  for (const b of bytes) bin += String.fromCharCode(b);
+  return btoa(bin);
+}
+
+function newPostTemplate() {
+  const now = new Date().toISOString().slice(0, 19);
+  return `---\ntitle: ""\ndate: "${now}"\n---\n\n`;
+}
+
+function TokenForm({ onSave }) {
+  const [value, setValue] = useState('');
+  return html`
+    <div class="token-form">
+      <p>Paste a GitHub personal access token with <b>contents: read/write</b>
+      permission on <b>${OWNER}/${REPO}</b>. It is stored only in this
+      browser's localStorage.</p>
+      <p><input type="password" placeholder="github_pat_…" value=${value}
+        onInput=${e => setValue(e.target.value)} /></p>
+      <button onClick=${() => value.trim() && onSave(value.trim())}>Save token</button>
+    </div>`;
+}
+
+function FileList({ files, onOpen, onNew }) {
+  const [filter, setFilter] = useState('');
+  const shown = files.filter(f => f.path.toLowerCase().includes(filter.toLowerCase()));
+  return html`
+    <div>
+      <div class="toolbar">
+        <input type="text" placeholder="Filter posts…" value=${filter}
+          onInput=${e => setFilter(e.target.value)} autofocus />
+        <button onClick=${onNew}>New post</button>
+      </div>
+      <p class="muted">${shown.length} of ${files.length} posts</p>
+      <ul class="files">
+        ${shown.map(f => html`
+          <li key=${f.path}>
+            <a href="#" onClick=${e => { e.preventDefault(); onOpen(f.path); }}>
+              ${f.name} <span class="dir">${f.dir}</span>
+            </a>
+          </li>`)}
+      </ul>
+    </div>`;
+}
+
+function Editor({ path, isNew, onBack, onSaved }) {
+  const [text, setText] = useState(isNew ? newPostTemplate() : null);
+  const [sha, setSha] = useState(null);
+  const [filename, setFilename] = useState(isNew ? '' : path);
+  const [status, setStatus] = useState('');
+  const [error, setError] = useState('');
+  const dirty = text !== null;
+
+  useEffect(() => {
+    if (isNew) return;
+    gh(`/repos/${OWNER}/${REPO}/contents/${encodeURIComponent(path).replace(/%2F/g, '/')}?ref=${BRANCH}`)
+      .then(data => { setText(b64decode(data.content)); setSha(data.sha); })
+      .catch(err => setError(err.message));
+  }, [path]);
+
+  async function save() {
+    const target = isNew ? `src/posts/${filename.replace(/\.md$/, '')}.md` : path;
+    if (isNew && !filename.trim()) { setError('Filename required'); return; }
+    setStatus('Saving…'); setError('');
+    try {
+      const data = await gh(`/repos/${OWNER}/${REPO}/contents/${target}`, {
+        method: 'PUT',
+        body: JSON.stringify({
+          message: `${isNew ? 'Add' : 'Update'} ${target} via admin`,
+          content: b64encode(text),
+          branch: BRANCH,
+          ...(sha ? { sha } : {}),
+        }),
+      });
+      setSha(data.content.sha);
+      setStatus(`Saved ${new Date().toLocaleTimeString()}`);
+      onSaved(target);
+    } catch (err) {
+      setStatus(''); setError(err.message);
+    }
+  }
+
+  return html`
+    <div>
+      <div class="toolbar">
+        <button onClick=${onBack}>← Back</button>
+        ${isNew
+          ? html`<input type="text" placeholder="post-slug" value=${filename}
+              onInput=${e => setFilename(e.target.value)} />`
+          : html`<span>${path}</span>`}
+        <button onClick=${save} disabled=${!dirty}>Save</button>
+        ${error
+          ? html`<span class="status error">${error}</span>`
+          : html`<span class="status">${status}</span>`}
+      </div>
+      ${text === null
+        ? html`<p>Loading…</p>`
+        : html`<textarea class="editor" value=${text}
+            onInput=${e => setText(e.target.value)}></textarea>`}
+    </div>`;
+}
+
+function App() {
+  const [token, setToken] = useState(getToken());
+  const [files, setFiles] = useState(null);
+  const [view, setView] = useState({ name: 'list' });
+  const [error, setError] = useState('');
+
+  async function loadFiles() {
+    setError('');
+    try {
+      const tree = await gh(`/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`);
+      const posts = tree.tree
+        .filter(item => item.type === 'blob'
+          && POST_DIRS.some(d => item.path.startsWith(d + '/'))
+          && item.path.endsWith('.md'))
+        .map(item => ({
+          path: item.path,
+          name: item.path.split('/').pop(),
+          dir: item.path.split('/').slice(0, -1).join('/'),
+        }))
+        .sort((a, b) => a.name.localeCompare(b.name));
+      setFiles(posts);
+    } catch (err) {
+      if (String(err).includes('401')) { localStorage.removeItem('gh_token'); setToken(''); }
+      setError(err.message);
+    }
+  }
+
+  useEffect(() => { if (token) loadFiles(); }, [token]);
+
+  function saveToken(t) { localStorage.setItem('gh_token', t); setToken(t); }
+  function logout() { localStorage.removeItem('gh_token'); setToken(''); setFiles(null); }
+
+  return html`
+    <div>
+      <h1><a href="/">Fallible</a> Admin
+        ${token && html` <button style="float:right" onClick=${logout}>Forget token</button>`}
+      </h1>
+      ${error && html`<p class="status error">${error}</p>`}
+      ${!token
+        ? html`<${TokenForm} onSave=${saveToken} />`
+        : view.name === 'list'
+          ? files === null
+            ? html`<p>Loading posts…</p>`
+            : html`<${FileList} files=${files}
+                onOpen=${path => setView({ name: 'edit', path })}
+                onNew=${() => setView({ name: 'new' })} />`
+          : html`<${Editor} path=${view.path} isNew=${view.name === 'new'}
+              onBack=${() => setView({ name: 'list' })}
+              onSaved=${() => loadFiles()} />`}
+    </div>`;
+}
+
+render(html`<${App} />`, document.getElementById('app'));
+</script>
+</body>
+</html>

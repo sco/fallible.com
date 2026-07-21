@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.amendLibrary("md", mdLib => mdLib.set({ typographer: true, html: true }));
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("admin.html");
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi
       .getFilteredByGlob("src/posts/*.md")
