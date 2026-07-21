@@ -59,6 +59,17 @@
     line-height: 1.5;
   }
   .status { margin-left: auto; font-size: 0.9em; }
+  .status + .status { margin-left: 0; }
+  .preview {
+    background: #fff;
+    border: 1px solid #666;
+    padding: 10px 16px;
+    height: 65vh;
+    overflow-y: auto;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .preview img { max-width: 100%; }
   .status.error { color: #a00; font-weight: bold; }
   .muted { color: #555; font-size: 0.9em; }
   .token-form { background: #fff; border: 1px solid #666; padding: 1rem; max-width: 500px; }
@@ -68,7 +79,8 @@
 <body>
 <div class="app" id="app"></div>
 <script type="module">
-import { html, render, useState, useEffect } from 'https://esm.sh/htm/preact/standalone';
+import { html, render, useState, useEffect } from 'https://esm.sh/htm@3.1.1/preact/standalone?deps=preact@10.25.4';
+import { marked } from 'https://esm.sh/marked@15.0.6';
 
 const OWNER = 'sco';
 const REPO = 'fallible.com';
@@ -118,7 +130,7 @@ function parsePost(text) {
   const title = (fm.match(/^title:\s*(.+)$/m)?.[1] || '')
     .trim().replace(/^["']|["']$/g, '').replace(/\\"/g, '"');
   const date = (fm.match(/^date:\s*["']?([^"'\n]+)/m)?.[1] || '').trim();
-  return { title, date, search: `${title}\n${body}`.toLowerCase() };
+  return { title, date, body, search: `${title}\n${body}`.toLowerCase() };
 }
 
 // UTF-8-safe base64 helpers (atob/btoa alone mangle non-ASCII)
@@ -179,12 +191,49 @@ function FileList({ files, loaded, onOpen, onNew }) {
     </div>`;
 }
 
+// Polls the Actions API for the workflow run triggered by a saved commit,
+// so the UI shows when the live site has actually updated.
+function DeployStatus({ sha }) {
+  const [state, setState] = useState('waiting for deploy…');
+  const [failed, setFailed] = useState(false);
+  useEffect(() => {
+    if (!sha) return;
+    setState('waiting for deploy…'); setFailed(false);
+    let stop = false;
+    const started = Date.now();
+    async function poll() {
+      if (stop) return;
+      try {
+        const data = await gh(`/repos/${OWNER}/${REPO}/actions/runs?head_sha=${sha}`);
+        const run = data.workflow_runs?.[0];
+        if (run?.status === 'completed') {
+          if (run.conclusion === 'success') {
+            setState(`live ${new Date(run.updated_at).toLocaleTimeString()} ✓`);
+          } else {
+            setState(`deploy ${run.conclusion}`); setFailed(true);
+          }
+          return;
+        }
+        if (run) setState(`deploy ${run.status.replace('_', ' ')}…`);
+      } catch { /* transient poll errors: keep trying */ }
+      if (Date.now() - started < 3 * 60 * 1000) setTimeout(poll, 4000);
+      else { setState('deploy status timed out'); setFailed(true); }
+    }
+    poll();
+    return () => { stop = true; };
+  }, [sha]);
+  if (!sha) return null;
+  return html`<span class=${failed ? 'status error' : 'status'}>${state}</span>`;
+}
+
 function Editor({ path, isNew, onBack, onSaved }) {
   const [text, setText] = useState(isNew ? newPostTemplate() : null);
   const [sha, setSha] = useState(null);
   const [filename, setFilename] = useState(isNew ? '' : path);
   const [status, setStatus] = useState('');
   const [error, setError] = useState('');
+  const [preview, setPreview] = useState(false);
+  const [deploySha, setDeploySha] = useState(null);
   const dirty = text !== null;
 
   useEffect(() => {
@@ -210,6 +259,7 @@ function Editor({ path, isNew, onBack, onSaved }) {
       });
       setSha(data.content.sha);
       setStatus(`Saved ${new Date().toLocaleTimeString()}`);
+      setDeploySha(data.commit.sha);
       onSaved(target, text);
     } catch (err) {
       setStatus(''); setError(err.message);
@@ -224,15 +274,21 @@ function Editor({ path, isNew, onBack, onSaved }) {
           ? html`<input type="text" placeholder="post-slug" value=${filename}
               onInput=${e => setFilename(e.target.value)} />`
           : html`<span>${path}</span>`}
+        <button onClick=${() => setPreview(p => !p)} disabled=${!dirty}>
+          ${preview ? 'Edit' : 'Preview'}</button>
         <button onClick=${save} disabled=${!dirty}>Save</button>
         ${error
           ? html`<span class="status error">${error}</span>`
           : html`<span class="status">${status}</span>`}
+        <${DeployStatus} sha=${deploySha} />
       </div>
       ${text === null
         ? html`<p>Loading…</p>`
-        : html`<textarea class="editor" value=${text}
-            onInput=${e => setText(e.target.value)}></textarea>`}
+        : preview
+          ? html`<div class="preview"
+              dangerouslySetInnerHTML=${{ __html: marked.parse(parsePost(text).body) }}></div>`
+          : html`<textarea class="editor" value=${text}
+              onInput=${e => setText(e.target.value)}></textarea>`}
     </div>`;
 }
 
