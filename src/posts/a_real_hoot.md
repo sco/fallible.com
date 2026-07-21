@@ -24,4 +24,4 @@ They voted on whether or not Hooter's Restaurant could occupy a space in their f
   
 Hooter's won out. In the words of a representative of the City Council, "Morality is not a good enough reason to stop progress."  
   
-Who comes up with this stuff?
+Who comes up with this stuff??
