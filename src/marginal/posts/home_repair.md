@@ -27,3 +27,6 @@ date: "2005-03-27"
 
 <p>"If anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new."<br>
 <i>2 Corinthians 5:17</i><br></p><p></p>
+
+<p><a href="/posts/planes_trains_and_automobiles/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/posts/planes_trains_and_automobiles/">Katy’s &quot;Fallible&quot; take</a> on this quote.</br></p>
