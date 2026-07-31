@@ -64,6 +64,5 @@ I spent an entire Easter service wondering if I was just another John Candy, jus
   
 Or if somehow I'd find the grace to see past his movie-star looks and welcome him--whoever he was--to his Father's house.  
 
-  
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/2005/03/home_repair.html)
+<p><a href="/marginal/home_repair/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/home_repair/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
