@@ -71,10 +71,7 @@ Like everyone else, I know I can only count on this moment. It's all we've got, 
   
 But unlike Woody Allen, I definitely want to be there when it happens.  
 
-  
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/2005/01/feel_free.html)
-
-  
+<p><a href="/marginal/feel_free/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/feel_free/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
   
 (Thanks to [Michael O'Connnor](http://gpblogs.typepad.com) for suggesting this quote. Feel free to send your favorites our way.)
