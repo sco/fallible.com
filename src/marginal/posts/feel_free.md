@@ -16,3 +16,6 @@ date: "2005-01-22"
 <p>So you see, I don't mind being there when death happens. But when it does, I sure don't want to feel it.<br></p><p></p>
 
 <p>(Thanks to <a href="http://gpblogs.typepad.com/">Michael O'Connnor</a> for suggesting this quote. Feel free to send your favorites our way.)</p>
+
+<p><a href="/posts/croak_city/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/posts/croak_city/">Katy’s &quot;Fallible&quot; take</a> on this quote.</br></p>
