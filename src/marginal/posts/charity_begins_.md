@@ -20,3 +20,6 @@ date: "2004-12-31"
 <p>It's the picture of their later years that has given me the best glimpse into what Mathew 8:10 should look like in the church. "Freely you have received, freely give."</p>
 
 <p>I know the American church has seriously dropped the ball in this area in recent years. But I find it difficult to point my finger or complain. I have received too freely from God to accuse or to accumulate. Now is the time to <a href="http://www.crosswalk.com/faith/1304423.html">give</a>.<br></p><p></p>
+
+<p><a href="/posts/dirty_word/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/posts/dirty_word/">Katy’s &quot;Fallible&quot; take</a> on this quote.</br></p>
