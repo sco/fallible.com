@@ -67,5 +67,8 @@ So I did, but by then I didn’t need to, really. The little paper girls were al
 
 So different, in fact, that they looked just like me.
 
+<p><a href="/marginal/the_art_of_crea/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/the_art_of_crea/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
+
 [![Read His, Read Hers](http:///www.ngenius.com/marginal/hishers.gif)  
 Read the Marginal take on this quote...](https://marginal.typepad.com/marginal/2004/12/the_art_of_crea.html)
