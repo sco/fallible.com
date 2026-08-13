@@ -57,5 +57,5 @@ And once upon a time--so familiar in the seconds before sleep--is a scary way to
 
 So I sigh and stretch, pour a cup of coffee, and begin again, once upon a time, to go write the rest of my story.
 
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](https://marginal.typepad.com/marginal/2004/12/story_time.html)
+<p><a href="/marginal/story_time/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/story_time/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
