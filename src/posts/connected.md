@@ -102,6 +102,5 @@ I’ll bet you that if we replace the heating/cooling system, and then throw a f
 
 Yeah. That’s what I’ll bet.
 
-  
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](https://marginal.typepad.com/marginal/2004/12/connected.html)
+<p><a href="/marginal/connected/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/connected/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
