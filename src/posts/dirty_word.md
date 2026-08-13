@@ -92,6 +92,5 @@ But that single question, put to me in good faith by a teen-aged tither, changed
   
 And to think I thought it was an act of charity to date a Baptist.  
 
-  
-[![Read His, Read Hers](http://www.ngenius.com/marginal/hishers.gif)  
-Read the Marginal take on this quote...](http://marginal.typepad.com/marginal/2004/12/charity_begins_.html)
+<p><a href="/marginal/charity_begins_/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/marginal/charity_begins_/">Doug’s &quot;Marginal&quot; take</a> on this quote.</br></p>
