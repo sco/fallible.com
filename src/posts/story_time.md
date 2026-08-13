@@ -2,11 +2,7 @@
 title: "Story Time"
 date: "2004-12-05T20:04:00"
 comments:
-  - author: "candoor"
-    date: "2004-12-09T07:03:00"
-    text: |
-      and a random reaching out inspired by your mention of Peter Falk's reading of the Princess Bride and the creative process, lead here by a Diaryland banner that lead to a place where you left a comment about Alphasmart (as those around me seek my attention, no less, and I squeeze through the distractions to divide my attention to continue reaching out when inspired to, even still, but that's besides the point)... if only to say thank you for the Alphasmart idea, whatever it is (I'll go there next to find out, I think), and perhaps more, and to send you hope for more smiles than frowns along your way :)  
-      \-----
+
   - author: "lisa"
     date: "2004-12-09T07:45:00"
     text: |
