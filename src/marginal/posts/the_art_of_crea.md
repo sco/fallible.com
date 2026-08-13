@@ -20,3 +20,7 @@ date: "2004-12-01"
 <p>Don't forget to stop and smell the daisies.</p>
 
 <div></div>
+<p><a href="/posts/the_art_of_creation/"><img src="/assets/hishers.gif" alt="His/Hers"></a></br>
+Check out <a href="/posts/the_art_of_creation/">Katy’s &quot;Fallible&quot; take</a> on this quote.</br></p>
+
+
